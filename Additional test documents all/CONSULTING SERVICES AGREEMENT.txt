@@ -1,0 +1,173 @@
+﻿CONSULTING SERVICES AGREEMENT
+
+ 
+This Consulting Services Agreement ("Agreement") is made and entered into as of August 30, 2010 by and between CMF Associates, LLC (“CMF"), a Delaware corporation, having offices at 325 Chestnut Street, Suite 410, Philadelphia, PA 19106 and AuthenTec, Inc. ("Client") having offices at 100 Rialto Place, Suite 100, Melbourne, Florida 32901.
+ 
+Background
+
+CMF is in the business of, among other things, managing financial, operational, recruiting and information technology projects and providing various financial, operational, recruiting, and information technology services and enterprise wide solutions. Client is interested in having CMF provide Client with such services, and CMF desires to provide such services to Client, all pursuant to the terms and conditions of this Agreement.
+
+NOW, THEREFORE, in consideration of the mutual promises and covenants contained herein, the parties hereto, intending to be legally bound hereby, agree as follows:
+
+1.            Performance of Services.
+ 
+1.1         CMF shall provide Client with financial, operational, recruiting consulting and/or information technology services (collectively, the "Services") and written documentation and other work product ("Work Product") during the Term of its engagement  as further  described in Engagement Letters and Exhibit A attached hereto  (which Exhibit A may be amended from time to time) and which shall set forth a description of the Services and Work Product to be provided, including the provision of service objective, deliverable(s), time for the project commencement, project management activities, status communication and completion (the Services and Work Product to be provided under each project, a "Project").  In the event of a specific conflict between Exhibit A and a provision of this Agreement, Exhibit A shall control.
+ 
+1.2         CMF shall provide employees, contractors and approved subcontractors (collectively, "CMF Personnel") who shall be qualified to perform the Services and deliver Work Product pursuant to the standards set forth in this Agreement. Should the performance of any CMF Personnel assigned to any Project not meet the standards of performance in this Agreement, upon the mutual agreement of Client and CMF, CMF shall replace that person as soon as reasonably practical. All work performed by CMF's Personnel shall be in accordance with applicable industry standards and any specifications pertinent to the Services and this Agreement.
+ 
+1.3         CMF may utilize contractors or subcontractors to perform any part of its obligations under this Agreement.
+ 
+1.4         CMF will appoint a Director, Managing Director or other responsible party for each Project whose duties shall include, without limitation (i) management of all Services and Work Product to be delivered under the this Agreement and (ii) acting as a liaison between Client and CMF. While performing Services at the Client's facilities, CMF’s Personnel shall abide by all of Client's written safety, security and office rules and procedures which have been delivered to CMF.  For Services being performed at the Client's facilities, the Client shall provide CMF’s Personnel with necessary access during normal business hours to its facilities and appropriate office space, computers, phones, printing, faxing, copying and similar office services. If required by the Project, Client shall be responsible for providing, at its cost, a satisfactory communications link between its facilities and the applicable CMF facility. Client shall provide CMF’s Personnel with access and necessary login identifications for its mainframe environment and local area network, as applicable.
+ 
+ 
+www.cmfassociates.com
+ 
+ 
+
+ 
+ 
+1.5         Client shall provide its own personnel and third party contractors to work with CMF’s Personnel, as required, and otherwise shall provide necessary information, management, and cooperation so that the Client's goals and requirements can be achieved and the Project can otherwise be completed successfully and in accordance with this Agreement.  Client acknowledges that insufficiency on its part with respect to the provision of adequate personnel, third party contractors, information, management, cooperation or other reasonable requests may impact the timing and fees contained in this Agreement.
+ 
+2.           Term/Termination.
+ 
+2.1         Either party may terminate this Agreement for any reason whatsoever, with or without cause, upon fifteen (15) days' prior written notice to the other party.
+ 
+2.2         Either party shall have the right to terminate any particular Project or this Agreement in its entirety in the event of a material breach by the other party of such party’s obligations in this Agreement upon ten (10) days' prior written notice thereof, unless, during such ten (10) day period, any such breach is cured or remedied by the breaching party. The Client shall remain responsible for the compensation due for all Services performed and Work Product(s) prepared and/or provided hereunder prior to the effective date of termination.
+ 
+2.3         At such time as there are no Projects outstanding, this Agreement may be terminated by either party by providing the other party with written notice thereof.
+ 
+2.4         Notwithstanding the termination of this Agreement, those obligations intended to survive termination of this Agreement shall remain in full force and effect and all rights as pertain thereto, shall remain in force until their expiration, if any, including but not limited to obligations concerning payment, ownership of services, confidentiality and non-solicitation of personnel. Further, all representations, warranties and indemnification obligations in this Agreement and the provisions concerning intellectual property, limitations of liability, choice of law and arbitration shall also survive the termination of this Agreement until their expiration, if any.
+ 
+3.           Payment Terms.  With respect to each Project, CMF shall be paid on a fixed price or time and materials basis as set forth on Exhibit A.  CMF will invoice Client for Services performed, deliverables or materials provided and expenses incurred on a weekly basis or in such time intervals as are set forth on Exhibit A. Client shall pay each invoice upon receipt. Client shall be responsible for the payment of any sales or use taxes applicable as a result of the Services and Work Product provided hereunder. In the event invoices are not paid within thirty (30) days after the invoice date, Client shall pay to CMF interest on the outstanding amounts at the rate equal to one and one-half percent (1.5%) per month and Client shall be liable for all of CMF’s costs, fees and expenses (including reasonable attorneys' fees and expert fees and expenses), incurred in connection with CMF’s efforts to collect any amounts due.
+ 
+ 
+ CMF Associates • Answers with Impact 2 
+ 
+
+ 
+ 
+In addition to the amounts set forth above, Client shall reimburse CMF  for its necessary expenses (including travel, accommodation, subsistence, telecommunications and other typical expenses) incurred in the performance of the Services and the creation of the Work Product. Travel and business expenses shall be in accordance with policies and procedures applicable to Client employees. In no event shall CMF incur, or be reimbursed for, charges under this Agreement in excess of five thousand United States Dollars ($5,000) unless this amount has been expressly approved in writing in a document signed by Client.
+
+CMF shall, during the Term of this Agreement, and for a period of one (1) year thereafter, maintain adequate records indicating in sufficient detail, the work performed by CMF’s Personnel under this Agreement. Client shall have the right upon reasonable notice, to be exercised not more than two (2) times per year, to review and inspect such records during normal business hours.
+
+4.           Change Requests.  Change requests with respect to any given Project may be initiated by the Client or CMF.  Change requests shall be documented in a clear and concise manner on a form to be agreed upon between the parties. No work will be performed pursuant to a change request until it has been approved in writing by both parties.   Should there be a conflict between this Agreement and Exhibit A, or any agreed upon change requests, the change request shall govern.
+ 
+5.           Standards of Performance/Warranties.   CMF hereby represents and warrants to Client as follows:
+ 
+5.1         The Services and Work Product shall be of professional quality and conform to generally accepted industry practices.
+ 
+5.2         All CMF work shall be subject to acceptance by Client. For purposes of this Agreement, CMF’s Services and Work Product shall be "Accepted" if such Services have been performed substantially in accordance with the standards set forth in Section 5.1 above and are consistent with any specifications set forth in this Agreement and Exhibit A. After completion of the Services or any portion of such Services or any Work Product, Client shall have a period of thirty (30) days to review and test such Services or Work Product and unless such Services or Work Product are rejected within such thirty (30) day period, such Services shall be deemed Accepted.
+ 
+5.3         CMF shall not be responsible for claims arising from: (i) Client's accident, misuse, neglect or alteration of any Services or any Work Product, (ii) adjustment, support or other impact on Services or any Work Product made by third parties, unauthorized testing, use not within specifications or any other cause not arising out of defects in material or workmanship, (iii) inadequate supervision, review or input required from Client in performance of Services or development of Work Product or (iv) the failure of Client to perform its obligations as set forth hereunder.
+ 
+ 
+ CMF Associates • Answers with Impact3 
+ 
+
+ 
+ 
+6.           WARRANTY LIMITATIONS.  THE REPRESENTATIONS AND WARRANTIES SET FORTH IN SECTION 5  ABOVE ARE IN LIEU OF ALL OTHER WARRANTIES EXPRESSED, IMPLIED OR STATUTORY, INCLUDING WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, ALL OF WHICH ARE EXPRESSLY DISCLAIMED.
+ 
+7.           LIMITATIONS ON LIABILITY.  CMF’S LIABILITY UNDER THIS AGREEMENT WITH REPSECT TO A GIVEN PROJECT SHALL BE LIMITED TO THE AMOUNT OF FEES RECEIVED BY CMF UNDER THIS AGREEMENT WITH RESPECT TO SUCH PROJECT.  IN NO EVENT SHALL CMF BE LIABLE FOR ANY SPECIAL, CONSEQUENTIAL OR INCIDENTAL DAMAGES, INCLUDING WITHOUT LIMITATION, LOSS OF PROFITS, REVENUE OR DATA, EVEN IF APPRISED OF THE LIKELIHOOD OF SUCH DAMAGES OCCURRING.
+ 
+8.           Relationship of the Parties.  It is understood and agreed that CMF will provide the Services and Work Product to Client as an independent contractor and neither CMF nor any of CMF’s Personnel shall be considered an agent or employee of Client. No relationship of employer/employee shall result from the execution of this Agreement or from the performance of any Services hereunder. CMF acknowledges and agrees that nothing herein shall entitle or render CMF or CMF’s Personnel, eligible to participate in any benefits or privileges provided by Client for its employees.
+ 
+9.           Force Majeure.  CMF shall not be deemed to be in default of any provision of this Agreement, nor be liable for any delay, failure in performance or interruption of services, resulting directly or indirectly from acts of God, embargoes, quarantines, civil or military authority, riot, civil disturbance, insurrection, war, terrorism, other catastrophes or any such other cause beyond its control; provided, however, that CMF shall exercise reasonable efforts to the extent reasonably practicable, to remedy any such cause of delay or cause preventing performance.
+ 
+10.         Non-Solicitation of Personnel.  Each of the parties hereto covenants and agrees that it shall not, during the Term of this Agreement and for a period of twelve (12) months after the termination of this Agreement,  regardless of the reason for termination, directly or indirectly, employ, engage, contract with or in any other way utilize or solicit or make any offers for the services of any of the other party's employees, contractors or other personnel who provides Services or Work Product for the Project(s) described in this Agreement during the term of their employment or engagement with such party.  Notwithstanding the provisions set forth in  this Section 10, in the event that the Client wishes to employ an employee, contractor or other personnel providing Services to Client,  it may do so only after ninety  (90) days from the date of the commencement of the provision of Services with respect to the initial Project so long as Client  pays to  CMF a fee equal to twenty percent (20%) of the gross annual  compensation (which shall include the full estimated cash bonus which such  employee can earn), for such employee, contractor or other personnel.  Amounts shall be payable on the first date that the employee, contractor or other personnel commences his or her employment with Client.
+ 
+11.         Confidential Information.
+ 
+ 
+ CMF Associates • Answers with Impact4 
+ 
+
+ 
+ 
+11.1         Other than in the performance of this Agreement, neither CMF nor CMF's employees, shall use or disclose to any person or entity any Confidential Information of Client (whether in written, oral, electronic or other form), which is obtained from Client or otherwise prepared or discovered either in the performance of this Agreement, through access to Client, documents, systems and information (collectively, “Confidential Information”), or while on Client's premises. As used herein, the term "Confidential Information" shall include, without limitation, all Work Product as defined below, all information designated by Client in writing as confidential, all information or data concerning or related to Client’s customers, products (including the discovery, invention, research, improvement, development, manufacture, or sale thereof), processes, or general business operations (including sales costs, profits, pricing methods, organization, and employee lists), and any information obtained through access to any Information (including but not limited to computers, networks, voice mail, etc.) which, if not otherwise described above, is of such a nature that a reasonable person would believe it to be confidential or proprietary.  CMF will protect the confidentiality of Confidential Information with the same degree of care as CMF uses for its own similar information; provided, however, that nothing herein will preclude CMF from using any and all databases, software or licenses owned or developed by CMF hereunder (subject to the confidentiality provisions) in connection with its other engagements.
+ 
+11.2         Access to Information Systems.  Access, if any, to Client Information is granted solely to perform the Services under this Agreement, and is limited to that specific Client Information, time periods and personnel as are separately agreed to by Client and CMF from time to time.  Client may require CMF’s employees, subcontractors or agents to sign individual agreements containing covenants substantially similar hereto for the protection of Confidential Information prior to access to Client’s Information.  Use of Client Information during other time periods or by individuals not authorized by Client is expressly prohibited.  Access is subject to Client business control and information protection policies, standards and guidelines as may be modified from time to time and as communicated to CMF.
+ 
+11.3         Exclusions.  The foregoing confidentiality obligations will not apply to Confidential Information that (a) is already known to CMF prior to disclosure by Client; (b) is or becomes a matter of public knowledge through no fault of CMF; (c) is rightfully received by CMF from a third party not known by CMF to be bound by a duty of confidentiality with respect to such information; (d) is independently developed by CMF; (e) is disclosed under operation of law; or (f) is disclosed by CMF with the prior written approval of Client.
+ 
+11.4         Continuing Obligations. Unless otherwise agreed in writing, the obligations under this Section 11 shall continue for a period of three (3) years from the termination or expiration of this Agreement.
+ 
+12.           Equitable Remedies.  In the event of a violation or threatened violation of the covenants and agreements contained in Section 11 hereof, the aggrieved party, in addition to and not in limitation of any other rights, remedies or damages available at law or in equity, shall be entitled to seek equitable relief in a court of equity, including a temporary and permanent injunction against the other, or such other equitable relief as may be appropriate, including an order of specific performance.
+ 
+ 
+ CMF Associates • Answers with Impact5 
+ 
+
+ 
+ 
+13.           Arbitration.  The parties hereto will attempt to settle any claim or controversy arising out of or relating to this Agreement by consultation and negotiation in good faith and a spirit of mutual cooperation. However, at any time before or during such negotiations, or following any unsuccessful negotiations, either party may, by written notice to the other, demand that the dispute be submitted to arbitration. Except as provided in Section 12 above, any claim or controversy arising out of or relating to this Agreement or any breach thereof shall be settled by arbitration. The venue for any such arbitration shall be in Philadelphia, Pennsylvania or Orlando, Florida. Except as expressly set forth herein, all proceedings under this Section shall be undertaken in accordance with the commercial rules of the American Arbitration Association ("AAA"), then in force. Only individuals who are (i) lawyers engaged full-time in the practice and (ii) on the AAA register of arbitrators shall be selected as an arbitrator. There shall be one arbitrator who shall be chosen in accordance with the rules of the AAA. The parties to the arbitration shall be permitted to obtain discovery from each other in accordance with the federal rules of civil procedure. Any disputes concerning the scope of discovery requests or the compliance thereof shall be decided by the arbitrator. As soon as practicable after the conclusions of the arbitration hearing, the arbitrator shall prepare written findings of fact and conclusion of law. Judgment upon the written award may be entered and enforced in any court of competent jurisdiction. It is mutually agreed that the written decision of the arbitrator shall be valid, binding, final and non-appealable and shall be a condition precedent to any legal or equitable action that any party hereunder may contemplate against another party hereunder except to compel arbitration pursuant hereto (or as noted above). The arbitrator shall have the power to require the non-prevailing party to pay his fees and the fees of the arbitration and the prevailing party's legal fees and expert's fees. If in his opinion there is no prevailing party, the arbitrator's and arbitration fees and expenses will be borne equally by the parties thereto and each party shall pay its own legal fees and expert's fees.
+ 
+14.           Miscellaneous Provisions.
+ 
+14.1         Notices.  Any notice, request, consent, demand, offer, acceptance or other communications required or permitted under this Agreement shall be made in writing and shall be deemed to have been duly given if personally delivered, or if mailed by registered or certified mail, postage prepaid, return receipt requested (and shall be deemed delivered on the date received for delivery by the Postal Service whether or not accepted), or by telefax, telecopier, electronic mail or similar transmission on the date received (provided there is verification of delivery), or by overnight delivery service, charges prepaid, on the date received, addressed to the parties hereto at their respective addresses as follows:
+ 
+(a)           If to CMF:
+
+CMF Associates, LLC
+325 Chestnut Street, Suite 410
+Philadelphia, PA 19106
+Attention:  Mr. Thomas Bonney
+If to Client:
+
+AuthenTec, Inc.
+100 Rialto Place, Suite 100
+Melbourne, Florida 32901
+Attention:Legal Department
+ 
+or to such other address or addresses and to the attention of such other person or persons as either of the parties hereto may notify the other in accordance with the provisions of this Agreement.
+ 
+ 
+ CMF Associates • Answers with Impact6 
+ 
+
+ 
+ 
+14.2           No Third-Party Beneficiaries.  There are no third-party beneficiaries of this Agreement or of the transactions contemplated hereby and nothing contained herein shall be deemed to confer upon anyone other than the parties hereto (and their respective successors and permitted assigns), any right to insist upon or to enforce the performance  any of the obligations contained herein.
+ 
+14.3           Supplemental Documents.  The parties hereto agree to execute any further instruments and to perform any acts that are or may become necessary to effectuate the terms of this Agreement.
+ 
+14.4           Entire Agreement.  This Agreement (together with the agreements, certificates, instruments and any other documents referred to herein), sets forth all of the promises, covenants, agreements, conditions and understandings between the parties hereto, with respect to the subject matter hereof, and supersedes all prior and contemporaneous writings (including requests for proposals and responses thereto), agreements and understandings, inducements or conditions pertaining thereto, expressed or implied, oral or written, except as contained herein.
+ 
+14.5           Headings.  The section headings in this Agreement and the Background of this Agreement are for reference purposes only and shall not define, limit or affect the meaning or interpretation of this Agreement.
+ 
+14.6           Assignment.  This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and permitted assigns. Notwithstanding the foregoing, this Agreement may not be assigned in whole or in part without the prior written consent of the other party; provided, however, this Agreement may be assigned by either party to a purchaser of all or substantially all of the assets of such party or the survivor of a merger of such party and another entity or any other such successor of such party’s business.
+ 
+14.7           Governing Law.  This Agreement and all questions relating to its validity, interpretation, performance and enforcement shall be governed by and construed in accordance with the laws of the Delaware, notwithstanding any conflicts of laws, doctrines of such states or other jurisdictions to the contrary.
+ 
+14.8           Amendments.  No amendment, alteration or modification of this Agreement shall be valid unless each such instance, amendment, alteration or modification is expressed in a written instrument duly executed by both parties hereto. No Waiver.  The failure of any party to insist, in any one or more instances, on performance of any of the terms and conditions of this Agreement, shall not be construed as a waiver or relinquishment of any rights granted hereunder or of the future performance of such term, covenant or condition, but the obligations of the parties, with respect thereto, shall continue in full force and effect.
+ 
+ 
+ CMF Associates • Answers with Impact 7 
+ 
+
+ 
+ 
+14.9           Unenforceable Provisions.  It is the agreement of the parties that in case any one or more of the provisions contained in this Agreement shall, for any reason, be held to be invalid, illegal or unenforceable in any respect, such invalidity, illegality or unenforceability shall not affect the other provisions of this Agreement and this Agreement shall be construed as if such invalid, illegal or unenforceable provisions had never been contained herein. In case any one or more of the provisions hereof shall for any reason be held to be excessively broad as to duration, geographical scope, activity or subject matter, such provision shall be construed by limiting and reducing it as determined by a court of competent jurisdiction, so as to be enforceable only to the extent compatible with applicable law.
+ 
+14.10         Counterparts.  This Agreement may be executed in any number of counterparts, which when taken together shall constitute an original document.
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Consulting Services Agreement to be executed as of the day and year first above written.
+
+CMF ASSOCIATES, LLC
+
+By: /s/ Philip Calamia                                 
+Name: Philip Calamia
+Title: Chief Financial Officer
+
+
+AuthenTec, Inc.
+
+
+By: /s/ Frederick R. Jorgenson                 
+Name: Frederick R. Jorgenson
+Title: Vice President – General Counsel
+ 
+ 
+ 
+ 
+ CMF Associates • Answers with Impact 8

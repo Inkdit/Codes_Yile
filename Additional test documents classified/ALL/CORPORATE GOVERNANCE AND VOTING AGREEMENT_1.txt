@@ -1,0 +1,201 @@
+﻿CORPORATE GOVERNANCE AND VOTING AGREEMENT
+　　THIS CORPORATE GOVERNANCE AND VOTING AGREEMENT (this "Agreement") is entered as of April 18, 2006 by and among Dr. Patrick Soon-Shiong ("PSS"), and the other persons executing signature pages hereto (PSS and such other persons, together with any third party related to any PSS Party who hereafter becomes a signatory hereto as contemplated by Section 2.05, the "PSS Parties"), and American Pharmaceutical Partners, Inc., a Delaware corporation (the "Company").
+　　WHEREAS, the Company, American BioScience, Inc., a California Corporation ("ABI"), PSS, and certain other ABI shareholders have entered into an Agreement and Plan of Merger, dated as of November 27, 2005 (the "Merger Agreement") pursuant to which, among other things, ABI shall be merged with and into the Company (the "Merger"), and all outstanding shares of capital stock of ABI shall be converted into the right to receive shares of Company Common Stock, all upon the terms and subject to the conditions set forth in the Merger Agreement;
+　　WHEREAS, concurrently with the execution of this Agreement, the PSS Parties are entering into a Registration Rights Agreement dated as of the date hereof (the "RRA") which, among other things, sets forth certain registration rights granted by the Company to the PSS Parties and certain other recipients of Company Common Stock pursuant to the Merger;
+　　WHEREAS, immediately prior to the Merger, the PSS Parties own approximately 99% of the outstanding shares of ABI capital stock and desire that the Merger be completed pursuant to the Merger Agreement;
+　　WHEREAS, as an inducement for the Company to enter into the Merger Agreement, ABI has agreed that it is a condition to the Company's obligation to consummate the Merger that the PSS Parties execute and deliver this Agreement and thereby establish (a) certain terms and conditions concerning the voting of and future acquisitions of Company Common Stock by the PSS Parties and their respective Affiliates, and (b) certain other matters concerning the corporate governance of the Company; and
+　　WHEREAS, certain terms used herein are defined in Article IV hereof.
+　　NOW, THEREFORE, in consideration of the foregoing and the mutual promises and agreements contained herein, the parties hereto hereby agree as follows:
+ARTICLE I
+STOCK OWNERSHIP
+　　SECTION 1.01. Acquisitions of Company Common Stock. Each PSS Party shall not, and shall not permit any of his or its Affiliates to, acquire Beneficial Ownership of any
+
+shares of Company Common Stock, in each case whether by tender offer, market purchase, privately-negotiated purchase, merger or other transaction, through the use of a derivative instrument or voting agreement, by joining a Group, or otherwise, except for:
+　　(a) acquisitions of Beneficial Ownership of Company Common Stock pursuant to the Merger;
+　　(b) acquisitions of Beneficial Ownership of Company Common Stock approved in advance by a majority of the Outside Independent Directors then in office;
+　　(c) acquisitions of Beneficial Ownership of Company Common Stock (i) upon the exercise of options to acquire Company Common Stock held by PSS or any of his Affiliates as of the date hereof or (ii) as a result of the grant of options to acquire Company Common Stock hereafter approved by the Company Board and the Outside Independent Directors or the exercise of any such options;
+　　(d) acquisitions of Company Common Stock that would not cause the PSS Parties and their respective Affiliates collectively to Beneficially Own more than 83.5% of the then-outstanding shares of Company Common Stock; and
+　　(e) acquisitions of Company Common Stock pursuant to, or after the consummation of, a Qualifying Tender Offer.
+ARTICLE II
+CORPORATE GOVERNANCE
+　　SECTION 2.01. Outside Independent Directors.
+　　(a) At each meeting of the stockholders of the Company, or in connection with any action by written consent, occurring prior to (but not including) the 2007 Annual Meeting at which at least three Outside Independent Director candidates have been nominated for election by the Company, each PSS Party shall vote or cause to be voted all of such PSS Party's Voting Control Shares in favor of the election of three Outside Independent Director candidates.
+　　(b) Prior to (but not including) the 2007 Annual Meeting, no PSS Party shall permit any of such PSS Party's Voting Control Shares to be voted (or permit any written consent to be executed in respect of any of such PSS Party's Voting Control Shares) in favor of the removal of any Outside Independent Directors, unless after giving effect to the removal of such Outside Independent Directors and any simultaneous or nearly simultaneous election or appointment of any directors, the Board will include at least three Outside Independent Directors.
+　　SECTION 2.02. Proxy Solicitation. No PSS Party shall, and each shall not permit its Affiliates to, directly or indirectly solicit, or be a participant in the solicitation of, proxies from stockholders of the Company for the purpose of opposing a solicitation conducted by or on behalf of the Company or the Company Board; provided, that the foregoing shall not (a) prevent
+ 
+2
+
+any PSS Party or any of its Affiliates, in his, her or its capacity as a stockholder of the Company, from nominating candidates for election as directors of the Company or presenting proposals for a vote or consent of the stockholders of the Company or (b) restrict the ability of any PSS Party or any of its Affiliates from voting or executing consents in respect of shares of Company Common Stock Beneficially Owned by a PSS Party or any of its Affiliates (or causing such shares to be voted or consents executed in respect thereof) in their discretion on all matters submitted for a vote or consent of the stockholders of the Company.
+　　SECTION 2.03 Board Action. The Company, subject to the Company Board's fiduciary duties, shall take all necessary and desirable actions within its control (including calling special meetings of the Company Board and the stockholders of the Company) to effectuate the provisions and intent of this Agreement.
+　　SECTION 2.04. Restrictions on Business Combinations. No PSS Party shall, or permit any of its Affiliates to, (a) merge or consolidate with or into the Company or any of its majority-owned subsidiaries, or (b) acquire from the Company and/or any of its majority owned subsidiaries, by purchase, lease, exchange, mortgage, pledge, transfer or other disposition (in one transaction or in a series of related transactions), except proportionately as a stockholder of the Company, assets of the Company or any of its majority-owned subsidiaries having an aggregate market value equal to 10% or more of either the aggregate market value of all of the assets of the Company determined on a consolidated basis or the aggregate market value of all of the outstanding shares of Company Common Stock, unless such transaction is approved in advance by a majority of the Outside Independent Directors (and the other directors of the Company Board, to the extent required by applicable law); provided, that the foregoing shall not apply to prevent any PSS Party or any of its Affiliates from merging (or require the approval of a majority of the Outside Independent Directors in order for any PSS Party or any of its Affiliates to merge) with the Company after the consummation of a Qualifying Tender Offer.
+　　SECTION 2.05 No Circumvention. No PSS Party shall, or permit its Affiliates to, take any action, or refrain from taking any action, that would cause any Voting Control Shares to cease to constitute Voting Control Shares prior to the termination of this Agreement; provided, however, that sales or transfers of Voting Control Shares to unrelated third parties on arm�s-length terms, or transfers to related third parties who as a condition to such transfer execute and deliver a counterpart signature page hereto and thereby become a PSS Party, shall not be deemed to be a violation of this Section 2.05.
+ARTICLE III
+REPRESENTATIONS AND WARRANTIES
+　　SECTION 3.01 Representations and Warranties of PSS and the PSS Parties. PSS and each other PSS Party hereby jointly and severally represents and warrants to the Company, as follows:
+　　(a) Each PSS Party (if it is an entity) is duly incorporated or otherwise organized, validly existing and in good standing under the laws of its jurisdiction of incorporation or organization is duly qualified or licensed to do business, and is in good
+ 
+3
+
+standing, in each jurisdiction where the character of the properties owned, leased or operated by it or the nature of its business makes such qualification, licensing or good standing necessary, except for such failures to be so duly incorporated or organized, validly existing or in good standing, qualified or licensed that, individually or in the aggregate, would not reasonably be expected to have a material adverse effect on such PSS Party's ability to perform its obligations hereunder.
+　　(b) Each PSS Party (if it is an entity) has all necessary corporate or other power and authority to execute and deliver this Agreement, to perform its obligations hereunder and to consummate the transactions contemplated hereby. The execution and delivery of this Agreement by each PSS Party (if it is an entity), the performance by such PSS Party (if it is an entity) of its obligations hereunder and the consummation by such PSS Party (if it is an entity) of the transactions contemplated hereby (i) have been duly and validly authorized by all necessary corporate or other organizational action required on the part of such PSS Party (if it is an entity) under applicable law or the organizational, constituent or governing documents of such PSS Party (if it is an entity), and (ii) (assuming compliance with all requirements of applicable securities laws and the rules and regulations of the NASDAQ National Market or any exchange upon which the Company� securities are listed or traded and that the consents, approvals, authorizations and permits described in Section 4.5(b) of the Company's disclosure schedule to the Merger Agreement have been obtained and all filings and notifications described in such section of the Company's disclosure schedule have been made and any waiting periods thereunder have terminated or expired) no other consents, approvals, actions, proceedings or authorizations are necessary to authorize the execution and delivery of this Agreement by the PSS Parties or the performance of their respective obligations hereunder, except as would not, individually or in the aggregate, reasonably be expected to have a material adverse effect on such PSS Party's ability to perform its obligations hereunder. This Agreement has been duly and validly executed and delivered by each PSS Party and constitutes a legal, valid and binding obligation of each PSS Party, enforceable against such PSS Party in accordance with its terms, subject to bankruptcy, insolvency, fraudulent transfer, reorganization, moratorium and similar laws of general applicability relating to or affecting creditors' rights and to general principles of equity. The trustee(s) listed on the signature page hereof with respect to the respective PSS Parties who are trusts have the full right, power and authority to cause such trusts to comply with the terms hereof without any instructions, directions, authorizations, or approvals of any beneficiary thereof or any other person, or have obtained all necessary instructions, directions, authorizations, or approvals.
+　　(c) The execution and delivery of this Agreement by each PSS Party does not, and the performance of this Agreement by the PSS Parties will not, (i) conflict with or violate any provision of the organizational, constituent or governing documents of such PSS Party (if that PSS Party is an entity), (ii) conflict with or violate any organizational documents of any Affiliate of such PSS Party, or (iii) (assuming compliance with all requirements of applicable securities laws and the rules and regulations of the NASDAQ National Market or any exchange upon which the Company� securities are listed or traded and that the consents, approvals, authorizations and permits described in Section 4.5(b) of the Company's disclosure schedule to the Merger Agreement have been obtained and all filings and notifications described in such section of the Company's disclosure schedule have been made and any waiting periods thereunder have terminated or expired) conflict with or violate any contract binding on or any
+ 
+4
+
+statute, law or order applicable to such PSS Party or by which any property or asset of such PSS Party is bound, except as would not, individually or in the aggregate, reasonably be expected to materially limit or delay such PSS Party's ability to perform its obligations hereunder. There are no contractual, legal or other restrictions or impediments to the right, authority and ability of the PSS Parties to agree to and perform, and to cause such respective PSS Parties' Affiliates to perform, the obligations contemplated hereby, except as would not, individually or in the aggregate, reasonably be expected to materially limit or delay such PSS Party's ability to perform its obligations hereunder.
+　　(d) All shares of Company Common Stock issued to the PSS Parties pursuant to the Merger are Voting Control Shares for purposes of this Agreement.
+　　SECTION 3.02 Representations and Warranties of the Company. The Company hereby represents and warrants to the PSS Parties, as follows:
+　　(a) The Company is a corporation duly organized, validly existing and in good standing under the laws of the State of Delaware. The Company is duly qualified or licensed to do business, and is in good standing, in each jurisdiction where the character of the properties owned, leased or operated by it or the nature of its business makes such qualification, licensing or good standing necessary, except for such failures to be so qualified, licensed or in good standing that individually or in the aggregate, would not reasonably be expected to have a Company Material Adverse Effect (as defined in the Merger Agreement).
+　　(b) The Company has all necessary corporate power and authority to execute and deliver this Agreement, to perform its obligations hereunder and to consummate the transactions contemplated hereby. The execution and delivery of this Agreement, the performance by the Company of its obligations hereunder and the consummation by the Company of the transactions contemplated hereby have been duly and validly authorized by all necessary corporate action on the part of the Company, and no other corporate proceedings on the part of the Company are necessary to authorize this Agreement or to consummate the transactions contemplated hereby. This Agreement has been duly authorized and validly executed and delivered by the Company and constitutes a legal, valid and binding obligation of the Company, enforceable against the Company in accordance with its terms, subject to bankruptcy, insolvency, fraudulent transfer, reorganization, moratorium and similar laws of general applicability relating to or affecting creditors' rights and to general principles of equity.
+ 
+5
+
+　　(c) The execution and delivery of this Agreement by the Company does not, and the performance of this Agreement by the Company will not, (i) conflict with or violate any provision of the organizational or governing documents of the Company, (ii) conflict with or violate any organizational documents of any of the subsidiaries of the Company, or (iii) (assuming that all consents, approvals, authorizations and permits described in Section 4.5(b) of the Company's disclosure schedule to the Merger Agreement have been obtained and all filings and notifications described in such section of the Company's disclosure schedule have been made and any waiting periods thereunder have terminated or expired) conflict with or violate any statute, law or order applicable to the Company or any of its subsidiaries or by which any property or asset of the Company or any of its subsidiaries is bound or affected.
+ARTICLE IV
+DEFINITIONS
+　　SECTION 4.01 Definitions. The following terms as used herein have the following respective meanings:
+　　"2007 Annual Meeting" means the annual meeting of the stockholders of the Company held in calendar year 2007.
+　　"Affiliate" with respect to any person means (i) if such person is an individual, any spouse or minor child (natural or by adoption) of such person; (ii) any trust or family partnership established by such person (if such person is an individual) and/or his or her spouse for the benefit of such person and/or members of his or her immediate family; (iii) the estate of such person (if such person is an individual); or (iv) any entity that, directly, or indirectly through one or more intermediaries controls, is controlled by or is under common control with, such person. For purposes of this definition, "control" means the possession, directly or indirectly, of the power to direct the management and policies of the applicable entity, whether through the ownership of voting securities, by contract or otherwise. For purposes of Section 1.01 of this Agreement and subject to the next sentence, a person shall not be considered an "Affiliate" of a PSS Party for purposes of the provisions of this Agreement obligating a PSS Party to cause its "Affiliates" to take or refrain certain actions if that PSS Party does not possess, directly or indirectly, the power to cause such person to comply with the requirements of such provision, whether through the ownership of voting securities, by contract or otherwise. For purposes of this Agreement, neither the Company nor any person controlled by the Company or their respective officers and directors (other than PSS) shall be deemed to be Affiliates of any PSS Party.
+　　"Beneficial Ownership" (and related terms such as "Beneficially Owns" or "Beneficial Owner") has the meaning set forth in Rule 13d-3 promulgated under the Exchange Act; provided, however; that for purposes of determining Beneficial Ownership, a person or entity shall be deemed to Beneficially Own any securities which such person has the right to acquire (irrespective of whether such right to acquire such securities is exercisable immediately or only after the passage of time, the satisfaction of any conditions, the occurrence of any event or any combination of the foregoing) pursuant to any agreement or upon the exercise of conversion
+ 
+6
+
+rights, exchange rights, warrants or options, or otherwise; provided, however, that a person shall not be deemed to Beneficially Own any securities tendered pursuant to a tender or exchange offer made by such person until such tendered securities are accepted for purchase or exchange by such person. For purposes of this Agreement, no PSS Party or any of their respective Affiliates shall be deemed to Beneficially Own any securities Beneficially Owned by the Company or any person controlled by the Company or any of their respective officers and directors (other than PSS). Under this Agreement, for purposes of calculating the percentage of the outstanding shares of Company Common Stock Beneficially Owned by any person or persons, the number of outstanding shares of Company Common Stock shall be deemed to include the total number of basic shares of Company Common Stock then outstanding plus the number of shares of Company Common Stock issuable upon exercise of stock options which are then "in the money," calculated as follows: the number of option shares to be counted in shares outstanding is calculated individually for each tranche of options (e.g. if the company has 100 tranches, a number of shares potentially issued is calculated for each), in each case by multiplying the number of shares subject to options outstanding per tranche by the difference between the current stock price and the strike price of the applicable tranche of option, and then dividing such number by the then current stock price. For all those tranches for which the strike price is higher than the current stock price, the shares subject to the options are not considered to be outstanding.
+　　"Company Board" means the board of directors of the Company and, from and after the effective time of the Merger, the board of directors of the corporation surviving the Merger.
+　　"Company Common Stock" means shares of common stock, par value $0.001 per share, of the Company, and any capital stock into or for which such common stock hereafter may be converted or exchanged pursuant to a recapitalization, reclassification, merger or other similar event.
+　　"Exchange Act" means the Securities Exchange Act of 1934, as amended, and any Rules promulgated thereunder.
+　　"Group" has the same meaning as described in Section 13(d)(3) of the Exchange Act.
+　　"Outside Independent Directors" means any director of the Company (a) who either (i) qualifies as an "independent director" with respect to the Company pursuant to Section 4200(a)(15) of the Nasdaq National Market Marketplace Rules (as in effect as of the date of the Merger Agreement), or (ii) qualifies as "independent" with respect to the Company under Rule 10A-3 under the Exchange Act (as in effect as of the date of the Merger Agreement), and (b) whose nomination or appointment was approved by PSS and a majority of the Outside Independent Directors then in office (in each case such approval not to be unreasonably withheld), it being understood that, for purposes of this clause (b), each of the individuals who is a director of the Company as of the date of the Merger Agreement and who satisfies the requirements of clause (a) shall be deemed to have been approved by PSS and a majority of the Outside Independent Directors.
+　　"person" means any individual, corporation, limited liability company, partnership, association, trust, unincorporated organization or other entity.
+ 
+7
+
+　　"Qualifying Tender Offer" means a tender or exchange offer by PSS, one or more Affiliates of PSS and/or one or more other PSS Parties that (i) is for all of the outstanding shares of Company Common Stock (provided, that such tender or exchange offer need not seek to acquire shares of Company Common Stock Beneficially Owned by PSS, any of his Affiliates or any of the other PSS Parties); (ii) is subject to a non-waiveable condition that a majority of the then-outstanding shares of Company Common Stock (other than any shares of Company Common Stock Beneficially Owned by PSS or any of his Affiliates) be validly tendered and accepted for purchase by the offeror; and (iii) includes a commitment by the offeror (to be contained in the offer to purchase pursuant to which the tender or exchange offer is made) to promptly consummate a merger following the completion of the tender or exchange offer, in which all remaining shares of Company Common Stock not Beneficially Owned by PSS, any of his Affiliates or the PSS Parties shall be acquired for the same amount and type of consideration as was paid per share of Company Common Stock pursuant to the tender or exchange offer.
+　　"Voting Control Shares" shall mean, with respect to any PSS Party, any shares of Company Common Stock Beneficially Owned by such PSS Party or any of its Affiliates over which such PSS Party has the power to vote or control or direct the voting thereof.
+ARTICLE V
+MISCELLANEOUS
+　　SECTION 5.01. Notices. All notices, requests and other communications to any party hereunder shall be in writing (including faxes or similar writing) and shall be given,
+　　If to the Company, to:
+　　American Pharmaceutical Partners, Inc.
+　　1501 East Woodfield Road, Suite 300 East
+　　Schaumburg, IL 60173-5837
+　　Attention: General Counsel
+　　Fax: (847) 413-2670
+　　with a copy (which shall not constitute notice) to:
+　　Gibson, Dunn & Crutcher LLP
+　　333 South Grand Avenue
+　　Los Angeles, California 90071-3197
+　　Attention: Peter Ziegler, Esq.
+　　Fax: (213) 229-7520
+　　and further copies (which shall not constitute notice) to:
+　　Morrison & Foerster LLP
+　　400 Capitol Mall, Suite 2600
+　　Sacramento, California 95814
+　　Attention: Charles Farman, Esq.
+　　Fax: (415) 268-7522
+ 
+8
+
+　　and:
+　　Morrison & Foerster LLP
+　　425 Market Street
+　　San Francisco, California 94105-2482
+　　Attention: Michael G. O�Bryan, Esq.
+　　Fax: (415) 268-7522
+　　If to any PSS Party to the address of such party set forth beneath such party's signature hereto,
+or such other address or fax number as such party may hereafter specify for such purpose by notice to the other parties hereto. Each such notice, request or other communication shall be effective (i) if given by fax, when such fax is transmitted to the fax number specified in this Section and electronic confirmation of transmission is received or (ii) if given by any other means, when delivered at the address specified in this Section.
+　　SECTION 5.02. Amendments; No Waivers; Enforcement.
+　　(a) Any provision of this Agreement may be amended or waived if, and only if, such amendment or waiver is in writing and signed, in the case of an amendment, by PSS and the Company, or in the case of a waiver, by the party against whom the waiver is to be effective; provided, that no such amendment or waiver on behalf of the Company shall be effective without the approval of (i) a majority of the Outside Independent Directors, or (ii) if no member of the Company Board meets the definition of an Outside Independent Director, a majority of the members of the audit committee of the Company.
+　　(b) Any action to be taken by the Company to amend, modify, waive, suspend or enforce its rights under this Agreement shall be taken at the direction of a majority of the Outside Independent Directors or, if no member of the Company Board meets the definition of an Outside Independent Director, a majority of the members of the audit committee of the Company.
+　　(c) No failure or delay by any party in exercising any right, power or privilege hereunder shall operate as a waiver thereof nor shall any single or partial exercise thereof preclude any other or further exercise thereof or the exercise of any other right, power or privilege. The rights and remedies herein provided shall be cumulative and not exclusive of any rights or remedies provided by law.
+　　SECTION 5.03. Headings. The headings contained in this Agreement are for reference purposes only and shall not affect in any way the meaning or interpretation of this Agreement.
+　　SECTION 5.04. Severability. If any term or other provision of this Agreement is invalid, illegal or incapable of being enforced under applicable law or for reasons of public policy, all other conditions and provisions of this Agreement shall nevertheless remain in full force and effect so long as the economic or legal substance of the transactions contemplated hereby is not affected in any manner materially adverse to any party. Upon such determination
+ 
+9
+
+that any term or other provision is invalid, illegal or incapable of being enforced, the parties hereto shall negotiate in good faith to modify this Agreement so as to effect the original intent of the parties as closely as possible in an acceptable manner to the end that transactions contemplated hereby are fulfilled to the extent possible.
+　　SECTION 5.05. Entire Agreement. This Agreement, the Merger Agreement and the RRA represent the entire agreement of the parties and supersede all prior or contemporaneous oral or written agreements and undertakings between the parties with respect to the specific collective subject matter hereof and thereof (it being understood that the execution and delivery hereof shall not affect the validity or enforceability of the Merger Agreement, the RRA and the other documents and instruments executed and delivered concurrently herewith in accordance with the Merger Agreement's terms).
+　　SECTION 5.06. Assignment. Neither this Agreement nor any of the rights, interests or obligations hereunder shall be assigned by any of the parties hereto, in whole or in part (whether by operation of law or otherwise), without the prior written consent of the other parties (and, in the case of any such purported assignment by any PSS Party, without the prior written consent of the Outside Independent Directors or, if no member of the Company Board meets the definition of an Outside Independent Director, a majority of the members of the audit committee of the Company), and any attempt to make any such assignment without such consent shall be null and void ab initio.
+　　SECTION 5.07. Parties in Interest. This Agreement shall be binding upon and inure solely to the benefit of the parties hereto and their respective successors and assigns, and nothing expressed or implied in this Agreement is intended to or shall confer upon any other person any right, benefit or remedy of any nature whatsoever under or by reason of this Agreement.
+　　SECTION 5.08. Mutual Drafting. Each party hereto has participated in the drafting of this Agreement, which each party acknowledges is the result of extensive negotiations between the parties. As a result, the parties expressly acknowledge and agree that no principles of contractual interpretation (whether statutory or under common law) purporting to construe ambiguities against the drafter shall apply to the interpretation, application or enforcement of this Agreement.
+　　SECTION 5.09. Governing Law; Consent to Jurisdiction; Waiver of Trial by Jury.
+　　(a) This Agreement shall be governed by, and construed in accordance with, the law of the State of Delaware, without regard to its conflicts or choice of law principles.
+　　(b) Each of the parties hereto hereby irrevocably and unconditionally submits, for itself and its property, to the exclusive jurisdiction of any Delaware State court, or Federal court of the United States of America, sitting in Delaware, and any appellate court from any thereof, in any action or proceeding arising out of or relating to this Agreement or the transactions contemplated hereby or for recognition or enforcement of any judgment relating hereto, and each of the parties hereby irrevocably and unconditionally (i) agrees not to commence any such action or proceeding except in such courts, (ii) agrees that any claim in
+ 
+10
+
+respect of any such action or proceeding may be heard and determined in such Delaware State court or, to the extent permitted by law, in such Federal court, (iii) waives, to the fullest extent it may legally and effectively do so, any objection which it may now or hereafter have to the laying of venue of any such action or proceeding in any such Delaware State or Federal court and (iv) waives, to the fullest extent permitted by law, the defense of an inconvenient forum to the maintenance of such action or proceeding in any such Delaware State or Federal court. Each of the parties hereto agrees that a final judgment in any such action or proceeding shall be conclusive and may be enforced in other jurisdictions by suit on the judgment or in any other manner provided by law. Each party to this Agreement irrevocably consents to service of process in the manner provided for notices in Section 5.01. Nothing in this Agreement will affect the right of any party to this Agreement to serve process in any other manner permitted by Law.
+　　(c) EACH PARTY ACKNOWLEDGES AND AGREES THAT ANY CONTROVERSY WHICH MAY ARISE UNDER THIS AGREEMENT IS LIKELY TO INVOLVE COMPLICATED AND DIFFICULT ISSUES, AND THEREFORE IT HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVES ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY LITIGATION DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS AGREEMENT AND ANY OF THE AGREEMENTS DELIVERED IN CONNECTION HEREWITH OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY. EACH PARTY CERTIFIES AND ACKNOWLEDGES THAT (i) NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PARTY HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE EITHER OF SUCH WAIVERS, (ii) IT UNDERSTANDS AND HAS CONSIDERED THE IMPLICATIONS OF SUCH WAIVERS, (iii) IT MAKES SUCH WAIVERS VOLUNTARILY, AND (iv) IT HAS BEEN INDUCED TO ENTER INTO THIS AGREEMENT BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION 5.09(c).
+　　SECTION 5.10. Counterparts. This Agreement may be executed by facsimile signature and in two or more counterparts, and by the different parties hereto in separate counterparts, each of which when executed shall be deemed to be an original but all of which taken together shall constitute one and the same agreement.
+　　SECTION 5.11. Specific Performance. The parties hereto agree that irreparable damage would occur in the event that any of the provisions of this Agreement were not performed in accordance with their specific terms or were otherwise breached. It is accordingly agreed that the parties shall be entitled to an injunction or injunctions, without the posting of any bond, to prevent breaches of this Agreement and to enforce specifically the terms and provisions hereof, this being in addition to any other remedy to which they may be entitled at law or in equity.
+　　SECTION 5.12 Termination. This Agreement automatically shall terminate upon the earliest of (a) the date of the 2007 Annual Meeting, (b) the first date upon which the PSS Parties and their respective Affiliates collectively Beneficially Own less than 65% of the then outstanding shares of Company Common Stock and (c) the date a Qualifying Tender Offer and
+ 
+11
+
+the related back-end merger are completed and all outstanding shares of Company Common Stock are owned by PSS or his Affiliates.
+[signature page follows]
+ 
+12
+
+　　IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed as of the day and year first above written.
+
+PSS/s/ Dr. Patrick Soon-ShiongDr. Patrick Soon-ShiongAddress:
+c/o American Pharmaceutical Partners, Inc.
+11777 San Vicente Blvd., Suite 550
+Los Angeles, CA 90049
+
+CALIFORNIA CAPITAL LIMITED PARTNERSHIPBy: Themba LLC, its general partnerBy: /s/ Steven H. Hassan Name: Steven H. Hassan Title: ManagerAddress:
+Californian Capital Limited Partnership
+Att: Steven H. Hassan
+10182 Culver Boulevard
+Culver City, California 90232
+
+THEMBA 2005 TRUST IBy: /s/ Steven H. Hassan Name: Steven H. Hassan Title: TrusteeAddress:
+Themba 2005 Trust I
+Att: Steven H. Hassan
+10182 Culver Boulevard
+Culver City, California 90232
+ 
+13
+
+THEMBA 2005 TRUST IIBy: /s/ Steven H. Hassan Name: Steven H. Hassan Title: TrusteeAddress:
+Themba 2005 Trust II
+Att: Steven H. Hassan
+10182 Culver Boulevard
+Culver City, California 90232
+
+THE 2005 TWO-YEAR ANNUITY TRUST ABy: /s/ Steven H. Hassan Name: Steven H. Hassan Title: TrusteeAddress:
+The 2005 Two-Year Annuity Trust A
+Att: Steven H. Hassan
+10182 Culver Boulevard
+Culver City, California 90232
+
+THE 2005 TWO-YEAR ANNUITY TRUST BBy: /s/ Steven H. Hassan Name: Steven H. Hassan Title: TrusteeAddress:
+The 2005 Two-Year Annuity Trust B
+Att: Steven H. Hassan
+10182 Culver Boulevard
+Culver City, California 90232
+
+THEMBA CREDIT LLCBy: /s/ Steven H. Hassan Name: Steven H. Hassan Title: ManagerAddress:
+Themba Credit, LLC
+Att: Steven H. Hassan
+10182 Culver Boulevard
+Culver City, California 90232
+ 
+14
+
+RSU PLAN LLCBy: /s/ Steven H. Hassan Name: Steven H. Hassan Title: ManagerAddress:
+RSU Plan, LLC
+Att: Steven H. Hassan
+10182 Culver Boulevard
+Culver City, California 90232
+
+AMERICAN PHARMACEUTICAL PARTNERS, INC.By: /s/ Nicole S. Williams Name: Nicole S. Williams Title: Exec. V.P. & CFOAddress:
+American Pharmaceutical Partners, Inc.
+1501 East Woodfield Road, Suite 300 East
+Schaumburg, IL 60173-5837
+Attention: General Counsel
+Fax:
+ 
+15
+

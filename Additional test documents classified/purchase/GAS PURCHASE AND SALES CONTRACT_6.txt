@@ -1,0 +1,660 @@
+﻿  GAS PURCHASE AND SALES CONTRACT
+
+
+This Gas Purchase and Sale Contract ("this Contract") is made as of and
+effective April 1, 2000, between Tenaska Marketing Ventures, a Nebraska
+partnership ("TMV") and Warren Resources, Inc., a ____________ corporation
+("Company"), individually referred to as "Party" and collectively referred to as
+"the Parties".
+
+                                    ARTICLE I
+                             PURPOSE AND PROCEDURES
+
+1.1 Agreement.  This Contract  establishes  mutually  agreed and legally binding
+terms  governing  purchases,  sales and exchanges of Gas between TMV and Company
+made during the term of this  Contract.  The  transactions  encompassed  by this
+Contract will be designed on transaction-specific Confirmation(s) in the form of
+Exhibit  "A" and,  if  relevant to a  particular  transaction,  a Trigger  Price
+Confirmation  in  the  form  of  Exhibit  "B".  This  Contract  consists  of the
+provisions set forth herein and, with respect to a particular  transaction,  the
+provisions contained in the  Confirmation(s).  More than one Confirmation may be
+in effect at the same time. As used herein, the term "Buyer" refers to the Party
+purchasing  and receiving Gas and the term "Seller"  refers to the Party selling
+and delivering Gas.
+
+1.2 Confirmation  Procedure.  If the Parties come to an understanding  regarding
+the  sale  and  purchase  of Gas,  the  transaction  will be  communicated  in a
+Confirmation that will reflect the Transaction Type, Contract Quantity, Delivery
+Period,  Contract Price,  Delivery Point(s) and any other special terms to which
+the Parties have agreed.  Each Confirmation  shall be sent by TMV to Company via
+facsimile and shall become a part of this  contract.  If a  Confirmation  is not
+objected to or returned to TMV by Company via facsimile  within two (2) Business
+Days of the successful  transmittal  thereof,  then that  Confirmation  shall be
+accepted by both Parties.
+
+1.3 Transaction  Types.  The terms and conditions  incorporated in this Contract
+are  intended  to  facilitate  the  entering  into by Buyer  and  Seller  of the
+following  Transactions  Types as  further  defined in this  Contract:  i) Swing
+Transactions; ii) Firm Transactions; and iii) EFP Transactions.
+
+1.4 Tape  Recordings.  Each Party hereby  consents to the recording of telephone
+conversations  by the other in  connection  with this  Contract or any potential
+Transaction,  and agrees to obtain any necessary  consent of, and to give notice
+of such  recording  to,  its  affected  personnel.  Any tape  recordings  may be
+submitted into evidence to any court or in any legal  proceeding for the purpose
+of establishing any matter,  whether relating to this Contract,  any Transaction
+or otherwise.
+
+                                   ARTICLE II
+                                   DEFINITIONS
+
+2.1 "Business Day" means a period of eight (8) consecutive  hours,  beginning at
+8:00 a.m., Central Clock Time ("C.C.T."),  on any day except Saturday, Sunday or
+federal bank holidays and ending at 4:00 p.m. (C.C.T., on the same calendar day.
+
+2.2 "Buyer's  Deficiency  Quantity"  means the  difference  between the Contract
+Quantity  and the actual Gas  quantity  received  by Buyer for each Day on which
+Seller's failure occurred pursuant to Section 7.1(a).
+
+2.3  "Contract  Price"  means  the  price to be paid for Gas as set forth in the
+Confirmation.
+
+
+
+<PAGE>
+
+2.4 "Contract  Quantity" means the quantity of Gas to be delivered by Seller and
+received by Buyer as set forth in the Confirmation.
+
+2.5  "Contract  Value"  means the amount of Gas  remaining  to be  delivered  or
+purchased under a Transaction multiplied by the Contract Price per unit.
+
+2.6 "Day" means a period of twenty-four  (24)  consecutive  hours, as defined in
+the tariff of the Transporter receiving Gas at the Delivery Point.
+
+2.7  "Delivery  Period"  means  the  period  of time  during  which Gas shall be
+delivered and received under a transaction as set forth in the Confirmation.
+
+2.8  "Delivery  Point"  means the  specific  point(s) at which the Parties  have
+agreed to make and take delivery of Gas, as specified in the Confirmation.
+
+2.9 "Early  Termination Date" means any date on or after a default designated by
+the  Performing  party  as the  time  at  which  any or  all  Forward  Contracts
+(including any portion of a Forward  Contract not yet fully  delivered)  will be
+liquidated.
+
+2.10 "EFP  Transaction"  means a Firm Transaction to purchase,  sell or exchange
+Gas and the concurrent  obligation to buy or sell natural gas futures  contracts
+pursuant to the Exchange of Futures for Physical (EFP) procedures of an Exchange
+in  accordance  with an  applicable  Confirmation.  Failure  to buy or sell such
+quantity(ies) of Gas or futures contracts shall subject the failing party to the
+damages set forth in Article VII.
+
+2.11 "Exchange" means any United States  commodity  exchange that trades natural
+gas futures contracts.
+
+2.12 "Firm  Transaction"  means  Buyer  shall  have an  absolute  obligation  to
+purchase and receive,  and Seller shall have an absolute  obligation to sell and
+deliver one hundred per cent (100%) of the Contract  Quantity in the  applicable
+Confirmation.  Failure to buy or sell the Contract  Quantity  shall  subject the
+failing party to the damages prescribed in Article VII.
+
+2.13 "Forward  Contract" means any agreement  constituting a "forward  contract"
+within the meaning of the United  States  Bankruptcy  Code,  including,  without
+limitation,  a  Transaction  or any other  agreement  for the sale,  purchase or
+transfer  (including a swap) of Gas which has a maturity date or delivery period
+more than two days after the date the Forward Contract is entered into.
+
+2.14 "Gas"  means any mixture of  hydrocarbons  and  non-combustible  gases in a
+gaseous state consisting primarily of methane.
+
+2.15 "Imbalance  Charge" means any scheduling,  imbalance or similar  penalties,
+fees,  forfeitures,  cashouts,  or charges  (in cash or in kind)  assessed  by a
+Transporter for failure to satisfy the  Transporter's  balance and/or nomination
+requirements.
+
+2.16  "Market  Value"  means the  amount of Gas  remaining  to be  delivered  or
+purchased  under  a  Transaction  multiplied  by  the  market  price  per  MMBtu
+determined by the Performing Party in a commercially reasonable manner.
+
+2.17 "MMBtu" means one million BTU's, equal to one dekatherm.
+
+
+
+                                        2
+
+<PAGE>
+
+2.18 "Payment Date" means the  twenty-fifty  (25th) day of the calendar month in
+which the  invoice was  rendered,  or ten (10) days after the date of receipt of
+the invoice, whichever is later; provided that if the twenty-fifth (25th) day is
+not a Business Day, payment is due on the next Business Day following that date.
+
+2.19  "Replacement  Price" is the price at which  Buyer is able,  acting in good
+faith, to obtain comparable Gas supplies at the lowest reasonable price.
+
+2.20 "Sales  Price" is the price at which Seller is able,  acting in good faith,
+to make comparable Gas sales at the highest reasonable price.
+
+2.21  "Schedule"  or  "Scheduled"  means  the  acts of  Seller,  Buyer,  and the
+Transporter(s)  of  notifying,  requesting,  and  confirming  to each  other the
+quantity of Gas to be delivered hereunder on any given Day.
+
+2.22 "Seller's  Deficiency  Quantity" means the difference  between the Contract
+Quantity and the actual Gas  quantity  delivered by Seller for each Day on which
+Buyer's failure occurred pursuant to Section 7.1(b).
+
+2.23 "Swing  Transaction" means that deliveries and receipts of Gas will be on a
+swing or interruptible basis. The Contract Quantity may be reduced,  interrupted
+or terminated  by either Party for any reason upon the other Party's  receipt of
+notice given prior to its  Transporter's  nomination  deadline for the requested
+change.  Any failure to provide such notice by either  Party shall  subject that
+Party to the damages prescribed in Article VII.
+
+2.24  "Transaction"  means  a  particular  purchase,  sale  or  exchange  of Gas
+evidenced in a Confirmation.
+
+2.25  "Transporter(s)"  means all Gas gathering or pipeline companies,  or local
+distribution  companies,  acting in the capacity of a transporter,  transporting
+Gas  upstream or  downstream  of the  Delivery  Point  pursuant to a  particular
+Transaction Confirmation.
+
+2.26  "Trigger  Price" means a Contract  Price that is determined in part by the
+natural gas futures price on any Exchange.
+
+                                   ARTICLE III
+                                      TERM
+
+This Contract shall be in force as o the date first above written and shall
+ extend month-to-month thereafter until terminated by either Party upon giving
+thirty (30) days' prior written notice; provided, however, that if one or more
+Confirmation(s) are in effect, termination shall not be effective for any such
+Confirmation until the expiration of the Term of such Confirmation.
+
+                                   ARTICLE IV
+                                   SCHEDULING
+
+Buyer and Seller  shall  provide  each other and all  necessary  third  parties,
+including  Transporter(s),  with  the  information  necessary  to  Schedule  the
+Contract  Quantity  for  each  Day  as  agreed  to  for a  specific  Transaction
+hereunder.   The  Parties  will  provide  each  other  with  timely   nomination
+information  or of  any  changes  to  nominations  prior  to  the  Transporters'
+nomination deadline.
+
+
+
+                                        3
+
+<PAGE>
+
+
+
+                                    ARTICLE V
+                              QUANTITY AND DELIVERY
+
+5.1  Obligations.  Seller agrees to Schedule and to sell and deliver,  and Buyer
+agrees to Schedule and to purchase and receive the Contract Quantity each Day at
+the Delivery Point(s) for a particular Transaction.  Seller shall be responsible
+for  transportation  to the Delivery Point(s) and the Buyer shall be responsible
+for transportation  from the Delivery  Point(s).  Title to and possession of all
+Gas shall pass from Seller to Buyer at said Delivery Point(s).
+
+5.2 Imbalance Notification. Both parties hereto shall promptly notify each other
+as soon as possible  of any  Transporter  notification  of  imbalances  that are
+occurring or that have  occurred,  and the Parties shall  cooperate to eliminate
+any such  imbalances,  including  the use of make-up or  balancing  rights  that
+either Party may have, within the time prescribed by the Transporter.
+
+5.3  Imbalance  Charges.   The  Party  causing  an  Imbalance  Charge  shall  be
+responsible  for paying the charge.  Buyer shall  assume all  liability  for and
+reimburse  Seller  within  thirty  (30)  days of  presentation  of  invoice  and
+substantiating  documentation,  for any Imbalance  Charge resulting from Buyer's
+failure to comply  with  balancing  or  notification  requirements  of  Seller's
+Transporter.  Seller shall assume all liability  for and reimburse  Buyer within
+thirty (30) days of  presentation of invoice and  substantiating  documentation,
+for any  Imbalance  Charge  resulting  from  Seller's  failure  to  comply  with
+balancing or notification requirements of Buyer's Transporter.
+
+                                   ARTICLE VI
+                                      PRICE
+
+6.1  Buyer  agrees  to pay  Seller  the  Contract  Price  for each  MMBtu of Gas
+delivered by Seller to Buyer in  accordance  with the terms of this Contract and
+the relevant Confirmation.
+
+6.2 Trigger Price.  If the Parties agree to a Trigger  Price,  the Trigger Price
+Confirmation will define the factors to be used in the calculation.  The Company
+may request  that TMV execute  trades  through an Exchange in order to establish
+the Trigger  Price.  Following  execution of such trades,  TMV will  transmit to
+Company a Trigger Price  Confirmation no later than the close of business on the
+Business  Day  following  execution  of such  trade(s).  Company  will  have one
+Business Day after receipt of the Trigger Price Confirmation to object to any of
+the terms  contained  therein.  If no  objection  is  received by TMV within the
+prescribed  time,  the Trigger  Price  Confirmation  will be deemed to have been
+accepted by both Parties and will be considered part of the Contract and will be
+used to calculate the Trigger Price.
+
+                                   ARTICLE VII
+                               FAILURE TO PERFORM
+
+7.1 If either  Party  fails on any Day to  Schedule  and  receive or deliver the
+Contract  Quantity,  as provided in Section 5.1, that Party shall be liable for,
+and shall pay the other party, the following damages:
+
+          (a) Buyer's  Failure.  If the quantity Buyer receives and purchases on
+     any Day is less than the applicable  Contract  Quantity and the Sales Price
+     is less than the Contract  Price,  then Buyer shall be liable for and shall
+     pay to Seller a dollar  amount  equal to the product of (i) the  difference
+     between  the  Contract  Price  and  the  Sales  Price,  and:  (ii)  Buyer's
+     Deficiency Quantity. In addition, Buyer shall pay Seller an amount equal to
+     ten percent (10%) of the amount  calculated  pursuant to the first sentence
+     of this  subsection (a) to cover Seller's  administrative  and  operational
+     costs and expenses.
+
+
+                                        4
+
+<PAGE>
+
+
+
+          (b) Seller's Failure. If the quantity Seller sells and delivers on any
+     Day is less than the applicable Contract Quantity and the Replacement Price
+     is greater  than the  Contract  Price,  then Seller shall be liable for and
+     shall  pay to  Buyer  a  dollar  amount  equal  to the  product  of (i) the
+     difference  between the Replacement  Price and the Contract Price and; (ii)
+     Seller's Deficiency Quantity. In addition, Seller shall pay Buyer an amount
+     equal to ten percent (10%) of the amount  calculated  pursuant to the first
+     sentence  of  this  subsection  (b) to  cover  Buyer's  administrative  and
+     operational costs and expenses.
+
+          (c) Failure to Replace. If Seller or Buyer does not make a replacement
+     purchase  or sale,  the failing  Party shall still be liable in  accordance
+     with the provisions of Section 7.1 and the Sales Price or Replacement Price
+     shall be deemed to be the daily price as posted in BTU's Daily Gas Wire for
+     Gas for each day to failure at the location which most closely reflects the
+     relevant Delivery  Point(s);  provided,  however,  if the non-failing party
+     does not learn of the  failure  until  after the fact,  then in lieu of the
+     remedy provided in this subsection (c), the non-failing party may calculate
+     its damages as of the date(s) on which  replacement  purchases or sales are
+     actually made.
+
+7.2  EFP  and  Trigger  Price  Transactions.   If  the  Transaction  is  an  EFP
+Transaction,  any Party  failing to offer and  complete  the purchase or sale of
+Exchange  futures  contracts  from or to the other  Party shall be liable to the
+other  Party for actual  losses  incurred by it due to such  failure.  If either
+Party  fails to complete  the  purchase or sale of gas after the other Party has
+executed  trades  pursuant to Section 6.2 Trigger Price,  then the failing Party
+shall be liable to the  non-failing  Party for an actual losses incurred for the
+reversal of trades so  executed.  Calculation  of any  damages  pursuant to this
+Section 7.2 shall be incorporated as necessary in the calculation of damages set
+forth  in  Section  7.1 to  assure  that  the  non-failing  Party  will be fully
+compensated for its actual loss incurred because of the other Party's failure.
+
+                                  ARTICLE VIII
+                               BILLING AND PAYMENT
+
+8.1 Invoice and Payment  Dates.  Seller shall  invoice Buyer by the tenth (10th)
+day of the calendar month for Gas delivered to Buyer during the preceding month.
+If Seller has not  received  Transporter  notification  of the  actual  quantity
+delivered,  the  statement  shall be based on the  Scheduled  quantity,  and the
+Parties  agree that the next  statement  shall be adjusted to reflect the actual
+quantity delivered. Buyer shall remit to Seller the amount due by wire transfer,
+pursuant to Seller's  invoice  instructions,  on or before the Payment  Date. If
+Buyer,  in good  faith,  disputes  the  amount of any such  invoice  or any part
+thereof,  Buyer will pay to Seller  such  amount as it  concedes  to be correct;
+provided,  however,  if Buyer  disputes  the  amount  due,  Buyer  must  provide
+supporting  documentation  acceptable in industry practice to support the amount
+paid or disputed. In the event any payments are due Buyer hereunder,  payment to
+Buyer shall be made in accordance with this Section.
+
+8.2 Late  Payment.  If either  Party owing an amount to the other Party fails to
+pay in  accordance  with this  Contract,  that Party  shall pay  interest on any
+overdue  amount at a rate equal to the  lesser of: (i) the posted  prime rate in
+The Wall Street Journal as listed under "Money Rates", plus two percent (2%), or
+(ii) the maximum  rate  allowed by law,  from the due date until such  principal
+amount and interest thereon are paid.
+
+8.3 Audit  Rights.  Each Party shall have the right,  at its own  expense,  upon
+reasonable  notice and at reasonable  times, to examine the books and records of
+the other Party only to the extent  reasonably  necessary to verify the accuracy
+of any  invoice,  statement,  charge,  payment,  or  computation  made under the
+Contract.  This  examination  right  shall  not be  available  with  respect  to
+proprietary  information  not  directly  relevant  to  transactions  under  this
+Contract.  All invoices and billings  shall be  conclusively  presumed final and
+
+
+
+                                        5
+
+<PAGE>
+
+
+
+accurate  unless  objected  to in  writing,  with  adequate  explanation  and/or
+documentation, within two years after the month of Gas delivery. All retroactive
+adjustments  under this Article shall be paid in full by the party owing payment
+within 30 days of notice and substantiation of the inaccuracy.
+
+                                   ARTICLE IX
+                               NETTING PROCEDURES
+
+9.1 If the Parties to this Contract  participate in multiple  Transactions  in a
+given month  whereby each party sells Gas to and purchases Gas from the other in
+individual  Transactions,  then in lieu of the  procedures  set forth in Article
+VIII, the Parties may agree to a net settlement procedure as follows:
+
+          (a) By the tenth (10th) day of each calendar month following the month
+     in which such Transactions  occurred,  each Party shall determine the sales
+     price for the Gas sold to the other  Party and issue an invoice  reflecting
+     the  amount  due for Gas sold.  No fewer  than  three (3) days prior to the
+     Payment  Date,  the Parties  will confer by telephone  and  compare/confirm
+     invoice  amounts and total amounts owed.  Any  difference  resulting  after
+     offsetting  the total  amount  each party owes to the other  Party shall be
+     paid by the Party owing the greater amount, no later than the Payment Date.
+
+          (b) If either Party, in good faith, disputes the amount of any invoice
+     or  portion of any  invoice in the  current  billing  month,  then only the
+     non-disputed portion of the invoice(s) will be subject to netting according
+     to  this  Article  IX.  The   disputing   Party  must  provide   supporting
+     documentation acceptable in industry practice to support the amount paid or
+     disputed.  Upon  resolution  of such  dispute,  any  amounts  owing will be
+     included in netting procedures in the subsequent month.
+
+                                    ARTICLE X
+                 FINANCIAL RESPONSIBILITY AND EARLY TERMINATION
+
+10.1 Events of Default. Either Party (the "Defaulting Party") will be in default
+under this Contract if it:
+
+          (i) makes an assignment or any general  arrangement for the benefit of
+     creditors;
+          (ii)  files  a  petition  or  otherwise  commences,   authorizes,   or
+     acquiesces  in  the  commencement  of  a  proceeding  or  cause  under  any
+     bankruptcy  or similar law for the  protection  of  creditors,  or has such
+     petition filed against it and such  proceeding  remains  undismissed for 30
+     days;
+          (iii) otherwise becomes bankrupt or insolvent (however evidenced);
+          (iv) is unable to pay its debts as they fall due;
+          (v) fails to pay or perform,  when due,  any  obligation  to the other
+     Party (the  "Performing  Party"),  whether under this Contract or any other
+     contract  between the Parties,  including a contract(s) in connection  with
+     credit support obligations or otherwise, if such failure is not remedied on
+     or before the third  Business  Day after notice of such failure is given to
+     the Defaulting Party;
+          (vi) fails to give  adequate  security for or assurance of its ability
+     to perform its further  obligations under this Contract within  forty-eight
+     (48) hours of a reasonable request by the other Party, or
+          (vii)  fails to deliver any  volumes of gas which it is  obligated  to
+     deliver  to the  other  Party and such  failure  is not  remedied  within a
+     48-hour period.
+
+10.2 Default Remedies. If a Party is in default, then the Performing Party shall
+have, in addition to any and all other remedies available  hereunder or pursuant
+to law, the right to withhold or suspend  deliveries/receipts  or payment and/or
+
+
+
+                                        6
+
+<PAGE>
+
+
+
+to  specify  an Early  Termination  Date  and to  liquidate  any or all  Forward
+Contracts  (including any portion of a Forward Contract not yet fully delivered)
+then outstanding at any time or from time to time thereafter by:
+
+          (i) closing out each Transaction  being liquidated at its Market Value
+     so that each such  Transaction  is canceled and a settlement  payment in an
+     amount equal to the  difference  between such Market Value and the Contract
+     Value of such  Transaction  shall be due to the Buyer under the Transaction
+     if such Market Value  exceeds the  contract  Value and to the Seller if the
+     Contract Value exceeds the Market Value;
+          (ii)  discounting  each amount then due under  subsection (i) above to
+     present  value  in a  commercially  reasonable  manner  as of the  time  of
+     liquidation to take into account the period between the date of liquidation
+     and the date on which such amount would have otherwise been due pursuant to
+     the relevant Transaction; and
+          (iii) netting or aggregating,  as  appropriate,  any or all settlement
+     payments under this Contract  (discounted as  appropriate).  The net amount
+     due any such  liquidation  shall be paid by the  close of  business  on the
+     Business Day following the Early Termination Date.
+
+The rate of interest used in  calculating  net present value shall be determined
+by the Performing Party in a commercially reasonable manner.
+
+10.3 Set-off. If a Party is in Default, at the election of the Performing Party,
+any or all other amounts owing between the Parties under any contract may be set
+off  against  amounts  owing under this  Contract  so that all such  amounts are
+aggregated and/or netted to a single amount payable by one Party to the other.
+
+                                   ARTICLE XI
+                                      TAXES
+
+Seller  shall  pay or cause to be paid  all  taxes  lawfully  levied  on  Seller
+applicable to the Gas delivered  hereunder prior to its delivery to Buyer. Buyer
+shall pay all taxes  lawfully  levied on Buyer  applicable  to such Gas upon and
+after  delivery  to Buyer or for the  account  of Buyer.  If  Seller is  legally
+obligated to collect any taxes from Buyer,  Seller shall have full  authority to
+do so. If Buyer is exempt  from any taxes,  Buyer  shall  furnish  Seller with a
+valid and properly  completed  resale or exemption  certificate  upon request by
+Seller.
+
+                                   ARTICLE XII
+                                  FORCE MAJEURE
+
+12.1 Excuse for Force  Majeure.  Except with regard to a Party's  obligation  to
+make  payments  due under this  Contract,  in the event  either  Party hereto is
+rendered  unable,  wholly  or in  part,  by  Force  Majeure  to  carry  out  its
+obligations,  then upon  notification  by telephone  with a  subsequent  written
+notice setting forth the specifics  within a reasonable  time, but not in excess
+of six (6) days after the  commencement  of the  failure to perform due to Force
+Majeure,  the  obligations of the Party giving such notice,  insofar as they are
+affected by such Force Majeure, from its inception,  shall be excused during the
+entire period of any inability so caused but for no longer period.
+
+12.2 Inclusions. The term "Force Majeure" as employed in this Contract will mean
+any event  that  prevents  delivery  or receipt  of Gas at the  Delivery  Point,
+including  acts  of  God,   strikes,   lockouts,   or  industrial   disputes  or
+disturbances,  civil disturbances,  interruptions by government or court orders,
+necessity for  compliance  with any court order,  law,  statute,  ordinance,  or
+regulation promulgated by a governmental authority having jurisdiction,  acts of
+the public enemy,  events  affecting  facilities  or services of  non-affiliated
+third parties, or any other cause of like kind not reasonably within the control
+
+
+
+                                        7
+
+<PAGE>
+
+
+
+of the Party  claiming  Force Majeure and which by the exercise of due diligence
+such Party could not have prevented or is unable to overcome.
+
+12.3  Exclusions.  The term Force  Majeure  specifically  excludes the following
+occurrences or events:
+
+          i) The curtailment of interruptible  or secondary firm  transportation
+     unless primary, in-path, firm transportation is also curtailed;
+          ii)  increases  or  decreases  in  Gas  supply  due to  allocation  or
+     reallocation of production by well operators, pipelines, or other parties;
+          iii) changes in market conditions or economic curtailment;
+          iv)  loss of  markets  or Gas  supply  unless  such  loss  would  also
+     constitute an event of Force Majeure under this Contract;
+          v) failure of specific,  individual wells or appurtenant facilities in
+     the absence of a Force Majeure event broadly  affecting  other wells in the
+     same geographic area; and
+          vi) regulatory disallowance of the pass through of the costs of Gas or
+     other related costs.
+
+                                  ARTICLE XIII
+                            WARRANTIES AND LIABILITY
+
+13.1 Seller Warranties. Seller warrants that all royalties, taxes and other sums
+due on production  and  transportation  of the Gas to the Delivery  Point(s) are
+paid,  and that it will  have the  right to convey  and will  transfer  good and
+merchantable  title to all Gas sold hereunder and delivered by it to Buyer, free
+and clear of any and all liens, encumbrances and claims.
+
+13.2 Indemnity.  Subject to Section 16.8, each Party assumes full responsibility
+and liability for and shall indemnify and save harmless the other Party from all
+liability  and  expense on account of any and all  damages,  claims or  actions,
+including  injury  to and death of  persons,  arising  from any act or  accident
+occurring when title to the Gas is vested in the  indemnifying  Party unless the
+act or accident was the result of the willful  misconduct or gross negligence of
+the indemnified Party, its agents or assigns.
+
+                                   ARTICLE XIV
+                   QUALITY, MEASUREMENT AND DELIVERY PRESSURE
+
+All Gas delivered by Seller  hereunder  shall  conform to the heat,  quality and
+delivery pressure specifications of Buyer's Transporter(s).
+
+                                   ARTICLE XV
+                                     NOTICES
+
+15.1  All  billings,  payments,  statements,  notices  and  communications  made
+pursuant to this Contract shall be made as follows:
+
+
+
+Notices, statements and invoices:                    Payments to Tenaska Marketing Ventures:
+--------------------------------                     --------------------------------------
+
+                                                  
+Tenaska Marketing Ventures                           Tenaska Marketing Ventures
+11235 Davenport Street                               First National Bank of Omaha
+Omaha, NE 68154                                      Omaha, NE 68154
+Notices: Manager, Administration                     Account No.:         
+Invoices: Gas Accounting                             ABA Routing No.:          
+Gas Control: Director - Throughput Mgmt.             Federal Tax I.D. #:   -       
+Phone: (402) 758-6128                                Duns #:          
+Fax:     (402) 758-6250
+
+
+
+
+                                        8
+
+<PAGE>
+
+
+
+
+Notices, statements and invoices:                             Payments to:
+--------------------------------                              -----------
+
+                                                           
+Warren Resources, Inc.                                        Big Basin Petroleum, LLC
+c/o Millennium Gas Marketing, LLC                             LX CBM Operating Account
+513 East Bismarck Expressway, Suite 6                         First National Bank of Gillette
+Bismarck, ND 58504                                            Account No.:         
+Notices: Claudia Bender, Vice President                       ABA Routing No.:          
+Invoices: Gas Accounting                                      Federal Tax I.D. #:
+Phone:   (701) 250-8585                                       Duns #:   -   -    
+Fax:     (701) 250-8511
+
+
+15.2  All  notices  required  hereunder  may be sent by  facsimile  or  mutually
+acceptable  electronic means, a nationally recognized overnight courier service,
+first class mail or hand delivered.
+
+15.3 Notice shall be given when received on a Business Day by the addressee.  In
+the absence of proof of the actual receipt date, the following presumptions will
+apply.  Notices sent by facsimile shall be deemed to have been received upon the
+sending  party's receipt of its facsimile  machine's  confirmation of successful
+transmission,  if the day on which such  facsimile is received is not a Business
+Day or is after 4:00 p.m. C.C.T. on a Business Day, then such facsimile shall be
+deemed to have been  received  on the next  following  Business  Day.  Notice by
+overnight  mail or  courier  shall be deemed to have been  received  on the next
+Business  Day  after it was sent or such  earlier  time as is  confirmed  by the
+receiving party. Notice via first class mail shall be considered  delivered five
+Business Days after mailing.
+
+                                   ARTICLE XVI
+                                  MISCELLANEOUS
+
+16.1 Transfer or  Assignment.  This Contract  shall be binding upon and inure to
+the benefit of the successors,  assigns, personal representatives,  and heirs of
+the  respective  Parties  hereto,  and the  covenants,  conditions,  rights  and
+obligations of this Contract  shall run for the full term of this  Contract.  No
+assignment of this contract, in whole or in part, will be made without the prior
+written  consent  of  the  non-assigning   party,  which  consent  will  not  be
+unreasonably withhold or delayed;  provided,  however, either Party may transfer
+its  interest to any parent or  affiliate  by  assignment,  merger or  otherwise
+without the prior approval of the other Party. Upon any transfer and assumption,
+the  transferor  shall not be relieved  of or  discharged  from any  obligations
+hereunder unless such assumption is made in the transfer/assumption agreement.
+
+16.2  Severability.  If any term,  provision,  covenant,  or  condition  of this
+Contract or the application thereof, to any party or circumstance, shall be held
+to be  invalid  or  unenforceable  (in  whole or in part)  for any  reason,  the
+remaining terms, provisions,  covenants, and conditions hereof shall continue in
+full force and effect as if this  Contract had been executed with the invalid or
+unenforceable portion eliminated.
+
+16.3  Applicable Law. The Contract shall be governed in accordance with the laws
+of the State of Nebraska  except for such laws concerning the application of the
+laws of another jurisdiction.
+
+16.4 Entire Agreement. THE TERMS CONTAINED IN THIS CONTRACT CONSTITUTE THE
+ENTIRE CONTRACT OF THE PARTIES, AND THERE ARE NO CONTRACTS, UNDERSTANDINGS,
+OBLIGATIONS, PROMISES, ASSURANCES OR CONDITIONS, PRECEDENT OR OTHERWISE, EXCEPT
+THOSE EXPRESSLY SET OUT HEREIN.
+
+
+                                        9
+
+<PAGE>
+
+
+16.5 Confidentiality.  The terms of this Contract,  including but not limited to
+the price paid for Gas, the  identified  Transporter(s),  the  quantities of Gas
+purchased or sold and all other  material  terms of this Contract  shall be kept
+confidential  by the Parties  hereto,  and shall not be  disclosed  to any third
+party  except to the extent that any  information  must be  disclosed to a third
+party  for the  purpose  of  effectuating  transportation  of the Gas  delivered
+hereunder or as may be required by law or regulation.
+
+16.6  Non-Waiver.  Any waiver of any default  under this  Contract  shall not be
+construed  as a waiver of any  future  defaults,  whether  of like or  different
+character.
+
+16.7  Conflict  of  Terms.  In the case of  conflict  between  the  terms of any
+Confirmation and the terms of this Contract, the terms of the Confirmation shall
+control.
+
+16.8 Limitation on Liability.  EXCEPT AS OTHERWISE SPECIFICALLY PROVIDED HEREIN,
+IN NO EVENT  WILL  EITHER  PARTY BE  LIABLE  UNDER  THIS  CONTRACT,  WHETHER  IN
+CONTRACT, IN TORT (INCLUDING NEGLIGENCE AND STRICT LIABILITY) OR OTHERWISE,  FOR
+INCIDENTAL, CONSEQUENTIAL, SPECIAL OR PUNITIVE DAMAGES.
+
+16.9 Non-Recourse.  Without limiting the Company's ability to enforce its rights
+under any guaranty provided to it by an affiliate of TMV, the obligations of TMV
+under  this  Contract  shall  have  recourse  only to the  assets  of TMV and no
+recourse to the  personal  assets of any partner in TMV or any  affiliate of any
+partner in TMV, any  individual  controlling  person or any  officer,  director,
+employee or stockholder thereof, or any successor thereto.
+
+IN WITNESS  WHEREOF,  this Contract has been executed as of the date first above
+written:
+
+TENASKA MARKETING VENTURES                           WARREN RESOURCES, INC.
+
+By:      Tenaska Marketing, Inc.
+         Managing General Partner
+
+
+By:      /s/ Fred R. Hunzeker
+   --------------------------                        ---------------------------
+         Fred R. Hunzeker                             Title: Ops Manager
+         President
+
+Date:    3-28-00                                     Date:    4-5-00
+
+
+                                       10
+

@@ -1,0 +1,331 @@
+﻿TRANSITION SERVICES AGREEMENT
+by and between
+EXPEDIA, INC.
+and
+TRIPADVISOR, INC.
+DATED AS OF DECEMBER 20, 2011
+
+TRANSITION SERVICES AGREEMENT
+         This TRANSITION SERVICES AGREEMENT, dated as of December 20, 2011 (this "Services Agreement"), is entered into by and between Expedia, Inc., a Delaware corporation ("Expedia"), and TripAdvisor, Inc., a Delaware corporation and wholly owned Subsidiary of Expedia ("TripAdvisor"). Capitalized terms used herein but not defined herein shall have the meaning set forth in that certain Separation Agreement, dated as of the date hereof, by and between Expedia and TripAdvisor (the "Separation Agreement").
+         WHEREAS, the Board of Directors of Expedia has determined it is appropriate and desirable to separate Expedia and TripAdvisor into two publicly-traded companies by separating the businesses comprising Expedia's TripAdvisor media group from Expedia's remaining businesses by way of Expedia and its Subsidiaries effecting the Separation Transactions, and thereafter effecting a reclassification of the capital stock of Expedia;
+         WHEREAS, Expedia and TripAdvisor expect to enter into the Separation Agreement on the date hereof, which sets forth, among other things, the assets, liabilities, rights and obligations of each of the Parties for purposes of effecting the separation of Expedia and TripAdvisor; and
+         WHEREAS, in connection with such separation, (a) TripAdvisor desires to procure certain services from Expedia, and Expedia is willing to provide such services to TripAdvisor, during a transition period commencing on the Effective Date, on the terms and conditions set forth in this Services Agreement; and (b) Expedia desires to procure certain services from TripAdvisor, and TripAdvisor is willing to provide such services to Expedia, during a transition period commencing on the Effective Date, on the terms and conditions set forth in this Services Agreement.
+         NOW THEREFORE, in consideration of the mutual agreements, covenants and other provisions set forth in this Services Agreement, the Parties hereby agree as follows:
+ARTICLE I
+Definitions
+　　1.01. All terms used herein and not defined herein shall have the meanings assigned to them in the Separation Agreement.
+ARTICLE II
+Agreement To Provide and Accept Services
+　　2.01. Provision of Services.
+　　(a) On the terms and subject to the conditions contained herein, Expedia shall provide, or shall cause its Subsidiaries and Affiliates and their respective employees designated by Expedia (such designated Subsidiaries, Affiliates and employees, together with Expedia, being herein collectively referred to as the "Expedia Service Providers") to provide, to
+
+TripAdvisor, the services ("Expedia Services") listed on the Schedule of Services agreed upon and exchanged between the Parties on the date hereof (the "Services Schedule") as being performed by Expedia. Subject to Section 3.01, any decisions as to which of the Expedia Service Providers (including the decisions to use third parties) shall provide the Expedia Services shall be made by Expedia in its sole discretion, except to the extent specified in the Services Schedule. Each Expedia Service shall be provided in exchange for the consideration set forth with respect to such Expedia Service on the Services Schedule or as the Parties may otherwise agree in writing. Each Expedia Service shall be provided and accepted in accordance with the terms, limitations and conditions set forth herein and on the Services Schedule.
+　　(b) On the terms and subject to the conditions contained herein, TripAdvisor shall provide, or shall cause its Subsidiaries and Affiliates and their respective employees designated by it (such designated Subsidiaries, Affiliates and employees, together with TripAdvisor, being herein collectively referred to as the "TripAdvisor Service Providers" and together with the Expedia Service Providers, the "Service Providers") to provide, to Expedia the services ("TripAdvisor Services" and together with the Expedia Services, the "Services") listed on the Services Schedule as being performed by TripAdvisor. Subject to Section 3.01, any decisions as to which of the TripAdvisorService Providers (including the decisions to use third parties) shall provide the TripAdvisor Services shall be made by TripAdvisor in its sole discretion, except to the extent specified on the Services Schedule. EachTripAdvisor Service shall be provided in exchange for the consideration set forth with respect to such Service on the Services Schedule or as the Parties may otherwise agree in writing. Each TripAdvisor Service shall be provided and accepted in accordance with the terms, limitations and conditions set forth herein and on the Schedule.
+　　(c) As used in this Services Agreement, the term "Receiving Party" shall mean the Party receiving Services.
+　　2.02. Books and Records; Availability of Information. Each Party shall create and maintain accurate books and records in connection with the provision of the Services performed or caused to be performed by it and, upon reasonable notice from the other Party, shall make available for inspection and copy by such other Party's agents such books and records during reasonable business hours with such inspection occurring no more than one (1) time during the term in which the Service Provider has provided the applicable Service. Moreover, such inspection shall be conducted by the Receiving Party or its agents in a manner that will not unreasonably interfere with the normal business operations of the Service Provider. Each Party shall make available on a timely basis to the Service Providers all information and materials reasonably requested by such Service Providers to enable them to provide the Services. Each Receiving Party shall provide to the Service Providers reasonable access to such Receiving Party's premises to the extent necessary for the purpose of providing the Services.
+ 
+-2-
+
+ARTICLE III
+Services; Payment; Independent Contractors
+　　3.01. Services To Be Provided. (a) Unless otherwise agreed by the Parties (including to the extent specified on the Services Schedule), (i) the Service Providers shall be required to perform the Services only in a manner, scope, nature and quality as provided by or within Expedia that is similar in all material respects to the manner in which such Services were performed immediately prior to the Effective Date, and (ii) the Services shall be used for substantially the same purposes and in substantially the same manner (including as to volume, amount, level or frequency, as applicable) as the Services have been used immediately prior to the Effective Date; provided, however, that the Services Schedule shall control the scope of the Service to be performed (to the extent provided therein), unless otherwise agreed in writing. Each Party and the Service Providers shall act under this Services Agreement solely as an independent contractor and not as an agent or employee of any other Party or any of such Party's Affiliates. As an independent contractor, all overhead and personnel necessary to the Services required of the Service Providers hereunder shall be the Service Provider's sole responsibility and shall be at the Service Provider's sole cost and expense. No Service Provider shall have the authority to bind the Receiving Party by contract or otherwise.
+　　(b) The provision of Services by Service Providers shall be subject to Article V hereof.
+　　(c) Each Party agrees to use its reasonable efforts to reduce or eliminate its dependency on the Services as soon as is reasonably practicable; provided that a breach of this Section 3.01(c) shall not affect a Service Provider's obligation to provide any Service through the term applicable to such Service.
+　　3.02. The Parties will use good-faith efforts to reasonably cooperate with each other in all matters relating to the provision and receipt of Services. Such cooperation shall include obtaining all consents, licenses or approvals necessary to permit each Party to perform its obligations hereunder; provided, however, under no circumstances shall any Service Provider be required to make any payments to any third party in respect of any such consents, licenses or approvals nor shall any Service Provider be required to make any alternative arrangements in the event that any such consents, licenses or approvals are not obtained.
+　　3.03. Additional Services.
+　　(a) From time to time during the term, each of Expedia and TripAdvisor may request the other Party (i) to provide additional (including as to volume, amount, level or frequency, as applicable) or different services which the other Party is not expressly obligated to provide under this Agreement if such services are of the type and scope provided within Expedia during fiscal year 2011 or (ii) expand the scope of any Service (such additional or expanded services, the "Additional Services"). The Party receiving such request shall consider such request in good faith and shall use commercially reasonable efforts to provide such Additional Services; provided, no Party shall be obligated to provide any Additional Services if it does not, in its reasonable judgment, have adequate resources to provide such Additional Services or if the provision of such Additional Services would interfere with the operation of its business. The Party receiving the request for Additional Services shall notify the requesting Party within fifteen (15) days as to whether it will or will not provide the Additional Services.
+ 
+-3-
+
+　　(b) If a Party agrees to provide Additional Services pursuant to Section 3.03(a), then a representative of each party shall in good faith negotiate the terms of a supplement to the Services Schedule which will describe in detail the service, project scope, term, price and payment terms to be charged for the Additional Services. Once agreed to in writing, the supplement to the Services Schedule shall be deemed part of this Services Agreement as of such date and the Additional Services shall be deemed "Services" provided hereunder, in each case subject to the terms and conditions of this Agreement.
+　　3.04. Payments. Except as may be set forth on the Services Schedule, statements will be delivered to the Receiving Party within fifteen days after the end of each month by the Service Providers designated by each Party for Services provided to the Receiving Party during the preceding month, and each such statement shall set forth a brief description of such Services, the amounts charged therefor, and, except as the Parties may agree or as set forth on the Services Schedule, such amounts shall be due and payable by the Receiving Party within thirty (30) days after the date of such statement. Statements not paid within such 30-day period shall be subject to late charges, calculated at an interest rate per annum equal to the Prime Rate plus 2% (or the maximum legal rate, whichever is lower), and calculated for the actual number of days elapsed, accrued from the date on which such payment was due up to the date of the actual receipt of payment. Payments shall be made by wire transfer to an account designated in writing from time to time by Service Provider.
+　　3.05. Payroll Transition. On or about December 30, 2011, Expedia shall, through Expedia payroll systems, (a) pay TripAdvisor employees in respect of the December 12, 2011 to December 25, 2011 pay period (the "Final Pay Period"), (b) make contributions to the TripAdvisor 401(k) Plan on behalf of the TripAdvisor employees in respect of the Final Pay Period, and (c) make any applicable withholdings, and pay any applicable payroll taxes relating to TripAdvisor employees in respect of such Final Pay Period. No later than January 31, 2012, Expedia shall provide to TripAdvisor an invoice that sets forth the product (such product, the "Payroll Transition Amount") obtained by multiplying (x) the aggregate amount of payments made pursuant to clauses (a) through (c) of the immediately preceding sentence by (y) 35.71%. TripAdvisor shall remit to Expedia the Payroll Transition Amount no later than February 15, 2012. Expedia's calculation of the Payroll Transition Amount pursuant to this Section 3.05 shall be final and binding upon TripAdvisor.
+　　3.06. Disclaimer of Warranty. EXCEPT AS EXPRESSLY SET FORTH IN THIS SERVICES AGREEMENT, THE SERVICES TO BE PURCHASED UNDER THIS SERVICES AGREEMENT ARE FURNISHED AS IS, WHERE IS, WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE. In the event that the provision of any Service for the account of a Receiving Party by a Service Provider conflicts with such Service Provider's provision of such Service for its own account, priority for the provision of such Service shall be allocated in an equitable manner on an aggregate basis, and in a manner consistent with the Receiving Party's level of use of such Service during fiscal year 2011 up to the Effective Date (or as described on the Services Schedule).
+　　3.07. Taxes. In the event that any Tax is properly chargeable on the provision of the Services as indicated on the Services Schedule, the Receiving Party shall be responsible for and shall pay the amount of any such Tax in addition to and at the same time as the Service fees. All Service fees and other consideration will be paid free and clear of and without withholding or deduction for or on account of any Tax, except as may be required by law.
+ 
+-4-
+
+　　3.08. Use of Services. The Receiving Party shall not, and shall cause its Affiliates not to, resell any Services to any person whatsoever or permit the use of the Services by any person other than in connection with the conduct of the Receiving Party's operations as conducted immediately prior to the Effective Date.
+ARTICLE IV
+Term of Services
+　　4.01. The provision of Services shall commence on the Effective Date and shall terminate no later than twelve (12) months after the date hereof or as of the date indicated for each such Service on the Services Schedule; provided,however, that subject to the Services Schedule, any Service may be cancelled or reduced in amount or any portion thereof by the Receiving Party upon ninety (90) days' written notice thereof (or such other notice period if one is set forth for such Service on the Services Schedule) subject to the requirement that the Receiving Party pay to the Service Provider the actual out-of-pocket costs incurred by the Service Provider, as well as the actual incremental internal costs incurred by the Service Providers, in each case directly resulting from such cancellation (including employee severance and other termination costs), which out-of-pocket and internal costs shall be set forth in a written statement provided by the Service Provider to the Receiving Party; provided, further, that such costs shall not exceed amounts payable hereunder in respect of the applicable Service for the ninety (90) days prior to such termination. The foregoing notwithstanding and subject to Section 7.02, (i) a Service Provider may immediately terminate any individual Service provided to a Receiving Party in the event that the Receiving Party fails to make payments for such Service under Section 3.04 and has not cured such failure within thirty (30) days of written notice of such failure from the Service Provider, and (ii) upon ninety (90) days' written notice, the Service Provider may terminate any Service provided to the Receiving Party at such time as the Service Provider no longer provides the same Service to itself for its own account.
+　　4.02. In the event a Receiving Party requests an extension of the term applicable to the provision of Services, such request shall be considered in good faith by the Service Provider. Any terms, conditions or costs or fees to be paid by the Receiving Party for Services provided during an extended term will be on mutually acceptable terms. For the avoidance of doubt, under no circumstances shall a Service Provider be required to extend the term of provision of any Service if (i) the Service Provider does not, in its reasonable judgment, have adequate resources to continue providing such Services, (ii) the extension of the term would interfere with the operation of the Service Provider's business or (iii) the extension would require capital expenditure on the part of the Service Provider or otherwise require the Service Provider to renew or extend any Contract with any third party.
+　　4.03. Termination of Certain Agreements. Notwithstanding any provision to the contrary in the PSG Lodging Supply Services Agreement, between Expedia Partner Services Group Sarl and Expedia Business Service (Beijing) Co., Ltd., effective July 1, 2010, (the "PSG Agreement"), Expedia and TripAdvisor shall terminate the PSG Agreement, such termination
+ 
+-5-
+
+effective no later than twelve (12) months after the date hereof. Notwithstanding any provision to the contrary in the Fulfillment Services Agreement, between Egencia LLC ("Egencia") and eLong, Inc. ("eLong"), dated as of January 1, 2009 ("FSA Agreement"), Egencia and eLong shall terminate the FSA Agreement, such termination effective no later than (12) months after the date hereof.
+ARTICLE V
+Force Majeure
+　　5.01. The Service Providers shall not be liable for any expense, loss or damage whatsoever arising out of any interruption of Service or delay or failure to perform under this Services Agreement that is due to acts of God, acts of a public enemy, acts of terrorism, acts of a nation or any state, territory, province or other political division thereof, changes in applicable law, fires, hurricanes, floods, epidemics, riots, theft, quarantine restrictions, freight embargoes or other similar causes beyond the reasonable control of the Service Providers. In any such event, the Service Providers' obligations hereunder shall be postponed for such time as its performance is suspended or delayed on account thereof. Each Service Provider will promptly notify the recipient of the Service, either orally or in writing, upon learning of the occurrence of such event of force majeure. Upon the cessation of the force majeure event, such Service Provider will use commercially reasonable efforts to resume, or to cause any other relevant Service Provider to resume, its performance with the least practicable delay (provided that, at the election of the applicable Receiving Party, the applicable term for such suspended Services shall be extended by the length of the force majeure event).
+ARTICLE VI
+Liabilities
+　　6.01. Consequential and Other Damages. None of the Service Providers shall be liable to the Receiving Party with respect to this Services Agreement, whether in contract, tort (including negligence and strict liability) or otherwise, for any special, indirect, incidental or consequential damages whatsoever (except, in each case, to the extent any such amount is paid to third parties by a Receiving Party or its Affiliates) which in any way arise out of, relate to or are a consequence of, the performance or nonperformance by it hereunder or the provision of, or failure to provide, any Service hereunder, including with respect to loss of profits, business interruptions or claims of customers.
+　　6.02. Limitations of Liability. Subject to Section 6.03 hereof, the liability of any Service Provider with respect to this Services Agreement or any act or failure to act in connection herewith (including, but not limited to, the performance or breach hereof), or from the sale, delivery, provision or use of any Service provided under or covered by this Services Agreement, whether in contract, tort (including negligence and strict liability) or otherwise, shall be limited to actions or omissions resulting from intentional breach of this Services Agreement or gross negligence, and, in any event, such liability shall not exceed the fees previously paid to such Service Provider under this Services Agreement.
+ 
+-6-
+
+　　6.03. Obligation To Re-perform. In the event of any breach of this Services Agreement by any Service Provider resulting from any error or defect in the performance of any Service (which breach such Service Provider can reasonably be expected to cure by re-performance in a commercially reasonable manner), the Service Provider shall use its reasonable commercial efforts to correct in all material respects such error, defect or breach or re-perform in all material respects such Service upon receipt of the written request of the Receiving Party.
+　　6.04. Indemnity. Except as otherwise provided in this Service Agreement (including the limitation of liability provisions in this Article VI), each Party shall indemnify, defend and hold harmless the other Party from and against any Liability arising out of the intentional breach hereunder or gross negligence of the Indemnifying Party or its Affiliates, employees, agents, or contractors (including with respect to the performance or nonperformance of any Service hereunder). The procedures set forth in Sections 7.04 and 7.05 of the Separation Agreement shall apply to any claim for indemnification hereunder.
+ARTICLE VII
+Termination
+　　7.01. Termination. Notwithstanding anything herein to the contrary, this Services Agreement shall terminate, and the obligation of the Service Providers to provide or cause to be provided any Service shall cease, on the earliest to occur of (i) the last date indicated for the termination of any Service on the Services Schedule, as the case may be, (ii) the date on which the provision of all Services has been terminated or canceled pursuant to Article IV hereof, or (iii) the date on which this Services Agreement is terminated by TripAdvisor or Expedia, as the case may be, in accordance with the terms of Section 7.02 hereof; provided that, in each case, no such termination shall relieve any Party of any liability for any breach of any provision of this Services Agreement prior to the date of such termination.
+　　7.02. Breach of Services Agreement; Dispute Resolution. Subject to Article VI hereof, and without limiting a Party's obligations under Section 4.01, if a Party shall cause or suffer to exist any material breach of any of its obligations under this Services Agreement, including any failure to make a payment within thirty (30) days after receipt of the statement describing the Services provided for pursuant to Section 3.04 with respect to more than one Service provided hereunder, and that Party does not cure such default in all material respects within 30 days after receiving written notice thereof from the non-breaching Party, the non-breaching Party shall have the right to terminate this Services Agreement immediately thereafter. In the event a dispute arises between the Parties regarding the terms of this Services Agreement, such dispute shall be governed by Article X of the Separation Agreement.
+　　7.03. Sums Due. In addition to any other payments required pursuant to this Services Agreement, in the event of a termination of this Services Agreement, the Service Providers shall be entitled to the immediate payment of, and the Receiving Party shall within three (3) Business Days, pay to the Service Providers, all accrued amounts for Services, Taxes and other amounts due under this Services Agreement as of the date of termination.
+ 
+-7-
+
+　　7.04. Effect of Termination. Section 2.02 hereof and Articles V, VI, VII and VIII hereof shall survive any termination of this Services Agreement.
+ARTICLE VIII
+Miscellaneous
+　　8.01. Incorporation of Separation Agreement Provisions. The provisions of Article XIV of the Separation Agreement are hereby incorporated herein by reference, and unless otherwise expressly specified herein, such provisions shall apply as if fully set forth herein.
+　　8.02. Ownership of Work Product. Subject to the terms of the Separation Agreement, (i) each Service Provider acknowledges and agrees that it will acquire no right, title or interest (including any license rights or rights of use) to any work product resulting from the provision of Services hereunder for the Receiving Party's exclusive use and such work product shall remain the exclusive property of the Receiving Party and (ii) each Receiving Party acknowledges and agrees that it will acquire no right, title or interest (other than a non-exclusive, worldwide right of use) to any work product resulting from the provision of Services hereunder that is not for the Receiving Party's exclusive use and such work product shall remain the exclusive property, subject to license, of the Service Provider.
+ 
+-8-
+
+         IN WITNESS WHEREOF, the Parties have caused this Services Agreement to be executed by their duly authorized representatives.
+
+EXPEDIA, INC.By: /s/ Mark D. Okerstrom Name: Mark D. Okerstrom Title: Executive Vice President & Chief Financial OfficerTRIPADVISOR, INC.By: /s/ Stephen Kaufer Name: Stephen Kaufer Title: President & Chief Executive Officer
+Expedia-TripAdvisor Schedules to Transition Services Agreement
+Final – December 20, 2011
+ 
+Schedule 1
+Knowledge Transfer
+　　Scope of Services: In the functional areas listed below, subject to the following limitations, Expedia personnel shall provide reasonably requested knowledge transfer and general assistance to TripAdvisor personnel related to matters that occurred prior to the Effective Date. No information or assistance may be provided to the extent it would create a conflict of interest, violate any confidentiality obligations, risk the loss of attorney-client privilege, expose Expedia to potential liability or otherwise interfere with the operation of Expedia's business. TripAdvisor shall use all reasonable efforts to minimize the extent of requested knowledge transfer and general assistance.
+　　Term: 12 months
+
+Functional Area  Cost*  Related FunctionsInternal Audit  $100 per hour  Legal – Litigation  $150 per hour  Legal - Employment  $150 per hour  Legal – Corporate/Securities  $150 per hour  Legal – Software  Applicable access fee  Expedia shall provide
+
+(i)     access to Upside Contract Management software on an as-needed basis, and
+
+(ii)    access to TripAdvisor data from Expedia's Serengeti Tracker e-billing software system on an as-needed basisExecutive Expertise  Per diem rate based on executive's annual base salary  Treasury  $100 per hour  SEC and External Financial Reporting  $125 per hour  Expedia shall provide access to supporting documentation for S-4 and other materials filed with the SEC prior to the Effective DateProcurement/sourcing  None  Parties will coordinate strategic sourcing for the companies in a manner designed to optimize purchasing power and enhance cost savings
+*In addition to per-hour charge, any out-of-pocket expenses will be charged to Receiving Party. 
+1
+
+Expedia-TripAdvisor Schedules to Transition Services Agreement
+Final – December 20, 2011
+ 
+Schedule 2
+Government Affairs Services
+　　Scope of Services: Subject to the limitations set forth below, Expedia shall provide reasonably requested Government Affairs Services to TripAdvisor. The type and scope of such services to be provided shall be generally consistent with the types of services provided within Expedia immediately prior to the Effective Date, including:
+
+ • Monitoring of state, federal and international legislative developments in connection with the public policy interests of TripAdvisor, including, but not limited to, anti-trust issues, review of competitive activities in the travel space, airline activities, regulations relating to the vacation rental market, ongoing review of international norms for online intermediaries, and guidance on occupancy tax issues.
+ • Making lobbying contacts, with state, federal and international policymakers.
+ • Supervising and coordinating the activities of outside advisors in connection with government affairs activities.
+ • Advising TripAdvisor on political affairs strategy.
+ • Overseeing TripAdvisor's trade association memberships and representing TripAdvisor in related matters.
+ • Assisting TripAdvisor in communicating with regulatory agencies and achieving regulatory compliance.　　No information or assistance may be provided to the extent it would create a conflict of interest, violate any confidentiality obligations, risk the loss of attorney-client privilege, expose Expedia to potential liability or otherwise interfere with the operation of the provider's business.
+　　Service Provider; Limitations: For Governmental Affairs Services, the primary Service Provider at Expedia shall be [*], or his successor, and such Service Provider shall dedicate no more than 15% of his time to the provision of services to TripAdvisor pursuant to this Agreement.
+　　Term: 12 months.
+　　Early Termination: In the event of a change in the primary Service Provider (i.e., the departure of [*] from the employ of Expedia), either Expedia or TripAdvisor shall be permitted to terminate all Government Affairs Services upon 90 days' written notice.
+　　Cost: Charges for Government Affairs Services shall accrue on a cost plus 5% basis, with cost calculated as 15% of the sum of [*]'s (or his successor's) (x) salary, (y) bonus target and (z) Expedia's net cost of his benefits, (adjusted for any salary, bonus or benefits increases). In other words, the monthly charge will be equal to: 1/12 x (0.15 x ((base salary + target bonus + annualized cost of benefits) x 1.05)). In addition, TripAdvisor shall be charged for any out-of-pocket expenses incurred in connection with the provision of services (e.g., travel costs).
+ 
+
+Expedia-TripAdvisor Schedules to Transition Services Agreement
+Final – December 20, 2011
+ 
+Schedule 3
+Legal Services – Intellectual Property & Domain Name Acquisition
+　　Scope of Services: Subject to the limitations set forth below, Expedia shall provide TripAdvisor with reasonably requested assistance with regard to the legal aspects of its intellectual property portfolio and in the acquisition of domain names, urls and similar properties.
+　　No information or assistance may be provided to the extent it would create a conflict of interest, violate any confidentiality obligations, risk the loss of attorney-client privilege, expose Expedia to potential liability or otherwise interfere with the operation of the provider's business.
+　　Service Provider; Limitations: For these services, the primary Service Provider shall be [*] and such primary Service Provider shall dedicate no more than 15% of her time to the provision of services to TripAdvisor pursuant to this Agreement.
+　　Term: up to 12 months, as needed.
+　　Early Termination: In the event of a change in the primary Service Provider (i.e., the departure of [*] from the employ of Expedia), either Expedia or TripAdvisor shall be permitted to terminate all intellectual property-related legal services and domain name acquisition services upon 90 days' written notice.
+　　Cost: Charges for intellectual property-related legal services and domain name acquisition services shall accrue on a cost plus 5% basis, with cost calculated as 15% of the sum of [*]'s (x) salary, (y) bonus target and (z) Expedia's net cost of her benefits, (adjusted for any salary, bonus or benefits increases). In other words, the monthly charge will be equal to: 1/12 x (0.15 x ((base salary + target bonus + annualized cost of benefits) x 1.05)). In addition, TripAdvisor shall be charged for any out-of-pocket expenses incurred in connection with the provision of services (e.g., travel costs).
+ 
+
+Expedia-TripAdvisor Schedules to Transition Services Agreement
+Final – December 20, 2011
+ 
+Schedule 4
+Legal Services – Privacy
+　　Scope of Services: Subject to the limitations set forth below, Expedia shall provide TripAdvisor with reasonably requested assistance with issues relating to privacy law.
+　　No information or assistance may be provided to the extent it would create a conflict of interest, violate any confidentiality obligations, risk the loss of attorney-client privilege, expose Expedia to potential liability or otherwise interfere with the operation of the provider's business.
+　　Service Provider; Limitations: For these services, the primary Service Provider shall be [*] and such primary Service Provider shall dedicate no more than 10% of her time to the provision of services to TripAdvisor pursuant to this Agreement.
+　　Term: Up to 12 months, as needed.
+　　Early Termination: In the event of a change in the primary Service Provider (i.e., the departure of [*] from the employ of Expedia), either Expedia or TripAdvisor shall be permitted to terminate all privacy-related legal services upon 90 days' written notice.
+　　Cost: Charges for privacy-related legal services shall accrue on a cost plus 5% basis, with cost calculated as 10% of the sum of [*]'s (x) salary, (y) bonus target and (z) Expedia's net cost of her benefits, (adjusted for any salary, bonus or benefits increases). In other words, the monthly charge will be equal to: 1/12 x (0.1 x ((base salary + target bonus + annualized cost of benefits) x 1.05)). In addition, TripAdvisor shall be charged for any out-of-pocket expenses incurred in connection with the provision of services (e.g., travel costs).
+ 
+
+Expedia-TripAdvisor Schedules to Transition Services Agreement
+Final – December 20, 2011
+ 
+Schedule 5
+Legal Services – Corporate Secretarial
+　　Scope of Services: Subject to the limitations set forth below, Expedia shall provide TripAdvisor with reasonably requested assistance with corporate formation, organization and maintenance matters.
+　　Service Provider; Limitations: For these services, the primary Service Provider shall be [*] and such primary Service Provider shall dedicate no more than 10% of his time to the provision of services to TripAdvisor pursuant to this Agreement.
+　　No information or assistance may be provided to the extent it would create a conflict of interest, violate any confidentiality obligations, risk the loss of attorney-client privilege, expose Expedia to potential liability or otherwise interfere with the operation of the provider's business.
+　　Term: Up to 12 months, as needed.
+　　Early Termination: In the event of a change in the primary Service Provider (i.e., the departure of [*] from the employ of Expedia), either Expedia or TripAdvisor shall be permitted to terminate all corporate secretarial-related legal services upon 90 days' written notice.
+　　Cost: Charges for corporate secretarial-related legal services shall accrue on a cost plus 5% basis, with cost calculated as 10% of the sum of [*]'s (x) salary, (y) bonus target and (z) Expedia's net cost of his benefits, (adjusted for any salary, bonus or benefits increases). In other words, the monthly charge will be equal to: 1/12 x (0.1 x ((base salary + target bonus + annualized cost of benefits) x 1.05)). In addition, TripAdvisor shall be charged for any out-of-pocket expenses incurred in connection with the provision of services (e.g., travel costs and outside vendor fees).
+ 
+
+Schedule 6
+Tax and Transfer Pricing Services
+　　Scope of Services: Subject to the limitations set forth below, Expedia shall make Expedia in-house tax personnel reasonably available to TripAdvisor, including outside consultants if needed, to provide reasonably requested knowledge transfer and general assistance related to matters that occurred or information that may have been obtained concerning TripAdvisor prior to the Effective Date. In addition, tax services shall be provided as follows:
+
+ • With respect to tax preparation and related matters concerning tax year 2011, the Tax Sharing Agreement entered into by and between the Parties of even date herewith shall govern the responsibilities of the Parties.
+ • For any periods subsequent to tax year 2011, but not beyond the Term as stated below:
+ • Expedia in-house personnel shall provide to TripAdvisor consultative tax services, including consultative services related to historical transfer pricing positions and customer requests regarding permanent establishment questions.
+ • Expedia in-house personnel shall prepare sales and occupancy tax returns through March 2012 for SmarterTravel, including in the states of New York and South Carolina, provided, however, that TripAdvisor provides to such personnel appropriate supporting documentation and information in a timely manner.
+ • TripAdvisor Service Provider, [*], shall provide to Expedia consultative tax services. In the event of a change in the Service Provider (i.e., the departure of [*] from the employ of TripAdvisor), either Expedia or TripAdvisor shall be permitted to terminate all services to Expedia upon 90 days' written notice.　　Anything above to the contrary notwithstanding, nothing in this Schedule 6 shall be interpreted to in any way limit the Parties' respective rights and obligations under the Tax Sharing Agreement and in the case of any conflict between the above provisions and any provision in the Tax Sharing Agreement, the Tax Sharing Agreement shall govern.
+　　No information or assistance may be provided to the extent it would create a conflict of interest, violate any confidentiality obligations, risk the loss of attorney-client privilege, expose Expedia to potential liability or otherwise interfere with the operation of the provider's business. Each party shall use reasonable efforts to minimize the extent of requested knowledge transfer and assistance.
+　　Cost: $125 per hour plus out-of-pocket expenses.
+　　Term: Up to 12 months, as needed.
+
+Expedia-TripAdvisor Schedules to Transition Services Agreement
+Final – December 20, 2011
+ 
+Schedule 7
+Finance and Accounting Services
+　　Scope of Services: Subject to the limitations set forth below, Expedia shall make Expedia in-house personnel reasonably available to TripAdvisor personnel to provide the specific services set forth below and to provide reasonably requested knowledge transfer and general assistance related to matters that occurred or information that may have been obtained concerning TripAdvisor and its business during the period prior to the Effective Date.
+　　With regard to specific services, Expedia shall assist TripAdvisor with:
+
+ • preparation and processing of certain journal entries and allocations related to the payroll accounting function;
+ • certain reconciliations, subledger maintenance procedures and systems conversion related to the fixed asset accounting function;
+ • support during the conversion process related to the time and expense reporting function;
+ • standard setup, processing and maintenance, and assistance with systems conversion related to the accounts payable function; and
+ • support for the accounts payable function for TripAdvisor's Chinese entities.　　No information or assistance may be provided to the extent it would create a conflict of interest, violate any confidentiality obligations, risk the loss of attorney-client privilege, expose Expedia to potential liability or otherwise interfere with the operation of Expedia's business. TripAdvisor shall use reasonable efforts to minimize the extent of requested knowledge transfer and assistance.
+　　Cost: $85 per hour plus out-of-pocket expenses, which shall include vendor fees charged to Expedia that relate to TripAdvisor processing (e.g., Concur fee related to TripAdvisor expense reports)
+　　Term: Up to 12 months, as needed.
+ 
+2
+
+Expedia-TripAdvisor Schedules to Transition Services Agreement
+Final – December 20, 2011
+ 
+Schedule 8
+Financial Systems and Support Services
+　　Scope of Services: Subject to the limitations set forth below, Expedia shall make Expedia in-house personnel reasonably available to TripAdvisor personnel to provide services related to the systems conversion process as discussed below and to provide reasonably requested knowledge transfer and general assistance related to matters that occurred or information that may have been obtained concerning TripAdvisor and its business during the period prior to the Effective Date.
+　　Expedia personnel will provide a reasonable level of assistance to TripAdvisor, and will facilitate the support of third-party software providers, as reasonably required during the conversion to standalone TripAdvisor financial systems. During this financial systems conversion process, TripAdvisor will have access to TripAdvisor data in all accounting and related modules, including, but not limited to, accounts receivable; accounts payable; fixed assets; period-end financial reporting, allocations and consolidation; global helpdesk; and planning and forecasting.
+　　No information or assistance may be provided to the extent it would create a conflict of interest, violate any confidentiality obligations, risk the loss of attorney-client privilege, expose Expedia to potential liability or otherwise interfere with the operation of Expedia's business. TripAdvisor shall use reasonable efforts to minimize the extent of requested knowledge transfer and assistance.
+　　Term: Up to 12 months, as needed.
+　　Cost: $85 per hour plus out-of-pocket expenses.
+ 
+3
+
+Expedia-TripAdvisor Schedules to Transition Services Agreement
+Final – December 20, 2011
+ 
+Schedule 9
+Corporate Development Services
+　　Scope of Services: Subject to the limitations set forth below, Expedia shall make Expedia in-house personnel reasonably available to TripAdvisor personnel to provide reasonably requested knowledge transfer and general assistance related to matters that occurred or information that may have been obtained concerning TripAdvisor and its business during the period prior to the Effective Date, including matters or information relating to any merger, acquisition or investment that was completed prior to the Effective Date.
+　　In addition, prior to March 31, 2012, upon the mutual written consent of the parties and on account of timing of the in-progress build-out of the equivalent TripAdvisor function, personnel in Expedia's Corporate Development group may provide assistance to TripAdvisor in connection with any potential merger, acquisition of assets or securities or investment in a third party by TripAdvisor that may arise subsequent to the Effective Date.
+　　No information or assistance may be provided to the extent it would create a conflict of interest, violate any confidentiality obligations, risk the loss of attorney-client privilege, expose Expedia to potential liability or otherwise interfere with the operation of Expedia's business. TripAdvisor shall use reasonable efforts to minimize the extent of requested knowledge transfer and assistance.
+　　Term: Up to 12 months, as needed.
+　　Cost: $150 per hour plus out-of-pocket expenses.
+ 
+4
+
+Expedia-TripAdvisor Schedules to Transition Services Agreement
+Final – December 20, 2011
+ 
+Schedule 10
+Human Resources, Employment, Payroll and Benefits Services
+　　A. Scope of Services: Subject to the limitations set forth below, Expedia shall make Expedia in-house personnel reasonably available to TripAdvisor personnel to provide the specific services set forth below and to provide reasonably requested knowledge transfer and general assistance related to matters that occurred or information that may have been obtained concerning TripAdvisor and its business during the period prior to the Effective Date, if requested information is available, or if existing suppliers are not able to provide such information or assistance.
+　　No information or assistance may be provided to the extent it would create a conflict of interest, violate any confidentiality obligations or personally identifiable health information, risk the loss of attorney-client privilege, expose Expedia to potential liability or otherwise interfere with the operation of Expedia's business.
+　　Human Resources, Employment, Payroll and Benefits Services:
+Payroll processing administration and training - Expedia will provide transition assistance with respect to payroll administration and training as reasonably requested by TripAdvisor for up to 12 months, as needed. The cost will be the incremental cost, if any, of Expedia providing this service to TripAdvisor.
+US Benefits Administration - Hewitt will provide benefits administration and customer service for TripAdvisor participants through December 31, 2011 under the existing Expedia relationship. There will be no additional charge for this service, the cost of which is included in the H&W Transition Period Amount (as defined in the Employee Matters Agreement).
+Employment Services - Continued coverage of TripAdvisor employees on the Expedia sponsored benefits under the following benefits plans until such time that such employees can be moved on to new TripAdvisor benefits plans: Australia (Colonial First State and Financial Keys); China (Ping'an); and Hong Kong, Japan, Singapore and South Korea (HTH Worldwide). The cost will be equal to the actual cost incurred by Expedia in respect of covering the relevant TripAdvisor employees. The service will be provided for no longer than 12 months.
+　　Cost: $85 per hour plus out-of-pocket expenses.
+ 
+5
+
+Expedia-TripAdvisor Schedules to Transition Services Agreement
+Final – December 20, 2011
+ 
+　　Term: Up to 12 months, as needed.
+　　B. Scope of Services: Subject to the terms set forth below, the entity currently known as TripAdvisor Consulting Services (Beijing) Co., Ltd. (the "Beijing Entity"), shall provide services to Expedia in accordance with past practice in respect of the Partner Services Group and Egencia businesses as described below. The specific services provided to Expedia by the Beijing Entity relating to the Partner Services Group ("PSG") shall be provided pursuant to the terms of the PSG Agreement.
+　　No information or assistance may be provided to the extent it would create a conflict of interest, violate any confidentiality obligations, risk the loss of attorney-client privilege, expose TripAdvisor to potential liability or otherwise interfere with the operation of TripAdvisor's business.
+　　Cost:
+PSG-related Services - Costs in respect of PSG-related services, including balances accrued as of the Effective Date, and payment in respect of such costs and balances shall be governed by the PSG Agreement; provided that, for the avoidance of doubt, the reference to "employee benefits" in the definition of Direct Costs in Section 1 of the PSG Agreement shall include any severance costs.
+Egencia-related Services -
+Service Fee. As consideration for the services provided by the Beijing Entity relating to Expedia's Egencia business, Expedia shall pay the Beijing Entity or its Affiliate an amount (the "Egencia Service Fee") equal to:
+　　(i) 100% of the Beijing Entity's Direct and Indirect Costs, plus
+　　(ii) 100% of the Beijing Entity's Third Party Costs, plus
+　　(iii) 100% of any net foreign exchange loss realized or unrealized by the Beijing Entity, less
+　　(iv) 100% of any net foreign exchange gain realized or unrealized by the Beijing Entity, less
+　　(v) 100% of any income realized by the Beijing Entity.
+Subsections (i) to (v) above shall be included in the Egencia Service Fee calculation only to the extent that they are attributable to Egencia-related services provided by the Beijing Entity.
+ 
+6
+
+Expedia-TripAdvisor Schedules to Transition Services Agreement
+Final – December 20, 2011
+ 
+Service Fee Exclusions. The Service Fee excludes the following items: (i) interest income or expense recognized or incurred by the Beijing Entity; (ii) any income taxes incurred by the Beijing Entity; and (iii) any costs ordinarily categorized under U.S. Generally Accepted Accounting Principles as "non-operating income/expenses."
+Certain Defined Terms: Capitalized terms used under the heading "Egencia-related Services" in this Section B and used in Section C of this Services Schedule 10 that are not otherwise defined shall have the meanings set forth below.
+　　"Direct Costs" means all direct costs incurred by the Service Provider that are (i) attributable to the employees directly engaged in performing the Service Provider's duties as described in the applicable section of this Services Schedule 10, including without limitation all salaries, wages, compensation, and employee benefits (including severance) directly allocated to such employees; and (ii) all costs attributable to the materials and supplies consumed in rendering such services.
+　　"Indirect Costs" means any indirect costs that relate to the Direct Costs including, without limitation, an allocable portion of occupancy costs, utilities, supervisory and clerical support, and other overhead, general, and administrative costs (e.g., depreciation) reasonably allocable to the Service Provider's duties under the applicable section of this Services Schedule 10.
+　　"Third Party Costs" means all costs incurred by the Service Provider for services performed by third parties in respect of the services described in the applicable section of this Services Schedule 10 including, but not limited to, marketing or advertising agencies and professional services firms.
+Term: Up to 12 months, as need.
+　　C. Scope of Services: Subject to the terms set forth below, the individuals listed on Schedule B of the Employee Matters Agreement ("Schedule B Employees") shall provide services to TripAdvisor in accordance with past practices until the employment by Expedia of each Schedule B Employee is terminated (such period of time in respect of each Schedule B Employee, the "Schedule B Transition Period").
+　　No information or assistance may be provided to the extent it would create a conflict of interest, violate any confidentiality obligations or personally identifiable health information, risk the loss of attorney-client privilege, expose Expedia to potential liability or otherwise interfere with the operation of Expedia's business.
+ 
+7
+
+Expedia-TripAdvisor Schedules to Transition Services Agreement
+Final – December 20, 2011
+ 
+　　Cost:
+Service Fee. As consideration for the services provided by the Schedule B Employees to TripAdvisor, TripAdvisor shall pay Expedia an amount (the "Schedule B Service Fee") equal to:
+　　(i) 108% of the Direct and Indirect Costs arising from the services provided by the Schedule B Employees to TripAdvisor during the Schedule B Transition Period, plus
+　　(ii) 100% of the Third Party Costs arising from the services provided by the Schedule B Employees to TripAdvisor during the Schedule B Transition Period, plus
+　　(iii) 100% of any net foreign exchange loss realized or unrealized arising from the services provided by the Schedule B Employees to TripAdvisor during the Schedule B Transition Period, less
+　　(iv) 100% of any net foreign exchange gain realized or unrealized arising from the services provided by the Schedule B Employees to TripAdvisor during the Schedule B Transition Period.
+Service Fee Exclusions. The Schedule B Service Fee excludes the following items: (i) interest income or expense recognized or incurred in respect of the employment by Expedia of the Schedule B Employees; (ii) any income taxes incurred in respect of the employment by Expedia of the Schedule B Employees; and (iii) any costs ordinarily categorized under U.S. Generally Accepted Accounting Principles as "non-operating income/expenses."
+　　Term: Up to 12 months, as needed.
+　　D. Scope of Services: Amounts owed by Egencia to eLong pursuant to the terms of the FSA Agreement, including balances accrued as of the Effective Date, and payment in respect of such liabilities and balances shall be governed by the FSA Agreement.
+　　No information or assistance may be provided to the extent it would create a conflict of interest, violate any confidentiality obligations, risk the loss of attorney-client privilege, expose Expedia to potential liability or otherwise interfere with the operation of Expedia's business.
+ 
+8
+
+Expedia-TripAdvisor Schedules to Transition Services Agreement
+Final – December 20, 2011
+ 
+Schedule 11
+Real Estate Services
+　　Scope of Services: Subject to the limitations set forth below, Expedia shall make Expedia in-house personnel reasonably available to TripAdvisor personnel to advise and consult regarding specific real estate transactions and to provide reasonably requested knowledge transfer and general assistance related to matters that occurred or information that may have been obtained concerning TripAdvisor and its business during the period prior to the Effective Date.
+　　No information or assistance may be provided to the extent it would create a conflict of interest, violate any confidentiality obligations, risk the loss of attorney-client privilege, expose Expedia to potential liability or otherwise interfere with the operation of Expedia's business. TripAdvisor shall use reasonable efforts to minimize the extent of requested knowledge transfer and assistance.
+　　Term: Up to 12 months, as needed.
+　　Cost: $125 per hour plus out-of-pocket expenses.
+ 
+9
+
+Expedia-TripAdvisor Schedules to Transition Services Agreement
+Final – December 20, 2011
+ 
+Schedule 12
+China ICP Hosting Services
+　　Scope of Services: Subject to the limitations set forth below, TripAdvisor, through a Chinese subsidiary, will continue to host ICP licenses, whether currently held or subsequently obtained, for use by Expedia as needed to carry out Expedia's operations in China until the earlier of the end of the Term stated below or the date on which Expedia secures such licenses through its own Chinese entity or entities.
+　　No information or assistance may be provided to the extent it would create a conflict of interest, violate any confidentiality obligations, risk the loss of attorney-client privilege, expose either Party to potential liability or otherwise interfere with the operation of either Party's business.
+　　Term: Up to 12 months, as needed.
+　　Cost: TripAdvisor may charge Expedia an access fee based upon the cost of the relevant ICP licenses. In addition, Expedia shall be charged for its pro rata share of any out-of-pocket expenses incurred in connection with obtaining or maintaining the relevant ICP licenses.
+ 
+10
+
+Expedia-TripAdvisor Schedules to Transition Services Agreement
+Final – December 20, 2011
+ 
+Schedule 13
+Shanghai Office Space
+　　Scope of Services: Subject to the limitations set forth below, Expedia shall continue to make available office space in its Shanghai office for one employee of TripAdvisor until the earlier of the end of the Term stated below or the date on which such TripAdvisor employee no longer requires such office space.
+　　No information or assistance may be provided to the extent it would create a conflict of interest, violate any confidentiality obligations, risk the loss of attorney-client privilege, expose either Party to potential liability or otherwise interfere with the operation of either Party's business.
+　　Term: Up to 12 months, as needed.
+　　Cost: Expedia may charge TripAdvisor a fee based upon the cost of the relevant office space.
+ 
+11
+
+Expedia-TripAdvisor Schedules to Transition Services Agreement
+Final – December 20, 2011
+ 
+Schedule 14
+Intercompany Balance
+　　Scope of Services: Subject to the limitations set forth below, each Party shall use commercially reasonable efforts and exchange such information as is necessary to settle the intercompany balance that exists as of the Effective Date. This intercompany balance resulted from the payment of certain expenses by Expedia on behalf of TripAdvisor related to the startup of TripAdvisor's operations in India.
+　　No information or assistance may be provided to the extent it would create a conflict of interest, violate any confidentiality obligations, risk the loss of attorney-client privilege, expose either Party to potential liability or otherwise interfere with the operation of either Party's business.
+　　Term: Up to 12 months, as needed.
+　　Cost: Expedia may seek reimbursement from TripAdvisor for any third-party fees paid by Expedia in connection with such settlement.
+ 
+12
+

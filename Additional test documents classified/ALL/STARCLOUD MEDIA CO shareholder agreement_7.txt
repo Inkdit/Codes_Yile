@@ -1,0 +1,1049 @@
+﻿STARCLOUD MEDIA CO., LIMITED
+FIFTH AMENDED AND RESTATED SHAREHOLDERS' AGREEMENT
+　　This Fifth Amended and Restated Shareholders' Agreement (the "Agreement") is made as of July 28, 2010, by and among:
+　　(1) StarCloud Media Co., Limited, a company incorporated under the British Virgin Islands International Business Companies Act, 1984 and re-registered under the British Virgin Islands Business Companies Act, 2004 as a business company limited by shares in the British Virgin Islands (the "Company");
+　　(2) Each of the entities whose names are set forth in Schedule G hereto (each a "PRC Company" and collectively, the "PRC Companies"; and together with the Company, collectively, the "Group Companies" and each a "Group Company");
+　　(3) Each of the purchasers of Series A Preferred Shares of the Company (the "Series A Shares") as set forth onSchedule A hereto (the "Series A Purchaser");
+　　(4) Each of the purchasers of Series B Preferred Shares of the Company (the "Series B Shares") as set forth onSchedule B hereto (the "Series B Purchasers");
+　　(5) Each of the purchasers of Series C Preferred Shares of the Company (the "Series C Shares") as set forth onSchedule C hereto (the "Series C Purchasers");
+　　(6) Each of the purchasers of Series D Preferred Shares of the Company (the "Series D Shares") as set forth onSchedule D hereto (the "Series D Purchasers);
+　　(7) Each of the purchasers of Series E Preferred Shares of the Company (the "Series E Shares", together with the Series A Shares, the Series B Shares, the Series C Shares, and the Series D Shares, the "Preferred Shares") as set forth on Schedule E hereto (the "Series E Purchasers, together with the Series A Purchaser, the Series B Purchasers, the Series C Purchasers, and the Series D Purchasers, the "Purchasers"); and
+　　(8) Each of the entities (the "Ordinary Shareholders") and each of the individuals (the "Founders") listed onSchedule F hereto. The Purchasers and the Ordinary Shareholders are collectively referred to herein as the "Shareholders".
+RECITALS
+　　A. The Series E Purchasers have agreed to purchase from the Company, and the Company has agreed to issue to the Series E Purchasers, up to 18,461,716 Series E Shares on the terms and conditions set forth in a Series E Preferred Shares Purchase Agreement dated July 16, 2010 (the "Series E Purchase Agreement"), by and among the Company, the Series E Purchasers and certain other parties thereto.
+ 
+1
+
+
+
+　　B. The parties hereto executed (i) a Shareholders' Agreement on December 20, 2005, in connection with the issuance, sale and purchase of Series A Shares (the "Initial Shareholders' Agreement"); (ii) an Amended and Restated Shareholders' Agreement on May 10, 2006, in connection with the issuance, sale and purchase of Series B Shares (the "First Amended Shareholders' Agreement"); (iii) a Second Amended and Restated Shareholders' Agreement on April 20, 2007, in connection with the issuance, sale and purchase of Series C Shares (the "Second Amended Shareholders' Agreement"); and (iv) a Third Amended and Restated Shareholders' Agreement on April 14, 2008, in connection with the initial closing of the issuance, sale and purchase of Series D Shares (the "Third Amended Shareholders' Agreement"); and (v) a Fourth Amended and Restated Shareholders' Agreement on June 4, 2008, in connection with second closing of the issuance, sale and purchase of Series D Shares (the "Fourth Amended Shareholders' Agreement; together with the Initial Shareholders' Agreement, the First Amended Shareholders' Agreement, the Second Amended Shareholders' Agreement, and the Third Amended Shareholders' Agreement, the "Prior Shareholders' Agreements").
+　　C. The parties hereto intend to enter into this Agreement which amends and restates the Prior Shareholders' Agreement in connection with the issuance, sale and purchase of Series E Shares as contemplated by the Series E Purchase Agreement.
+　　NOW, THEREFORE, in consideration of the foregoing premises and certain other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+1.Covenants of the Group Companies and the Purchasers　　1.1 Financial Information; Inspection Rights.
+         (a) Financial Information. The Company covenants and agrees that, commencing on the date of Closing, and for so long as any Purchaser holds any Preferred Shares and/or Ordinary Shares (as defined below) issued upon conversion of the Preferred Shares, the Company will deliver (in accordance with the provisions set forth in Section 6.7 hereof) to such Purchaser the following with respect to the Company and each of the PRC Companies:
+　　　　　　　(i) As soon as practicable after the end of each fiscal year, and in any event within ninety (90) days thereafter, annual consolidated financial statements (including a balance sheet, income statement and cash flow statement) of the Company and its subsidiaries for or as of the end of such fiscal year, prepared in accordance with generally accepted accounting principles in the United States ("U.S. GAAP") or with International Accounting Standards ("IAS") and audited and certified by an accredited accounting firm that is acceptable to the holders representing a majority of the Preferred Shares.
+　　　　　　　(ii) As soon as practicable, and in any event within thirty (30) days, after the end of each quarterly accounting period in each fiscal year of the Company and its subsidiaries, unaudited consolidated quarterly financial statements (including a balance sheet, income statement and cash flow statement) of the Company and its subsidiaries.
+　　　　　　　(iii) As soon as practicable, and in any event within thirty (30) days, after the end of each month, unaudited consolidated monthly financial statements (including a balance sheet, income statement and cash flow statement) of the Company and its subsidiaries; provided that such monthly financial statements shall not be required to contain footnotes required by U.S. GAAP or IAS, as the case may be, and shall be subject to normal year-end audit adjustments in the ordinary course.
+ 
+2
+
+
+
+　　　　　　　(iv) As soon as practicable, and in any event within thirty (30) days, after the end of each month, management accounts of the Company and its subsidiaries.
+　　　　　　　(v) As soon as practicable, and in any event at least forty-five (45) days prior to the beginning of each fiscal year, an annual, consolidated budget for such fiscal year, which shall include a comprehensive operating budget forecasting the Company's revenues, expenses, and cash position on a month-to-month basis for such fiscal year.
+　　　　　　　(vi) As soon as practicable following the end of each quarter, an up-to-date capitalization table of the Company, certified by the Chief Executive Officer or the Chief Financial Officer of the Company.
+　　　　　　　(vii) promptly upon written request from any Purchaser, (i) then-effective versions of this Agreement and other related investment documents and all documents relating to any subsequent financings by the Company or to the management of the Company or otherwise affecting the Preferred Shares or Ordinary Shares issued upon conversion of the Preferred Shares, bearing the signatures of all parties and in each case with all subsequent amendments thereto, and (ii) the then-effective Memorandum and Articles (as defined below) , bearing the file stamp of the appropriate government authority, in each case with all subsequent amendments thereto; the copies of the documents to be provided under this Section 1.1 may be delivered either in hardcopy or in Portable Document Format (PDF); and
+　　　　　　　(viii) such other information as any Purchaser may reasonably request in writing.
+All financial statements to be provided to the Purchasers pursuant to this Section 1.1 or pursuant to any other Transaction Agreement (as defined in the Series E Purchase Agreement), the Memorandum or the Articles, shall be prepared in the English language in accordance with the accounting standard under which the Company prepares audited financial statements to be delivered pursuant to Section 1.1(a)(i) above and shall consolidate all of the consolidated financial results of the PRC Companies.
+         (b) Inspection Rights. The Company covenants and agrees that, commencing from the Closing, and for so long as any Purchaser holds any Preferred Shares and/or Ordinary Shares issued upon conversion of the Preferred Shares, the Company will, upon receipt of a prior written notice, afford to each Purchaser and to such Purchaser's accountants, counsel and other representatives acceptable to the Company, reasonable access during normal business hours to each of the Group Companies' respective properties, books and records, and to afford each Purchaser the right to discuss the business, operations and conditions of each of the Group Companies with their respective directors, officers, employees, accountants, legal counsel and investment bankers. Each such Purchaser shall have such other access to management and information as is necessary for it to comply with applicable laws and regulations and reporting obligations. The Company shall not be required to disclose details of contracts with or work performed for specific customers and other business partners where to do so would violate confidentiality obligations to those parties. Purchasers may exercise their rights under this Section 1.1(b) only for purposes reasonably related to their interests under this Agreement and related agreements.
+ 
+3
+
+
+
+         (c) The Company covenants and agrees that, commencing on the date of the Closing, and for so long as any Purchaser holds any Preferred Shares and/or Ordinary Shares issued upon conversion of the Preferred Shares, the Company will deliver (in accordance with the provisions set forth in Section 6.7 hereof) to such Purchaser a written notice of any of the following events as soon as practicable and in any event within thirty (30) days from its occurrence or from the receipt of an inquiry from a Purchaser:
+　　　　　　　(i) The commencement of any litigation, arbitration or other legal proceedings which will have a Material Adverse Effect on the Group Companies or the occurrence of any circumstances that would likely give rise to such litigation, arbitration or other legal proceedings which will have a Material Adverse Effect on the Group Companies; and
+　　　　　　　(ii) The receipt by the Company of any proposals made to the Company in connection with any corporate transaction which will have a Material Adverse Effect on the Group Companies.
+         (d) The Purchasers' rights under this Section 1.1 may be assigned to (i) a transferee or assignee in connection with any transfer or assignment by such Purchaser of the Preferred Shares and/or Ordinary Shares issued upon conversion of the Preferred Shares, (ii) any partner or retired partner of any such Purchaser which is a partnership (or any member or retired member of any such Purchaser which is a limited liability company), (iii) any affiliated fund (United States based or non-United States based) of any such Purchaser, or (iv) any family member or trust for the benefit of any such Purchaser which is an individual, provided in each case that: (A) such transfer may otherwise be effected in accordance with applicable securities laws, (B) the Company is given prompt notice of the transfer, (C) such assignee or transferee shall not be any party in competition with principal business of the Company (except that any such assignee or transferee may own shares in publicly traded companies for no more than 1% of the total outstanding stock of such entity that may compete with the Company); and (D) such assignee or transferee agrees to be bound by the terms of this Agreement.
+　　1.2 Information Rights After a Qualified IPO. The Company covenants and agrees that, for so long as any Purchaser holds any Preferred Shares and/or Ordinary Shares issued upon conversion of the Preferred Shares, to the extent permitted by all applicable securities laws and listing rules on the relevant stock exchange, the Company will deliver to such Purchaser (a) promptly after filing, copies of all of the Company's annual and periodic reports made available to its shareholders as well as all public reports (including any periodic, interim, or extraordinary reports) filed with the Securities and Futures Commission of the Hong Kong Special Administrative Region, the China Securities and Regulatory Commission of the People's Republic of China, the U.S. Securities and Exchange Commission, or any other stock exchange or securities regulatory authority, and (b) promptly upon request, copies of then-effective versions of all investment documents and all documents relating to any subsequent financings by the Company or otherwise affecting the Preferred Shares and/or Ordinary Shares issued upon conversion of Preferred Shares or the holders of such shares, in each case with all subsequent amendments thereto.
+ 
+4
+
+
+
+　　1.3 InsuranceKey Person Insurance. The Company shall use commercially reasonable efforts to obtain, as soon as reasonably practicable and in any event within six months of the Closing, and maintain "key person" life insurance coverage in an amount of at least US$3,000,000 on the life of Wang Wei on commercially reasonable and customary terms approved by a majority of the Preferred Share Directors . The Company shall be named the sole beneficiary under such policy.
+         (b) Directors' and Officers' Liability Insurance. Promptly following the Closing and on an annual basis thereafter, the Company shall procure customary directors and officers liability insurance ("D&O Insurance") for the directors of the Company in an amount as is approved by a majority of the board of directors of the Company (the "Board"). The Company agrees to purchase and maintain D&O Insurance to the extent deemed appropriate by the Board (including a majority of the Preferred Share Directors). Such policy shall not be cancelable by the Company without unanimous prior approval of the Board then in office.
+　　1.4 Memorandum of Association and Articles of Association. The Company shall abide by, and take all actions necessary to achieve the economic effect of, all of its obligations under the Memorandum and under the Articles, including, but not limited to, the provisions related to the conversion of the Preferred Shares, the adjustment to the conversion prices of the Preferred Shares, the declaration and payment of dividends, the winding up of the Company and payment of liquidation preferences on the Preferred Shares, the redemption rights and the protective provisions for the holders of Preferred Shares.
+　　1.5 Incorporation of Certain Provisions from the Memorandum and the Articles. The following provisions of the Seventh Amended and Restated Memorandum as approved and adopted by the shareholders of the Company and as registered with the Registrar of Corporate Affairs in the British Virgin Islands on July 16, 2010 (identified as "Regulations" herein), and the Seventh Amended and Restated Articles as approved and adopted by the shareholders of the Company and as registered with the Registrar of Corporate Affairs in the British Virgin Islands on July 16, 2010, as the case may be, shall be incorporated by reference into this Agreement and shall be enforceable as if such provisions were part of this Agreement.
+
+ (i)Regulation 9.a. (Conversion of Preferred Shares);
+ (ii)Regulation 9.b. (Adjustments to Conversion Prices);
+ (iii)Regulation 9.d. (Protective Provisions);
+ (iv)Regulation 9.e. (Appointment and Removal of Directors; Board Observers);
+ (v)Regulation 9.f. (Redemption and Repurchase);
+ (vi)Regulation 9.g. (Dividends);
+ (vii)Regulation 9.h. (Winding Up); 
+5
+
+
+ (viii)Articles 10 � 19 (Shares);
+ (ix)Articles 39 � 59 (Meetings and Consents of Members);
+ (x)Articles 60 � 67 (Directors);
+ (xi)Articles 68 � 76 (Powers of Directors);
+ (xii)Articles 77 � 88 (Proceedings of Directors); and
+ (xiii)Article 95 � 100 (Indemnification).Notwithstanding anything to the contrary in this Agreement, (i) any amendment or waiver of any of the foregoing provisions of the Memorandum or of the Articles may be effected in accordance with the terms of the Memorandum (and with respect to the Articles, in accordance with the terms of the Memorandum and of the Articles) and applicable law without regard to any terms of this Agreement (including without limitation the amendment or waiver provisions of this Agreement), (ii) no amendment or waiver of any provision of the Memorandum or of the Articles shall result in an amendment or waiver of any provision of this Agreement unless the amendment or waiver provisions of this Agreement have also been satisfied with respect thereto and (iii) no amendment or waiver of any provision of this Agreement (including, without limitation, this Section 1.5) shall be deemed to effect an amendment or waiver of any provision of the Memorandum or of the Articles. In the event of any conflict or inconsistency between the provisions of this Agreement and the provisions of the Memorandum or the Articles, the parties shall, notwithstanding the conflict or inconsistency, act so as to effect the intent of this Agreement to the greatest extent possible under the circumstances and shall promptly amend the conflicting constitutional documents to conform to this Agreement to the greatest extent possible.
+　　1.6 Drag Along Rights. Subject to the provisions of the Memorandum and of the Articles (including, without limitation, Regulation 9.d. of the Memorandum), if, at any time after July 30, 2011, the holders of at least two thirds ( 2/3) of the Preferred Shares then outstanding (on a fully-diluted basis and voting together as a single class) and holders of at least two thirds ( 2/3) of the outstanding Ordinary Shares (excluding the Ordinary Shares issuable upon conversion of the Preferred Shares) (voting as a single class) (together, the "Approving Shareholders"), vote in favor of, otherwise consent in writing to, and/or otherwise agree in writing to sell or transfer all of their Shares (as defined in the Articles) in any Acquisition Transaction or Sale of Assets (each as defined below), then the Company shall promptly notify each of the remaining Shareholders (the "Remaining Shareholders") in writing of such vote, consent and/or agreement and the material terms and conditions of such Acquisition Transaction or Sale of Assets, whereupon each Remaining Shareholder shall, in accordance with instructions received from the Company, vote all of its Shares in favor of, otherwise consent in writing to, and/or otherwise sell or transfer all of its Shares in such Acquisition Transaction or Sale of Assets (including without limitation tendering original share certificates for transfer, signing and delivering share transfer certificates, share sale or exchange agreements, and certificates of indemnity relating to any Shares in the event that such Remaining Shareholder has lost or misplaced the relevant share certificate) on the same terms and conditions as were agreed to by the Approving Shareholders; provided, however, that such terms and conditions, including with respect to price paid or received per Share, (i) may differ as between the Ordinary Shares and the Preferred Shares and different series of Preferred Shares (including without limitation, in order to reflect the Series A Liquidation Preference, Series B Liquidation Preference, Series C Liquidation Preference, Series D Liquidation Preference, and Series E Liquidation Preference (as defined in the Articles) and participation rights of the Preferred Shares as set forth in Regulation 9.h. of the Memorandum), and (ii) shall provide an annualized compounded internal rate of return of at least thirty-five (35%) on each Series E Share. As used herein, an "Acquisition Transaction" means any reorganization, consolidation, merger, sale or transfer of the Company's outstanding Shares or similar transaction at arm's length (other than any sale of stock by the Company for capital raising purposes) in which existing Shareholders immediately prior to such reorganization, merger or consolidation, sale or transfer of shares or similar transaction do not (by virtue of their ownership of securities of the Company immediately prior to such transaction) beneficially own Shares possessing a majority of the voting power of the surviving company or companies immediately following such transaction. As used herein, a "Sale of Assets" means (a) any sale of all or substantially all of the Company's assets and properties at arm's length; or (b) a sale, transfer or a grant of an exclusive, irrevocable license of all or substantially all of the proprietary rights, intellectual property or Material Permits (as defined in the Series E Purchase Agreement) including but not limited to the SARFT Permit (as defined in the Series E Purchase Agreement) owned, or controlled by ownership, contractual rights or otherwise, by the Company to a third party. In furtherance of the foregoing, the Company and its directors are hereby expressly authorized by each Remaining Shareholder to take any or all of the following actions on such Remaining Shareholder's behalf (without receipt of any further consent by such Remaining Shareholder): (a) vote all of the voting securities of such Remaining Shareholder in favor of any such Acquisition Transaction or Sale of Assets; (b) otherwise consent on such Remaining Shareholder's behalf to such Acquisition Transaction or Sale of Assets; (c) sell all of such Remaining Shareholder's Shares in such Acquisition Transaction or Sale of Assets, in accordance with the terms and conditions of this Section 1.6; and/or (d) act as the Remaining Shareholder's attorney-in-fact in relation to any such Acquisition Transaction or Sale of Assets and have the full authority to sign and deliver, on behalf of such Remaining Shareholder, share transfer certificates, share sale or exchange agreements and certificates of indemnity relating to any Shares in the event that such Remaining Shareholder has lost or misplaced the relevant share certificate. Notwithstanding the foregoing provisions of this Section 1.6, the Remaining Shareholders shall not be obligated to vote, consent and/or sell their Shares in connection with any such Acquisition Transaction or Sale of Assets to the extent that all of the Approving Shareholders do not also do so with respect to all of the applicable class or series of Shares held by them.
+ 
+6
+
+
+
+　　1.7 Status as Corporation for U.S. Federal Income Tax Purposes. The Company is and at all times shall be treated as a corporation for U.S. federal income tax purposes and shall not make any election or otherwise take any action inconsistent with such treatment.
+　　1.8 Passive Foreign Investment Company. The Company shall, and shall cause its direct or indirect subsidiaries to, use its best efforts to ensure that the Company and its direct or indirect subsidiaries arrange their affairs, including taking such restructuring steps as may be necessary, to implement the most tax-advantageous structure for the Company, its direct or indirect United States based shareholders (including without limitation the United States based Purchasers and their direct or indirect investors), subsidiaries and prospective investors who may acquire shares of the Company in the IPO, including, without limitation, to ensure that the Company will not be treated or classified as a "passive foreign investment company" ("PFIC") as defined in Section 1297 of the Internal Revenue Code of 1986, U.S.A., as amended (the "Code"), for the current or any future taxable year. The Company shall not, and shall cause its direct or indirect subsidiaries not to, take any action or steps that would result in the occurrence of any adverse tax impact on any United States based Purchaser. Upon a determination by the Company, any United States based Purchaser (or any direct or indirect investor in a United States based Purchaser) or any taxing authority that the Company or any direct or indirect subsidiary has been or is likely to become a PFIC as defined in the Code for a taxable year, the Company will promptly notify each United States based Purchaser of such determination and will provide as soon as practicable (but in no event later than ninety (90) days following the end of such taxable year) any United States based Purchaser with all information reasonably available to the Company or any of its subsidiaries to permit such United States based Purchaser (and its direct or indirect investors, as applicable) to (a) accurately prepare all tax returns and comply with any reporting requirements as a result of such determination, (b) make any election (including, without limitation, a "qualified electing fund" election ("QEF Election") under Section 1295 of the Code), with respect to the Company and/or any of its direct or indirect subsidiaries, and comply with any reporting or other requirements incident to such election, (c) file a "protective statement" pursuant to Section 1295 of the Code with respect to the Company and/or any of its direct or indirect subsidiaries, and comply with any reporting or other requirements incident to such statement. Upon request from a United States based Purchaser, the Company shall, and shall cause its direct and indirect subsidiaries to, provide such United States based Purchaser (for the benefit of such United States based Purchaser's direct or indirect investors, as applicable) with accurately completed "PFIC Annual Information Statements", substantially in the form attached hereto as Exhibit D, as required by Treasury Regulation Section 1.1295-1(g) and otherwise comply with applicable Treasury Regulation requirements, or "Annual Intermediary Statements", as requested by the United States based Purchaser. The Company will promptly notify the United States based Purchasers of any assertion by the Internal Revenue Service that the Company or any of its direct or indirect subsidiaries is, or is likely to become, a PFIC. The Company shall use its commercially reasonable efforts, to the extent of its available cash and to the extent allowable by law, pay the shareholders of the Company a dividend sufficient to enable any United States based Purchasers (or their equity holders) who have made a QEF Election to defray their U.S. federal income tax liabilities arising from such QEF Election.
+ 
+7
+
+
+
+　　Should the Company or any direct or indirect subsidiary be determined to be a PFIC, the Company shall use its commercially reasonable efforts, to the extent of its available cash and to the extent allowable by law, pay the Purchasers a dividend sufficient to defray their additional U.S. federal tax liabilities arising from such determination.
+　　1.9 Controlled Foreign Corporation. The Company will provide prompt written notice to the United States based Purchasers if at any time the Company becomes aware that it or any direct or indirect subsidiary has become a "controlled foreign corporation" (as defined in the Code) ("CFC"). Upon request of a United States based Purchaser from time to time, subject to obtaining the consent of its shareholders to release such information, the Company will promptly provide in writing such information in its possession concerning its shareholders and, to the Company's actual knowledge, the direct and indirect interest holders in each shareholder reasonably sufficient for such United States based Purchaser to determine whether the Company or any direct or indirect subsidiary is a CFC. The Company shall provide United States based Purchasers with reasonable access to such other Company information as the Company may then have available to it as may reasonably be required by any United States based Purchaser (or its direct or indirect investors, as applicable) to determine the Company's status as a CFC to determine whether such United States based Purchaser (or its direct or indirect investor) is required to report its pro rata portion of the Company's "Subpart F income" (as defined in the Code) on its United States federal income tax return, or to allow such United States based Purchaser to otherwise comply with applicable United States federal income tax law. The parties hereto shall use commercially reasonable efforts to prevent any future issuance of securities by the Company to the extent that such issuance would result in such shareholder or any direct or indirect investor in such shareholder being considered a "United States shareholder" of the Company within the meaning of Section 951(b) of the Code (a "United States Shareholder"). Without limiting the Company's obligations as set forth in this Section 1.9, for the avoidance of doubt, neither the Company nor the Ordinary Shareholders (or the Founders) are responsible for any tax filings of the United States based Purchasers or for any associated or related costs incurred in connection with such tax filings.
+ 
+8
+
+
+
+　　1.10 Control of PRC Companies. The Company shall at any time institute and shall keep in place arrangements reasonably satisfactory to a majority of the Preferred Share Directors such that the Company (a) will control the operations of any direct or indirect subsidiary of, or entity controlled by, the Company, including, without limitation the PRC Companies, and (b) will be permitted to properly consolidate the financial results of any direct or indirect subsidiary, including without limitation the PRC Companies, in the consolidated financial statements for the Company prepared under U.S. GAAP or other international accounting principles and policies mutually agreeable to the Company and the Purchasers holding a majority of the Preferred Shares. The composition of the board of directors of each subsidiary of, or entity controlled by, the Company, including without limitation the PRC Companies, whether now in existence or formed in the future, shall be reasonably acceptable to a majority of the Preferred Share Directors. The size and composition of the board of directors of the WFOE shall be identical to that of the Company and shall include the representative appointed by the Series E Investor to the Board of the Company. The Company shall, and shall cause any subsidiaries or entities it controls, including without limitation the PRC Companies, to comply with the Company's policy on U.S. Foreign Corrupt Practices Act ("FCPA"), as amended. The Company shall take all necessary actions to maintain any direct or indirect subsidiary or entity controlled by the Company, including without limitation the PRC Companies, whether now in existence or formed in the future, as is necessary to conduct the Company's business as conducted or as proposed to be conducted. The Company shall use commercially reasonable efforts to cause each direct or indirect subsidiary of, or entity controlled by, the Company, including without limitation the PRC Companies, whether now in existence or formed in the future, to comply in all material respects with all applicable laws, rules and regulations.
+　　1.11 Legal Authorities.
+         (a) Concurrently with the appointment of the legal representative of any direct or indirect subsidiary of, or entity controlled by, the Company ("Legal Representative"), including without limitation the PRC Companies, the Company shall cause its representatives on the board of directors of such subsidiary (and, thereafter, their successors and replacements) to pass a resolution approving the removal of such Legal Representative at such time as such removal is approved by the Board of the Company and shall in advance (and thereafter from time to time and at any time as holders of Series E Preferred Shares shall reasonably request) prepare and execute any such forms, letters, certificates, powers of attorney, instruments and documents necessary or reasonable to effect such removal, including, without limitation, registration forms to be submitted to the Shanghai Administration of Industry and Commerce or any other applicable governmental and regulatory authorities with respect to removal of such Legal Representative (collectively, the "Removal Documents"), which shall be retained by the Company. The Company shall obtain from the Legal Representative and keep on file a pre-signed letter of resignation. Upon the resignation or removal of the Legal Representative from his/her position of such subsidiary of the Company, the Company shall take, or use best efforts to cause to be taken, all such actions and shall execute and deliver all such Removal Documents as are necessary or reasonable to remove such individual as the Legal Representative.
+ 
+9
+
+
+
+         (b) The Company shall, or shall cause any direct or indirect subsidiary of, or entity controlled by, the Company, including without limitation the PRC Companies, from time to time and at any time, institute and shall keep in place arrangements reasonably satisfactory to holders of Preferred Shares such that the Company or its subsidiary (i) will use best efforts to cause the Legal Representative to keep the chop of such subsidiary (the "Chop") in a safe deposit box when not being used and to return it to the safe deposit box immediately after being used; (ii) will use best efforts to restrain the Legal Representative from using the Chop in violation of his or her fiduciary duties owed to such subsidiary or lending the Chop to any other person except for a designee (the "Designee") authorized by holders holding more than two-thirds ( 2/3) of the Preferred Shares to take possession of the Chop, in which event the Company shall use its best efforts to cause the Legal Representative to surrender his or her possession of the Chop and transfer the Chop to the Designee; if the Legal Representative refuses to cooperate and transfer the Chop to the Designee when being so requested by such subsidiary of the Company, such subsidiary and the Company may, to the extent permitted by laws, withhold any bonus, benefits, commissions or interests accrued but unpaid to the Legal Representative or cancel or cause the board of directors of such subsidiary to cancel any unvested or vested but not exercised options or share awards held by the Legal Representative, or resort to any available judicial or administrative authorities to compel the Legal Representative to surrender the possession of the Chop; (iii) will use best efforts to cause such subsidiary to keep a complete ledger to record the use of the Chop, including, without limitation, the date, place, purposes, brief description of relevant transactions and approvals in connection with the use of the Chop, and any other information that may be deemed to be material by the Company; and (iv) will, from time to time and at any time, inspect and audit the ledger with or without prior notice to the Legal Representative, and inquire or investigate any suspicious use of the Chop and release the Company and/or its subsidiary from being bound by any transactions or approvals arising from or in connection with any unauthorized use of the Chop, provided, however, that such release shall not cause material damages to the interests of any third parties in good faith if apparent principal-agent relationship is recognized by the applicable laws under such circumstances.
+　　1.12 Key Employees. Subject to the approval of a majority of the Board or the board of directors of the WFOE, the Series C Purchasers, the Series D Purchasers, and the Series E Purchasers shall be entitled to nominate the appointment or removal of the key employees of each of the Company and the WFOE, respectively, including, without limitation, the chief executive officer, chief operating officer, chief financial officer and chief technical officer, which key employees shall report to the Board or the board of directors of the WFOE, as the case may be.
+　　1.13 Initial Public Offering or Trade Sale. The Company and the Ordinary Shareholders shall each use their best efforts, prior to July 30, 2012, to effectuate (a) a Qualified IPO (as defined below) that (i) is underwritten by underwriters approved by a majority of the Preferred Share Directors, and (ii) involves the listing of Company securities on NASDAQ, the Hong Kong Stock Exchange (Main Board or GEM) or another internationally-recognized securities exchange with the consent of the Board, including the affirmative vote of at least two (2) of the Preferred Share Directors, or (b) a Trade Sale (as defined below). If the shares of the Company are offered in an underwritten public offering (whether or not a Qualified IPO) for the account of any Shareholder of the Company, each of the holders of Registrable Securities shall have the right to include a pro-rata number of shares in the foregoing public offering on terms and conditions no less favorable to the holders of Registrable Securities than any other Shareholder selling in the offering.
+ 
+10
+
+
+
+　　1.14 Foreign Corrupt Practices Act. The Company shall not, and shall cause its subsidiaries, any of their respective officers, employees, directors, representatives, distributors, resellers or agents of the Company or its subsidiaries not to, make, offer, promise, authorize or condone any Prohibited Payment in connection with the activities of the Company. A "Prohibited Payment" means any gift, transfer or payment of any thing of value that is (a) made in violation of the FCPA, anti-corruption laws of the PRC or other applicable laws, (b) made to any Government Official (as defined below) with the intent or purpose of: (i) influencing any act or decision of such Government Official in his official capacity, (ii) inducing such Government Official to do or omit to do any act in violation of the lawful duty of such Government Official, (iii) securing any improper advantage, or (iv) inducing such Government Official to use his influence with a government or instrumentality thereof, political party or international organization to affect or influence any act or decision of such government or instrumentality, political party or international organization, in order to assist the Company or any of the Group Companies in obtaining or retaining business for or with, or directing business to, any Person (as defined below), or (c) made to any Person while aware of a high probability that all or any portion of such thing of value would be paid, promised, offered or given to any Government Official with the intent or purpose described in subsection (b). Prohibited Payment shall not include any gift, transfer or payment of any thing of value that is expressly permitted by the written laws and regulations of the recipient's country. "Government Official" means (a) any employee or official of any government authority, including any employee or official of any entity owned or controlled by a government authority, (b) any employee or official or a political party, (c) any candidate for political office or his employee or associate, or (d) any employee or official of any international organization. For the avoidance of doubt, the term Government Official shall include any employee of official of a media, telecommunications or internet company, entity, firm or institution owned or controlled by a government authority. "Person" means any individual, partnership, firm, corporation, limited liability company, association, trust, unincorporated organization or other entity, as well as any syndicate or group that would be deemed to be a person under Section 13(d)(3) of the Securities Exchange Act of 1934, as amended. Within sixty (60) days of the Closing, the Company shall adopt a policy on the FCPA, as amended, applicable to the Group Companies, which policy shall be reasonably satisfactory to a majority in interest of the holders of the then outstanding Preferred Shares. The Company shall, and shall cause each of its direct and indirect subsidiaries to comply with the FCPA. Within ninety (90) days of the date of this Agreement, the Company shall adopt a compliance program and a code of business ethics to establish internal control and reporting mechanisms to prevent, detect, identify, investigate and correct unethical, illegal or otherwise improper business practices, including, without limitation, violations of applicable anti-bribery laws. The Company and its subsidiaries shall provide FCPA training and anti-bribery training to its employees, officers and directors on a regular basis. After the Company completes an initial public offering on a national securities exchange in the United States, the Company shall comply with the accounting control provisions of the FCPA and other applicable securities regulations and laws.
+ 
+11
+
+
+
+　　1.15 Circular 75 Compliance. The Company and the Founders each shall undertake to use commercially reasonable efforts to cause any person who may in the future directly or indirectly hold any shares of the Company and who is a PRC Resident (as defined in the Series E Purchase Agreement) to either (a) comply, as soon as possible, with the registration and any other requirements of Circular 75 (as defined in the Series E Purchase Agreement) as long as Circular 75 remains effective, or (b) deliver to the Company and each Purchaser a written confirmation in form and substance reasonably satisfactory to the Company, its counsel and each Purchaser that such person is not subject to the registration requirements of Circular 75. The Company and the Founders each shall undertake to use commercially reasonable efforts to effectuate or maintain, or cause to be effectuated or maintained, such compliance with Circular 75 in all material respects, including without limitation, filing any necessary amendments to any existing registrations on a timely basis.
+　　1.16 Compliance with Applicable Laws. The Company and the Founders each shall undertake, and shall cause each Group Company, to comply with all applicable PRC laws and regulations, including, without limitation, securing necessary permits and licenses from competent PRC government authorities, including but not limited to the SARFT, MII and Ministry of Culture (as defined in the Series E Purchase Agreement) or their respective successors necessary for each Group Company to operate its business as it currently conducts and as it currently proposes to conduct.
+　　1.17 Subsequent Rights. The Company shall grant to each Purchaser any rights, including without limitation, the registration rights and the right of first refusal, which are granted to any subsequent purchasers of the Company's equity securities to the extent that such subsequent rights are superior, in good faith judgment of the Company's Board, to those granted to the Purchasers in the Transaction Agreements.
+　　1.18 Restated Memorandum and Articles. The Company shall abide by, and take all actions necessary to achieve the effect of, all of its obligations under the Company's Memorandum and Articles, as may be amended from time to time, including but not limited to the provisions related to the conversion of the Preferred Shares, the adjustment to the conversion prices of the Preferred Shares, the declaration and payment of dividends, the winding up of the Company and the payment of liquidation preferences on the Preferred Shares, the redemption rights and the protective provisions for the holders of the Preferred Shares.
+　　1.19 Future Significant Holders of Ordinary Shares. The Company shall cause all future holders of more than one percent (1%) of the Ordinary Shares (assuming full conversion and exercise of all convertible or exercisable securities) (the "Future Significant Holders of Ordinary Shares") to enter into this Agreement, the Fourth Amended and Restated Right of First Refusal and Co-Sale Agreement entered into by and among the Company and the other parties thereto, dated as of the date hereof (the "Co-Sale Agreement") and the Fourth Amended and Restated Voting Agreement entered into by and among the Company and the other parties thereto, dated as of the date hereof (the "Voting Agreement"), each of which may be amended from time to time, and become subject to the terms and conditions hereof and thereof in the capacity as holders of the Ordinary Shares. The Purchasers and the Company hereby agree that such Future Significant Holders of Ordinary Shares may become parties to this Agreement, the Co-Sale Agreement and the Voting Agreement by executing a counterpart of the applicable agreement, without any amendment hereof or thereof, pursuant to this Section 1.19.
+ 
+12
+
+
+
+　　1.20 Liquidation Transaction. Prior to the Qualified IPO of the Company, the Company shall obtain the approval (by vote or written consent) of the holders holding at least two-thirds ( 2/3) of the Preferred Shares then outstanding (voting on an as-converted basis) or securities resulting from the conversion or exchange of such Preferred Shares, concerning any resolution or any action the result of which would be the termination, winding up, liquidation, cessation of business or receivership, filing for bankruptcy, appointment of a receiver, manager or judicial manager or like officer, or making any composition or arrangement with creditors, including but not limited to a Trade Sale (as defined below), with respect to the Company or any Group Company.
+　　1.21 Employee Agreements. The Company and the Founders will cause the employees now or hereafter employed by it or any Group Company (or engaged by the Company or any Group Company as a consultant/independent contractor) with access to confidential information and/or trade secrets, including but not limited to the management personnel, technical employee, and other key employees, to enter into a confidentiality and proprietary information agreement, which shall cover confidentiality, two (2) year non-competition, company ownership of inventions and non-solicitation of employees and customers, in the form attached hereto as Exhibit E.2
+　　1.22 Termination of Covenants. The covenants set forth in Section 1.1 and each of Sections 1.3 through 1.21 shall terminate and be of no further force or effect immediately prior to the earliest of: (a) the effectiveness of the registration statement for an IPO (as defined below) or, with respect to Section 1.1 only, the effectiveness of the registration statement for a Qualified IPO (as defined below); or (b) with respect to Section 1.1, the date on which the Company is required to file reports with the Commission (as defined below) pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934, as amended.
+
+2.Registration Rights.　　2.1 Restrictions on Transferability and Applicability of Rights. The Preferred Shares and the Conversion Shares (as defined below) shall not be sold, assigned, transferred or pledged except upon the conditions specified in this Section 2, which conditions are intended to ensure compliance with the provisions of applicable securities laws. Each holder of Preferred Shares will cause any proposed purchaser, assignee, transferee or pledgee of any such shares held by such holder to agree in writing to take and hold such securities subject to the provisions and upon the conditions specified in this Section 2. The holders of Preferred Shares shall be entitled to the following rights with respect to any potential public offering of Ordinary Shares in the United States, and to any analogous or equivalent rights with respect to any other offering of shares in any other jurisdiction pursuant to which the Company undertakes to publicly offer or list such securities for trading on a recognized securities exchange.
+　　2.2 Certain Definitions. As used in this Agreement, the following terms shall have the following respective meanings:
+         (a) "Affiliate" shall mean, in respect of a person, any other person that, directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, such person, and (i) in the case of a natural person, shall include, without limitation, such person's spouse, parents, children, siblings, mother-in-law and father-in-law and brothers and sisters-in-law, (ii) in the case of a Purchaser, shall include (A) any person who holds Shares as a nominee for such Purchaser, (B) any shareholder of such Purchaser, (C) any entity or individual which has a direct and indirect interest in such Purchaser (including, if applicable, any general partner or limited partner) or any fund manager thereof; (D) any person that directly or indirectly controls, is controlled by, under common control with, or is managed by such Purchaser or its fund manager, (E) the relatives of any individual referred to in (B) above, and (F) any trust controlled by or held for the benefit of such individuals.
+
+2Note: Company to provide form of the existing standard employment agreement. 
+13
+
+
+
+         (b) "Articles" means the Company's Articles of Association, as amended from time to time.
+         (c) "Commission" shall mean the United States Securities and Exchange Commission or any other federal agency at the time administering the Securities Act.
+         (d) "Conversion Shares" means the Ordinary Shares issued or issuable pursuant to conversion of the Preferred Shares.
+         (e) "Closing" shall have the meaning ascribed to it in the Series E Purchase Agreement.
+         (f) "Encumbrance" shall mean any pledge, charge, lien, mortgage, debenture, hypothecation, security interest, pre-emption right, option and any other encumbrance or third party right or claim of any kind.
+         (g) "Founders" shall mean the individuals listed on Schedule F hereto.
+         (h) "Founders' Shares" shall mean the Ordinary Shares held on record and/or beneficially by the Ordinary Shareholders and/or the Founders as of the date of this Agreement as set forth on Schedule F hereto or subsequently acquired by the Ordinary Shareholders and/or the Founders.
+         (i) "Holder" shall mean (i) any Purchaser holding Registrable Securities, and (ii) any person holding Registrable Securities to whom the rights under this Section 2 have been transferred in accordance with Section 2.17 hereof; provided, however, that for purposes of this Agreement, a holder of Preferred Shares shall be deemed to be a Holder of the Registrable Securities issuable upon conversion of such Preferred Shares, as the case may be, and that Holders of Registrable Securities shall not be required by this Agreement to convert their Preferred Shares into Ordinary Shares in order to exercise registration rights hereunder, until immediately prior to the closing of the relevant offering to which the registration relates.
+         (j) "Initiating Holders" shall mean any Holders who in the aggregate hold at least thirty percent (30%) of the then outstanding Registrable Securities.
+         (k) "IPO" shall mean the Company's first firm commitment underwritten public offering of any of its securities to the general public pursuant to (i) a registration statement filed under the Securities Act, or (ii) the securities laws applicable to an offering of securities in another jurisdiction pursuant to which such securities will be listed on an internationally-recognized securities exchange approved by a majority of the Preferred Share Directors.
+ 
+14
+
+
+
+         (l) "Material Adverse Effect" shall have the meaning ascribed to it in the Series E Purchase Agreement.
+         (m) "Memorandum" means the Company's Memorandum of Association, as amended from time to time.
+         (n) "Ordinary Shares" shall mean Ordinary Shares of the Company.
+         (o) "Preferred Share Directors" shall have the meaning set forth in the Third Amended and Restated Voting Agreement of even date herewith, by and among the Company and the Shareholders.
+         (p) "Qualified IPO" shall mean the Company's first firm commitment public offering of Ordinary Shares with gross cash proceeds going to the Company of at least US$80,000,000 and a pre-money valuation for the company of at least US$450,000,000 pursuant to (i) a registration statement filed under the Securities Act, or (ii) the securities laws applicable to an offering of securities in another jurisdiction pursuant to which such securities will be listed on an internationally-recognized securities exchange approved by a majority of the Preferred Share Directors.
+         (q) "Recapitalizations" shall mean any share split, share dividend, share combination or consolidation, recapitalization, reclassification or other similar event in relation to the shares of the Company.
+         (r) "Registrable Securities" means (i) Ordinary Shares of the Company issued or to be issued upon conversion of Preferred Shares; (ii) Ordinary Shares of the Company issued as (or issuable upon the conversion or exercise of any warrant, right or other security which is issued as) a dividend or other distribution with respect to, or in exchange for or in replacement of, any of the foregoing; (iii) any other Ordinary Shares owned or hereafter acquired by any Purchaser; (iv) Ordinary Shares issued or issuable in respect of the Ordinary Shares described in (i)-(iii) above upon any Recapitalization or otherwise issued or issuable with respect to such Ordinary Shares; and (v) any depositary receipts issued by an institutional depositary upon deposit of any of the foregoing. Notwithstanding the foregoing, "Registrable Securities" shall not include any Registrable Securities sold by a person in a transaction in which rights under this Section 2 are not assigned in accordance with this Agreement or any Registrable Securities sold in a public offering, whether sold pursuant to Rule 144, or in a registered offering, or otherwise.
+         (s) "Registrable Securities then outstanding" (and similar expressions herein) shall mean the number of Ordinary Shares that are Registrable Securities that are then (i) issued and outstanding, or (ii) issuable pursuant to the conversion of then outstanding Preferred Shares.
+         (t) The terms "register," "registered" and "registration" refer to (i) a registration effected by preparing and filing a registration statement in compliance with the Securities Act, and the declaration or ordering of the effectiveness of such registration statement, or (ii) in the context of a public offering in a jurisdiction other than the United States, a registration, qualification or filing under the applicable securities laws of such other jurisdiction.
+ 
+15
+
+
+
+         (u) "Registration Expenses" shall mean all expenses incurred by the Company in complying with Sections 2.5, 2.6 and 2.7 hereof, including, without limitation, all registration, qualification and filing fees, printing expenses, escrow fees, fees and disbursements of counsel for the Company, blue sky fees and expenses, the expense of any special audits incident to or required by any such registration and the reasonable fees and disbursements of one counsel for all Holders, and any fee charged by any depositary bank, transfer agent or share registrar, but excluding Selling Expenses. For the avoidance of doubt and subject to Section 2.5(d), the Company shall pay all expenses incurred in connection with a registration pursuant to this Section 2 notwithstanding the cancellation or delay of the registration proceeding for any reason.
+         (v) "Restricted Securities" shall mean the securities of the Company required to bear the legend set forth in Section2.3 hereof.
+         (w) "Securities Act" shall mean the United States Securities Act of 1933, as amended.
+         (x) "Selling Expenses" shall mean all underwriting discounts, selling commissions.
+         (y) "Share" shall mean (i) Ordinary Shares (whether now outstanding or hereafter issued in any context), (ii) Ordinary Shares issued or issuable upon conversion of the Preferred Shares and (iii) Ordinary Shares issued or issuable upon exercise or conversion, as applicable, of share options, warrants or other convertible securities of the Company, in each case now owned or subsequently acquired by any Founder, any Ordinary Shareholder, any Purchaser, or their respective successors or permitted transferees or assigns.
+         (z) "Trade Sale" shall mean a Sale of Assets or an Acquisition Transaction.
+　　2.3 Restrictive Legend. Each certificate representing (a) Preferred Shares, (b) Conversion Shares, and (c) any other securities issued in respect of the Preferred Shares or the Conversion Shares upon any Recapitalization, shall (unless otherwise permitted by the provisions of Section 2.4 below) be stamped or otherwise imprinted with legends substantially in the following form (in addition to any legend required under applicable federal, state, local or non-United States law):
+         (i) "THE SECURITIES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE "ACT"). SUCH SECURITIES MAY NOT BE TRANSFERRED UNLESS (A) A REGISTRATION STATEMENT UNDER THE ACT IS IN EFFECT AS TO SUCH TRANSFER OR (B) PURSUANT TO RULE 144, OR (C) IN THE OPINION OF THE COMPANY, REGISTRATION UNDER THE ACT IS UNNECESSARY IN ORDER FOR SUCH TRANSFER TO COMPLY WITH THE ACT."
+         (ii) "THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO A LOCK-UP PERIOD OF UP TO 180 DAYS FOLLOWING THE EFFECTIVE DATE OF A REGISTRATION STATEMENT OF THE COMPANY FILED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, AS SET FORTH IN AN AGREEMENT BETWEEN THE COMPANY AND THE ORIGINAL HOLDER OF THESE SHARES, A COPY OF WHICH MAY BE OBTAINED AT THE PRINCIPAL OFFICE OF THE COMPANY. SUCH LOCK-UP PERIOD IS BINDING ON TRANSFEREES OF THESE SHARES."
+ 
+16
+
+
+
+　　The Company and the Shareholders hereby agree that the foregoing legends shall be placed on the Company's register of members as well.
+　　Each Purchaser and Holder consents to the Company making a notation on its records and giving instructions to any transfer agent of the Preferred Shares or the Ordinary Shares in order to implement the restrictions on transfer established in this Section 2.
+　　2.4 Notice of Proposed Transfers. The holder of each certificate representing Restricted Securities by acceptance thereof agrees to comply in all respects with the provisions of this Section 2.4. Prior to any proposed sale, assignment, transfer or pledge of any Restricted Securities (other than (a) a transfer not involving a change in beneficial ownership, (b) in transactions involving the distribution without consideration of Restricted Securities by the holder to any of its partners, members, or retired partners or members, or to the estate of any of its partners or members or retired partners or members, (c) in transactions in compliance with Rule 144 promulgated under the Securities Act ("Rule 144"), or (d) transfers by members that are entities to affiliated entities or funds (United States based or non-United States based) (or deemed affiliated entities or funds as set forth on Schedule A, Schedule B,Schedule C, Schedule D, and Schedule E hereto)), unless there is in effect a registration statement under the Securities Act covering the proposed transfer, the holder thereof shall give written notice to the Company of such holder's intention to effect such transfer, sale, assignment or pledge. Each such notice shall describe the manner and circumstances of the proposed transfer, sale, assignment or pledge in sufficient detail, and if reasonably requested by the Company, shall be accompanied, at such holder's expense, by either (a) a written opinion of legal counsel who shall be, and whose legal opinion shall be, reasonably satisfactory to the Company addressed to the Company, to the effect that the proposed transfer of the Restricted Securities may be effected without registration under the Securities Act, or (b) a "no action" letter from the Commission to the effect that the transfer of such securities without registration will not result in a recommendation by the staff of the Commission that action be taken with respect thereto, whereupon the holder of such Restricted Securities shall be entitled to transfer such Restricted Securities in accordance with the terms of the notice delivered by the holder to the Company. For the avoidance of doubt, it shall not be reasonable for the Company to request that a notice be accompanied by any such opinion or "no action" letter if, among other things, both the transferor and the transferee have certified in writing that each of them is not a U.S. Person (as defined under Rule 902 of Regulation S promulgated under the Securities Act). The transferees shall be bound by the obligations of the transferor in this Agreement and other shareholders' agreements, including the market standoff set forth in Section 2.14 below. Each certificate evidencing the Restricted Securities transferred as above provided shall bear, except if such transfer is made pursuant to Rule 144, the appropriate restrictive legends set forth in Section 2.3 above, except that such certificate shall not bear such restrictive legends if in the opinion of counsel for such holder and the Company such legend is not required in order to establish compliance with any provision of the Securities Act.
+　　2.5 Demand Registration.
+         (a) Request by Holders. If the Company shall at any time after the earlier of (i) six (6) months after the closing of an IPO, or (ii) the second anniversary of the Closing Date (as defined in the Series E Purchase Agreement) receive a written request from Initiating Holders that the Company file a registration statement under the Securities Act covering the registration of Registrable Securities pursuant to this Section 2.5, then the Company shall, within ten (10) business days of the receipt of such written request, give written notice of such request ("Request Notice") to all Holders, and use its best efforts to effect, as soon as practicable, the registration under the Securities Act of all Registrable Securities that Holders request to be registered and included in such registration by written notice given by such Holders to the Company within twenty (20) days after receipt of the Request Notice, subject only to the limitations of this Section 2.5; provided that the Company shall not be obligated to effect any such registration if:
+　　　　　　　(i) the Company has, within the six (6) month period preceding the date of such request, already effected a registration under the Securities Act pursuant to this Section 2.5 or Section 2.7 or in which the Holders had an opportunity to participate pursuant to the provisions of Section 2.6, other than a registration from which all or any portion of the Registrable Securities the Holders requested be included in such registration have been excluded in accordance with Section 2.6(b);
+ 
+17
+
+
+
+　　　　　　　(ii) In any particular jurisdiction in which the Company would be required to execute a general consent to service of process in effecting such registration, qualification or compliance unless the Company is already subject to service in such jurisdiction and except as may be required by the Securities Act;
+　　　　　　　(iii) Prior to six (6) months after the effective date of the IPO in the jurisdiction in which the Initiating Holders have requested such registration be effected;
+　　　　　　　(iv) During the period starting with the date sixty (60) days prior to the Company's estimated date of filing of, and ending on the date six (6) months immediately following the effective date of, any registration statement pertaining to securities of the Company (other than a registration of securities in a transaction under Rule 145 promulgated under the Securities Act ("Rule 145") or with respect to an employee benefit plan), provided, that the Company is actively employing in good faith commercially reasonable efforts to cause such registration statement to become effective;
+　　　　　　　(v) After the Company has effected three (3) such registrations pursuant to this Section 2.5(a), and such registration has been declared or ordered effective; or
+　　　　　　　(vi) If the Initiating Holders may dispose of shares of Registrable Securities pursuant to a registration statement on Form S-3 or Form F-3 under the Securities Act as in effect on the date hereof or any successor form under the Securities Act ("Form S-3/F-3") pursuant to a request made under Section 2.7 hereof.
+         (b) Underwriting. If the Initiating Holders intend to distribute the Registrable Securities covered by their request by means of an underwriting, then they shall so advise the Company as a part of their request made pursuant to this Section 2.5 and the Company shall include such information in the Request Notice referred to in Section 2.5(a). In the event of an underwritten offering, the right of any Holder to include its Registrable Securities in such registration shall be conditioned upon such Holder's participation in such underwriting and the inclusion of such Holder's Registrable Securities in the underwriting (unless otherwise mutually agreed by a majority in interest of the initiating Holders and such Holder) to the extent provided herein. All Holders proposing to distribute their securities through such underwriting shall enter into an underwriting agreement in customary form with the managing underwriter or underwriters selected for such underwriting by the Holders of a majority of the Registrable Securities being registered and reasonably acceptable to the Company. Notwithstanding any other provision of this Section 2.5, if the underwriter(s) advise(s) the Company in writing that marketing factors require a limitation of the number of securities to be underwritten, then the Company shall so advise all Holders of Registrable Securities which would otherwise be registered and underwritten pursuant hereto, and the number of Registrable Securities that may be included in the underwriting shall be reduced as required by the underwriter(s) and allocated among the Holders of Registrable Securities on a pro rata basis according to the number of Registrable Securities then outstanding held by each Holder requesting registration (including the initiating Holders); provided, however, that the number of shares of Registrable Securities to be included in such underwriting and registration shall not be reduced below twenty-five percent (25%) of the aggregate number of Registrable Securities for which inclusion has been requested, and unless all other securities are first entirely excluded from the underwriting and registration including, without limitation, all shares that are not Registrable Securities and are held by any other person, including, without limitation, any person who is an employee, officer or director of the Company (or any PRC Company of the Company). If any Holder disapproves of the terms of any such underwriting, such Holder may elect to withdraw therefrom by written notice to the Company and the underwriter(s), delivered at least ten (10) business days prior to the effective date of the registration statement. Any Registrable Securities and/or other securities so excluded or withdrawn from such underwriting shall be excluded and withdrawn from the registration. For any Holder that is a partnership, the Holder and the partners and retired partners of such Holder, or the estates and family members of any such partners and retired partners and any trusts for the benefit of any of the foregoing persons, and for any Holder that is a corporation, the Holder and all corporations that are Affiliates of such Holder, shall be deemed to be a single "Holder," and any pro rata reduction with respect to such "Holder" shall be based upon the aggregate amount of shares carrying registration rights owned by all entities and individuals included in such "Holder," as defined in this sentence.
+ 
+18
+
+
+
+         (c) Deferral. Notwithstanding the foregoing, if the Company shall furnish to Holders requesting the filing of a registration statement pursuant to this Section 2.5, a certificate signed by the President or Chief Executive Officer of the Company stating that in the good faith judgment of the Board, it would be materially detrimental to the Company and its shareholders for such registration statement to be filed, then the Company shall have the right to defer such filing for a period of not more than ninety (90) days after receipt of the request of the Initiating Holders; provided,however, that the Company may not utilize this right more than once in any twelve (12) month period; provided furtherthat during such ninety (90) day period, the Company shall not file any registration statement pertaining to the public offering of any securities of the Company.
+         (d) Expenses. The Company shall pay all Registration Expenses. Each Holder participating in a registration pursuant to this Section 2.5 shall bear such Holder's proportionate share (based on the total number of shares sold in such registration other than for the account of the Company) of all discounts, and commissions or other amounts payable to underwriter(s) or brokers, in connection with such offering by the Holders. Notwithstanding the foregoing, the Company shall not be required to pay for any expenses of any registration proceeding begun pursuant to this Section 2.5 if the registration request is subsequently withdrawn at the request of the Holders of a majority of the Registrable Securities to be registered, unless the Holders of a majority of the Registrable Securities then outstanding agree that such registration constitutes the use by the Holders of one (1) demand registration pursuant to this Section 2.5 (in which case such registration shall also constitute the use by all Holders of Registrable Securities of one (l) such demand registration); provided further, however, that if at the time of such withdrawal, the Holders have learned of a material adverse change in the condition, business, or prospects of the Company not known to the Holders at the time of their request for such registration and have withdrawn their request for registration with reasonable promptness after learning of such material adverse change, then the Holders shall not be required to pay any of such expenses and such registration shall not constitute the use of a demand registration pursuant to this Section 2.5.
+ 
+19
+
+
+
+　　2.6 Piggyback Registrations.
+         (a) Notice of Registration. The Company shall notify all Holders of Registrable Securities in writing at least thirty (30) days prior to filing any registration statement under the Securities Act for purposes of effecting a public offering of securities of the Company (including, but not limited to, registration statements relating to secondary offerings of securities of the Company, but excluding registration statements relating to (i) any registration under Section 2.5 or Section 2.7 of this Agreement, (ii) any employee benefit plan, or (iii) any corporate reorganization) and will afford each such Holder an opportunity to include in such registration statement all or any part of the Registrable Securities then held by such Holder. Each Holder desiring to include in any such registration statement all or any part of the Registrable Securities held by such Holder shall within twenty (20) days after receipt of the above-described notice from the Company, so notify the Company in writing, and in such notice shall inform the Company of the number of Registrable Securities such Holder wishes to include in such registration statement. If a Holder decides not to include all of its Registrable Securities in any registration statement thereafter filed by the Company, such Holder shall nevertheless continue to have the right to include any Registrable Securities in any subsequent registration statement or registration statements as may be filed by the Company with respect to offerings of its securities, all upon the terms and conditions set forth herein.
+         (b) Underwriting. If a registration statement under which the Company gives notice under this Section 2.6 is for an underwritten offering, then the Company shall so advise the Holders of Registrable Securities. In such event, the right of any such Holder's Registrable Securities to be included in a registration pursuant to this Section 2.6 shall be conditioned upon such Holder's participation in such underwriting and the inclusion of such Holder's Registrable Securities in the underwriting to the extent provided herein. All Holders proposing to distribute their Registrable Securities through such underwriting shall enter into an underwriting agreement in customary form with the managing underwriter or underwriters selected by the Company for such underwriting. Notwithstanding any other provision of this Agreement, if the managing underwriter(s) determine(s) in good faith that marketing factors require a limitation of the number of shares to be underwritten, then the managing underwriter(s) may exclude shares from the registration and the underwriting, and the number of shares that may be included in the registration and the underwriting shall be allocated,first to the Company, and second, to each of the Holders requesting inclusion of their Registrable Securities in such registration statement on a pro rata basis based on the total number of Registrable Securities then held by each such Holder; provided, however, that the right of the underwriter(s) to exclude shares (including Registrable Securities) from the registration and underwriting as described above shall be restricted so that (i) the number of Registrable Securities included in any such registration is not reduced below twenty-five percent (25%) of the aggregate number of Registrable Securities for which inclusion has been requested, even if this will cause the Company to reduce the number of shares it wishes to offer; and (ii) all shares that are not Registrable Securities and are held by any other person, including, without limitation, any person who is an employee, officer or director of the Company (or any PRC Company of the Company) shall first be excluded from such registration and underwriting before any Registrable Securities are so excluded. Notwithstanding the foregoing, if such offering is the Qualified IPO, any or all of the Registrable Securities of the Holders may be excluded in accordance with this Section 2.6(b), provided that any and all securities of the Company to be sold by other selling shareholders are also excluded. If any Holder disapproves of the terms of any such underwriting, such Holder may elect to withdraw therefrom by written notice to the Company and the underwriter(s), delivered at least ten (10) business days prior to the effective date of the registration statement. Any Registrable Securities excluded or withdrawn from such underwriting shall be excluded and withdrawn from the registration. For any Holder that is a partnership, the Holder and the partners and retired partners of such Holder, or the estates and family members of any such partners and retired partners and any trusts for the benefit of any of the foregoing persons, and for any Holder that is a corporation, the Holder and all corporations that are Affiliates of such Holder, shall be deemed to be a single "Holder," and any pro rata reduction with respect to such "Holder" shall be based upon the aggregate amount of shares carrying registration rights owned by all entities and individuals included in such "Holder," as defined in this sentence.
+ 
+20
+
+
+
+         (c) Expenses. The Company shall pay all Registration Expenses incurred in connection with each registration under this Section 2.6.
+         (d) Not a Demand Registration. Registration pursuant to this Section 2.6 shall not be deemed to be a demand registration as described in Section 2.5 above. Except as otherwise provided herein, there shall be no limit on the number of times the Holders may request registration of Registrable Securities under this Section 2.6.
+　　2.7 Form S-3/F-3 Registration.
+         (a) After its initial public offering, the Company shall use its best efforts to qualify for registration on Form S-3/F-3 or any comparable or successor form as early as possible and use best efforts to maintain such qualification thereafter. If the Company is qualified to use Form S-3/F-3, the holders of thirty percent (30%) of the Registrable Securities shall have a right to request at such time from time to time (such request shall be in writing) that the Company effect a registration on either Form S-3/F-3 and any related qualification or compliance with respect to all or any part of the Registrable Securities owned by such Holder or Holders, and upon receipt of each such request, the Company will:
+　　　　　　　(i) Notice. Promptly give written notice of the proposed registration and the Holder's or Holders' request therefor, and any related qualification or compliance, to all other Holders of Registrable Securities; and
+　　　　　　　(ii) Registration. As soon as practicable, effect such registration and all such qualifications and compliances as may be so requested and as would permit or facilitate the sale and distribution of all or such portion of such Holder's or Holders' Registrable Securities as are specified in such request, together with all or such portion of the Registrable Securities of any other Holder or Holders joining in such request as are specified in a written request given within twenty (20) days after the Company provides the notice contemplated by Section 2.7(a)(i); provided,however, that the Company shall not be obligated to effect any such registration, qualification or compliance pursuant to this Section 2.7:
+                   (A) if Form S-3/F-3 becomes unavailable for such offering by the Holders;
+ 
+21
+
+
+
+                   (B) if the Holders, together with the holders of any other securities of the Company entitled to inclusion in such registration, propose to sell Registrable Securities and such other securities (if any) at an aggregate price to the public of less than US$1,000,000;
+                   (C) if the Company has, within the six (6) month period preceding the date of such request, already effected a registration under the Securities Act in which the Holders have piggyback rights under Section 2.6 other than a registration from which the Registrable Securities of Holders have been excluded (with respect to all or any portion of the Registrable Securities the Holders requested be included in such registration) pursuant to the provisions of Section 2.6(b);
+                   (D) if the Company has effected more than two (2) registrations pursuant to this Section 2.7 in any twelve (12) month period; or
+                   (E) in any particular jurisdiction in which the Company would be required to qualify to do business or to execute a general consent to service of process in effecting such registration, qualification or compliance unless the Company is already subject to service in such jurisdiction and except as may be required by the Securities Act.
+         (b) Expenses. The Company shall pay all Registration Expenses incurred in connection with each registration requested pursuant to this Section 2.7.
+         (c) Maximum Frequency. Except as otherwise provided herein, there shall be no limit on the number of times the Holders may request registration of Registrable Securities under this Section 2.7.
+         (d) Deferral. Notwithstanding the foregoing, if the Company shall furnish to Holders requesting the filing of a registration statement pursuant to this Section 2.7, a certificate signed by the President or Chief Executive Officer of the Company stating that in the good faith judgment of the Board, it would be materially detrimental to the Company and its shareholders for such Form S-3/F-3 registration statement to be filed, then the Company shall have the right to defer such filing for a period of not more than ninety (90) days after receipt of the request of the Initiating Holders; provided, however, that the Company may not utilize this right more than once in any twelve (12) month period;provided further that during such ninety (90) day period, the Company shall not file any registration statement pertaining to the public offering of any securities of the Company.
+         (e) Not Demand Registration. Form S-3/F-3 registrations shall not be deemed to be demand registrations as described in Section 2.5 above.
+ 
+22
+
+
+
+         (f) Underwriting. If the requested registration under this Section 2.7 is for an underwritten offering, the provisions of Section 2.5(b) shall apply.
+　　2.8 Obligations of the Company. Whenever required to effect the registration of any Registrable Securities under this Agreement, the Company shall keep each Holder advised in writing as to the initiation of such registration and as to the completion thereof, and shall, at its expense and as expeditiously and as reasonably possible:
+         (a) Registration Statement. Prepare and file with the Commission a registration statement with respect to such Registrable Securities and use its best efforts to cause such registration statement to become effective, and keep any such registration statement effective for a period of one hundred twenty (120) days or until the Holder or Holders have completed the distribution described in the registration statement relating thereto, whichever occurs first.
+         (b) Amendments and Supplements. Prepare and file with the Commission such amendments and supplements to such registration statement and the prospectus used in connection with such registration statement as may be necessary to comply with the provisions of the Securities Act with respect to the disposition of all securities covered by such registration statement.
+         (c) Registration Statements and Prospectuses. Furnish to the Holders such number of copies of registration statements and prospectuses, including a preliminary prospectus, in conformity with the requirements of the Securities Act, and such other documents as they may reasonably request in order to facilitate the disposition of the Registrable Securities owned by them that are included in such registration.
+         (d) Blue Sky. Use its best efforts to register and qualify the securities covered by such registration statement under such other securities or Blue Sky laws of such jurisdictions as shall be reasonably requested by the Holders, provided that the Company shall not be required in connection therewith or as a condition thereto to qualify to do business or to file a general consent to service of process in any such states or jurisdictions.
+         (e) Deposit Agreement. If the registration relates to an offering of depositary shares or other securities representing Ordinary Shares deposited pursuant to a deposit agreement or similar facility, cause the depositary under such agreement or facility to accept for deposit under such agreement or facility all Registrable Securities requested by each Holder to be included in such registration in accordance with this Section 2.
+         (f) Underwriting. In the event of any underwritten public offering, enter into and perform its obligations under an underwriting agreement in usual and customary form, with the managing underwriter(s) of such offering. Each Holder participating in such underwriting shall also enter into and perform its obligations under such an agreement.
+         (g) Notification. Notify each Holder of Registrable Securities covered by such registration statement at any time when a prospectus relating thereto is required to be delivered under the Securities Act of the happening of any event as a result of which the prospectus included in such registration statement, as then in effect, includes an untrue statement of a material fact or omits to state a material fact required to be stated therein or necessary to make the statements therein not misleading in the light of the circumstances then existing.
+ 
+23
+
+
+
+         (h) Opinion and Comfort Letter. Furnish, at the request of any Holder requesting registration of Registrable Securities, on the date that such Registrable Securities are delivered to the underwriter(s) for sale, if such securities are being sold through underwriters, or, if such securities are not being sold through underwriters, on the date that the registration statement with respect to such securities becomes effective, (i) an opinion, dated as of such date, of the counsel representing the Company for the purposes of such registration, in form and substance as is customarily given to underwriters in an underwritten public offering and reasonably satisfactory to a majority in interest of the Holders requesting registration, addressed to the underwriters, if any, and to the Holders requesting registration of Registrable Securities and (ii) a "comfort" letter dated as of such date, from the independent certified public accountants of the Company, in form and substance as is customarily given by independent certified public accountants to underwriters in an underwritten public offering and reasonably satisfactory to a majority in interest of the Holders requesting registration, addressed to the underwriters.
+         (i) Listing on Securities Exchange(s). Cause all such Registrable Securities registered pursuant hereunder to be listed on each securities exchange on which similar securities issued by the Company are then listed.
+         (j) Provide a transfer agent and registrar for all Registrable Securities registered pursuant hereunder and a CUSIP number for all such Registrable Securities, in each case not later than the effective date of such registration.
+         (k) To the extent the Company is a well-known seasoned issuer (as defined in Rule 405 under the Securities Act) (a "WKSI") at the time any request for registration is submitted to the Company in accordance with Section 2.7, (i) if so requested, file an automatic shelf registration statement (as defined in Rule 405 under the Securities Act) (an "automatic shelf registration statement") to effect such registration, and (ii) remain a WKSI (and not become an ineligible issuer (as defined in Rule 405 under the Securities Act)) during the period during which such automatic shelf registration statement is required to remain effective in accordance with this Agreement.
+         (l) If at any time when the Company is required to re-evaluate its WKSI status for purposes of an automatic shelf registration statement used to effect a request for registration in accordance with Section 2.7 (i) the Company determines that it is not a WKSI, (ii) the registration statement is required to be kept effective in accordance with this Agreement, and (iii) the registration rights of the applicable Holders have not terminated, promptly amend the registration statement onto a form the Company is then eligible to use or file a new registration statement on such form, and keep such registration statement effective in accordance with the requirements otherwise applicable under this Agreement.
+         (m) If (i) a registration made pursuant to a shelf registration statement is required to be kept effective in accordance with this Agreement after the third anniversary of the initial effective date of the shelf registration statement and (ii) the registration rights of the applicable Holders have not terminated, file a new registration statement with respect to any unsold Registrable Securities subject to the original request for registration prior to the end of the three year period after the initial effective date of the shelf registration statement, and keep such registration statement effective in accordance with the requirements otherwise applicable under this Agreement.
+ 
+24
+
+
+
+         (n) Otherwise use its commercially reasonable efforts to comply with all applicable rules and regulations of the Commission, and make available to its securities holders, as soon as reasonably practicable, an earnings statement covering the period of at least twelve (12) months, but not more than eighteen (18) months, beginning with the first month after the effective date of the registration statement, which earnings statement shall satisfy the provisions of Section 11(a) of the Securities Act.
+　　If the Company fails to perform any of the Company's obligations set forth above in this Section 2.8 relating to a demand registration made pursuant to Section 2.5, such registration shall not constitute the use of a demand registration under Section 2.5.
+　　2.9 Furnish Information. It shall be a condition precedent to the obligations of the Company to take any action pursuant to Sections 2.5, 2.6 or 2.7 with respect to the Registrable Securities of any Holder, that such Holder shall furnish to the Company such information regarding itself, the Registrable Securities held by it and the intended method of disposition of such securities as shall be reasonably requested in writing by the Company to timely effect the registration of its Registrable Securities.
+　　2.10 Indemnification. In the event any Registrable Securities are included in a registration statement under Sections 2.5, 2.6 or 2.7.
+         (a) By the Company. To the extent permitted by law, the Company will indemnify and hold harmless each Holder, its partners, officers, directors, trustees, legal counsel and any underwriter (as determined in the Securities Act) for such Holder and each person, if any, who controls such Holder or underwriter within the meaning of Section 15 of the Securities Act against any expenses, losses, claims, damages, or liabilities (joint or several) (or actions in respect thereof) to which they may become subject under the Securities Act, the Exchange Act or other federal or state law or other applicable law, insofar as such expenses, losses, claims, damages, or liabilities (or actions in respect thereof) arise out of or are based upon any of the following statements, omissions or violations (collectively, a "Violation"):
+　　　　　　　(i) any untrue statement or alleged untrue statement of a material fact contained in any registration statement, offering circular, preliminary prospectus, final prospectus or other document, or any amendments or supplements thereto;
+　　　　　　　(ii) the omission or alleged omission to state therein a material fact required to be stated therein, or necessary to make the statements therein, in light of the circumstances in which they were made, not misleading; or
+　　　　　　　(iii) any violation or alleged violation by the Company of the Securities Act, the Exchange Act, any federal or state or foreign securities law or any rule or regulation promulgated under the Securities Act, the Exchange Act or other applicable securities law in connection with the offering covered by such registration statement; and the Company will reimburse each such Holder, its partner, officer, director, legal counsel, underwriter or controlling person for any legal or other expenses reasonably incurred by them, as incurred, in connection with investigating or defending any such loss, claim, damage, liability or action; provided, however, that the indemnity agreement contained in this Section2.10(a) shall not apply to amounts paid in settlement of any such loss, claim, damage, liability or action if such settlement is effected without the consent of the Company (which consent shall not be unreasonably withheld), nor shall the Company be liable in any such case for any such loss, claim, damage, liability or action to the extent that it arises out of or is based upon a Violation which occurs in reliance upon and in conformity with written information furnished expressly for use in connection with such registration by such Holder, underwriter or controlling person of such Holder.
+ 
+25
+
+
+
+         (b) By Selling Holders. To the extent permitted by law, each selling Holder will indemnify and hold harmless the Company, each of its directors, each of its officers who have signed the registration statement, each person, if any, who controls the Company within the meaning of Section 15 of the Securities Act, any underwriter (as determined in the Securities Act) and any other Holder selling securities under such registration statement or any of such other Holder's partners, directors, officers, trustees, legal counsel and any underwriter (as determined in the Securities Act) for such Holder and each person, if any, who controls other Holder within the meaning of Section 15 of the Securities Act, against any expenses, losses, claims, damages or liabilities (joint or several) (or actions in respect thereof) to which the Company or any such director, officer, trustee, legal counsel, controlling person, underwriter or such other Holder, partner or director, officer or controlling person of such other Holder may become subject under the Securities Act, the Exchange Act or other applicable law, insofar as such expenses, losses, claims, damages or liabilities (or actions in respect thereto) arise out of or are based upon any Violation, in each case to the extent (and only to the extent) that such Violation occurs in reliance upon and in conformity with written information furnished by such Holder expressly for use in connection with such registration; and each such Holder will reimburse any legal or other expenses reasonably incurred by the Company or any such director, officer, controlling person, underwriter or other Holder, partner, officer, director or controlling person of such other Holder in connection with investigating or defending any such loss, claim, damage, liability or action: provided, however, that the indemnity agreement contained in this Section 2.10(b) shall not apply to amounts paid in settlement of any such loss, claim, damage, liability or action if such settlement is effected without the consent of the Holder, which consent shall not be unreasonably withheld; and provided further that the total amounts payable in indemnity by a Holder under this Section 2.10(b) plus any amount under Section 2.10(e) in respect of any Violation shall not exceed the net proceeds received by such Holder in the registered offering out of which such Violation arises.
+         (c) Notice. Promptly after receipt by an indemnified party under this Section 2.10 of notice of the commencement of any claim or action (including any governmental action), such indemnified party will, if a claim in respect thereof is to be made against any indemnifying party under this Section 2.10, deliver to the indemnifying party a written notice of the commencement thereof (a "Claim Notice") and the indemnifying party shall have the right to participate in, and, to the extent the indemnifying party so desires, jointly with any other indemnifying party similarly noticed, to assume the defense thereof with counsel mutually satisfactory to the parties; provided, however, that an indemnified party (together with all other indemnified parties which may be represented without conflict by one counsel) shall have the right to retain its own counsel, with the reasonable fees and expenses to be paid by the indemnifying party, (i) during the period from the delivery of a Claim Notice until retention of counsel by the indemnifying party; and (ii) if representation of such indemnified party by the counsel retained by the indemnifying party would be inappropriate due to actual or potential conflict of interests between such indemnified party and any other party represented by such counsel in such proceeding. The failure to deliver a Claim Notice to the indemnifying party within a reasonable time shall relieve such indemnifying party of liability to the indemnified party under this Section 2.10 to the extent the indemnifying party is prejudiced as a result thereof, but the omission so to deliver written notice to the indemnified party will not relieve it of any liability that it may have to any indemnified party otherwise than under this Section 2.10.
+ 
+26
+
+
+
+         (d) Defect Eliminated in Final Prospectus. The foregoing indemnity agreements of the Company and Holders are subject to the condition that, insofar as they relate to any untrue statement, alleged untrue statement, omission or alleged omission made in a preliminary prospectus or free writing prospectus on file with the Commission at the time the registration statement becomes effective, such indemnity agreement shall not inure to the benefit of any person if an amended prospectus is filed with the Commission and delivered pursuant to the Securities Act at or prior to the time of sale (including, without limitation, a contract of sale, and as further contemplated by Rule 159 promulgated under the Securities Act) to the person asserting the loss, liability, claim or damage.
+         (e) Contribution. In order to provide for just and equitable contribution to joint liability under the Securities Act in any case in which either (i) any Holder exercising rights under this Agreement, or any controlling person of any such Holder, makes a claim for indemnification pursuant to this Section 2.10 but it is judicially determined (by the entry of a final judgment or decree by a court of competent jurisdiction and the expiration of time to appeal or the denial of the last right of appeal) that such indemnification may not be enforced in such case notwithstanding the fact that this Section 2.10 provides for indemnification in such case, or (ii) contribution under the Securities Act may be required on the part of any such selling Holder or any such controlling person in circumstances for which indemnification is provided under this Section 2.10; then, and in each such case, the Company and such Holder will contribute to the aggregate losses, claims, damages or liabilities to which they may be subject (after contribution from others) in such proportion so that such Holder is responsible for the portion represented by the percentage that the public offering price of its Registrable Securities offered by and sold under the registration statement bears to the public offering price of all securities offered by and sold under such registration statement, and the Company and other selling Holders are responsible for the remaining portion; provided, however, that, in any such case: (A) no such Holder will be required to contribute any amount in excess of the public offering price of all such Registrable Securities offered and sold by such Holder pursuant to such registration statement; and (B) no person or entity guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Securities Act) will be entitled to contribution from any person or entity who was not guilty of such fraudulent misrepresentation.
+         (f) Supremacy of the Underwriting Agreement. Notwithstanding the foregoing, to the extent that the provisions on indemnification and contribution contained in the underwriting agreement entered into in connection with the underwritten public offering are in conflict with the foregoing provisions, the provisions in the underwriting agreement shall control.
+         (g) Survival. The obligations of the Company and Holders under this Section 2.10 shall survive until the fifth (5th) anniversary of the completion of any offering of Registrable Securities in a registration statement, regardless of the expiration of any statutes of limitation or extensions of such statutes.
+ 
+27
+
+
+
+　　2.11 Rule 144 Reporting. With a view to making available to the Holders the benefits of certain rules and regulations of the Commission which may at any time permit the sale of the Restricted Securities by a Holder to the public without registration or pursuant to a registration on Form S-3 or Form F-3, the Company agrees to use its best efforts to:
+         (a) make and keep public information available, as those terms are understood and defined in Rule 144 or any similar or analogous rule promulgated under the Securities Act, at all times after the effective date of the first registration filed by the Company for an offering of its securities to the general public;
+         (b) take such action, including the voluntary registration of its Ordinary Shares under Section 12 of the Exchange Act, as is necessary to enable the Holders to utilize Form S-3 or Form F-3 for the sale of their Registrable Securities, such action to be taken as soon as practicable after the end of the fiscal year in which the first registration statement filed by the Company for the offering of its securities to the general public is declared effective;
+         (c) file with the Commission, in a timely manner, all reports and other documents required of the Company under the Securities Act or the Exchange Act, at all times after the effective date of the first registration under the Securities Act filed by the Company; and
+         (d) so long as a Holder owns any Restricted Securities, furnish to such Holder forthwith upon request, (i) a written statement by the Company as to its compliance with the reporting requirements of said Rule 144, and of the Exchange Act (at any time after it has become subject to such reporting requirements) or that it qualifies as a registrant whose securities may be resold pursuant to Form S-3 or Form F-3 (at any time after it so qualifies), (ii) a copy of the most recent annual, interim, quarterly or other report of the Company, and documents so filed by the Company, and (iii) such other reports and documents as a Holder may reasonably request in availing itself of any rule or regulation of the Commission allowing it to sell any such securities without registration.
+　　2.12 Termination of the Company's Obligations. Notwithstanding the foregoing, the Company shall have no obligations pursuant to Sections 2.5, 2.6, or 2.7 with respect to any Registrable Securities proposed to be sold by a Holder in a registered public offering (i) five (5) years after the consummation of a Qualified IPO, (ii) the closing of a Trade Sale, or (iii) where all shares of a Preferred Investor are eligible to be sold without restriction under Rule 144(k) within any 120-day period.
+　　2.13 No Registration Rights to Third Parties. Without the prior written consent of the Holders of more than fifty percent (50%) of the Registrable Securities then outstanding, the Company covenants and agrees that it shall not grant, or cause or permit to be created, for the benefit of any person or entity any registration rights of any kind (whether similar to the demand, "piggyback" or Form S-3/F-3 registration rights described in this Section 2, or otherwise) relating to any shares or other securities of the Company, other than rights that are subordinate to the rights of the Holders hereunder.
+ 
+28
+
+
+
+　　2.14 "Market Stand-Off" Agreement. Each Holder hereby agrees that, if and to the extent requested by the lead underwriter of securities of the Company in connection with a registration relating to a specific proposed public offering (other than a registration on Form S-8 or a related or successor form relating solely to an employee benefit plan or a registration on Form S-4 or a related or successor form relating solely to a transaction under SEC Rule 145), such Holder will, subject to the following conditions, enter into a lock-up or standoff agreement in usual and customary form (subject to the following conditions) under which such Holder agrees not to sell or otherwise transfer or dispose of any Registrable Securities or other shares of the Company owned by such Holder as of the date of such registration for up to one hundred eighty (180) days following the effective date of the related registration statement.
+　　The obligations of each Holder under this Section 2.14 are subject to the following conditions: (a) the lock-up or standoff agreement applies only to the first registration statement of the Company which covers securities to be sold on its behalf to the public in an underwritten offering, but not to Registrable Securities actually sold pursuant to such registration statement; (b) such Holder is reasonably satisfied that all directors, officers, and holders of one half percent (0.5%) or more of any class of securities of the Company are bound by substantially identical restrictions; (c) the lock-up or standoff agreement provides that if any securities of the Company are to be excluded or released in whole or part from such restrictions, the underwriter shall so notify each Holder and each Holder shall be excluded or released, in proportionate amounts to the extent of the exclusion or release with respect to any other holder of Company's securities, including director, officer, or holder of one percent (1%) or more of any class of securities of the Company subject to such restrictions; and (d) the lock-up or standoff agreement by its terms permits transfers of Registrable Securities by any Holder to any Affiliate of such Holder during the restricted period, provided that such Affiliate executes a lock-up or standoff agreement substantively identical to that signed by the transferring Holder.
+　　The Company may impose a stop-transfer instruction with respect to Registrable Securities subject to any such lock-up or standoff agreement but shall remove such instruction immediately upon expiration of the underlying restrictions.
+　　2.15 Public Offering Rights (Non-U.S. Offerings). If shares of the Company are offered in an underwritten public offering (whether or not a Qualified IPO) outside the United States for the account of any Ordinary Shareholder or other shareholders, each Holder shall have the right to include a pro-rata number of shares (based on the number of shares (on an as converted basis) then held by such holder and all other shareholders of the Company selling in the offering) in the offering on terms and conditions no less favorable to the Holders than to any other selling shareholder.
+　　2.16 Re-sale Rights. The Company shall use its best efforts to assist each Holder in the sale or disposition of its Registrable Securities after a Qualified IPO, including the prompt delivery of applicable instruction letters by the Company and legal opinions from the Company's counsel in forms reasonably satisfactory to the Holder's counsel. In the event the Company has depositary receipts listed or traded on any stock exchange or inter-dealer quotation system, the Company shall pay all costs and fees related to such depositary facility, including conversion fees and maintenance fees for Registrable Securities held by the Holders.
+　　2.17 Transfer of Registration Rights. The rights to cause the Company to register securities granted to any Holder under this Section 2 may be assigned to a transferee or assignee in connection with any transfer or assignment of Registrable Securities by the Holder, provided that, (a) such transfer may otherwise be effected in accordance with applicable securities laws, (b) the Company is given notice of the transfer, and (c) such assignee or transferee agrees to be bound by the terms of this Agreement.
+ 
+29
+
+
+3.Right of First Offer.　　3.1 Right of First Offer of Company Offerings. Subject to the terms and conditions specified in this Section 3.1, the Company hereby grants to each Purchaser a right of first offer to purchase its Pro Rata Share (as hereinafter defined) (in whole or in part) with respect to future sales by the Company of New Securities (as hereinafter defined).
+　　For purposes of this Section 3.1, a Purchaser's "Pro Rata Share" shall mean that number of New Securities that equals the total number of such New Securities to be sold by the Company, multiplied by the ratio that (i) the number of Ordinary Share Equivalents held by such Purchaser bears to (ii) the total number of Ordinary Share Equivalents of the Company outstanding (assuming full conversion of all Preferred Shares then outstanding and the exercise of all option then outstanding under the Company's employee stock ownership plans) immediately prior to the issuance of New Securities giving rise to the Right of First Offer. "Ordinary Share Equivalents" shall mean the number of issued and outstanding Ordinary Shares, and Ordinary Shares into which the issued and outstanding Preferred Shares and other convertible securities are convertible.
+　　Subject to Section 3.1(d), each time the Company proposes to offer any shares of, or securities convertible into or exercisable for any shares of, any class of its shares (the "New Securities"), the Company shall first make an offering of such New Securities to each Purchaser in accordance with the following provisions:
+         (a) The Company shall deliver a written notice (the "Notice") pursuant to Section 6.7 hereof to each of the Purchasers stating (i) its bona fide intention to offer such New Securities, (ii) the number of such New Securities to be offered, and (iii) the price and a summary of the terms, if any, upon which it proposes to offer such New Securities.
+         (b) (i) By written notification received by the Company within fifteen (15) business days after delivery of the Notice (the "Refusal Period"), each Purchaser may elect to purchase or obtain, at the price and on the terms specified in the Notice, up to its Pro Rata Share of such New Securities.
+　　　　　　　(ii) In the event that any Purchaser elects not to purchase its full Pro Rata Share of the New Securities available to it pursuant to Section 3.1(b)(i) above within the Refusal Period, then the Company shall promptly give written notice (the "Overallotment Notice") to each of the Purchasers that has elected to purchase its full Pro Rata Share (the "Fully Participating Purchasers"), which notice shall set forth the number of New Securities not purchased by the other Purchasers pursuant to Section 3.1(b)(i) (such shares, the "Overallotment New Securities"), and shall offer the Fully Participating Purchasers the right to purchase its pro rata share of the Overallotment New Securities. By written notification received by the Company within five (5) business days after delivery of the Overallotment Notice, each Fully Participating Purchaser may elect to purchase or obtain at the price and terms specified in the Notice, up to its pro rata share of the Overallotment New Securities. For purposes of this Section 3.1(b)(ii), each Fully Participating Purchaser's pro rata share shall be the number of Overallotment New Securities multiplied by a fraction, the numerator of which shall be the number of Ordinary Share Equivalents held by such Fully Participating Purchaser on the date of the Notice and the denominator of which shall be the total number of Ordinary Share Equivalents held by all Fully Participating Purchasers on the date of the Notice.
+ 
+30
+
+
+
+         (c) In the event that not all New Securities specified in the Notice are acquired by the Purchasers pursuant to Section 3.1(b) hereof, the Company may, during the ninety (90) day period following the expiration of the period provided in Section 3.1(b) hereof, offer the remaining unsubscribed portion of such New Securities to any person or persons at a price not less than, and upon terms no more favorable to the offeree than those specified in the Notice. If the Company does not enter into an agreement for the sale of the New Securities within such period, or if such agreement is not consummated within sixty (60) days of the execution thereof, the right provided hereunder shall be deemed to be revived and such New Securities shall not be offered unless first reoffered to the Purchasers in accordance herewith.
+         (d) Notwithstanding the foregoing, New Securities does not include the Series E Preferred Shares issued pursuant to the Series E Purchase Agreement or Ordinary Shares, Options (as defined in the Articles) or Convertible Securities (as defined in the Articles) issued or issuable (or deemed to be issued or issuable pursuant to Regulation 9.b.2 of the Memorandum):
+　　　　　　　(i) upon conversion of Preferred Shares;
+　　　　　　　(ii) in the aggregate up to 12,240,118 Ordinary Shares upon exercise or conversion of options, warrants or other securities or arrangements to purchase Ordinary Shares issued from time to time to employees, officers, directors or consultants of the Company or its subsidiaries pursuant to option plans, restricted stock plans or other arrangements, each such plan, arrangement or issuance (as applicable) having been approved pursuant to Regulation 9.d. of the Memorandum;
+　　　　　　　(iii) as a dividend or distribution on Preferred Shares or any event for which adjustment is made pursuant to Regulation 9.b. of the Memorandum;
+　　　　　　　(iv) pursuant to Recapitalizations and other events;
+　　　　　　　(v) pursuant to any acquisition of or by the Company by merger, purchase of substantially all of the assets, reorganization or similar transaction, approved pursuant to Regulation 9.d. of the Memorandum;
+　　　　　　　(vi) pursuant to transactions with financial institutions or lessors in connection with loans, credit arrangements, equipment financings or similar transactions approved pursuant to Regulation 9.d. of the Memorandum; and
+　　　　　　　(vii) in a registered public offering under the Securities Act or pursuant to the securities laws applicable to an offering of securities in another jurisdiction pursuant to which such securities will be listed on an internationally recognized securities exchange which has been approved pursuant to Regulation 9.d. of the Memorandum.
+ 
+31
+
+
+
+　　The right of first offer is not assignable except to an Affiliate of such Purchaser.
+　　3.2 Termination of Right. The right of first offer granted hereunder shall expire immediately prior to the first to occur of the following: (a) the occurrence of the Qualified IPO, or (b) the closing of a Trade Sale.
+
+4.Representations and Warranties, Covenants and Other Agreements of the Founders and the Company　　4.1 Ownership of Equity Interests in ICP Company. Each of the Founders jointly and severally represents to each Purchaser that Wang Wei and Wang Zhiqi legally and beneficially own ninety-five percent (95%) and five percent (5%) of the equity interests of the ICP Company, respectively, free and clear of Encumbrances, with the exception that Wang Wei and Wang Zhiqi have pledged all of their equity interests in the ICP Company to the WFOE in order to secure the performance of the control agreements among the WFOE, the ICP Company, Wang Wei and Wang Zhiqi as provided in the Equity Pledge Agreement dated April 11, 2007.
+　　4.2 No Transfer of Equity Interests in ICP Company. Wang Wei and Wang Zhiqi jointly and severally warrant, undertake and covenant to the Purchasers that, except as approved by the Purchasers representing not less than two-thirds ( 2/3) of the Preferred Shares then outstanding (as adjusted for Recapitalizations and voting on an as-converted basis), each of Wang Wei and Wang Zhiqi shall not dispose of, alienate or create any Encumbrance over its respective equity interests in the ICP Company held as of the date hereof.
+　　4.3 Full Time Commitment of Founders. Each Founder (other than Marc Christiaen van der Chijs) warrants, undertakes and covenants to the Purchasers that, for such time as such Founder continues to provide services to any Group Company, he/she shall commit all of his/her efforts to furthering the business of the Group Companies and shall not, without the prior written consent of the Purchasers holding two-thirds ( 2/3) of the Preferred Shares then outstanding (as adjusted for Recapitalizations and voting on an as-converted basis), either on his/her own account or through any of his/her Affiliates, or in conjunction with or on behalf of any other person, carry on or be engaged, concerned or interested directly or indirectly whether as shareholder, director, employee, partner, agent or otherwise carry on any business other than the business of the Group Companies.
+　　4.4 Minimum Service Term of Founders. Each Founder (other than Marc Christiaen van der Chijs) warrants, undertakes and covenants to the Purchasers that such Founder, if retained by an approval of the Board of the Company by at least a majority of the Preferred Share Directors, shall continue to provide services to the Group Companies for a minimum of three (3) years following the Closing, unless Purchasers holding two-thirds ( 2/3) of the Preferred Shares then outstanding (as adjusted for Recapitalizations and voting on an as-converted basis) give their prior written consent otherwise.
+　　4.5 Non-Competition.
+         (a) Each Founder undertakes to each of the Purchasers that for a period of twenty-four (24) months after he/she ceases to be employed by any Group Company, he/she will not, without the prior written consent of the Purchasers holding two-thirds ( 2/3) of the Preferred Shares then outstanding (as adjusted for Recapitalizations and voting on an as-converted basis):
+　　　　　　　(i) in the territory of PRC and the Hong Kong Special Administrative Region (the "Territory") either on his/her own account or through any of his/her Affiliates, or in conjunction with or on behalf of any other person, carry on or be engaged, concerned or interested directly or indirectly whether as shareholder, director, employee, partner, agent or otherwise carry on any business in direct competition with the business of the Group Company;
+ 
+32
+
+
+
+　　　　　　　(ii) either on his/her own account or through any of his/her Affiliates or in conjunction with or on behalf of any other person solicit or entice away or attempt to solicit or entice away from any Group Company, the customer of any person, firm, company or organization who is or shall at any time within twenty-four (24) months prior to such cessation have been a customer, client, representative, agent or correspondent of such Group Company or in the habit of dealing with such Group Company;
+　　　　　　　(iii) either on his/her own account or through any of his/her Affiliates or in conjunction with or on behalf of any other person, employ, solicit or entice away or attempt to employ, solicit or entice away from any Group Company any person who is or shall have been at the date of or within twenty four (24) months prior to such cessation of employment an officer, manager, consultant or employee of such Group Company whether or not such person would commit a breach of contract by reason of leaving such employment; and
+　　　　　　　(iv) neither he/she nor any of his/her Affiliates will at any time hereafter, in relation to any trade, business or company use a name including the words "Toodou", "Tudou" or  or any other words hereafter used by any Group Company in its name or in the name of any of its products, services or their derivative terms, or the Chinese or English equivalent or any similar word in such a way as to be capable of or likely to be confused with the name of any Group Company or the product or services or any other products or services of any Group Company, and shall use all reasonable endeavors to procure that no such name shall be used by any of his/her Affiliates or otherwise by any person with which he/she is connected.
+         (b) Each and every obligation under Section 4.5(a) shall be treated as a separate obligation and shall be severally enforceable as such and in the event of any obligation or obligations being or becoming unenforceable in whole or in part, such part or parts which are unenforceable shall be deleted from such section and any such deletion shall not affect the enforceability of the remaining parts of such section.
+         (c) The parties agree that in light of the circumstances, the restrictive covenants contained in Section 4.5(a) are reasonable and necessary for the protection of the Group Companies and the Shareholders, and further agree that having regard to those circumstances the said covenants are not excessive or unduly onerous upon the Founders. However, it is recognized that restrictions of the nature in question may fail for technical reasons currently unforeseen and accordingly it is hereby agreed and declared that if any of such restrictions shall be adjudged to be void as going beyond what is reasonable, in light of the circumstances, for the protection of the Group Companies or the Shareholders, but would be valid if part of the wording thereof were deleted or the periods thereof reduced or the range of activities or area dealt with thereby reduced in scope, the said restriction shall apply with such modification as may be necessary to make it valid and effective.
+ 
+33
+
+
+
+　　4.6 Founders' Covenants regarding Ordinary Shareholders.
+         (a) Each of Wang Wei and Marc Christiaen van der Chijs undertakes and covenants to the Purchasers that, except as approved by the Purchasers holding not less than two-thirds ( 2/3) of the Preferred Shares then outstanding (as adjusted for Recapitalizations and voting on an as-converted basis), (i) he shall not dispose of, alienate or create any Encumbrance over his equity interests in the respective Ordinary Shareholder controlled, either directly or indirectly, by him as of the date hereof; or (ii) he shall procure that each respective Ordinary Shareholder shall not (a) issue or otherwise create, or (b) redeem, repurchase or otherwise cancel or reduce any securities the Ordinary Shareholders. For the purpose of this Section 4.6, the term "control" shall have the same meaning as defined in the Series E Purchase Agreement.
+         (b) Each of Wang Wei and Marc Christiaen van der Chijs undertakes and covenants to ensure and guarantee the performance of this Agreement, the Voting Agreement, the Co-Sale Agreement, the Memorandum and the Articles by the respective Ordinary Shareholder or Ordinary Shareholders controlled, either directly or indirectly, by him.
+
+5.Confidentiality and Announcements.　　5.1 Disclosure of Terms. Each party hereto acknowledges that the terms and conditions (collectively, the "Terms") of this Agreement, the other Transaction Agreements (as defined in the Series E Purchase Agreement), and all exhibits, restatements and amendments hereto and thereto, including their existence, shall be considered confidential information and shall not be disclosed by it to any third party except in accordance with the provisions set forth below. Each Purchaser agrees with the Company that such Purchaser will keep confidential and will not disclose or divulge, any information which such Purchaser obtains from the Company, pursuant to financial statements, reports, presentations, correspondence, and any other materials provided by the Company to, or communications between the Company and such Purchaser, or pursuant to information rights granted under this Agreement or any other related documents, unless the information is known, or until the information becomes known, to the public through no fault of such Purchaser, or unless the Company gives its written consent to such Purchaser's release of the information.
+　　5.2 Press Releases. Within sixty (60) days of the Closing, the Company may issue a press release disclosing that the Series E Purchasers have invested in the Company provided that (a) the release does not disclose any of the Terms, (b) the press release does not disclose the amount or other specific terms of the investment, and (c) the final form of the press release is approved in advance in writing by each Purchaser mentioned therein. Purchasers' names and the fact that Purchasers are shareholders in the Company can be included in a reusable press release boilerplate statement, so long as each Purchaser has given the Company its initial approval of such boilerplate statement and the boilerplate statement is reproduced in exactly the form in which it was approved. No other announcement regarding any Purchaser in a press release, conference, advertisement, announcement, professional or trade publication, mass marketing materials or otherwise to the general public may be made without such Purchaser's prior written consent, which consent may be withheld at such Purchaser's sole discretion.
+　　5.3 Permitted Disclosures. Notwithstanding anything in the foregoing to the contrary,
+         (a) The Company may disclose any of the Terms to its current or bona fide prospective investors, directors, officers, employees, shareholders, investment bankers, lenders, accountants, auditors, insurers, business or financial advisors, and attorneys, in each case only where such persons or entities are under appropriate nondisclosure obligations imposed by professional ethics, law or otherwise;
+ 
+34
+
+
+
+         (b) Each Purchaser (and its fund manager) may, without disclosing the identities of the other Purchasers or the Terms of their respective investments in the Company without their consent, disclose such Purchaser's investment in the Company to third parties or to the public at its sole discretion in relation thereto may use the Company's logo and trademark and may include links to the Company's website (without requiring the Company's further consent). If it does so, the other parties shall have the right to disclose to third parties any such information disclosed in a press release or other public announcement by such Purchaser;
+         (c) Each Purchaser shall have the right to disclose:
+　　　　　　　(i) any information to such Purchaser's, Purchaser Affiliate's and/or its fund manager's and/or its Affiliate's legal counsel, fund manager, auditor, insurer, accountant, consultant or to an officer, director, general partner, limited partner, its fund manager, shareholder, bona fide potential investor, investment counsel or advisor, or employee of such Purchaser, its fund managers, its investors, or any of their respective Affiliates (the "Permitted Disclosees"); provided, however, that any such Permitted Disclosee shall be advised of the confidential nature of the information or are under appropriate non-disclosure obligation imposed by professional ethics, law or otherwise;provided further that, notwithstanding the foregoing, any disclosure of information to a limited partner, shareholder or other entity that is a competitor of the Company shall require the prior written consent of the Company;
+　　　　　　　(ii) any information for fund and inter-fund reporting purposes;
+　　　　　　　(iii) any information as required by law, government authorities, exchanges and/or regulatory bodies, including by the Securities and Futures Commission of the Hong Kong Special Administrative Region, the China Securities and Regulatory Commission of the PRC or the Commission (or equivalent for other venues);
+　　　　　　　(iv) any information to bona fide prospective purchasers/investors of any share, security or other interests in the Company, provided that (i) the Company has been informed of such disclosure, and (ii) the prospective purchaser or investor has agreed to keep the Company's information confidential; and/or
+　　　　　　　(v) any information contained in press releases or public announcements of the Company pursuant to Section 5.2 above.
+         (d) The confidentiality obligations set out in this Section 5 do not apply to:
+　　　　　　　(i) information which was in the public domain or otherwise known to the relevant party before it was furnished to it by another party hereto or, after it was furnished to that party, entered the public domain otherwise than as a result of (i) a breach by that party of this Section 5, or (ii) a breach of a confidentiality obligation by the discloser, where the breach was known to that party;
+ 
+35
+
+
+
+　　　　　　　(ii) information the disclosure of which is necessary in order to comply with any applicable law, the order of any court, the requirements of a stock exchange or to obtain tax or other clearances or consents from any relevant authority; or
+　　　　　　　(iii) information disclosed by any director of the Company to its appointer or any of its Affiliates or otherwise in accordance with the foregoing provisions of this Section 5.3.
+　　5.4 Other Nondisclosure Agreements. Notwithstanding the provisions set forth in Section 6.6 hereof, the provisions of this Section 5 shall be in addition to, and not in substitution for, the provisions of the separate nondisclosure agreements if any executed by the Company with any Purchaser with respect to the transactions contemplated herein.
+
+6.Miscellaneous　　6.1 Term and Termination. This Agreement shall become effective pursuant to Section 6.15. Section 1 shall terminate in accordance with Section 1.22; the registration rights granted pursuant to Section 2 shall terminate in accordance with Section 2.12; and Section 3 shall terminate in accordance with Section 3.2.
+　　6.2 Waivers and Amendments. With the written consent of the Company and the Purchasers representing not less than three-fourths ( 3/4) of the Preferred Shares then outstanding on an as-converted basis (including Ordinary Shares issued upon conversion of the Preferred Shares), the obligations of the Company, the Ordinary Shareholders, the Founders, and the Purchasers under this Agreement may be amended and any of its terms may be waived (either generally or in a particular instance, either retroactively or prospectively and either for a specified period of time or indefinitely) and any amendments or waivers so approved shall be binding as to all parties. Neither this Agreement nor any provisions hereof may be changed, waived, discharged or terminated orally, but only by a signed statement in writing. Notwithstanding anything to the contrary in this Section 6.2, no waiver or amendment which would have the effect of altering the rights and obligations of the Ordinary Shareholders and/or the Founders in relation to the rights and obligations of the Purchasers shall be effective against the Ordinary Shareholders and/or the Founders without the consent of holders of a majority of the then outstanding Founders' Shares. If an amendment or waiver affects any Founder, Ordinary Shareholder or Purchaser in a manner that is different from the effect thereof on all other Founders, Ordinary Shareholders or Purchasers, or imposes any material obligation or liability on a Founder, Ordinary Shareholder or Purchaser beyond that already imposed on such Founder, Ordinary Shareholder or Purchaser hereunder prior to such amendment or waiver, then the written consent of such Founder, Ordinary Shareholder or Purchaser shall be required in order for such amendment or waiver to be effective and binding. Upon the effectuation of each such waiver, consent, agreement, amendment or modification, the Company shall promptly give written notice thereof to the record holders of the Preferred Shares, Conversion Shares or Founders' Shares who have not previously consented thereto in writing.
+　　6.3 Governing Law and Dispute Settlement. This Agreement shall be governed by, and construed and enforced in accordance with, the internal laws of the State of New York as such laws are applied to agreements between New York residents entered into and to be performed within New York without regard to principles of conflicts of laws. Each of the parties hereto irrevocably (i) agrees that any dispute or controversy arising out of, relating to, or concerning any interpretation, construction, performance or breach of this Agreement, shall be settled by arbitration to be held in Hong Kong under the UNCITRAL Arbitration Rules in accordance with the HKIAC Procedures for the Administration of International Arbitration in force at the date of this Agreement (the "Arbitration Rules"), (ii) waives, to the fullest extent it may effectively do so, any objection which it may now or hereafter have to the laying of venue of any such arbitration, and (iii) submits to the exclusive jurisdiction of Hong Kong in any such arbitration. There shall be three arbitrators, selected in accordance with the Arbitration Rules, and at least one arbitrator shall be qualified to practice New York law. The arbitration shall be conducted in English. The decision of the arbitration tribunal shall be final, conclusive and binding on the parties to the arbitration. Judgment may be entered on the arbitration tribunal's decision in any court having jurisdiction. The parties to the arbitration shall each pay an equal share of the costs and expenses of such arbitration, and each party shall separately pay for its respective counsel fees and expenses;provided, however, that the prevailing party in any such arbitration shall be entitled to recover from the non-prevailing party its reasonable costs and attorney fees. The parties acknowledge and agree that, in addition to contract damages, the arbitrators may award provisional and final equitable relief, including injunctions, specific performance, and lost profits.
+ 
+36
+
+
+
+　　6.4 Other Remedies; Specific Performance. Except as otherwise provided herein, any and all remedies herein expressly conferred upon a party will be deemed cumulative with and not exclusive of any other remedy conferred hereby, or by law or equity upon such party, and the exercise by a party of any one remedy will not preclude the exercise of any other remedy. The parties hereto agree that irreparable damage would occur in the event that any of the provisions of this Agreement were not performed in accordance with their specific terms or were otherwise breached. It is accordingly agreed that the parties shall be entitled to seek an injunction or injunctions to prevent breaches of this Agreement and to enforce specifically the terms and provisions hereof, this being in addition to any other remedy to which they are entitled at law or in equity.
+　　6.5 Successors and Assigns. Except as otherwise expressly provided herein, the provisions hereof shall inure to the benefit of, and be binding upon, the parties hereto and their respective successors, assigns, heirs, executors and administrators.
+　　6.6 Entire Agreement. This Agreement constitutes the full and entire understanding and agreement between the parties with regard to the subjects hereof, and any and all other written or oral agreements relating to the subject matter hereof existing between the parties hereto are expressly canceled.
+　　6.7 Notices, etc. All notices and other communications required or permitted hereunder shall be in writing and shall be sent by facsimile or mailed by electronic, registered or certified mail or by overnight courier or otherwise delivered by hand or by messenger, addressed: (a) if to an Purchaser, at the Purchaser's address, as shown on Schedule A, Schedule B, Schedule C, Schedule D, and Schedule E hereto, or at such other address as the Purchaser shall have furnished to the Company in writing, (b) if to a Founder, at the Founder's address, as shown on Schedule F hereto, or at such other address as the Founder shall have furnished to the Company in writing, (c) if to an Ordinary Shareholder, at the Ordinary Shareholder's address, as shown on Schedule F hereto, or at such other address as the Ordinary Shareholder shall have furnished to the Company in writing, (d) if to any other holder of any shares subject to this Agreement at such address as such holder shall have furnished the Company in writing, or, until any such holder so furnishes an address to the Company, then to and at the address of the last holder of such shares who has so furnished an address to the Company, or (e) if to the Company, at the address of its principal corporate offices (attention: President), or at such other address as the Company shall have furnished to the Purchasers.
+ 
+37
+
+
+
+　　Where a notice is sent by mail, service of the notice shall be deemed to be effected by properly addressing, pre-paying and mailing a letter containing the notice, and to have been effected at the expiration of three (3) business days after the letter containing the same is mailed as aforesaid.
+　　Where a notice is sent by overnight courier, service of the notice shall be deemed to be effected by properly addressing, and sending such notice through an internationally recognized express courier service, delivery fees pre-paid, and to have been effected three (3) business days following the day the same is sent as aforesaid. Notwithstanding anything to the contrary in this Agreement, notices sent to Purchasers (and their permitted assigns) shall only be delivered by internationally recognized express courier service pursuant to this section.
+　　Where a notice is delivered by facsimile, electronic mail, by hand or by messenger, service of the notice shall be deemed to be effected upon delivery or successful transmission record being generated by the sender's machine.
+　　6.8 Severability. If any provision of this Agreement shall be determined to be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby.
+　　6.9 Titles and Subtitles. The titles and subtitles used in this Agreement are used for convenience only and are not to be considered in construing or interpreting this Agreement. All references in this Agreement to sections, paragraphs and exhibits shall, unless otherwise provided, refer to sections and paragraphs hereof and exhibits attached hereto.
+　　6.10 Counterparts. This Agreement may be executed in any number of counterparts, each of which shall be enforceable against the parties actually executing such counterparts, and all of which together shall constitute one instrument.
+　　6.11 Delays or Omissions. It is agreed that no delay or omission to exercise any right, power or remedy accruing to the Purchaser, upon any breach or default of the Company under this Agreement, shall impair any such right, power or remedy, nor shall it be construed to be a waiver of any such breach or default, or any acquiescence therein, or of any similar breach or default thereafter occurring; nor shall any waiver of any single breach or default be deemed a waiver of any other breach or default theretofore or thereafter occurring. It is further agreed that any waiver, permit, consent or approval of any kind or character by the Purchaser of any breach or default under this Agreement, or any waiver by the Purchaser of any provisions or conditions of this Agreement must be in writing and shall be effective only to the extent specifically set forth in writing and that all remedies, either under this Agreement, or by law or otherwise afforded to the Purchaser, shall be cumulative and not alternative.
+　　6.12 Share Splits. All references to the number of shares in this Agreement shall be appropriately adjusted to reflect any Recapitalizations, which may be made by the Company after the Closing.
+ 
+38
+
+
+
+　　6.13 Aggregation of Stock. All shares of the Company held or acquired by affiliated entities or persons shall be aggregated together for the purpose of determining the availability of any rights under this Agreement.
+　　6.14 Beneficial Ownership. Each Purchaser shall execute and deliver to the Company a Certificate of Ownership in the form attached hereto as Exhibit A (the "Certificate of Ownership"), whereby such Purchaser shall either (a) certify that it is not a Single Purpose Funding Entity (as defined in the Certificate of Ownership), or (b) (i) disclose a complete list of such Purchaser's beneficial owners, and (ii) cause each such beneficial owner to execute and deliver to the Company a beneficial owner letter in the form attached hereto as Exhibit B. Each Purchaser that is a Single Purpose Funding Entity hereby further covenants to the Company and each other Purchaser that it shall not permit the transfer of any of its securities ("SPE Securities") unless such transfer would be permitted under Section 2 hereof assuming that the Preferred Shares and/or Conversion Shares held by such Purchaser, rather than such SPE Securities, were being transferred.
+　　6.15 Amendment and Restatement of Prior Shareholders' Agreement. Each of the Prior Shareholders' Agreements is hereby amended and superseded in its entirety and restated in this Agreement. Such amendment and restatement is effective upon execution of this Agreement by each of the parties to the Prior Shareholders' Agreements. Upon such execution, all provisions of, rights granted and covenants made in each of the Prior Shareholders' Agreements are hereby waived, released and superseded in their entirety and shall have no further force and effect. This Agreement is effective upon the Closing.
+　　6.16 Exercise of JAFCO Rights. Notwithstanding any provision to the contrary, any rights of JAFCO Asia Technology Fund III under this Agreement may, without prejudice to the rights of JAFCO to exercise any such rights, be exercised by JAFCO Investment (Asia Pacific) Ltd. ("JIAP") or any other fund manager of JAFCO or their nominees ("JAFCO Manager"), unless JAFCO has (a) given notice to the other parties that any such rights cannot be exercised by JIAP or a JAFCO Manager; and (b) not given notice to the other parties that such notice which is given under this Section 6.16 has been revoked.
+　　6.17 Several Liability of Holders of Preferred Shares. Each holder of Preferred Shares shall be severally (and not jointly and severally or jointly with any other person) liable for its own obligations under this Agreement.
+　　6.18 Transfer of Rights. The rights hereunder may be assigned by any Purchaser to a transferee or assignee of any Preferred Shares or Registrable Securities, conditioned upon signing the joinder substantially in form attached hereto as Exhibit C (the "Joinder"). Each of the Ordinary Shareholders and Purchasers agrees that in the event that it transfers any shares in accordance with the terms of this Agreement, it shall procure that the transferees of its stock to execute the Joinder.
+　　6.19 Employee Stock Option. The Company represents that the Company reserved at the Closing 12,240,118 Ordinary Shares (the "ESOP Pool") for issuance upon the exercise of the Company's Employee Stock Ownership Plan pursuant to which the Company may grant options to its employees, officers, directors or consultants of the Company and/or its subsidiaries (collectively, the "Employees") to subscribe for up to 12,240,118 Ordinary Shares (subject to adjustment for any Recapitalizations). The Company further represents that options exercisable for only 6,555,845 Ordinary Shares from the ESOP Pool were issued to the Employees prior to the Closing.
+ 
+39
+
+
+
+　　6.20 Supremacy of this Agreement. If and to the extent that there are inconsistencies between the provisions of this Agreement and those of the Memorandum and the Articles, as amended, the terms of this Agreement shall prevail as between the parties hereto only (with the exception of the Company), who hereby undertake to take all actions necessary or advisable, as promptly as practicable after the discovery of such inconsistency, to further amend the Memorandum and the Articles so as to eliminate such inconsistency to the largest extent as permitted by the applicable law.
+[Remainder of Page Intentionally Left Blank]
+ 
+40
+
+
+
+         IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+STARCLOUD MEDIA CO., LIMITEDBy: /s/ WANG WEI Name: WANG WEI Title:SIGNATURE PAGE TO FIFTH AMENDED AND RESTATED
+SHAREHOLDERS' AGREEMENT
+
+
+
+         IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+RESHUFFLE TECHNOLOGY (SHANGHAI) CO., LIMITED[Seal: Reshuffle Technology (Shanghai) Co., Limited]By: /s/ Wang Wei Name: Title:QUAN TOODOU NETWORK SCIENCE AND TECHNOLOGY CO., LIMITED[Seal: Quan Toodou Network Science and Technology Co., Limited]By: /s/ Zhang Xiaoyun Name: Title:SIGNATURE PAGE TO FIFTH AMENDED AND RESTATED
+SHAREHOLDERS' AGREEMENT
+
+
+
+         IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+SHANGHAI LI CHENG CULTURE COMMUNICATION CO., LTD.[Seal: Shanghai Li Cheng
+Culture Communication Co., Ltd.]By: /s/ Zhang Xiaoyun Name: Title:SHANGHAI SU ZAO INTERNET TECHNOLOGY CO., LTD.[Seal: Shanghai Su Zao Internet
+Technology Co., Ltd.]By: /s/ Wu Chengzi Name: Title:CHENGDU GAI SHI INTERNET TECHNOLOGY CO., LTD.[Seal: Chengdu Gai Shi Internet
+Technology Co., Ltd.]By: /s/ Zhang Xiaoyun Name: Title:SIGNATURE PAGE TO FIFTH AMENDED AND RESTATED
+SHAREHOLDERS' AGREEMENT
+
+
+
+         IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+WANG WEIBy: /s/ WANG WEI Name: WANG WEIFIRST EASY GROUP LIMITEDBy: /s/ WANG WEI Name: WANG WEI Title:SIGNATURE PAGE TO FIFTH AMENDED AND RESTATED
+SHAREHOLDERS' AGREEMENT
+
+
+
+         IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+MARC CHRISTIAEN VAN DER CHIJSBy: /s/ MARC CHRISTIAEN VAN DER CHIJS Name: MARC CHRISTIAEN VAN DER CHIJSFAST ACTION MANAGEMENT LIMITEDBy: /s/ MARC CHRISTIAEN VAN DER CHIJS Name: MARC CHRISTIAEN VAN DER CHIJS Title:SIGNATURE PAGE TO FIFTH AMENDED AND RESTATED
+SHAREHOLDERS' AGREEMENT
+
+
+
+         IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+WANG ZHIQIBy: /s/ WANG ZHIQI Name: WANG ZHIQISIGNATURE PAGE TO FIFTH AMENDED AND RESTATED
+SHAREHOLDERS' AGREEMENT
+
+
+
+         IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+CRESCENT PEAK LIMITEDBy: /s/ David Hand Name: David Hand Title: DirectorCRESCENT PEAK II LIMITEDBy: /s/ David Hand Name: David Hand Title: DirectorCRESCENT P.E. LTD.By: /s/ David Hand Name: David Hand Title: SIGNATURE PAGE TO FIFTH AMENDED AND RESTATED
+SHAREHOLDERS' AGREEMENT
+
+
+
+         IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+VENROCK ASSOCIATES V, L.P.By: its General Partner, Venrock Management V, LLCVENROCK PARTNERS V, L.P.By: its General Partner, Venrock Partners Management V, LLCVENROCK ENTREPRENEURS FUND V, L.P.By: its General Partner, VEF Management V, LLCBy: /s/ David L. Stepp Name: David L. Stepp Title: Authorized SignatorySIGNATURE PAGE TO FIFTH AMENDED AND RESTATED
+SHAREHOLDERS' AGREEMENT
+
+
+
+         IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+GENERAL CATALYST GROUP IV, L.P.By: General Catalyst Partners IV, L.P., its General PartnerBy: General Catalyst GP IV, LLC, its General PartnerBy: /s/ William J. Fitzgerald Name: William J. Fitzgerald Title: Member & CFOAddress: 20 University Road, Suite 450,
+Cambridge, MA 02138
+fax: (617) 234-7040
+c/o General Catalyst PartnersGC ENTREPRENEURS FUND IV, L.P.By: General Catalyst Partners IV, L.P., its General PartnerBy: General Catalyst GP IV, LLC, its General PartnerBy: /s/ William J. Fitzgerald Name: William J. Fitzgerald Title: Member & CFOAddress: c/o General Catalyst Partners
+20 University Road, Suite 450,
+Cambridge, MA 02138
+fax: (617) 234-7040SIGNATURE PAGE TO FIFTH AMENDED AND RESTATED
+SHAREHOLDERS' AGREEMENT
+
+
+
+         IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+GGV II DELAWARE L.L.C.By: Granite Global Ventures II L.P., its MemberBy: Granite Global Ventures II L.L.C., its General PartnerBy: /s/ Hany Nada Name: Hany Nada Title:SIGNATURE PAGE TO FIFTH AMENDED AND RESTATED
+SHAREHOLDERS' AGREEMENT
+
+
+
+         IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+IDG TECHNOLOGY VENTURE INVESTMENT III, L.P.By: IDG Technology Venture Investment III, LLC, its General PartnerBy: /s/ Hugo Shong Name: Hugo Shong Title: Authorized SignatoryIDG TECHNOLOGY VENTURE INVESTMENT IV, L.P.By: IDG Technology Venture Investment IV, LLC, its General PartnerBy: /s/ Hugo Shong Name: Hugo Shong Title: Authorized SignatorySIGNATURE PAGE TO FIFTH AMENDED AND RESTATED
+SHAREHOLDERS' AGREEMENT
+
+
+
+         IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+CA-JAIC CHINA INTERNET FUNDBy: /s/ Tetsuya Tsuda Name: Tetsuya Tsuda Title:SIGNATURE PAGE TO FIFTH AMENDED AND RESTATED
+SHAREHOLDERS' AGREEMENT
+
+
+
+         IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+JAFCO ASIA TECHNOLOGY FUND IIIBy: /s/ Fumito Takashima Name: Fumito Takashima Title: AttorneySIGNATURE PAGE TO FIFTH AMENDED AND RESTATED
+SHAREHOLDERS' AGREEMENT
+
+
+
+         IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+CAPITAL TODAY INVESTMENT IV LIMITEDBy: /s/ DENG Wenting Name: DENG Wenting Title:SIGNATURE PAGE TO FIFTH AMENDED AND RESTATED
+SHAREHOLDERS' AGREEMENT
+
+
+
+         IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+KTB CHINA OPTIMUM FUNDBy: /s/ Charlie Hong Name: Charlie Hong Title: Managing DirectorSIGNATURE PAGE TO FIFTH AMENDED AND RESTATED
+SHAREHOLDERS' AGREEMENT
+
+
+
+         IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+SENNETT INVESTMENTS (MAURITIUS) PTE LTDBy: /s/ JULIET TED Name: JULIET TED Title: AUTHORISED SIGNATORYSIGNATURE PAGE TO FIFTH AMENDED AND RESTATED
+SHAREHOLDERS' AGREEMENT
+
+
+
+SCHEDULE A
+SERIES A PURCHASER
+
+Name and Address of Purchaser  Aggregate
+Purchase  Price   Number of
+Series A
+Shares IDG Technology Venture Investment III, LP
+
+c/o IDG VC Management Limited
+Unit 1509, The Center
+99 Queen's Road
+Central, Hong Kong
+
+Fax: (852) 2529-1619
+Attention: Mr. Simon Ho  US$499,980     6,000,000            TOTAL  US$499,980     6,000,000            
+
+
+SCHEDULE B
+SERIES B PURCHASERS
+
+Name and Address of Purchaser  Aggregate
+Purchase Price   Number of Series  B
+Shares GGV II Delaware L.L.C.
+
+c/o Granite Global Ventures
+2494 Sand Hill Road, Suite 100
+Menlo Park, CA 94025
+Tel: (650) 475-2150
+Fax: (650) 475-2151
+
+Attn: Stephen Hyndman
+
+With a copy to:
+
+Granite Global Ventures
+Unit 3701, K. Wah Center
+1010 Huaihai Zhong Road
+Shanghai 200031, PRC
+
+Attn: Helen Wong  US$3,500,002.50     4,666,670  Jafco Asia Technology Fund III
+
+c/o JAFCO Investment (Asia Pacific) Ltd.
+6 Battery Road #42-01
+Singapore 049909
+Fax: +65 6221 3690
+Attn: The President
+
+With a copy to:
+
+JAFCO Investment (Hong Kong) Ltd
+Shanghai Representative Office
+Suite 42-021, 42/F, HSBC Tower,
+1000 Lujiazui Ring Road
+Pudong New Area,
+Shanghai 200120, China
+Attention: Chief Representative
+Fax: +8621 6841 3800  US$3,500,002.50     4,666,670  
+
+Name and Address of Purchaser  Aggregate
+Purchase Price   Number of Series B
+Shares IDG Technology Venture Investment III, L.P.
+
+c/o IDG VC Management Limited
+Unit 1509, The Center
+99 Queen's Road
+Central, Hong Kong
+
+Fax: (852) 2529-1619
+Attention: Mr. Simon Ho  US$1,500,000.00     2,000,000            TOTAL:  US$8,500,005.00     11,333,340            
+
+
+SCHEDULE C
+SERIES C PURCHASERS
+
+Name and Address of Purchaser  Aggregate
+Purchase Price   Number of Series C
+Shares General Catalyst Group IV, L.P.
+
+c/o General Catalyst Partners
+20 University Road, Suite 450
+Cambridge MA 02138, USA
+Attn: William Fitzgerald, CFO
+& Managing Director
+
+Fax: +1 617-234-7040  US$5,844,918     4,239,660  GC Entrepreneurs Fund IV, L.P.
+
+c/o General Catalyst Partners
+20 University Road, Suite 450,
+Cambridge, MA 02138
+Attn: William Fitzgerald, CFO
+& Managing Director
+
+Fax: +1 617-234-7040  US$155,082     112,490  CAPITAL TODAY INVESTMENT IV LIMITED
+
+Level 19, Two International Finance Centre,
+8 Finance Street, Central, Hong Kong
+Tel: (852) 2868-5526
+Fax: (852)-31017913  US$6,000,000     4,352,150  
+
+Name and Address of Purchaser  Aggregate
+Purchase Price   Number of Series C
+Shares GGV II Delaware L.L.C.
+
+c/o Granite Global Ventures
+2494 Sand Hill Road, Suite 100
+Menlo Park, CA 94025
+Tel: (650) 475-2150
+Fax: (650) 475-2151
+
+Attn: Stephen Hyndman
+
+With a copy to:
+
+Granite Global Ventures
+Unit 3701, K. Wah Center
+1010 Huaihai Zhong Road
+Shanghai 200031, PRC
+
+Attn: Helen Wong  US$1,500,000     1,088,040  Jafco Asia Technology Fund III
+
+c/o JAFCO Investment (Asia Pacific) Ltd.
+6 Battery Road #42-01
+Singapore 049909
+Fax: +65 6221 3690
+Attn: The President
+
+With a copy to:
+
+JAFCO Investment (Hong Kong) Ltd
+Shanghai Representative Office
+Suite 42-021, 42/F, HSBC Tower,
+1000 Lujiazui Ring Road
+Pudong New Area,
+Shanghai 200120, China
+Attention: Chief Representative
+Fax: +8621 6841 3800  US$1,000,000     725,360  
+
+Name and Address of Purchaser  Aggregate
+Purchase Price   Number of Series C
+Shares IDG Technology Venture Investment III, L.P.
+
+c/o IDG VC Management Limited
+Unit 1509, The Center
+99 Queen's Road
+Central, Hong Kong
+
+Fax: (852) 2529-1619
+Attention: Mr. Simon Ho  US$500,000     362,680  KTB China Optimum Fund
+
+c/o KTB China Optimum Fund
+KTB Network Building 826-14
+YeokSam-Dong, Kangnam District
+Seoul, Korea
+
+Fax:
+Attention: Won Ho (Charlie),
+Hong Kong  US$3,000,000     2,176,060  CA-JAIC China Internet Fund
+
+Seiko Takebashi-Kyodo Building,
+3-11 Kandanishiki-cho, Chiyoda-ku,
+Tokyo 101- 8570, Japan
+Fax: +81-3-3259-8511
+
+With a copy to
+Japan Asia Investment Co., Ltd.
+Beijing branch, Room 1407,
+Tower 1, China Central Place,
+81 Jianguo Road, Beijing, 100025
+Fax: +86 10 65989548
+Attention Tetsuya Tsuda  US$1,000,000     725,360            TOTAL:  US$19,000,000     13,781,800            
+
+
+SCHEDULE D
+SERIES D PURCHASERS
+
+Name and Address of Purchasers  Aggregate
+Purchase Price   Number of Series  D
+Shares Crescent Peak Limited
+
+Address:
+One George Street, #15-04
+Singapore 049145
+
+Fax: (0065) 6223 5992
+Attention: James Wong  US$30,000,000     11,446,013  Venrock Associates V, L.P.
+
+Address:
+2494 Sand Hill Road
+Suite 200
+Menlo Park, CA 94025
+
+Fax: +1 650-561- 9180
+Attention: General Counsel  US$9,023,000     3,442,579  Venrock Partners V, L.P.
+
+Address:
+2494 Sand Hill Road
+Suite 200
+Menlo Park, CA 94025
+
+Fax: +1 650-561- 9180
+Attention: General Counsel  US$765,000     291,873  Venrock Entrepreneurs Fund V, L.P.
+
+Address:
+2494 Sand Hill Road
+Suite 200
+Menlo Park, CA 94025
+
+Fax: +1 650-561- 9180
+Attention: General Counsel  US$212,000     80,885  
+
+Name and Address of Purchasers  Aggregate
+Purchase Price   Number of Series D
+Shares General Catalyst Group IV, L.P.
+
+c/o General Catalyst Partners
+20 University Road, Suite 450
+Cambridge MA 02138, USA
+Attn: William Fitzgerald, CFO
+& Managing Director
+
+Fax: +1 617-234-7040  US$4,870,765.13     1,858,361  GC Entrepreneurs Fund IV, L.P.
+
+c/o General Catalyst Partners
+20 University Road, Suite 450,
+Cambridge, MA 02138
+Attn: William Fitzgerald, CFO
+& Managing Director
+
+Fax: +1 617-234-7040  US$129,234.87     49,307  GGV II Delaware L.L.C.
+
+c/o Granite Global Ventures
+2494 Sand Hill Road, Suite 100
+Menlo Park, CA 94025
+Tel: (650) 475-2150
+Fax: (650) 475-2151
+
+Attn: Stephen Hyndman
+
+With a copy to:
+
+Granite Global Ventures
+Unit 3701, K. Wah Center
+1010 Huaihai Zhong Road
+Shanghai 200031, PRC
+
+Attn: Helen Wong  US$8,000,000     3,052,271  
+
+Name and Address of Purchasers  Aggregate
+Purchase Price   Number of Series D
+Shares IDG Technology Venture Investment IV, L.P.
+
+c/o IDG VC Management Limited
+Unit 1509, The Center
+99 Queen's Road
+Central, Hong Kong
+
+Fax: (852) 2529-1619
+Attention: Mr. Simon Ho  US$3,000,000     1,144,601  CA-JAIC China Internet Fund
+
+Seiko Takebashi-Kyodo Building,
+3-11 Kandanishiki-cho, Chiyoda-ku,
+Tokyo 101- 8570, Japan
+Fax: +81-3-3259-8511
+
+With a copy to
+Japan Asia Investment Co., Ltd.
+Beijing branch, Room 1407,
+Tower 1, China Central Place,
+81 Jianguo Road, Beijing, 100025
+Fax: +86 10 65989548
+Attention Tetsuya Tsuda  US$800,000     305,227            TOTAL:  US$56,800,000     21,671,117            
+
+
+SCHEDULE E
+SERIES E PURCHASERS
+
+Name and Address of Purchasers  Aggregate
+Purchase Price   Number of Series E
+Shares Crescent Peak II Limited
+
+Address:
+One Temasek Avenue,
+#20-01 Millenia Tower,
+Singapore 039192
+
+Fax No.: +(65)-6223-5992
+Attention: James Wong/David Hand  US$5,000,000     1,846,177  Venrock Partners V, L.P.
+
+Address:
+2494 Sand Hill Road
+Suite 200
+Menlo Park, CA 94025
+
+Fax: +1 650-561- 9180
+Attention: General Counsel  US$61,200.00     22,597  Venrock Associates V, L.P.
+
+Address:
+2494 Sand Hill Road
+Suite 200
+Menlo Park, CA 94025
+
+Fax: +1 650-561- 9180
+Attention: General Counsel  US$721,840.00     266,529  Venrock Entrepreneurs Fund V, L.P.
+
+Address:
+2494 Sand Hill Road
+Suite 200
+Menlo Park, CA 94025
+
+Fax: +1 650-561- 9180  US$16,960.00     6,262  
+
+Name and Address of Purchasers  Aggregate
+Purchase Price   Number of Series E
+Shares Attention: General Counsel    General Catalyst Group IV, L.P.
+
+c/o General Catalyst Partners
+20 University Road, Suite 450
+Cambridge MA 02138, USA
+Attn: William Fitzgerald,
+CFO & Managing Director
+
+Fax: +1 617-234-7040  US$2,143,136.7804     791,322  GC Entrepreneurs Fund IV, L.P.
+
+c/o General Catalyst Partners
+20 University Road, Suite 450,
+Cambridge, MA 02138
+Attn: William Fitzgerald,
+CFO & Managing Director
+
+Fax: +1 617-234-7040  US$56,863.2196     20,996  GGV II Delaware L.L.C.
+
+c/o Granite Global Ventures
+2494 Sand Hill Road, Suite 100
+Menlo Park, CA 94025
+Tel: (650) 475-2150
+Fax: (650) 475-2151
+
+Attn: Stephen Hyndman
+
+With a copy to:
+
+Granite Global Ventures
+Unit 3701, K. Wah Center
+1010 Huaihai Zhong Road  US$5,000,000     1,846,177  
+
+Name and Address of Purchasers  Aggregate
+Purchase Price   Number of Series E
+Shares Shanghai 200031, PRC    Attn: Helen Wong    IDG Technology Venture Investment IV, L.P.
+
+c/o IDG VC Management Limited
+Unit 1509, The Center
+99 Queen's Road
+Central, Hong Kong
+
+Fax: (852) 2529-1619
+Attention: Mr. Simon Ho  US$2,000,000     738,471  Sennett Investments
+(Mauritius) Pte Ltd
+
+60B Orchard Road #06-18
+Tower 2
+The Atrium@Orchard
+Singapore 238891
+
+c/o IMM, Les Cascades Building
+Edith Cavell Street
+Port Louis, Mauritius
+
+Contact Person: Lau Teck Sien
+Telephone: +86 10 5930 4917
+Fax No.: +86 10 5930 4901
+E-mail:
+tecksien@temasek.com.sg  US$35,000,000     12,923,236  TOTAL:  US$50,000,000     18,461,767  
+
+
+SCHEDULE F
+ORDINARY SHAREHOLDERS AND FOUNDERS
+
+A.Ordinary Shareholders
+Name and Address of Purchaser  Number of Ordinary Shares FIRST EASY GROUP LIMITED   11,300,000  FAST ACTION MANAGEMENT LIMITED   700,000  
+B.FoundersName and Address of Founder
+Wang Wei
+Gate 6, No.1305, South SuZhou
+Road, Shanghai, PRC
+Wang Zhiqi
+Apt. 3702, Building 4, Lane 168
+HongQiao Road, Shanghai, PRC
+Marc Christiaen van der Chijs
+Apt. 3702, Building 4, Lane 168
+HongQiao Road, Shanghai, PRC
+
+
+
+SCHEDULE G
+PRC COMPANIES
+
+1.Reshuffle Technology (Shanghai) Co., Limited  , a limited liability company incorporated under the laws of the PRC.
+2.Quan Toodou Network Science and Technology Co., Limited   , a limited liability company incorporated under the laws of the PRC.
+3.Shanghai Li Cheng Culture Communication Co., Ltd.  , a limited liability company incorporated under the laws of the PRC.
+4.Shanghai Su Zao Internet Technology Co., Ltd.  , a limited liability company incorporated under the laws of the PRC.
+5.Chengdu Gai Shi Internet Technology Co., Ltd.  , a limited liability company incorporated under the laws of the PRC.
+
+
+EXHIBIT A
+FORM OF CERTIFICATE OF OWNERSHIP
+CERTIFICATE OF OWNERSHIP
+　　The undersigned duly authorized representative of the below-listed shareholder (the "Shareholder") of StarCloud Media Co., Limited, a company incorporated under the International Business Companies Act, 1984 and re-registered under the Business Companies Act, 2004, as a business company limited by shares in the British Virgin Islands (the "Company"), hereby certifies on behalf of the Shareholder as follows:
+　　The Shareholder is a single purpose funding entity.    Yes  �    No  �
+For purposes hereof, a shareholder shall be deemed a "single purpose funding entity" if, immediately following its investment in the Company, less than 50% of the book value of its total assets would consist of assets other than equity interests in the Company.
+　　1. If the Shareholder is a single purpose funding entity, the following is a complete list of each underlying beneficial owner of the Shareholder (include attachments if necessary):
+　　Beneficial owner:
+　　Beneficial owner:
+　　Beneficial owner:
+　　2. If the undersigned is a single purpose funding entity, the undersigned will (a) cause each of the aforementioned beneficial owners to execute the attached beneficial owner side letter and (b) return each executed letter to the Company.
+　　On behalf of the Shareholder, the undersigned hereby certifies that the foregoing statements are correct, to the best of my knowledge and belief after due inquiry.
+
+Dated:       (Print Shareholder Name)   By:    Print Name of   Authorized Signatory:   Title: 
+
+
+EXHIBIT B
+FORM OF BENEFICIAL OWNER LETTER
+[Letterhead of Beneficial Owner]
+[Date]
+StarCloud Media Co., Limited
+[Address]
+Dear Sirs:
+　　This is to confirm that the undersigned agrees, for the benefit of you and your shareholders, that the undersigned shall not, directly or indirectly, take or permit to be taken any action, including any disposition or other transfer of direct or beneficial ownership of any securities of or rights with respect to any entity over which the undersigned exercises control or influence by way of ownership of securities or otherwise (a "Controlled Entity"), which would, if taken directly by such Controlled Entity, result in such Controlled Entity being in breach or violation of any agreement between or among such Controlled Entity, you, your shareholders and/or other stakeholders. Without limiting the generality of the foregoing, the undersigned shall not transfer, and shall prevent any other entity from transferring, any securities of such Controlled Entity unless such transfer would be permitted under Section 2 of the Shareholders' Agreement dated as of [ ], 2010 among you and certain of your shareholders (the "Shareholders' Agreement"), assuming that the Preferred Shares and/or Conversion Shares (as such terms are defined in the Shareholders' Agreement) held by such Controlled Entity, rather than the securities of such Controlled Entity, were being transferred.
+　　The undersigned agrees that this letter will only be distributed to StarCloud Media Co., Limited and its legal counsel.
+
+Very truly yours, (Print Name of Beneficial Owner)By: Print Name ofAuthorized Signatory:Title: 
+
+
+EXHIBIT C
+JOINDER
+THIS JOINDER is made the            day of            
+by [    ], a company incorporated in [    ] with registered number [    ] whose registered office is at [    ] ("New Shareholder").
+RECITALS
+　　A. On [    ], 2010, the shareholders of StarCloud Media Co., Limited (the "Company") entered into a shareholders' agreement (the "Shareholders' Agreement"), to which the substantial form of this Joinder forms Exhibit C.
+　　B. The New Shareholder is the intended transferee of [        ] [Ordinary Shares]/[Preferred Shares] of par value [    ] each ("Transferred Shares") in the capital of the Company from [    ] ("Transferor") and in accordance with Section [    ] of the Shareholders' Agreement is executing this Joinder.
+THIS JOINDER WITNESSES as follows:
+1. Interpretation. Capitalized terms not otherwise defined in this Joinder shall have the meanings given to them in the Shareholders' Agreement.
+2. Covenant; Enforceability. The New Shareholder hereby ratifies and accedes to the terms of, agrees to be bound by, and assumes all rights and obligations under the terms and conditions of, the Shareholders' Agreement, as if the New Shareholder had been an original party to the Shareholders' Agreement in the same capacity as the Transferor; provided,however, that the New Shareholder shall not have the benefit of any rights of the Transferor under the Shareholders' Agreement which are expressed to be non-transferable by the terms thereof. The existing Shareholders shall be entitled to enforce the Shareholders' Agreement against the New Shareholder.
+3. Governing Law. This Joinder shall be governed by, and construed and enforced in accordance with, the internal laws of the State of New York as such laws are applied to agreements between New York residents entered into and to be performed within New York without regard to principles of conflicts of laws.
+IN WITNESS WHEREOF this Joinder has been executed [as a deed] by the New Shareholder on the date set forth above.
+
+[NEW SHAREHOLDER] )    in the presence of: )    
+
+
+EXHIBIT D
+PFIC INFORMATION STATEMENT
+[Must be signed by an authorized representative of the Company]
+PFIC ANNUAL INFORMATION STATEMENT
+PFIC Annual Information Statement pursuant to U.S. Treasury Regulation � 1.1295-1(g).                     (the "Company") hereby represents that:
+
+1.This PFIC Annual Information Statement applies to the Company's taxable year beginning on             and ending on             .
+2.The pro rata shares of the Company's ordinary earnings and net capital gain attributable to the U.S. Shareholder (directly or indirectly through any other entity that holds the investment in the Company) for the taxable year specified in paragraph (1) are:Ordinary Earnings: $                    
+Net Capital Gain: $                    
+
+3.The amount of cash and the fair market value of other property distributed or deemed distributed by the Company to the U.S. Shareholder during the taxable year specified in paragraph (1) are as follows:Cash: $                                                             
+Fair Market Value of Property: $                    
+
+4.The Company will permit the U.S. Shareholder to inspect the Company's permanent books of account, records, and such other documents as may be maintained by the Company that are necessary to establish that the Company's ordinary earnings and net capital gain are computed in accordance with U.S. Federal income tax principles, and to verify these amounts and the U.S. Shareholders direct or indirect pro rata shares thereof; provided, that (i) a Company representative shall, at the Company's option, accompany the Investor on any such inspection, and (ii) the Company shall not be required to permit such inspection if such inspection would violate applicable Laws, regulations or policies of the PRC or the British Virgin Islands.
+By:    Title:    
+
+
+TABLE OF CONTENTS
+
+Section     Page 1.  Covenants of the Group Companies and the Purchasers   2    1.1  Financial Information; Inspection Rights   2    1.2  Information Rights After a Qualified IPO   4    1.3  Insurance   5    1.4  Memorandum of Association and Articles of Association   5    1.5  Incorporation of Certain Provisions from the Memorandum and the Articles   5    1.6  Drag Along Rights   6    1.7  Status as Corporation for U.S. Federal Income Tax Purposes   7    1.8  Passive Foreign Investment Company   7    1.9  Controlled Foreign Corporation   8    1.10  Control of PRC Companies   9    1.11  Legal Authorities   9    1.12  Key Employees   10    1.13  Initial Public Offering or Trade Sale   10    1.14  Foreign Corrupt Practices Act   11    1.15  Circular 75 Compliance   12    1.16  Compliance with Applicable Laws   12    1.17  Subsequent Rights   12    1.18  Restated Memorandum and Articles   12    1.19  Future Significant Holders of Ordinary Shares   12    1.20  Liquidation Transaction   13    1.21  Employee Agreements   13    1.22  Termination of Covenants   13  2.  Registration Rights   13    2.1  Restrictions on Transferability and Applicability of Rights   13    2.2  Certain Definitions   13    2.3  Restrictive Legend   16    2.4  Notice of Proposed Transfers   17    2.5  Demand Registration   17    2.6  Piggyback Registrations   20    2.7  Form S-3/F-3 Registration   21    2.8  Obligations of the Company   23    2.9  Furnish Information   25    2.10  Indemnification   25    2.11  Rule 144 Reporting   28    2.12  Termination of the Company's Obligations   28    2.13  No Registration Rights to Third Parties   28    2.14  "Market Stand-Off" Agreement   29    2.15  Public Offering Rights (Non-U.S. Offerings)   29    2.16  Re-sale Rights   29    2.17  Transfer of Registration Rights   29  3.  Right of First Offer   30  
+
+  3.1  Right of First Offer of Company Offerings   30    3.2  Termination of Right   32  4.  Representations and Warranties, Covenants and Other Agreements of the Founders and the Company   32    4.1  Ownership of Equity Interests in ICP Company   32    4.2  No Transfer of Equity Interests in ICP Company   32    4.3  Full Time Commitment of Founders   32    4.4  Minimum Service Term of Founders   32    4.5  Non-Competition   32    4.6  Founders' Covenants regarding Ordinary Shareholders   34  5.  Confidentiality and Announcements   34    5.1  Disclosure of Terms   34    5.2  Press Releases   34    5.3  Permitted Disclosures   34    5.4  Other Nondisclosure Agreements   36  6.  Miscellaneous   36    6.1  Term and Termination   36    6.2  Waivers and Amendments   36    6.3  Governing Law and Dispute Settlement   36    6.4  Other Remedies; Specific Performance   37    6.5  Successors and Assigns   37    6.6  Entire Agreement   37    6.7  Notices, etc   37    6.8  Severability   38    6.9  Titles and Subtitles   38    6.10  Counterparts   38    6.11  Delays or Omissions   38    6.12  Share Splits   38    6.13  Aggregation of Stock   39    6.14  Beneficial Ownership   39    6.15  Amendment and Restatement of Prior Shareholders' Agreement   39    6.16  Exercise of JAFCO Rights   39    6.17  Several Liability of Holders of Preferred Shares   39    6.18  Transfer of Rights   39    6.19  Employee Stock Option   39    6.20  Supremacy of this Agreement   40  Schedules and Exhibits
+
+Schedule A  Series A Purchasers      Schedule B  Series B Purchasers      Schedule C  Series C Purchasers      Schedule D  Series D Purchasers       
+ii
+
+
+Schedule E  Series E Purchasers      Schedule F  Ordinary Shareholders and Founders    Schedule G  PRC Companies      Exhibit A  Form of Certificate of Ownership    Exhibit B  Form of Beneficial Owner Letter    Exhibit C  Joinder      Exhibit D  PFIC Information Statement    Exhibit E  Confidentiality and Proprietary Information Agreement   
+iii
+

@@ -1,0 +1,67 @@
+﻿Loan Agreement
+     This agreement is signed and entered in by and between the following parties on February 12, 2014 in Haidian District, Beijing.
+
+Party A:  [Name of Borrower] (hereinafter referred to as "the borrower")  ID No.:Party B:  Weibo Internet Technology (China) Co., Ltd. (hereinafter referred to as "Weibo Technology")Address:  Room 701, No. 10 Haidian North Second Street, Haidian District, Beijing     Whereas:
+
+(1)The borrower intends to purchase [—]% of shares of Beijing Weimeng Technology Co., Ltd. (hereinafter referred to as "Weimeng") and for that purpose wishes to borrow RMB[Amount of Loan] from Weibo Technology;
+(2)Weibo Technology agrees to provide the said loan to the borrower in accordance with and subject to the terms and conditions under the agreement.     The following agreements have been reached by and between both parties based on the principles of equality and mutual benefits via friendly negotiation:
+
+1.Amount of Loan
+1.1Weibo Technology agrees to provide a long-term loan in the amount of RMB[Amount of Loan] to the borrower subject to the terms and conditions under the agreement (hereinafter referred to as "long-term loan").
+2.Life of Loan
+2.1The life of the long-term loan prescribed under the agreement shall be 10 years from the date when this agreement is signed.
+2.2The borrower agrees that Weibo Technology shall have the right to, at its own discretion, shorten or extend the life of loan with reference to the real situation.
+3.Use of Loan
+3.1The borrower shall use the long-term loan for purchasing [—]% of shares of Weimeng and any other application of this long-term loan shall obtain earlier written consent from Weibo Technology.
+
+1
+
+3.2During the life of loan, the borrower shall neither transfer partial or all its shares of Weimeng to any third party nor set any security against such shares without prior approval given by Weibo Technology in written form.
+4.Interest of Loan
+4.1The long-term loan under this agreement is interest-free loan and Weibo Technology shall not collect any other fees or charges from the borrower.
+5.Satisfaction with Loan
+5.1Weibo Technology shall have the right to require from time to time the borrower to compensate for the long-term loan under this agreement without violating the laws and regulations of PR China in the method as Weibo Technology directs, including but not limited to, transfer of all or partial shares of Weimeng held by the borrower to Weibo Technology or any subject appointed by Weibo Technology.
+6.Liability for Tax
+6.1Both parties shall on their own pay taxes and costs by laws respectively.
+6.2Save for taxes and costs of the borrower or Weibo Technology on their own expressly reserved by laws, Weibo Technology shall be liable for all other taxes and reasonable costs in connection with this long-term loan under this agreement.
+7.Breach and Compensation
+7.1Any breach of any article of the agreement directly or indirectly or no commitment or commitment out of time insufficiently to the obligations of the agreement shall constitute breach of the contract. The party that observes the contract shall have the right to request the breaching party by written notice to make corrections to its breaching actions and avoid the bad result with sufficient, effective and timely measures taken, and to compensate for the losses of the non-breaching party due to its breaching actions.
+7.2After any breaching occurs, the non-breaching party, if holding that the breaching has resulted in impossibility or unfairness for the non-breaching party to perform the relevant obligations under this agreement with reasonable and objective discretion applied, shall have the power to discontinue its relevant obligations of this agreement with written notice sent to the non-breaching party until the breaching party stops its breach of the contact, take sufficient, effective and timely measures to avoid the bad results, and compensate for the losses of the non-breaching party due to its breaching actions.
+7.3The indemnification that the breaching party makes to the non-breaching party shall include any direct economic losses and any predictable indirect losses or excess expenses that occur to the non-breaching party due to violation of the contract by the breaching party, including but not limited to attorney fees, legal costs, arbitration fees, financial expenses, travel expenses and etc.
+
+2
+
+8.Effectiveness, Modification and Termination
+8.1This agreement shall be effective since it is signed by authorized representatives of the parties.
+8.2The parties may via negotiation modify or terminate this agreement in advance in written form at any time.
+8.3Any party shall have the right to terminate this agreement unilaterally in advance with written notice given if any of the following situations occurs to the other party:
+ 8.3.1Within 30 days since the written notice sent out by the non-breaching party, the breaching party still not modifies its breach of the contact, or takes sufficient, effective and timely measures to avoid the bad results, and compensate for the losses of the non-breaching party due to its breaching actions.
+ 8.3.2Such party is unable to continue to perform this agreement due to force majesture.
+8.4Earlier termination of this agreement shall not affect the generated rights and obligations by this agreement before such termination date.
+9.Settlement of Disputes and Governing Laws
+9.1Parties shall settle any disputes over contents of this agreement or its execution via friendly negotiation; which if fails, they shall submit the disputes to China International Economic and Trade Arbitration Commission (CIETAC) for settlement. The arbitrament awarded shall be final and binding on both parties.
+9.2Laws and regulations of PRC shall be applied for conclusion, execution, interpretation and settlement of disputes concerning this agreement.
+10.Miscellaneous
+10.1Either party's failure to perform its rights in time under this agreement shall neither be deemed as waiver of such rights nor affect its execution of such rights in future.
+10.2If any article or clause of this agreement becomes invalid or unexecutable entirely or partially no matter what reasons, the remaining portions of this agreement shall be still effective and binding.
+10.3This agreement is made into one original with two copies, one for each party, both with equally legal effectiveness.
+10.4Matters not included in this agreement shall be determined by both parties via negotiation.
+
+3
+
+[Name of Borrower] Weibo Internet Technology (China) Co., Ltd.Signature: /s/ Authorized Representative: /s/
+
+4
+
+Schedule of Material Differences
+One or more persons entered into Loan Agreement with Weibo Technology using this form. Pursuant to Instruction ii to Item 601 of Regulation S-K, the Registrant may only file this form as an exhibit with a schedule setting forth the material details in which the executed agreements differ from this form:
+
+No.  Name of
+Borrower  % of Equity
+Interest in
+Weimeng the
+Borrower Intends
+to Acquire  Amount of Loan 1.  W. Wang   30%   RMB13,500,000  2.  Y. Liu   30%   RMB13,500,000  3.  Z. Cao   20%   RMB  9,000,000  4.  Y. Lu   20%   RMB  9,000,000  
+
+5
+

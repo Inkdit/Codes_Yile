@@ -1,0 +1,23 @@
+﻿Investment Contract
+
+Entrepreneur:La HuTitle:Primary Contract ManagerCompany:DEF Co.Phone No.7801234567Email:XXX@163.comFax:Address:23401 352 ave, Edmonton ABInvestor:Jin HuTitle:Primary Contract ManagerCompany:ABC Inc.Phone No.5871234567Email:XXX@gmail.comFax:Address:43657 324 street, Edmonton AB
+This document serves as a binding contract between La Hu, hereafter known as “Entrepreneur,” and Jin Hu, hereafter known as “Investor,” signed July 19, 2016. Whereas the Entrepreneur is seeking an investment and the Investor is willing to fund the venture, therefore both parties agree to the following conditions:
+
+Article 1
+The Investor will contribute $100,000 on a weekly basis for 5 weeks $20,000 for 35 days. The Entrepreneur will be required to present approved updates to the Investor on the status of the venture in order to receive the payments. The updates, benchmarks or deliverables shall be presented thus:
+• {Date}, {Required Progress}
+• {Date}, {Required Progress}
+• {Date}, {Required Progress}
+
+Article 2
+The money provided by the Investor will be used for the following aspects within the venture and nothing further: {Aspect 1}, {Aspect 2}, {Aspect 3}, {Aspect 4}, {Aspect 5}. Any additional aspects must be approved by the Investor before the funding can be allocated.
+
+Article 3
+For his investment, the Investor will be in control of the following aspects within the venture: {Aspect 1}, {Aspect 2}, {Aspect 3}, {Aspect 4}, {Aspect 5}. The funds will be directly deposited into {receiving bank name/account/details.}
+
+Article 4
+This contract is valid and legally binding from July 19, 2016 to August 31, 2016, or until the Investor receives the agreed upon ROI amount of $300,000. The Entrepreneur shall make payments to the Investor in a monthly amount of $200,000 until the termination date or until the full amount has been paid. In order for either party to nullify the contract before this date, {terms of termination.}
+
+This contract shall be enforced according to the laws of {Investor’s State}, regardless of the location of the Entrepreneur or the venture itself.
+
+(Entrepreneur’s Signature)(Date)(Investor’s Signature)(Date)

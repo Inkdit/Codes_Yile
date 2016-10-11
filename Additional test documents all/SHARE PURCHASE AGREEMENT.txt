@@ -1,0 +1,203 @@
+﻿SHARE PURCHASE AGREEMENT
+by and between
+500.COM LIMITED
+and
+SEQUOIA CAPITAL 2010 CGF HOLDCO, LTD
+OCTOBER 20, 2013
+
+
+
+
+
+Table of Contents
+
+     Page ARTICLE I DEFINITIONS   1  1.1 Definitions   1  ARTICLE II PURCHASE AND SALE OF CLASS B ORDINARY SHARES   3  2.1 Purchase and Sale of Post-IPO Class B Shares from the Company   3  2.2 Closing   3  ARTICLE III REPRESENTATIONS AND WARRANTIES OF THE COMPANY   4  3.1 Corporate Existence and Power   4  3.2 Authorization; No Contravention   4  3.3 Governmental Authorization; Third Party Consents   4  3.4 Binding Effect   4  3.5 Purchased Shares   5  3.6 Private Offering   5  3.7 Regulation S   5  ARTICLE IV REPRESENTATIONS AND WARRANTIES OF THE PURCHASER   5  4.1 Existence and Power   5  4.2 Authorization; No Contravention   5  4.3 Governmental Authorization; Third Party Consents   6  4.4 Binding Effect   6  4.5 Purchase for Own Account   6  4.6 No General Solicitation   6  4.7 Regulation S   6  4.8 Disclosure   6  4.9 Reliance   6  ARTICLE V CONDITIONS TO THE OBLIGATION OF THE PURCHASER TO CLOSE   7  5.1 Representations and Warranties   7  5.2 Purchased Shares   7  5.3 IPO   7  ARTICLE VI CONDITIONS TO THE OBLIGATION OF THE COMPANY TO CLOSE   7  6.1 Representations and Warranties   7  6.2 IPO   7  ARTICLE VII COVENANTS OF THE PARTIES   8  7.1 No Registration   8  7.2 Purchaser Undertaking   8  7.3 Future Sale of Purchased Shares   8  7.4 Specific Performance   8  
+ARTICLE VIII   8  8.1 Indemnification   8  8.2 Limits on Indemnification   9  ARTICLE IX TERMINATION OF AGREEMENT   10  9.1 Termination   10  9.2 Survival   10  ARTICLE X MISCELLANEOUS   10  10.1 Survival of Representations and Warranties   10  10.2 Notices   10  10.3 Successors and Assigns; Third Party Beneficiaries   11  10.4 Amendment and Waiver   11  10.5 Counterparts   12  10.6 Headings   12  10.7 Governing Law   12  10.8 Waiver of Jury Trial   12  10.9 Severability   12  10.10 Rules of Construction   13  10.11 Entire Agreement   13  10.12 Public Announcements   13  10.13 Further Assurances   13  
+SHARE PURCHASE AGREEMENT
+　　THIS SHARE PURCHASE AGREEMENT is dated October 20, 2013 (this "Agreement"), by and between 500.com, Limited (the "Company") and Sequoia Capital 2010 CGF Holdco, Ltd. (the "Purchaser").
+　　WHEREAS, as of the date of this Agreement, the Company has no more than 230,768,220 shares of ordinary shares (the "Shares") issued and outstanding.
+　　WHEREAS, upon the closing of the IPO (as defined below) and the adoption by the Company of the Restated M&A (as defined below), certain number of Class A ordinary shares ("Post-IPO Class A Shares"), par value US$0.00005 per share, will be issued and each of them will entitle its holder to one vote per Post-IPO Class A Share, and the Ordinary Shares currently outstanding will be converted into Class B ordinary shares ("Post-IPO Class B Shares"), par value US$0.00005 per share, which will entitle such holders to ten votes per Post-IPO Class B Share.
+　　WHEREAS, upon the terms and conditions set forth in this Agreement, the Company proposes to sell to the Purchaser that number of Post-IPO Class B Shares equal to FIFTEEN MILLION U.S. DOLLARS (US$15,000,000) divided by the IPO Price (as defined below), at a purchase price per Post-IPO Class B Share equal to the IPO Price.
+　　NOW, THEREFORE, in consideration of the mutual covenants and agreements set forth herein and for good and valuable consideration, the receipt and adequacy of which are hereby acknowledged, the parties hereto agree as follows:
+ARTICLE I
+DEFINITIONS
+         1.1 Definitions. As used in this Agreement, and unless the context requires a different meaning, the following terms have the meanings indicated:
+　　"ADS" means the American depositary shares representing the underlying Post-IPO Class A Shares.
+　　"Affiliate" shall mean any Person who is an "affiliate" as defined in Rule 12b-2 of the General Rules and Regulations under the Exchange Act.
+　　"Agreement" has the meaning set forth in the preamble to this Agreement.
+　　"Authorization" has the meaning set forth in Section 3.3 of this Agreement.
+　　"Business Day" means any day other than a Saturday, Sunday or other day on which commercial banks in Shanghai, Hong Kong or New York are authorized or required by law or executive order to close.
+　　"Claims" has the meaning set forth in Section 3.2 of this Agreement.
+
+　　"Closing" has the meaning set forth in Section 2.2 of this Agreement.
+　　"Closing Date" has the meaning set forth in Section 2.2 of this Agreement.
+　　"Commission" means the United States Securities and Exchange Commission or any similar agency then having jurisdiction to enforce the Securities Act.
+　　"Company" has the meaning set forth in the preamble to this Agreement.
+　　"Company Warranties" means the representations and warranties made by the Company in Article III of this Agreement.
+　　"Contractual Obligations" means, as to any Person, any provision of any security issued by such Person or of any agreement, undertaking, contract, indenture, mortgage, deed of trust or other instrument to which such Person is a party or by which it or any of its property is bound.
+　　"Exchange Act" means the United States Securities Exchange Act of 1934, as amended, and the rules and regulations of the Commission thereunder.
+　　"Governmental Authority" means the government of any nation, state, city, locality or other political subdivision thereof, any entity exercising executive, legislative, judicial, regulatory or administrative functions of or pertaining to government, and any corporation or other entity owned or controlled, through stock or capital ownership or otherwise, by any of the foregoing.
+　　"IPO" means the Company's proposed initial public offering of its ADS on the New York Stock Exchange pursuant to an effective registration statement on Form F-1 under the Securities Act.
+　　"IPO Price" means the quotient obtained by dividing (a) the final initial public offering price per ADS in the IPO by (b) the number of Post-IPO Class A Shares each ADS represents.
+　　"Lien" means (a) any mortgage, charge (whether fixed or floating), pledge, lien, hypothecation, assignment, deed of trust, title retention, security interest or other encumbrance of any kind, including any right granted by a transaction which, in legal terms, is not the granting of security but which has an economic or financial effect similar to the granting of security under applicable law, (b) any proxy, power of attorney, voting trust agreement, interest, option, right of first offer, negotiation or refusal or transfer restriction in favor of any Person and (c) any adverse claim as to title, possession or use.
+　　"Long Stop Date" means June 30, 2014, or such later date as the Company and the Purchaser mutually agree.
+　　"Orders" has the meaning set forth in Section 3.2 of this Agreement.
+
+
+2
+
+　　"Person" means any individual, firm, corporation, partnership, trust, incorporated or unincorporated association, joint venture, joint stock company, limited liability company, Governmental Authority or other entity of any kind, and shall include any successor (by merger or otherwise) of such entity.
+　　"Post-IPO Class A Shares" has the meaning set forth in the recitals to this Agreement.
+　　"Post-IPO Class B Shares" has the meaning set forth in the recitals to this Agreement.
+　　"Purchased Shares" means the Post-IPO Class B Shares purchased by the Purchaser simultaneously with the closing of the IPO pursuant to Section 2.1.
+　　"Purchaser" has the meaning set forth in the preamble to this Agreement.
+　　"Regulation S" means Regulation S under the Securities Act.
+　　"Restated M&A" means the amended and restated memorandum and articles of association of the Company that will take effect upon the closing of the IPO.
+　　"Requirement of Law" means, as to any Person, any law, statute, treaty, rule, regulation, right, privilege, qualification, license or franchise or determination of an arbitrator or a court or other Governmental Authority or stock exchange, in each case applicable or binding upon such Person or any of its property.
+　　"Securities Act" means the United States Securities Act of 1933, as amended, and the rules and regulations of the Commission thereunder.
+　　"US$" means United States Dollars, the lawful currency of the United States of America.
+ARTICLE II
+PURCHASE AND SALE OF CLASS B ORDINARY SHARES
+         2.1 Purchase and Sale of Post-IPO Class B Shares from the Company. Subject to the terms and conditions herein set forth, the Company agrees to sell to the Purchaser, and the Purchaser agrees to purchase from the Company, on the Closing Date, that number of Post-IPO Class B Shares equal to FIFTEEN MILLION U.S. DOLLARS (US$15,000,000) divided by the IPO Price, at a purchase price per Post-IPO Class B Share equal to the IPO Price. Each of the transactions contemplated pursuant to this Section 2.1 shall be conducted in an "offshore transaction" in accordance with Regulation S.
+         2.2 Closing. Unless this Agreement has been terminated in accordance with Section 9.1, the closing of the sale and purchase of the Purchased Shares (the "Closing") shall take place remotely via electronic exchange of documents simultaneously with the closing of the IPO, or at such other time, place and date that the Company and the Purchaser may agree in writing (the "Closing Date"); provided, however, that in no event shall the Closing Date be later than the closing of the IPO. On the Closing Date, (a) the Company shall deliver to the Purchaser a certified copy of the Company's register of members, in which the name of the Purchaser will be included as the holder of the Purchased Shares and (b) the Purchaser shall pay the purchase price for its Purchased Shares by wire transfer of immediately available funds to such account or accounts as designated by the Company.
+
+
+3
+
+ARTICLE III
+REPRESENTATIONS AND WARRANTIES OF THE COMPANY
+　　The Company represents and warrants to the Purchaser on and as of the date hereof as follows:
+         3.1 Corporate Existence and Power. The Company (a) is a corporation duly organized and validly existing under the laws of the jurisdiction of its incorporation or formation and (b) has the requisite corporate power and authority to execute, deliver and perform its obligations under this Agreement.
+         3.2 Authorization; No Contravention. The execution, delivery and performance by the Company of this Agreement and the transactions contemplated hereby (a) have been duly authorized by all necessary corporate action of the Company, (b) do not contravene the terms of the Company's memorandum and articles of association or by-laws, or any amendment thereto, (c) do not violate, conflict with or result in any breach or default of (or with due notice or lapse of time or both would result in any breach, default or contravention of), or the creation of any Lien under, any Contractual Obligation of the Company or any Requirement of Law applicable to the Company, and (d) do not violate any judgment, injunction, writ, award, decree or order (collectively, "Orders") of any Governmental Authority against, or binding upon, the Company. There are no actions, suits, proceedings, claims, complaints, disputes, arbitrations or investigations (collectively, "Claims") pending or, to the knowledge of the Company, threatened, at law, in equity, in arbitration or before any Governmental Authority against the Company which, if determined adversely to the Company, would interfere with the consummation of the transactions contemplated by this Agreement, other than any routine or administrative actions which may have to be taken by the Company pursuant to such Claims in order to consummate the transactions contemplated by this Agreement.
+         3.3 Governmental Authorization; Third Party Consents. No consent, approval, authorization, order, registration or qualification (each, an "Authorization") of or with any Governmental Authority or any other Person is required for the execution, delivery or performance (including, without limitation, the sale of the Purchased Shares) by, or enforcement against, the Company of this Agreement or the consummation by the Company of the transactions contemplated by this Agreement, except (i) such Authorizations as have already been obtained or (ii) as otherwise provided in this Agreement.
+         3.4 Binding Effect. This Agreement has been duly executed and delivered by the Company, and constitutes the legal, valid and binding obligation of the Company, enforceable against the Company in accordance with its terms, except as enforceability may be limited by applicable bankruptcy, insolvency, reorganization, fraudulent conveyance or transfer, moratorium or similar laws affecting the enforcement of creditors' rights generally and by general principles of equity.
+
+
+4
+
+         3.5 Purchased Shares. At the time of issuance, all of the Purchased Shares will be (i) issued and granted in compliance with all applicable laws and (ii) duly authorized, validly issued, fully paid and nonassessable and are free and clear of all Liens. Upon the Purchaser's name being entered into the registered members of the Company as the holder of the Purchased Shares, the Purchaser shall acquire good and valid title to such Purchased Shares, free and clear of all Liens.
+         3.6 Private Offering. No registration of the Purchased Shares, pursuant to the provisions of the Securities Act or any state securities or "blue sky" laws, will be required by the sale of the Purchased Shares in the manner contemplated in Section 2.1 herein. The Company agrees that neither it, nor anyone acting on its behalf, shall offer to sell the Purchased Shares or any other securities of the Company so as to require the registration of the Purchased Shares pursuant to the provisions of the Securities Act or any state securities or "blue sky" laws.
+         3.7 Regulation S. None of the Company or any of its Affiliates or any other person acting on its or their behalf (other than the underwriters of the IPO, for which the Company makes no representation or warranty) engaged in any directed selling efforts within the meaning of Regulation S, and all such persons have complied with the offering restrictions requirement of Regulation S. The sale of the Purchased Shares pursuant to Regulation S is not part of a plan or scheme to evade the registration provisions of the Securities Act.
+         3.8 Registration Statement. As of the Closing Date, the final registration statement on form F-1 to be filed with and declared effective by the Commission for the purpose of registering the Post-IPO Class A Shares with the Commission in connection with the IPO will not contain an untrue statement of a material fact or omit to state a material fact necessary to make the statements therein, in light of the circumstances under which they were made, not misleading.
+ARTICLE IV
+REPRESENTATIONS AND WARRANTIES OF THE PURCHASER
+　　The Purchaser hereby represents and warrants to the Company on and as of the date hereof as follows:
+         4.1 Existence and Power. The Purchaser (a) is a corporation duly organized and validly existing under the laws of the jurisdiction of its incorporation or formation and (b) has the requisite corporate power and authority to execute, deliver and perform its obligations under this Agreement.
+         4.2 Authorization; No Contravention. The execution, delivery and performance by the Purchaser of this Agreement and the transactions contemplated hereby (a) have been duly authorized by all necessary corporate action of the Purchaser, (b) do not contravene the terms of the Purchaser's organizational documents, or any amendment thereto, (c) do not violate, conflict with or result in any breach or default of (or with due notice or lapse of time or both would result in any breach, default or contravention of), or the creation of any Lien under, any Contractual Obligation of the Purchaser or any Requirement of Law applicable to the Purchaser, and (d) do not violate any Orders of any Governmental Authority against, or binding upon, the Purchaser. There are no Claims pending or, to the knowledge of the Purchaser, threatened, at law, in equity, in arbitration or before any Governmental Authority against the Purchaser which, if determined adversely to the Purchaser, would interfere with the consummation of the transactions contemplated by this Agreement, other than any routine or administrative actions which may have to be taken by the Purchaser pursuant to such Claims in order to consummate the transactions contemplated by this Agreement.
+
+
+5
+
+         4.3 Governmental Authorization; Third Party Consents. No Authorization of or with any Governmental Authority or any other Person is required in connection with the execution, delivery or performance by, or enforcement against, the Purchaser of this Agreement or the transactions contemplated by this Agreement, except (i) such Authorizations as have already been obtained or (ii) as otherwise provided in this Agreement.
+         4.4 Binding Effect. This Agreement has been duly executed and delivered by the Purchaser and constitutes the legal, valid and binding obligations of the Purchaser, enforceable against it in accordance with its terms, except as enforceability may be limited by applicable bankruptcy, insolvency, reorganization, fraudulent conveyance or transfer, moratorium or similar laws affecting the enforcement of creditors' rights generally and by general principles of equity.
+         4.5 Purchase for Own Account. The Purchased Shares to be acquired by the Purchaser pursuant to this Agreement are being acquired for its own account for investment only, and not with a view to, or for sale in connection with, any distribution of such Purchased Shares or any part thereof in any transaction that would be in violation of the securities laws of the United States of America. The Purchaser understands and agrees that such Purchased Shares have not been registered under the Securities Act and cannot be sold, transferred or otherwise disposed of except in compliance with the Securities Act.
+         4.6 No General Solicitation. The Purchaser (i) was not identified or contacted through the marketing of the IPO and (ii) did not contact the Company or the Company as a result of any general solicitation.
+         4.7 Regulation S. The Purchaser (i) is not a U.S. Person (as defined in Rule 902 of Regulation S), (ii) is outside the United States and is undertaking any transaction contemplated in this Agreement as an offshore transaction (as defined in Rule 902 of Regulation S) and (iii) is acquiring the Purchased Shares for its own account and not with a view to the distribution of the Purchased Shares.
+         4.8 Disclosure. The Purchaser (i) is sufficiently experienced in financial and business matters to be capable of evaluating the merits and risks involved in purchasing the Purchased Shares and to make an informed decision relating thereto, (ii) has the ability to bear the economic risk of the Purchaser's prospective investment in the Purchased Shares, (iii) has been furnished with, and has carefully reviewed, all materials that it considers relevant to an investment in the Purchased Shares and (iv) has had a full opportunity to ask questions of and receive answers from the Company or any Person or Persons acting on behalf of the Company concerning the terms and conditions of an investment in the Purchased Shares.
+         4.9 Reliance. The Purchaser is not relying upon, and has not relied upon, any statement, representation or warranty made by any Person, including, without limitation, the placement agents and the underwriters in the IPO, except for the statements, representations and warranties contained in this Agreement.
+
+
+6
+
+ARTICLE V
+CONDITIONS TO THE OBLIGATION
+OF THE PURCHASER TO CLOSE
+　　The obligation of the Purchaser to purchase the Purchased Shares, to pay the purchase price therefor at the Closing and to perform its obligations hereunder shall be subject to the satisfaction, or waiver by the Purchaser of the following conditions on or before the Closing Date:
+         5.1 Representations and Warranties. The Company Warranties (other than the Company Warranties set forth in Section 3.8) shall be true and correct in all material respects (except for the Company Warranties contained in Section 3.2 and Section 3.5, which shall be true and correct in all respects) on and as of the Closing with the same effect as though such representations and warranties had been made on and as of the Closing Date.
+         5.2 Purchased Shares. The Company shall have delivered to the Purchaser a certified copy of the register of members of the Company evidencing title to the Purchased Shares.
+         5.3 IPO. The Company's Registration Statement on Form F-1 shall have been declared effective by the Commission, such Registration Statement shall remain effective, no stop order shall have been issued by the Commission against such Registration Statement and the Company shall have, simultaneously with the Closing, consummated the IPO (other than with respect to any Post-IPO Class A Shares sold pursuant to any over-allotment option exercisable by the underwriters of the IPO).
+ARTICLE VI
+CONDITIONS TO THE OBLIGATION
+OF THE COMPANY TO CLOSE
+　　The obligation of the Company to sell the relevant number of Purchased Shares to the Purchaser and to perform its other obligations hereunder shall be subject to the satisfaction, or waiver by the Company, of the following conditions on or before the Closing Date:
+         6.1 Representations and Warranties. The representations and warranties of the Purchaser contained in Article IV shall be true and correct in all material respects (except for the representations and warranties contained in Section 4.2, which shall be true and correct in all respects) on and as of the Closing with the same effect as though such representations and warranties had been made on and as of the Closing Date.
+         6.2 IPO. The Company's Registration Statement on Form F-1 shall have been declared effective by the Commission, such Registration Statement shall remain effective, no stop order shall have been issued by the Commission against such Registration Statement and the Company shall have, simultaneously with the Closing, consummated the IPO.
+
+
+7
+
+ARTICLE VII
+COVENANTS OF THE PARTIES
+         7.1 No Registration. The Purchaser acknowledges and agrees that the Purchased Shares have not been registered under the Securities Act and that the Purchased Shares cannot be sold, transferred or otherwise disposed of unless the Purchased Shares are registered under the Securities Act and qualified under state law or unless an exemption from such registration and such qualification is available.
+         7.2 Purchaser Undertaking. The Purchaser shall take all actions (including, without limitation, obtaining all routine or administrative actions and Authorizations under Article IV) necessary or appropriate to consummate the transactions contemplated under this Agreement. The Purchaser shall comply with the requirements of Regulation S in undertaking any transaction contemplated in this Agreement.
+         7.3 Future Sale of Purchased Shares. The Purchaser agrees that for a period of six months, not to (i) sell, offer to sell, contract or agree to sell, grant or sell any option, warrant, contract or right to subscribe for or purchase, either directly or indirectly, conditionally or unconditionally, any Purchased Shares, (ii) enter into any swap or other arrangement that transfers to another, in whole or in part, any of the economic consequences of ownership of Purchased Shares, or (iii) enter into any transactions with the same economic effect as any transaction specified in (i) or (ii) above.
+         7.4 Specific Performance. The parties hereto agree that irreparable damage would occur in the event any provision of this Agreement were not performed in accordance with the terms hereof and that the parties shall be entitled to specific performance of the terms hereof, in addition to any other remedy at law or equity.
+ARTICLE VIII
+         8.1 Indemnification. Subject to the limitations set forth in Section 8.2, each party hereto (an "Indemnifying Party") agrees to indemnify, defend and hold harmless the other party and its Affiliates and their respective officers, managers, directors, agents, employees, subsidiaries, partners, members and controlling persons (each, an "Indemnified Party") to the fullest extent permitted by law from and against any and all losses, claims, or written threats thereof (including, without limitation, any claim by a third party), damages, expenses reasonably incurred (including reasonable fees, disbursements and other charges of counsel incurred by the Indemnified Party in any action between the Indemnifying Party and the Indemnified Party) or other liabilities (collectively, "Losses") resulting from or arising out of any breach of any representations and warranties set forth in Article III or Article IV, as the case may be, or any covenant or agreement by the Company or the Purchaser, as the case may be, in this Agreement.
+
+
+8
+
+         8.2 Limits on Indemnification.
+         (a) Absent fraud or willful or intentional misconduct, the indemnification and contribution provided by the Indemnifying Party pursuant to Section 8.1 shall be the sole and exclusive remedy for any Losses.
+         (b) No indemnity claim under this Article VIII is payable until it has been established in a final non-appealable order, judgment or adjudication established pursuant to the dispute resolution mechanism set forth in Section 10.7. The amount of any payment by the Indemnifying Party to the Indemnified Parties under this Article VIII in respect of Losses resulting from or arising out of any indemnification or contribution claim made pursuant to Section 8.1 shall in no event exceed 20% of the aggregate purchase price paid to the Company by the Purchaser in consideration of the Purchased Shares. The Indemnifying Party shall not be liable for any claim for any indemnification under this Article VIII unless and until the amount that would be recoverable from the Indemnifying Party in respect of that claim, when aggregated with any other amount or amounts recoverable in respect of other Claims, exceeds US$1,000,000, in which case the Indemnified Party shall be entitled to claim for the total amount that is recoverable from all Claims and not just the excess above US$1,000,000 (the "Basket"), provided no amount of an individual Claim is recoverable or may count toward the Basket if such individual Claim does not exceed US$500,000.
+         (c) No Loss caused by change after the date hereof of law, regulation or governmental policy is recoverable. The Indemnified Party shall not be entitled to recover damages or obtain payment, reimbursement, restitution or indemnity more than once in respect of any one matter giving rise to more than one Claim.
+         (d) Any indemnity claim shall be deemed to have been withdrawn within three (3) months after an indemnification notice is given, unless legal proceedings (including arbitration proceedings) in respect of it have been commenced by reference to the dispute resolution mechanism set forth in Section 10.7. No new Claim may be made in respect of the facts, matters, events or circumstances giving rise to any such withdrawn claim.
+
+
+9
+
+ARTICLE IX
+TERMINATION OF AGREEMENT
+         9.1 Termination. This Agreement may be terminated (i) at any time on or prior to the Closing Date, by mutual written consent of the Company and the Purchaser or (ii) by either the Company or the Purchaser after the Long Stop Date; provided, however, that this Agreement may not be terminated pursuant to this Section 9.1 after the effective date of the Registration Statement on Form F-1 unless the Underwriting Agreement is terminated prior to the closing of the IPO. If this Agreement so terminates, it shall become null and void and have no further force or effect, except as provided in Section 9.2.
+         9.2 Survival. If this Agreement is terminated and the transactions contemplated hereby are not consummated as described above, (a) this Agreement shall become void and of no further force and effect; except for the provisions of this Section 9.2, and (b) none of the parties hereto shall have any liability for speculative, indirect, unforeseeable or consequential damages or lost profits resulting from any legal action relating to any termination of this Agreement.
+ARTICLE X
+MISCELLANEOUS
+         10.1 Survival of Representations and Warranties. The Company Warranties and the representations and warranties of the Purchaser contained in Article IV shall survive the execution and delivery of this Agreement until six months after the Closing Date, except for the representations and warranties in Section 3.5, which shall survive indefinitely. All of the covenants and other agreements set forth in this Agreement shall survive the execution and delivery of this Agreement.
+         10.2 Notices. All notices, demands and other communications provided for or permitted hereunder shall be made in writing and shall be by registered or certified first-class mail, return receipt requested, facsimile, courier service or personal delivery:
+　　if to the Company:
+　　500.com Building
+　　Shenxianling Sports Center
+　　Longgang District
+　　Shenzhen, 518115
+　　People's Republic of China
+　　(86 755) 8633 0000
+
+
+10
+
+　　with a copy (which shall not constitute notice) to:
+　　Simpson Thacher & Bartlett
+　　35th Floor, ICBC Tower
+　　3 Garden Road
+　　Central, Hong Kong
+　　Facsimile: +852-2869-7694
+　　Email:        clin@stblaw.com
+　　Attention:  Chris K.H. Lin, Esq.
+　　if to the Purchaser:
+　　Attn: Kok Wai Yee
+　　Suite 2215, 22/F
+　　Two Pacific Place, 88 Queensway
+　　Hong Kong
+　　Fax: (852) 2501 5249
+　　All such notices, demands and other communications shall be deemed to have been duly given (i) when delivered by hand, if personally delivered; (ii) three (3) Business Days after being sent, if sent via a reputable nationwide overnight courier service guaranteeing next business day delivery; (iii) five (5) Business Days after being sent, if sent by registered or certified mail, return receipt requested, postage prepaid; and (iv) when receipt is mechanically acknowledged, if sent by facsimile. Any party may by notice given in accordance with this Section 10.2 designate another address or Person for receipt of notices hereunder. Any party may give any notice, request, consent or other communication under this Agreement using any other means (including, without limitation, personal delivery, messenger service, first class mail or electronic mail), but no such notice, request, consent or other communication shall be deemed to have been duly given unless and until it is actually received by the party to whom it is given.
+         10.3 Successors and Assigns; Third Party Beneficiaries. This Agreement shall inure to the benefit of and be binding upon the successors and permitted assigns of the parties hereto. Either party may assign any of its rights under this Agreement to any of its Affiliates; provided, that any such Affiliates also assume such party's obligations under this Agreement. Except as provided in Article III, Article IV, Article VIII, Article IX and Section 10.4(b), no Person other than the parties hereto and their successors and permitted assigns is intended to be a beneficiary of this Agreement.
+         10.4 Amendment and Waiver.
+         (a) No failure or delay on the part of the Company or the Purchaser in exercising any right, power or remedy hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of any such right, power or remedy preclude any other or further exercise thereof or the exercise of any other right, power or remedy.
+         (b) Any amendment, supplement or modification of or to any provision of this Agreement, any waiver of any provision of this Agreement, and any consent to any departure by the Company or the Purchaser from the terms of any provision of this Agreement, shall be effective (i) only if it is made or given in writing and signed by the Company and the Purchaser, and (ii) only in the specific instance and for the specific purpose for which made or given. Except where notice is specifically required by this Agreement, no notice to or demand on the Company in any case shall entitle the Company to any other or further notice or demand in similar or other circumstances.
+
+
+11
+
+         10.5 Counterparts. This Agreement may be executed in any number of counterparts and by the parties hereto in separate counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement.
+         10.6 Headings. The headings in this Agreement are for convenience of reference only and shall not limit or otherwise affect the meaning hereof.
+         10.7 Governing Law. THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK WITHOUT REGARD TO THE PRINCIPLES OF CONFLICTS OF LAW THEREOF. The parties hereto irrevocably submit to the exclusive jurisdiction of any state or federal court sitting in the County of New York, in the State of New York over any suit, action or proceeding arising out of or relating to this Agreement or the affairs of the Company. To the fullest extent they may effectively do so under applicable law, the parties hereto irrevocably waive and agree not to assert, by way of motion, as a defense or otherwise, any claim that they are not subject to the jurisdiction of any such court, any objection that they may now or hereafter have to the laying of the venue of any such suit, action or proceeding brought in any such court and any claim that any such suit, action or proceeding brought in any such court has been brought in an inconvenient forum.
+         10.8 Waiver of Jury Trial. EACH OF THE PARTIES HERETO HEREBY WAIVES TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY WITH RESPECT TO ANY LITIGATION DIRECTLY OR INDIRECTLY ARISING OUT OF, UNDER OR IN CONNECTION WITH THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED BY THIS AGREEMENT. EACH OF THE PARTIES HERETO HEREBY (A) CERTIFIES THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF THE OTHER PARTY HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT IT HAS BEEN INDUCED TO ENTER INTO THIS AGREEMENT AND THE TRANSACTIONS CONTEMPLATED BY THIS AGREEMENT, AS APPLICABLE, BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION 10.8.
+         10.9 Severability. If any one or more of the provisions contained herein, or the application thereof in any circumstance, is held invalid, illegal or unenforceable in any respect for any reason, the validity, legality and enforceability of any such provision in every other respect and of the remaining provisions hereof shall not be in any way impaired, unless the provisions held invalid, illegal or unenforceable shall substantially impair the benefits of the remaining provisions hereof.
+
+
+12
+
+         10.10 Rules of Construction. Unless the context otherwise requires, references to sections or subsections refer to sections or subsections of this Agreement.
+         10.11 Entire Agreement. This Agreement, together with the schedules hereto are intended by the parties as a final expression of their agreement and intended to be a complete and exclusive statement of the agreement and understanding of the parties hereto in respect of the subject matter contained herein. There are no restrictions, promises, representations, warranties or undertakings, other than those set forth or referred to herein. This Agreement, together with the exhibits and schedules hereto supersedes all prior agreements and understandings between the parties with respect to such subject matter.
+         10.12 Public Announcements. Neither the Company nor the Purchaser will issue any press release or make any public statements with respect to this Agreement or the transactions contemplated hereby without the prior written consent of the other parties hereto, except to the extent such party reasonably believes such press release or public statement is required by applicable law or stock market regulations; provided however, before making such press release or public statement, the disclosing party shall give the non-disclosing party reasonable prior notice and opportunity to review such press release and/or public statement. The Purchaser agrees to keep strictly confidential any non-public information received from the Company under this Agreement. Notwithstanding the foregoing, the Purchaser may make reasonable public statement consistent with prior public statement otherwise permitted under this Section 10.12 after the IPO.
+         10.13 Further Assurances. Each of the parties shall execute such documents and perform such further acts (including, without limitation, obtaining any consents, exemptions, authorizations or other actions by, or giving any notices to, or making any filings with, any Governmental Authority or any other Person) as may be reasonably required or desirable to carry out or to perform the provisions of this Agreement.
+[Signature Pages Follow]
+
+
+13
+
+　　IN WITNESS WHEREOF, the undersigned have executed, or have caused to be executed, this Share Purchase Agreement on the date first written above.
+
+500.COM LIMITEDBy: /s/ Man San LawName: Man San LawTitle: Chairman and Chief
+SEQUOIA CAPITAL 2010 CGF HOLDCO, LTDBy: /s/ KOK WAI YEEName: KOK WAI YEETitle: Authorized Signatory

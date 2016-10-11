@@ -1,0 +1,183 @@
+﻿BONUS REPAYMENT AGREEMENT
+ 
+　　This Bonus Repayment Agreement is entered into as of the 21st day of August, 2003, by and between eUniverse, Inc., a Delaware corporation (the “Company”), and Christopher S. Lipp an executive employed by the Company (“Executive”).
+ 
+RECITALS
+ 
+　　Whereas Executive has been employed by the Company from January 2003 through the present date and has been eligible to receive a short-term incentive bonus from the Company based on the financial performance of the Company;
+ 
+　　Whereas Executive was paid a short-term incentive bonus in the amount of $18 thousand (the “Bonus Amount”) on January 15, 2003 (the “Original Payment Date”), based on the financial performance of the Company during its 2003 fiscal year (ending on March 31, 2003) as described in the Company’s financial statements for such fiscal year;
+ 
+　　Whereas the Company has determined that the financial statements of the Company for its 2003 fiscal year included incorrect financial information and, had such financial statements included the correct financial information, Executive would not have been paid the Bonus Amount and the parties agree that Executive is not entitled to retain such Bonus Amount; and
+ 
+　　Whereas, the parties hereto would like to rescind the payment of the Bonus Amount or otherwise provide for the payment of the value of the Bonus Amount (“Bonus Amount Value”) by Executive to the Company, as provided herein;
+ 
+TERMS OF AGREEMENT
+ 
+　　Now, therefore, in exchange for their respective and mutual promises and agreements, the parties hereto agree to the following:
+ 
+　　1. Payment of Bonus Amount. Executive shall pay the full amount of the Bonus Amount Value to the Company on the following terms.
+ 
+         (a) Payment may take the form of cash, common stock of the Company (“Common Stock”), or a combination of cash and Common Stock.
+ 
+         (b) Executive has indicated on Attachment 1 hereto the amount of the Bonus Amount Value that he intends to pay in cash (the “Cash Amount”) and in Common Stock (the “Common Stock Amount”), respectively.
+ 
+         (c) Executive shall pay immediately to the Company in cash the Cash Amount.
+ 
+         (d) Executive shall deliver as soon as practicable after the date hereof to the escrow agent designated by the Company which may be itself (“Escrow Agent”) that number of shares of Common Stock, rounded to the nearest whole number, equal to the quotient of (i) the Common Stock Amount divided by (ii) $1.25, along with three signed assignments separate from
+
+certificate with the power of attorney (in the form of the document attached hereto as Attachment 2) to permit the Escrow Agent to transfer the Common Stock held in escrow as provided herein. Subject to (f) below, such shares of Common Stock shall be held in escrow by the Escrow Agent for the benefit of the Company solely pending determination of the Per Share Value (as defined below) following the effective date of this Agreement, pursuant to the terms of the escrow (as set forth in the Joint Escrow Instructions attached hereto as Attachment 3). Such escrow shall be irrevocable. On the second business day following (i) the Per Share Value Determination Date as defined below or, if applicable, (ii) the date of the delivery of the valuation by the independent appraiser as provided in (e)(4) below (the “Escrow Release Date”), the Escrow Agent shall divide the Common Stock Amount by the Per Share Value, round such quotient to the nearest whole number, distribute to the Company from such escrow that number of shares equal to such quotient, and release the remaining shares (if any) to Executive.
+ 
+         (e) “Per Share Value” shall be determined as follows:
+ 
+　　　　　　　(1) If the Common Stock is actively traded on the National market or the SmallCap market of Nasdaq, each share of Common Stock shall be valued at the average of the last reported sale price (or, if not available, the average of the best bid and best ask prices) for each day during the ten (10) consecutive trading day period ending on the thirtieth (30th) trading day following commencement of active trading.
+ 
+　　　　　　　(2) If the Common Stock is not traded on the National market or the SmallCap market of Nasdaq but is actively traded on the over-the-counter bulletin board, each share of Common Stock shall be valued at the average of the last reported sale price (or, if not available, the average of the best bid and best ask prices) for each day during the ten (10) consecutive trading day period ending on the thirtieth (30th) trading day following commencement of active trading.
+ 
+　　　　　　　(3) If the Common Stock is not actively traded on the National market or SmallCap market of Nasdaq or on the over-the-counter bulletin board, but is traded on the pink sheets market, then each share of Common Stock shall be valued at the average of the last reported sale price (or, if not available, the average of the best bid and best ask prices) for each day during the ten (10) consecutive trading day period ending on the thirtieth (30th) trading day following commencement of active trading.
+ 
+　　　　　　　(4) If the Common Stock is not actively traded on the National market or SmallCap market of Nasdaq, on the over-the-counter bulletin board, or on the pink sheets market for at least a thirty (30) day trading period within the 120 day period following the effective date of this Agreement, then the Per Share Value of each share of Common Stock shall be determined by an independent appraiser appointed by the Board of Directors of the Company.
+ 
+　　　　　　　(5) The determination of the Per Share Value shall be made at the close of business on the last day of the ten consecutive trading day period referred to in (1), (2) or (3) above, whichever is applicable, or as of the close of business on the 120th day following the effective date of this Agreement if (4) above is applicable (the “Per Share Value Determination Date”).
+
+         (f) Executive shall have the right at any time prior to the Escrow Release Date to replace one or more shares of Common Stock held in escrow by the Escrow Agent with cash, the number of shares so replaced to be equal to the quotient, rounded down to the nearest whole number, of (i) the amount of such cash (the “Replacement Cash Amount”) divided by (ii) $1.25, and in the event of any such replacement the Escrow Agent shall release to Executive the number of shares so replaced. In the event of any such replacement, the Common Stock Amount shall be deemed to be reduced, immediately prior to its division by the Per Share Amount pursuant to (d) above, by the Replacement Cash Amount.
+ 
+         (g) Notwithstanding the foregoing, if on the Per Share Value Determination Date the product of (i) the number of shares of Common Stock held in escrow by the Escrow Agent and (ii) the Per Share Value, does not equal or exceed an amount equal to (x) the Common Stock Amount less (y) the Replacement Cash Amount, the Executive shall pay in cash to the Company prior to the Escrow Release Date the amount of any such shortfall.
+ 
+　　3. Rescission of Bonus Amount. Executive and the Company hereby rescind the payment of the Bonus Amount subject to the payment by Executive of the Bonus Amount Value to the Company in full solely in the form of cash by December 31, 2003. Executive’s obligation to pay the Bonus Amount Value to the Company under this Agreement shall not be affected by whether the payment of the Bonus Amount is rescinded under this Section 3.
+ 
+　　4. Opportunity to Obtain Independent Tax Counsel. Executive acknowledges that he has had the opportunity to obtain independent tax counsel regarding the tax treatment of the payment of the Bonus Amount and the Bonus Amount Value under this Agreement. Executive acknowledges that Pillsbury Winthrop LLP is counsel to the Company and not to him, that he is not and will not be relying on any advice furnished to the Company by Pillsbury Winthrop LLP or otherwise regarding the matters contained in this Agreement (including the tax effect thereof), and that he has been advised by the Company and Pillsbury Winthrop LLP that he should seek separate advice regarding the matters contained in this Agreement.
+ 
+　　In Witness Whereof, the parties have executed this Agreement to be effective as of the date first above written.
+ 
+eUNIVERSE, INC.   Executive    By: Brad D. Greenspan   /s/    CHRIS LIPP        
+Title: Chief Executive Officer   Chris Lipp
+ATTACHMENT 1
+ 
+Total Bonus Amount
+Value (To Be Repaid)
+  Cash Amount
+(Dollar Amount)
+  Common Stock Amount
+    Dollar Amount
+  Number of Shares
+                    
+ATTACHMENT 2
+ 
+ASSIGNMENT SEPARATE FROM CERTIFICATE
+ 
+　　FOR VALUE RECEIVED and pursuant to that certain Bonus Repayment Agreement dated as of             , 200    , by and between eUniverse, Inc., a Delaware corporation (the “Company”) and the undersigned (the “Repayment Agreement”), the undersigned hereby sells, assigns and transfers unto the Company or its successor                     (            ) shares of common stock of the Company, standing in the undersigned’s name on the books of said corporation represented by Certificate No.             herewith, and does hereby irrevocably constitute and appoint the Secretary of the Company attorney to transfer the said stock on the books of the said corporation with full power of substitution in the premises. This Assignment may be used only in accordance with and subject to the terms and conditions of the Repayment Agreement, in connection with the payment of shares of Common Stock of the undersigned to the Company pursuant to the Repayment Agreement.
+ 
+Dated:  
+   Signature  
+      Name:  
+ 
+Three Signed Copies Required
+
+ATTACHMENT 3
+ 
+JOINT ESCROW INSTRUCTIONS
+ 
+eUniverse, Inc.
+Escrow Agent
+6060 Center Drive #300
+Los Angeles, CA 90045
+Attention: Christopher S. Lipp, Senior Vice President and General Counsel
+ 
+Dear Escrow Agent:
+ 
+As Escrow Agent for both eUniverse, Inc., a Delaware corporation (“Company”), and the undersigned executive of the Company (“Executive”), you are hereby authorized and directed to hold the documents and property delivered to you pursuant to the terms of that certain Bonus Repayment Agreement by and between the Company and Executive (“Bonus Repayment Agreement”) to which these Joint Escrow Instructions have been attached, in accordance with the following instructions:
+ 
+　　1. Payment of Bonus Amount.
+ 
+         (a) Pursuant to the Bonus Repayment Agreement (the terms of which are incorporated herein), Executive shall deliver as soon as practicable after the date hereof to you a number of shares of the common stock of the Company (“Common Stock”) referred to in the Bonus Repayment Agreement as “Common Stock Amount,” along with three signed assignments separate from certificate for the purpose of the transfers of the Common Stock as provided in the Bonus Repayment Agreement and herein. Subject to (c) below, such shares shall be held in escrow by you as Escrow Agent for the benefit of the Company solely pending determination of the Per Share Value (as defined below) following the effective date of the Bonus Repayment Agreement, pursuant to the terms herein. This escrow shall be irrevocable. On the second business day following (i) the Per Share Value Determination Date as defined below, or, if applicable, (ii) the date of the delivery of the valuation by the independent appraiser as provided in (b)(4) below (the “Escrow Release Date”), you shall divide the Common Stock Amount by the Per Share Value, round such quotient to the nearest whole number, distribute to the Company from such escrow that number of shares equal to such quotient, and release the remaining shares (if any) to Executive.
+ 
+         (b) “Per Share Value” shall be determined as follows:
+ 
+　　　　　　　(1) If the Common Stock is actively traded on the National market or the SmallCap market of Nasdaq, each share of Common Stock shall be valued at the average of the last reported sale price (or, if not available, the average of the best bid and best ask prices) for each day during the ten (10) consecutive trading day period ending on the thirtieth (30th) trading day following commencement of active trading.
+
+　　　　　　　(2) If the Common Stock is not traded on the National market or the SmallCap market of Nasdaq but is actively traded on the over-the-counter bulletin board, each share of Common Stock shall be valued at the average of the last reported sale price (or, if not available, the average of the best bid and best ask prices) for each day during the ten (10) consecutive trading day period ending on the thirtieth (30th) trading day following commencement of active trading.
+ 
+　　　　　　　(3) If the Common Stock is not actively traded on the National market or SmallCap market of Nasdaq or on the over-the-counter bulletin board, but is traded on the pink sheets market, then each share of Common Stock shall be valued at the average of the last reported sale price (or, if not available, the average of the best bid and best ask prices) for each day during the ten (10) consecutive trading day period ending on the thirtieth (30th) trading day following commencement of active trading.
+ 
+　　　　　　　(4) If the Common Stock is not actively traded on the National market or SmallCap market of Nasdaq, on the over-the-counter bulletin board, or on the pink sheets market for at least a thirty (30) day trading period within the 120 day period following the effective date of this Agreement, then the Per Share Value of each share of Common Stock shall be determined by an independent appraiser appointed by the Board of Directors of the Company.
+ 
+　　　　　　　(5) The determination of the Per Share Value shall be made at the close of business on the last day of the ten consecutive trading day period referred to in (1), (2) or (3) above, whichever is applicable, or as of the close of business of the 120th day following the effective date of this Agreement if (4) above is applicable (the “Per Share Value Determination Date”).
+ 
+         (c) Executive shall have the right at any time prior to the Escrow Release Date to replace one or more shares of Common Stock held in escrow by the Escrow Agent with cash, the number of shares so replaced to be equal to the quotient, rounded down to the nearest whole number, of (i) the amount of such cash (the “Replacement Cash Amount”) divided by (ii) $1.25, and in the event of any such replacement the Escrow Agent shall release to Executive the number of shares so replaced. In the event of any such replacement, the Common Stock Amount shall be deemed to be reduced, immediately prior to its division by the Per Share Amount pursuant to (a) above, by the Replacement Cash Amount.
+ 
+　　2. At the Escrow Release Date, you are directed (a) to date any stock assignments necessary for the transfer in question to the Company, (b) to fill in the number of shares being transferred, and (c) to deliver same, together with the certificate evidencing the shares of stock to be transferred, to the Company.
+ 
+　　3. Executive irrevocably authorizes the Company to deposit with you any certificates evidencing shares of stock to be held by you hereunder and any additions and substitutions to said shares as specified in the Bonus Repayment Agreement. Executive does hereby irrevocably constitute and appoint you as his attorney-in-fact and agent for the term of this escrow to execute with respect to such securities and other property all documents of
+
+assignment and/or transfer and all stock certificates necessary or appropriate to make all securities negotiable and complete any transaction herein contemplated.
+ 
+　　4. This escrow shall terminate upon the release of the Common Stock to the Company from this escrow.
+ 
+　　5. If at the time of termination of this escrow you should have in your possession any documents, securities, or other property belonging to Executive, you shall deliver all of same to Executive and shall be discharged of all further obligations hereunder; provided, however, that if at the time of termination of this escrow you are advised by the Company that the property subject to this escrow is the subject of a pledge or other agreement, you shall deliver all such property to the pledgeholder or other person designated by the Company.
+ 
+　　6. Except as otherwise provided in these Joint Escrow Instructions, your duties hereunder may be altered, amended, modified or revoked only by a writing signed by all of the parties hereto. Notwithstanding any provision herein to the contrary, in the event of any conflict between the terms of the Bonus Repayment Agreement and these Joint Escrow Instructions, the terms of the Bonus Repayment Agreement shall control.
+ 
+　　7. You shall be obligated only for the performance of such duties as are specifically set forth herein and may rely and shall be protected in relying or refraining from acting on any instrument reasonably believed by you to be genuine and to have been signed or presented by the proper party or parties or their assignees. You shall not be personally liable for any act you may do or omit to do hereunder as Escrow Agent or as attorney-in-fact for Executive while acting in good faith and any act done or omitted by you pursuant to the advice of your own attorneys shall be conclusive evidence of such good faith.
+ 
+　　8. You are hereby expressly authorized to disregard any and all warnings given by any of the parties hereto or by any other person or corporation, excepting only orders or process of courts of law, and are hereby expressly authorized to comply with and obey orders, judgments or decrees of any court. In case you obey or comply with any such order, judgment or decree of any court, you shall not be liable to any of the parties hereto or to any other person, firm or corporation by reason of such compliance, notwithstanding any such order, judgment or decree being subsequently reversed, modified, annulled, set aside, vacated or found to have been entered without jurisdiction.
+ 
+　　9. You shall not be liable in any respect on account of the identity, authority or rights of the parties executing or delivering or purporting to execute or deliver the Bonus Repayment Agreement or any documents or papers deposited or called for hereunder.
+ 
+　　10. You shall not be liable for the outlawing of any rights under any statute of limitations with respect to these Joint Escrow Instructions or any documents deposited with you.
+ 
+　　11. You shall be entitled to employ such legal counsel (including without limitation the firm of Pillsbury Winthrop LLP) and other experts as you may deem necessary properly to
+
+advise you in connection with your obligations hereunder, may rely upon the advice of such counsel, and may pay such counsel reasonable compensation therefor.
+ 
+　　12. Your responsibilities as Escrow Agent hereunder shall terminate if you shall resign by written notice to each party. In the event of any such termination, the Company may appoint a successor Escrow Agent and Executive hereby confirms the appointment of such successor or successors as his attorney-in-fact and agent to the full extent of your appointment.
+ 
+　　13. If you reasonably require other or further instruments in connection with these Joint Escrow Instructions or obligations in respect hereto, the necessary parties hereto shall join in furnishing such instruments.
+ 
+　　14. It is understood and agreed that should any dispute arise with respect to the delivery and/or ownership or right of possession of the securities, you may (but are not obligated to) retain in your possession without liability to anyone all or any part of said securities until such dispute shall have been settled either by mutual written agreement of the parties concerned or by a final order, decree or judgment of a court of competent jurisdiction after the time for appeal has expired and no appeal has been perfected, but you shall be under no duty whatsoever to institute or defend any such proceedings.
+ 
+　　15. Any notice required or permitted hereunder shall be given in writing and shall be deemed effectively given upon personal delivery or upon deposit in any United States Post Box, by registered or certified mail with postage and fees prepaid, addressed to each of the other parties hereunto entitled at the following addresses, or at such other addresses as a party may designate by ten days’ written notice to each of the other parties hereto:
+ 
+TO COMPANY:
+ 
+eUniverse, Inc.
+6060 Center Drive #300
+Los Angeles, CA 90045
+Attention: Christopher S. Lipp, Senior Vice President and General Counsel
+ 
+with a copy to:
+ 
+Pillsbury Winthrop LLP
+50 Fremont Street
+San Francisco, CA 94105
+Attention: Nathaniel M. Cartmell III
+ 
+TO EXECUTIVE:
+ 
+See Signature Page for Name and Address of Executive.
+
+TO ESCROW AGENT:
+ 
+eUniverse, Inc.
+6060 Center Drive #300
+Los Angeles, CA 90045
+Attention: Christopher S. Lipp, Senior Vice President and General Counsel
+ 
+with a copy to:
+ 
+Pillsbury Winthrop LLP
+50 Fremont Street
+San Francisco, CA 94105
+Attention: Nathaniel M. Cartmell III
+ 
+　　16. By signing these Joint Escrow Instructions you become a party hereto only for the purpose of said Joint Escrow Instructions; you do not become a party to the Bonus Repayment Agreement unless you are already a party to such agreement.
+ 
+　　17. This instrument shall be binding upon and inure to the benefit of the parties hereto and their respective successors and permitted assigns. It is understood and agreed that references to “you” or “your” herein refer to the original Escrow Agent and to any and all successor Escrow Agents. It is understood and agreed that the Company may at any time or from time to time assign its rights under the Bonus Repayment Agreement and these Joint Escrow Instructions in whole or in part.
+ 
+Very truly yours,
+ 
+eUNIVERSE, INC.
+ 
+By: Brad D. Greenspan              Chief Executive Officer            EXECUTIVE:/s/    CHRISTOPHER S. LIPP
+Name: Christopher S. LippAddress: 6060 Center Drive, #300
+Los Angeles, CA 90045ESCROW AGENT:eUNIVERSE, INC.By: Brad D. Greenspan              Chief Executive Officer            

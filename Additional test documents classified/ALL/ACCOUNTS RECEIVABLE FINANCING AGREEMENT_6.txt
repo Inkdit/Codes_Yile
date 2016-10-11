@@ -1,0 +1,838 @@
+﻿ACCOUNTS RECEIVABLE FINANCING AGREEMENT
+
+     This ACCOUNTS RECEIVABLE FINANCING AGREEMENT (the "Agreement"), dated as of
+April 26, 2000 is between Silicon Valley Bank, Specialty Finance Division of
+("Bank"), and I-many, Inc. a Delaware corporation, ("Borrower"), whose address
+is 537 Congress Street, Portland, Maine 04101 and with a FAX number of (207)
+772-8597.
+
+1.   DEFINITIONS.  In this Agreement:
+
+     "ACCOUNTS" are all existing and later arising accounts, contract rights,
+and other obligations owed Borrower in connection with its sale or lease of
+goods (including licensing software and other technology) or provision of
+services, all credit insurance, guaranties, other security and all merchandise
+returned or reclaimed by Borrower and Borrower's Books relating to any of the
+foregoing.
+
+     "ACCOUNT DEBTOR" is defined in the California and Maine Uniform Commercial
+Code and shall include any person liable on any Financed Receivable, such as, a
+guarantor of the Financed Receivable and any issuer of a letter of credit or
+banker's acceptance.
+
+     "ADJUSTED QUICK RATIO" is, as of the last day of each month, a ratio of
+Quick Assets to Current Liabilities minus Deferred Maintenance Revenue of at
+least 1.25 to 1.00.
+
+     "ADJUSTMENTS" are all discounts, allowances, returns, disputes,
+counterclaims, offsets, defenses, rights of recoupment, rights of return,
+warranty claims, or short payments, asserted by or on behalf of any Account
+Debtor for any Financed Receivable.
+
+     "ADMINISTRATIVE FEE" is defined in Section 3.3.
+
+     "ADVANCE" is defined in Section 2.2.
+
+     "ADVANCE RATE" is (i) 80%, provided however, if the Borrower is unable to
+maintain the Adjusted Quick Ratio, then the Advance Rate shall be 80%, net of
+deferred revenue and offsets related to each specific Account Debtor; or (ii)
+another percentage as Bank establishes under Section 2.2.
+
+     "APPLICABLE RATE" is a rate per annum equal to the "Prime Rate". Effective
+June 1, 2000 and thereafter, the Applicable Rate shall be the Prime Rate plus 2
+percentage points.
+
+     "BORROWER'S BOOKS" are all Borrower's books and records including ledgers,
+records regarding Borrower's assets or liabilities, the Collateral, business
+operations or financial condition and all computer programs or discs or any
+equipment containing the information.
+
+     "CODE" is the California and Maine Uniform Commercial Code.
+
+     "COLLATERAL" is attached as Exhibit "A".
+
+     "COLLATERAL HANDLING FEE" is defined in Section 3.5.
+
+     "COLLECTIONS" are all funds received by Bank from or on behalf of an
+Account Debtor for Financed Receivables.
+
+
+
+                                       1
+<PAGE>
+
+     "COMPLIANCE CERTIFICATE" is attached as Exhibit "B".
+
+     "CURRENT LIABILITIES" are the aggregate amount of Borrower's Total
+Liabilities which mature within one (1) year.
+
+     "DEFERRED MAINTENANCE REVENUE" is all amounts received in advance of
+performance under maintenance contract and not yet recognized as revenue.
+
+     "EVENT OF DEFAULT" is defined in Section 9.
+
+     "FACILITY" is an extension of credit by Bank to Borrower in order to
+finance receivables with an aggregate Account Balance not exceeding the Facility
+Amount.
+
+     "FACILITY AMOUNT" is $3,000,000.00.
+
+     "FACILITY FEE" is defined in Section 3.4.
+
+     "FACILITY PERIOD" is the period beginning on this date and continuing until
+APRIL 25, 2001, unless the period is terminated sooner by Bank with notice to
+Borrower or by Borrower under Section 3.5.
+
+     "FINANCE CHARGES" is defined in Section 3.2.
+
+     "FINANCED RECEIVABLES" are all those accounts, receivables, chattel paper,
+instruments, contract rights, documents, general intangibles, letters of credit,
+drafts, bankers acceptances, and rights to payment, and all proceeds, including
+their proceeds (collectively "receivables"), which Bank finances and make an
+Advance. A Financed Receivable stops being a Financed Receivable (but remains
+Collateral) when the Advance made for the Financed Receivable has been finally
+paid.
+
+     "FINANCED RECEIVABLE BALANCE" is the total outstanding amount, at any time,
+of all Financed Receivables.
+
+     "GOOD FAITH DEPOSIT" is described in Section 3.9.
+
+     "GUARANTOR" means any guarantor of the Obligations.
+
+     "INELIGIBLE RECEIVABLE" is any accounts receivable:
+
+     (A) that is unpaid (90) calendar days after the invoice date; or
+     (B) that is owed by an Account Debtor that has filed, or has had filed
+         against it, any bankruptcy case, assignment for the benefit of
+         creditors, receivership, or Insolvency Proceeding or who has become
+         insolvent (as defined in the United States Bankruptcy Code) or who is
+         generally not paying its debts as they become due; or
+     (C) for which there has been any breach of warranty or representation in
+         Section 6 or any breach of any covenant in this Agreement; or
+     (D) for which the Account Debtor asserts any discount, allowance, return,
+         dispute, counterclaim, offset, defense, right of recoupment, right of
+         return, warranty claim, or short payment.
+
+      "INSOLVENCY PROCEEDING" are proceedings by or against any person under the
+United States Bankruptcy Code, or any other bankruptcy or insolvency law,
+including assignments for the benefit of creditors, compositions, extensions
+generally with its creditors, or proceedings seeking reorganization,
+arrangement, or other relief.
+
+     "INVOICE TRANSMITTAL" shows accounts receivable which Bank may finance and,
+for each receivable, includes the Account Debtor's, name, address, invoice
+amount, invoice date and invoice number and is signed by Borrower's authorized
+representative.
+
+     "LOCKBOX" is described in Section 6.2.
+
+     "MINIMUM FINANCE CHARGE" is $7,500.00.
+
+     "OBLIGATIONS" are all advances, liabilities, obligations, covenants and
+duties owing, arising, due or payable by
+
+
+
+                                       2
+<PAGE>
+
+Borrower to Bank now or later under this Agreement or any other document,
+instrument or agreement, account (including those acquired by assignment)
+primary or secondary, such as all Advances, Finance Charges, Administrative
+Fees, interest, fees, expenses, professional fees and attorneys' fees or
+other.
+
+     "PRIME RATE" is Bank's most recently announced "prime rate," even if it is
+not Bank's lowest rate.
+
+     "QUICK ASSETS" is, on any date, the Borrower's consolidated, unrestricted
+cash, cash equivalents, net billed accounts receivable and investments with
+maturities of fewer than 12 months determined according to GAAP.
+
+     "RECONCILIATION DAY" is the last calendar day of each month.
+
+     "RECONCILIATION PERIOD" is each calendar month.
+
+     "SUBORDINATED DEBT" is debt incurred by Borrower subordinated to Borrower's
+indebtedness owed to Bank and which is reflected in a written agreement in a
+manner and form acceptable to Bank and approved by Bank in writing.
+
+     "TOTAL LIABILITIES" is on any day, obligations that should, under GAAP, be
+classified as liabilities on Borrower's consolidated balance sheet, including
+all Indebtedness, and current portion Subordinated Debt allowed to be paid, but
+excluding all other Subordinated Debt.
+
+2.   FINANCING OF ACCOUNTS RECEIVABLE.
+
+     2.1. REQUEST FOR ADVANCES. During the Facility Period, Borrower may offer
+     accounts receivable to Bank, if there is not an Event of Default. Borrower
+     will deliver an Invoice Transmittal for each accounts receivable it offers.
+     Bank may rely on information on or with the Invoice Transmittal.
+
+     2.2. ACCEPTANCE OF ACCOUNTS RECEIVABLE. Bank is not obligated to finance
+     any accounts receivable. Bank may approve any Account Debtor's credit
+     before buying any receivable. When Bank accepts a receivable, it will pay
+     Borrower the Advance Rate times the face amount of the receivable (the
+     "Advance"). Bank may, in its discretion, change the percentage of the
+     Advance Rate. When Bank makes an Advance, the receivable becomes a
+     "Financed Receivable." All representations and warranties in Section 6 must
+     be true as of the date of the Invoice Transmittal and of the Advance and no
+     Event of Default exists would occur as a result of the Advance. The
+     aggregate amount of all Financed Receivables outstanding at any time may
+     not exceed the Facility Amount.
+
+3. COLLECTIONS, FINANCE CHARGES, REMITTANCES AND FEES. The Obligations shall be
+subject to the following fees and Finance Charges. Fees and Finance Charges may,
+in Bank's discretion, be charged as an Advance, and shall thereafter accrue fees
+and Finance Charges as described below. Bank may, in its discretion, charge fee
+and Finance Charges to Borrower's deposit account maintained with Bank.
+
+     3.1. COLLECTIONS. Collections will be credited to the Financed Receivables
+     Balance, but if there is an Event of Default, Bank may apply Collections to
+     the Obligation in any order it chooses. If Bank receives a payment for both
+     Financed Receivable and a non Financed Receivable, the funds will first be
+     applied to the Financed Receivable and, if there is not an Event of
+     Default, the excess will be remitted to the Borrower, subject to Section
+     3.10.
+
+     3.2. FINANCE CHARGES. In computing Finance Charges on the Obligations, all
+     Collections received by Bank shall be deemed applied by Bank on account of
+     the Obligations 3 Business Days after receipt of the Collections. Borrower
+     will pay a finance charge (the "Finance Charge"), which is the greater of
+     (i) the Applicable Rate times the number of days in the Reconciliation
+     Period times the outstanding average daily Financed Receivable Balance for
+     that Reconciliation Period or (ii) the Minimum Finance Charge. After an
+     Event of Default, Obligations accrue interest at 5 percent above the
+     Applicable Rate effective immediately before the Event of Default.
+
+     3.3.  INTENTIONALLY OMITTED.
+
+     3.4.  FACILITY FEE. A fully earned,  non-refundable  facility fee of
+     $15,000.00 is due upon execution of this Agreement.
+
+
+                                       3
+<PAGE>
+
+
+     3.5. COLLATERAL HANDLING FEE. On each Reconciliation Day, Borrower will pay
+     to Bank a collateral handling fee, equal to .25% per month of the average
+     daily Financed Receivable Balance outstanding during the applicable
+     Reconciliation Period. Effective June 1, 2000 and thereafter, the
+     Collateral Handling Fee shall be .375%. After an Event of Default, the
+     Collateral Handling Fee will increase an additional .50% effective
+     immediately before the Event of Default.
+
+     3.6. INTENTIONALLY OMITTED.
+
+     3.7. ACCOUNTING. After each Reconciliation Period, Bank will provide an
+     accounting of the transactions for that Reconciliation Period, including
+     the amount of all Financed Receivables, all Collections, Adjustments,
+     Finance Charges, the Collateral Handling Fee and the Administrative Fee. If
+     Borrower does not object to the accounting in writing within 30 days it is
+     considered correct. All Finance Charges and other interest and fees
+     calculated on the basis of a 360 day year and actual days elapsed.
+
+     3.8. DEDUCTIONS. Bank may deduct fees, finance charges and other amounts
+     due from any Advances made or Collections received by Bank.
+
+     3.9.  INTENTIONALLY OMITTED.
+
+     3.10. ACCOUNT COLLECTION SERVICES. All Borrowers' receivables are to be
+     paid to the same address/or party and Borrower and Bank must agree on such
+     address. If Bank collects all receivables and there is not an Event of
+     Default or an event that with notice or lapse of time will be an Event of
+     Default, within 3 days of receipt of those collections, Bank will give
+     Borrower, the receivables collections it receives for receivables other
+     than Financed Receivables and/or amount in excess of the amount for which
+     Bank has made an Advance to Borrower, less any amount due to Bank, such as
+     the Finance Charge, Administrative Fee, Collateral Handling Fee and
+     expenses or otherwise. This Section does not impose any affirmative duty on
+     Bank to do any act other than to turn over amounts. All receivables and
+     collections are Collateral and if an Event of Default occurs, Bank need not
+     remit collections of Collateral and may apply them to the Obligations.
+
+4.  REPAYMENT OF OBLIGATIONS.
+
+     4.1. REPAYMENT ON MATURITY. Borrower will repay each Advance on the
+     earliest of: (a) payment of the Financed Receivable in respect which the
+     Advance was made, (b) the Financed Receivable becomes an Ineligible
+     Receivable, (c) when any Adjustment is made to the Financed Receivable (but
+     only to the extent of the Adjustment if the Financed Receivable is not
+     otherwise an Ineligible Receivable, or (d) the last day of the Facility
+     Period (including any early termination). Each payment will also include
+     all accrued Finance Charges on the Advance and all other amounts due
+     hereunder.
+
+     4.2. REPAYMENT ON EVENT OF DEFAULT. When there is an Event of Default,
+     Borrower will, if Bank demands (or, in an Event of Default under Section
+     9(B), immediately without notice or demand from Bank) repay all of the
+     Advances. The demand may, at Bank's option, include the Advance for each
+     Financed Receivable then outstanding and all accrued Finance Charges,
+     Administrative Fees, attorneys and professional fees, court costs and
+     expenses, and any other Obligations.
+
+5.   POWER OF ATTORNEY. Borrower irrevocably appoints Bank and its successors
+     and assigns it attorney-in-fact and authorizes Bank, regardless of whether
+     there has been an Event of Default, to:
+
+     (A) sell, assign, transfer, pledge, compromise, or discharge all or any
+         part of the Financed Receivables:
+
+     (B) demand, collect, sue, and give releases to any Account Debtor for
+         monies due and compromise, prosecute, or defend any action, claim, case
+         or proceeding about the Financed Receivables, including filing a claim
+         or voting a claim in any bankruptcy case in Bank's or Borrower's name,
+         as Bank chooses:
+
+     (C) prepare, file and sign Borrower's name on any notice, claim,
+         assignment, demand, draft, or notice of or satisfaction of lien or
+         mechanics' lien or similar document;
+
+     (D) notify all Account Debtors to pay Bank directly;
+
+
+                                       4
+<PAGE>
+
+
+     (E) receive, open, and dispose of mail addressed to Borrower;
+
+     (F) endorse Borrower's name on check or other instruments;
+
+     (G) execute on Borrower's behalf any instruments, documents, financing
+         statements to perfect Bank's interests in the Financed Receivables and
+         Collateral; and
+
+     (H) do all acts and things necessary or expedient.
+
+6.   REPRESENTATIONS, WARRANTIES AND COVENANTS.
+
+     6.1. REPRESENTATIONS AND WARRANTIES.   Borrower represents and warrants for
+     each Financed Receivable:
+
+         (A) It is the owner with legal right to sell, transfer and assign it;
+
+         (B) The correct amount is on the Invoice Transmittal and is not
+             disputed;
+
+         (C) Payment is not contingent on any obligation or contract and it has
+             fulfilled all its obligations as of the Invoice Transmittal date;
+
+         (D) It is based on an actual sale and delivery of goods and/or services
+             rendered, due to Borrower, it is not past due or in default, has
+             not been previously sold, assigned, transferred, or pledged and is
+             free of any liens, security interests and encumbrances;
+
+         (E) There are no defenses, offsets, counterclaims or agreements for
+             which the Account Debtor may claim any deduction or discount;
+
+         (F) It reasonably believes no Account Debtor is insolvent or subject to
+             any Insolvency Proceedings;
+
+         (G) It has not filed or had filed against it Insolvency Proceedings
+             and does not anticipate any filing;
+
+         (H) Bank has the right to endorse and/ or require Borrower to endorse
+             all payments received on Financed Receivables and all proceeds of
+             Collateral.
+
+         (I) No representation, warranty or other statement of Borrower in any
+             certificate or written statement given to Bank contains any untrue
+             statement of a material fact or omits to state a material fact
+             necessary to make the statement contained in the certificates or
+             statement not misleading.
+
+     6.1.1 ADDITIONAL REPRESENTATIONS AND WARRANTIES.  Borrower represents and
+     warrants as follows:
+
+         (A) Borrower is duly existing and in good standing in its state of
+             formation and qualified and licensed to do business in, and in good
+             standing in, any state in which the conduct of its business or its
+             ownership of property requires that it be qualified. The execution,
+             delivery and performance of this Agreement has been duly
+             authorized, and does not conflict with Borrower's organizational
+             documents, nor constitute an Event of Default under any material
+             agreement by which Borrower is bound. Borrower is not in default
+             under any agreement to which or by which it is bound.
+
+         (B) Borrower has good title to the Collateral. All inventory is in all
+             material respects of good and marketable quality, free from
+             material defects.
+
+         (C) Borrower is not an "investment company" or a company "controlled"
+             by an "investment company" under the Investment Company Act.
+             Borrower is not engaged as one of its important activities in
+             extending credit for margin stock (under Regulations G, T and U of
+             the Federal Reserve Board of Governors). Borrower has complied with
+             the Federal Fair Labor Standards Act. Borrower has not violated any
+             laws, ordinances or rules. None of Borrower's properties or assets
+             has been used by Borrower, to the best of Borrower's knowledge, by
+             previous persons, in disposing, producing, storing, treating, or
+             transporting any hazardous substance other than legally. Borrower
+             has timely filed all required tax returns and paid,
+
+
+
+
+                                       5
+<PAGE>
+
+
+
+             or made adequate provision to pay, all taxes. Borrower has
+             obtained all consents, approvals and authorizations of, made all
+             declarations or filings with, and given all notices to, all
+             government authorities that are necessary to continue its business
+             as currently conducted.
+
+     6.2. AFFIRMATIVE COVENANTS.  Borrower will do all of the following:
+
+         (A) Maintain its corporate existence and good standing in its
+             jurisdictions of incorporation and maintain its qualification in
+             each jurisdiction necessary to Borrower's business or operations.
+
+         (B) Give Bank at least 10 days prior written notice of changes to its
+             name, organization, chief executive office or location of records.
+
+         (C) Pay all its taxes including gross payroll, withholding and sales
+             taxes when due and will deliver satisfactory evidence of payment if
+             requested.
+
+         (D) Provide a written report within 10 days, if payment of any Financed
+             Receivable does not occur by its due date and include the reasons
+             for the delay.
+
+         (E) Give Bank copies of all Forms 10-K, 10-Q and 8-K (or equivalents)
+             within 5 days of filing with the Securities and Exchange
+             Commission, while any Financed Receivable is outstanding.
+
+         (F) Execute any further instruments and take further action as Bank
+             requests to perfect or continue Bank's security interest in the
+             Collateral or to effect the purposes of this Agreement.
+
+         (G) Provide Bank with a Compliance Certificate no later than 5 days
+             following each quarter end or as requested by Bank.
+
+         (H) Provide Bank with, as soon as available, but no later than 30 days
+             following each Reconciliation Period, a company prepared balance
+             sheet and income statement, prepared under GAAP, consistently
+             applied, covering Borrower's operations during the period together
+             with an aged listing of accounts receivable and accounts payable
+             and a detailed schedule of deferred revenue in form and substance
+             acceptable to Bank.
+
+         (I) Immediately notify, transfer and deliver to Bank all collections
+             Borrower receives for Financed Receivables.
+
+         (J) Direct each Account Debtor to make payments to a lockbox account
+             with Bank or to wire transfer payments to Bank.
+
+         (K) Borrower will allow Bank to audit Borrower's Collateral, including
+             but not limited to Borrower's Accounts, at Borrowers expense, no
+             later than 90 days of the execution of this Agreement and annually
+             thereafter. Provided however, if an Event of Default has occurred,
+             Bank may audit Borrower's Collateral, including but not limited to
+             Borrower's Accounts at Bank's sole discretion and without
+             notification and authorization from Borrower.
+
+         (L) Borrower will receive a cash infusion, (i) in an amount no less
+             than $10,000,000 on or before 7/31/2000 and (ii) an additional cash
+             infusion of no less than $10,000,000.00 on or before 9/30/2000.
+
+     6.3.  NEGATIVE  COVENANTS.  Borrower will not do any of the following
+     without  Bank's prior written  consent, which will not be unreasonably
+     withheld:
+
+         (A) Assign, transfer, sell or grant, or permit any lien or security
+             interest in the Collateral.
+
+         (B) Convey, sell, lease, transfer or otherwise dispose of the
+             Collateral.
+
+         (C) Create, incur, assume, or be liable for any indebtedness other than
+             indebtedness incurred in the ordinary course of business and in an
+             amount not greater than $500,000.00.
+
+
+                                       6
+<PAGE>
+
+
+         (D) Become an "investment company" or a company controlled by an
+             "investment company," under the Investment Company Act of 1940 or
+             undertake as one of its important activities extending credit to
+             purchase or carry margin stock, or use the proceeds of any Advance
+             for that purpose; fail to meet the minimum funding requirements of
+             ERISA, permit a Reportable Event or Prohibited Transaction, as
+             defined in ERISA, to occur; fail to comply with the Federal Fair
+             Labor Standards Act or violate any other law or regulation, or
+             permit any of its subsidiaries to do so.
+
+7. ADJUSTMENTS. If any Account Debtor asserts a discount, allowance, return,
+offset, defense, warranty claim, or the like (an "Adjustment") or if Borrower
+breaches any of the representations, warranties or covenants set forth in
+Section 6., Borrower will promptly advise Bank. Borrower will resell any
+rejected, returned, returned, or recovered personal property for Bank, at
+Borrower's expense, and pay proceeds to Bank. While Borrower has returned goods
+that are Borrower property, Borrower will segregate and mark them "property of
+Silicon Valley Bank." Bank owns the Financed Receivables and until receipt of
+payment, has the right to take possession of any rejected, returned, or
+recovered personal property.
+
+8. SECURITY INTEREST. Borrower grants to Bank a continuing security interest in
+all presently and later acquired Collateral. Any security interest will be a
+first priority security interest in the Collateral.
+
+9. EVENTS OF DEFAULT. Any one or more of the following is an Event of Default.
+
+   (A) Borrower fails to pay any amount owed to Bank when due;
+
+   (B) Borrower files or has filed against it any Insolvency Proceedings or any
+       assignment for the benefit of creditors, or appointment of a receiver or
+       custodian for any of its assets;
+
+   (C) Borrower becomes insolvent or is generally not paying its debts as they
+       become due or is left with unreasonably small capital;
+
+   (D) Any involuntary lien, garnishment, attachment attaches to the Financed
+       Receivables or any Collateral;
+
+   (E) Borrower breaches any covenant, agreement, warranty, or representation
+       and does not cure it to Bank's satisfaction within 10 days; but a breach
+       that cannot be cured it is an immediate Event of Default;
+
+   (F) Borrower is in default under any document, instrument or agreement
+       evidencing any debt, obligation or liability in favor of Bank its
+       affiliates or vendors regardless of whether the debt, obligation or
+       liability is direct or indirect, primary or secondary, or fixed or
+       contingent;
+
+   (G) An event of default occurs under any Guaranty of the Obligations or any
+       material provision of any Guaranty is not valid or enforceable or a
+       Guaranty is repudiated or terminated;
+
+   (H) A material default or Event of Default occurs under any agreement between
+       Borrower and any creditor of Borrower that signed a subordination
+       agreement with Bank;
+
+   (I) Any creditor that has signed a subordination agreement with Bank breaches
+       any terms of the subordination agreement; or
+
+   (J) (i) A material impairment in the perfection or priority of the Bank's
+       security interest in the Collateral; (ii) a material adverse change in
+       the business, operations, or conditions (financial or otherwise) of the
+       Borrower occurs; or (iii) a material impairment of the prospect of
+       repayment of any portion of the Advances occurs.
+
+10.  REMEDIES.
+
+     10.1. REMEDIES UPON DEFAULT. When an Event of Default occurs, (1) Bank may
+     stop financing receivables or extending credit to Borrower; (2) at Banks
+     option and on demand, all or a portion of the Obligations or, for to an
+     Event of Default described in Section 9(B), automatically and without
+     demand, are due and payable in full; (3) apply to the Obligations any (i)
+     balances and deposits of Borrower it holds, or (ii) any amount held by Bank
+     owing to or for the credit or the account of Borrower; and (4) Bank may
+     exercise all rights and remedies under this Agreement and the law,
+     including those of a secured party under the Code, power of attorney rights
+     in
+
+
+
+                                       7
+<PAGE>
+
+     Section 5 for the Collateral, and the right to collect, dispose of,
+     sell, lease, use, and realize upon all Financed Receivables and Collateral
+     in any commercial manner. Borrower agrees that any notice of sale required
+     to be given to Borrower is deemed given if at least five days before the
+     sale may be held.
+
+     10.2. DEMAND WAIVER. Borrower waives demand, notice of default or dishonor,
+     notice of payment and nonpayment, notice of any default, nonpayment at
+     maturity, release, compromise, settlement, extension, or renewal of
+     accounts, documents, instruments, chattel paper, and guaranties held by
+     Bank on which Borrower is liable.
+
+     10.3. DEFAULT RATE. If any amount is not paid when due, the amount bears
+     interest at the Applicable Rate plus five percent until the earlier of (a)
+     payment in good funds or (b) entry of a final judgment when the principal
+     amount of any money judgment will accrue interest at the highest rate
+     allowed by law.
+
+11. FEES, COSTS AND EXPENSES. The Borrower will pay on demand all fees, costs
+and expenses (including attorneys' and professionals fees with costs and
+expenses) that Bank incurs from: (a) preparing, negotiating, administering, and
+enforcing this Agreement or related agreement, including any amendments, waivers
+or consents, (b) any litigation or dispute relating to the Financed Receivables,
+the Collateral, this Agreement or any other agreement, (c) enforcing any rights
+against Borrower or any guarantor, or any Account Debtor, (d) protecting or
+enforcing its interest in the Financed Receivables or other Collateral, (e)
+collecting the Financed Receivables and the Obligations, and (f) any bankruptcy
+case or insolvency proceeding involving Borrower, any Financed Receivable, the
+Collateral, any Account Debtor, or any Guarantor.
+
+12. CHOICE OF LAW, VENUE AND JURY TRIAL WAIVER. California law governs this
+Agreement. Borrower and Bank each submit to the exclusive jurisdiction of the
+State and Federal courts in Santa Clara County, California.
+
+BORROWER AND BANK EACH WAIVE THEIR RIGHT TO A JURY TRIAL OF ANY CLAIM OR CAUSE
+OF ACTION ARISING OUT OF OR BASED UPON THIS AGREEMENT OR ANY CONTEMPLATED
+TRANSACTION, INCLUDING CONTRACT, TORT, BREACH OF DUTY AND ALL OTHER CLAIMS. THIS
+WAIVER IS A MATERIAL INDUCEMENT FOR BOTH PARTIES TO ENTER INTO THIS AGREEMENT.
+EACH PARTY HAS REVIEWED THIS WAIVER WITH ITS COUNSEL.
+
+13. NOTICES. Notices or demands by either party about this Agreement must be in
+writing and personally delivered or sent by an overnight delivery service, by
+certified mail postage prepaid return receipt requested, or by FAX to the
+addresses listed at the beginning of this Agreement. A party may change notice
+address by written notice to the other party.
+
+14.  GENERAL PROVISIONS.
+
+     14.1. SUCCESSORS AND ASSIGNS. This Agreement binds and is for the benefit
+     of successors and permitted assigns of each party. Borrower may not assign
+     this Agreement or any rights under it without Bank's prior written consent
+     which may be granted or withheld in Bank's discretion. Bank may, without
+     the consent of or notice to Borrower, sell, transfer, or grant
+     participation in any part of Bank's obligations, rights or benefits under
+     this Agreement.
+
+     14.2. INDEMNIFICATION. Borrower will indemnify, defend and hold harmless
+     Bank and its officers, employees, and agents against: (a) obligations,
+     demands, claims, and liabilities asserted by any other party in connection
+     with the transactions contemplated by this Agreement; and (b) losses or
+     expenses incurred, or paid by Bank from or consequential to transactions
+     between Bank and Borrower (including reasonable attorneys fees and
+     expenses), except for losses caused by Bank's gross negligence or willful
+     misconduct.
+
+     14.3.  TIME OF ESSENCE.  Time is of the essence for performance of all
+     obligations in this Agreement.
+
+     14.4. SEVERABILITY OF PROVISION. Each provision of this Agreement is
+     severable from every other provision in determining the enforceability of
+     any provision.
+
+     14.5. AMENDMENTS IN WRITING, INTEGRATION. All amendments to this Agreement
+     must be in writing. This Agreement is the entire agreement about this
+     subject matter and supersedes prior negotiations or agreements.
+
+
+                                       8
+<PAGE>
+
+
+     14.6. COUNTERPARTS.  This Agreement may be executed in any number of
+     counterparts and by different parties on separate counterparts and when
+     executed and delivered are one Agreement.
+
+     14.7. SURVIVAL. All covenants, representations and warranties made in this
+     Agreement continue in force while any Financed Receivable amount remains
+     outstanding. Borrower's indemnification obligations survive until all
+     statutes of limitations for actions that may be brought against Bank have
+     run.
+
+     14.8. CONFIDENTIALITY. Bank will use the same degree of care handling
+     Borrower's confidential information that it uses for its own confidential
+     information, but may disclose information; (i) to its subsidiaries or
+     affiliates in connection with their business with Borrower, (ii) to
+     prospective transferees or purchasers of any interest in the Agreement,
+     (iii) as required by law, regulation, subpoena, or other order, (iv) as
+     required in connection with an examination or audit and (v) as it considers
+     appropriate exercising the remedies under this Agreement. Confidential
+     information does not include information that is either: (a) in the public
+     domain or in Bank's possession when disclosed, or becomes part of the
+     public domain after disclosure to Bank; or (b) disclosed to Bank by a third
+     party, if Bank does not know that the third party is prohibited from
+     disclosing the information.
+
+     14.9. OTHER AGREEMENTS. This Agreement may not adversely affect Banks
+     rights under any other document or agreement. If there is a conflict
+     between this Agreement and any agreement between Borrower and Bank, Bank
+     may determine in its sole discretion which provision applies. Borrower
+     acknowledges that any security agreements, liens and/or security interests
+     securing payment of Borrower's Obligations also secure Borrower's
+     Obligations under this Agreement and are not adversely affected by this
+     Agreement. Additionally, (a) any Collateral under other agreements or
+     documents between Borrower and Bank secures Borrowers Obligations under
+     this Agreement and (b) a default by Borrower under this Agreement is a
+     default under agreements between Borrower and Bank.
+
+
+BORROWER:     I-MANY, INC.
+
+By /s/ Philip M. St. Germain
+   ----------------------------------------
+Title  Chief Financial Officer
+      -------------------------------------
+
+
+BANK:    SILICON VALLEY BANK
+
+
+
+By /s/ Mike Field
+   ----------------------------------------
+Title  SVP
+      -------------------------------------
+
+
+
+
+                                       9
+<PAGE>
+
+                                    EXHIBIT A
+
+
+     The Collateral consists of all of Borrower's right, title and interest in
+and to the following:
+
+     All goods and equipment now owned or hereafter acquired, including, without
+limitation, all machinery, fixtures, vehicles (including motor vehicles and
+trailers), and any interest in any of the foregoing, and all attachments,
+accessories, accessions, replacements, substitutions, additions, and
+improvements to any of the foregoing, wherever located;
+
+     All inventory, now owned or hereafter acquired, including, without
+limitation, all merchandise, raw materials, parts, supplies, packing and
+shipping materials, work in process and finished products including such
+inventory as is temporarily out of Borrower's custody or possession or in
+transit and including any returns upon any accounts or other proceeds, including
+insurance proceeds, resulting from the sale or disposition of any of the
+foregoing and any documents of title representing any of the above;
+
+
+
+
+
+<PAGE>
+
+     All contract rights and general intangibles now owned or hereafter
+acquired, including, without limitation, goodwill, trademarks, service marks,
+trade styles, trade names, patents, patent applications, leases, license
+agreements, franchise agreements, blueprints, drawings, purchase orders,
+customer lists, route lists, infringements, claims, computer programs, computer
+discs, computer tapes, literature, reports, catalogs, design rights, income tax
+refunds, payments of insurance and rights to payment of any kind;
+
+     All now existing and hereafter arising accounts, contract rights,
+royalties, license rights and all other forms of obligations owing to Borrower
+arising out of the sale or lease of goods, the licensing of technology or the
+rendering of services by Borrower, whether or not earned by performance, and any
+and all credit insurance, guaranties, and other security therefor, as well as
+all merchandise returned to or reclaimed by Borrower;
+
+     All documents, cash, deposit accounts, securities, securities entitlements,
+securities accounts, investment property, financial assets, letters of credit,
+certificates of deposit, instruments and chattel paper now owned or hereafter
+acquired and Borrower's Books relating to the foregoing;
+
+     All copyright rights, copyright applications, copyright registrations and
+like protections in each work of authorship and derivative work thereof, whether
+published or unpublished, now owned or hereafter acquired; all trade secret
+rights, including all rights to unpatented inventions, know-how, operating
+manuals, license rights and agreements and confidential information, now owned
+or hereafter acquired; all mask work or similar rights available for the
+protection of semiconductor chips, now owned or hereafter acquired; all claims
+for damages by way of any past, present and future infringement of any of the
+foregoing;
+
+     All Borrower's Books relating to the foregoing and any and all claims,
+rights and interests in any of the above and all substitutions for, additions
+and accessions to and proceeds thereof.
+
+
+                                       2
+<PAGE>
+
+
+                                   EXHIBIT "B"
+
+                               [GRAPHIC OMITTED]
+                               SILICON VALLEY BANK
+                           SPECIALTY FINANCE DIVISION
+
+                             Compliance Certificate
+
+I, as authorized officer of I-many, Inc. ("Borrower") certify under the Accounts
+Receivable Financing Agreement (the "Agreement") between Borrower and Silicon
+Valley Bank ("Bank") as follows.
+
+BORROWER REPRESENTS AND WARRANTS FOR EACH FINANCED RECEIVABLE:
+
+     It is the owner with legal right to sell, transfer and assign it;
+
+     The correct amount is on the Invoice Transmittal and is not disputed;
+
+     Payment is not contingent on any obligation or contract and it has
+fulfilled all its obligations as of the Invoice Transmittal date;
+
+     It is based on an actual sale and delivery of goods and/or services
+rendered, due to Borrower, it is not past due or in default, has not been
+previously sold, assigned, transferred, or pledged and is free of any liens,
+security interests and encumbrances;
+
+     There are no defenses, offsets, counterclaims or agreements for which the
+Account Debtor may claim any deduction or discount;
+
+     It reasonably believes no Account Debtor is insolvent or subject to any
+Insolvency Proceedings;
+
+     It has not filed or had filed against it proceedings and does not
+anticipate any filing;
+
+     Bank has the right to endorse and/ or require Borrower to endorse all
+payments received on Financed Receivables and all proceeds of Collateral.
+
+     No representation, warranty or other statement of Borrower in any
+certificate or written statement given to Bank contains any untrue statement of
+a material fact or omits to state a material fact necessary to make the
+statement contained in the certificates or statement not misleading.
+
+     ADDITIONALLY, BORROWER REPRESENTS AND WARRANTS AS FOLLOWS:
+
+     Borrower is duly existing and in good standing in its state of formation
+and qualified and licensed to do business in, and in good standing in, any state
+in which the conduct of its business or its ownership of property requires that
+it be qualified. The execution, delivery and performance of this Agreement has
+been duly authorized, and do not conflict with Borrower's formations documents,
+nor constitute an Event of Default under any material agreement by which
+Borrower is bound. Borrower is not in default under any agreement to which or by
+which it is bound.
+
+     Borrower has good title to the Collateral. All inventory is in all material
+respects of good and marketable quality, free from material defects.
+
+     Borrower is not an "investment company" or a company "controlled" by an
+"investment company" under the Investment Company Act. Borrower is not engaged
+as one of its important activities in extending credit for margin stock (under
+Regulations G, T and U of the Federal Reserve Board of Governors). Borrower has
+complied with the Federal Fair Labor Standards Act. Borrower has not violated
+any laws, ordinances or rules. None of Borrower's properties or assets has been
+used by Borrower, to the best of Borrower's knowledge, by previous persons, in
+disposing, producing, storing, treating, or transporting any hazardous substance
+other than legally. Borrower has timely filed all required tax returns and paid,
+or made adequate provision to pay, all taxes. Borrower has obtained all
+consents, approvals and authorizations of, made all declarations or filings
+with, and given all notices to, all government authorities that are necessary to
+continue its business as currently conducted.
+
+     All representations and warranties in the Agreement are true and correct in
+all material respects on this date.
+
+Sincerely,
+
+
+_______________________________________
+SIGNATURE
+
+_______________________________________
+TITLE
+
+_______________________________________
+DATE
+

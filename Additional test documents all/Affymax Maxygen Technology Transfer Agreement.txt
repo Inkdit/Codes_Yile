@@ -1,0 +1,1043 @@
+﻿Affymax/Maxygen Technology Transfer Agreement
+                  By and among Affymax Technologies N.V. and
+      Glaxo Group Limited (collectively "the Glaxo Wellcome Companies"),
+                               and Maxygen, Inc.
+
+1.0  INTRODUCTION
+
+     1.1  The parties to this Agreement are:
+
+           Affymax Technologies N.V.
+           Glaxo Wellcome House, Berkeley Avenue
+           Greenford, Middlesex, United Kingdom UB6 ONN;
+           (hereinafter referred to as "ATNV")
+           Glaxo Group Limited
+
+           Glaxo Wellcome House
+           Berkeley House
+           Greenford, Middlesex, United Kingdom UA ONN;
+           (hereinafter referred to as "GGL")
+
+           collectively "the Glaxo Wellcome Companies" and
+
+           Maxygen, Inc.
+           4001 Miranda Avenue
+           Palo Alto, California 94304;
+           (hereinafter referred to as "Maxygen")
+
+     1.2  The effective date of this Agreement is February 1, 1997.
+
+2.0  RECITALS
+
+     The Glaxo Wellcome Companies and Maxygen have entered into a Registration
+Rights Agreement, a Securities Purchase Agreement, and a Stockholder's Agreement
+of even date (collectively, the "Stock Agreements") which call for the issuance
+of a total of 5,460,000 shares of Maxygen Common Stock to one or more of the
+Glaxo Wellcome Companies at the closing of the transaction in exchange for the
+assignment of or license to certain intellectual property from the Glaxo
+Wellcome Companies to Maxygen. Maxygen acknowledges that the Glaxo Wellcome
+Companies would not enter into this Agreement but for the Stock Agreements. This
+Agreement is contingent upon closing of the Stock Agreements and shall become
+effective only upon the closing of the last of the Stock Agreements.
+
+________________
+
+*    CERTAIN INFORMATION WITHIN THIS EXHIBIT HAS BEEN OMITTED AND THE NON-PUBLIC
+     INFORMATION HAS BEEN FILED SEPARATELY WITH THE SEC. CONFIDENTIAL TREATMENT
+     HAS BEEN REQUESTED WITH RESPECT TO THE OMITTED PORTIONS.
+<PAGE>
+
+     NOW, THEREFORE, in consideration of the premises, covenants, conditions and
+Attachments set forth herein, the parties agree as follows:
+
+3.0  ATTACHMENTS
+
+     Schedules A and B are attached and form part of this Agreement.
+
+4.0  DEFINITIONS
+
+     4.1  "Affiliate" means any entity that directly or indirectly controls, is
+controlled by or is under common control with a party to this Agreement. A
+corporation or non-corporate business entity shall be regarded as in control of
+another corporation if it owns or directly or indirectly controls at least sixty
+percent (60%) of the voting stock of the other company, or (a) in the absence of
+the ownership of at least sixty percent (60%) of the voting stock of a
+corporation or (b) in the case of a non-corporate business entity, if it
+possesses, directly or indirectly, the power to direct or cause the direction of
+the management and policies of such corporation or non-corporate business
+entity, as applicable.
+
+Affiliates shall be entitled to exercise all rights of their respective party
+under this Agreement provided that they agree in writing to be bound by the
+corresponding obligations hereunder.
+
+     4.2  "Agreement" means this Agreement, fully executed by the parties, to
+include without limitation, all Attachments hereto.
+
+     4.3  "Associated Technology" means a body of Confidential Information that
+includes trade secrets, know-how, copyrights, and other technical information
+reasonably related to the Patents and Applications set forth in Schedules A and
+B, whether such information was developed by the named inventors or others.
+
+     4.4  "Confidential Information" means that information which the Glaxo
+Wellcome Companies and/or Maxygen desire to protect against unauthorized
+disclosure or use and which the disclosing party designates as confidential (i)
+in writing, or (ii) orally, prior to any oral disclosure of the Confidential
+Information, and is reduced to tangible form and provided to the receiving party
+pursuant to this Agreement. Confidential Information may include information of
+third parties.
+
+     4.5  "Derogatable Improvement" shall mean any modification of the
+Derogatable Technology that is invented or developed by Maxygen prior to the
+earlier of (i) five years from the closing of this transaction or (ii) upon the
+closing of an underwritten public offering of shares of Maxygen under which not
+less than $10 million in gross proceeds is provided to the Company and described
+in a U.S. or foreign patent or patent application, provided that such
+modification, if unlicensed, would infringe one or more of the claims of the
+Licensed Patents and Applications.
+<PAGE>
+
+     4.6  "Derogatable Technology" shall include all compositions, reagents, and
+methods described in the Licensed Patents and Applications, excluding only
+Licensed Technology and Designated Technology. Notwithstanding the foregoing,
+"Derogatable Technology" shall not include any Derogated Technology. Derogatable
+Technology includes, but is not limited to:
+
+     (1)  gene therapy, including the optimization of vectors, such as HSV,
+          HIV, retroviral, adenoviral, and adeno-associated vectors naked DNA
+          vectors, and protein-coated vectors; and transgenes;
+
+     (2)  vaccines, including live, dead, and attenuated bacterial vaccines;
+          live, dead, attenuated, subunit, and recombinant protein and peptide
+          viral vaccines; DNA vaccines; and diverse vectors;
+
+     (3)  cell therapy, including cells expressing therapeutic transgenes,
+          protein, pharmaceuticals, and hormones;
+
+     (4)  protein pharmaceuticals, including enzymes, cytokines, growth
+          factors, hormones, novel agonists and novel antagonists; and
+
+     (5)  antibody pharmaceuticals, including whole IgGs and IgMs, Fabs, and
+          Fvs.
+
+     4.7  "Derogated Technology" shall mean any Derogatable Technology
+specifically encompassed within a collaborative research project that Maxygen
+has proposed to the Glaxo Wellcome Companies and upon which the Glaxo Wellcome
+Companies has declined to pursue a collaborative research project with Maxygen
+or upon which the parties have failed to negotiate a mutually satisfactory
+agreement within the stipulated time period, provided, that Maxygen has entered
+into a research collaboration with a third party on such Derogated Technology on
+terms involving comparable scope and financial parameters as those proposed to
+the Glaxo Wellcome Companies within twelve (12) months of Glaxo Wellcome
+declining to participate in the project. "Derogated Technology" shall also refer
+to any Derogatable Technology specifically encompassed within a collaborative
+research project between Maxygen and a third party, wherein the third party
+initially proposed, in confidence, the collaboration to Maxygen.
+
+     4.8 "Designated Technology" shall refer to the process of Shuffling as
+practiced with mammalian or other eukaryotic cells using the compositions,
+reagents, and methods described in the Licensed Patents and Applications in the
+field of human pharmaceuticals; provided, however, that the proteins, RNAs, or
+DNAs generated from such a process can be further manipulated, screened,
+selected, or used in other hosts. Designated Technology shall include
+
+     (1)  the Shuffling of proteins for development of assays for drug discovery
+          and optimization, such as proteins that can be used generically in
+          various assay formats as well as proteins for use in specific assays
+          with specific classes of targets, including modified ligands, modified
+          receptors, and modified proteins in signal transduction; and
+
+     (2)  the Shuffling of proteins for validation of drug discovery targets,
+          such as antibodies, proteins that interfere with a pathway or process,
+          and other binding proteins.
+
+Designated Technology shall not include:
+
+     (1)  the Shuffling of proteins, peptides, DNAs, and RNAs to be used as
+          human pharmaceuticals;
+<PAGE>
+
+     (2)  generic assay technology for screening and selection; as well as
+          product-specific assay technology for screening and selection; and
+
+
+     (3)  the Shuffling of viral sequences or mammalian plasmids or sequences
+          used for gene therapy or vaccines, or fragments or precursors thereof.
+
+
+     4.9  "Dulbecco Patent" shall mean U.S. Patent No. 4,593,002.
+
+     4.10 "Internal Research Purposes" shall mean that the Licensed Technology
+and Licensed Improvements will not be used in specific research that is directly
+subject to consulting or licensing obligations to a non-profit institution
+(other than the United States Government) or to another for profit institution,
+corporation or business entity unless written permission is obtained from the
+owner of such Licensed Technology or Licensed Improvement, provided, however,
+that the parties shall be free to use the Licensed Technology and Licensed
+Improvements in furtherance of their own [*******] and the commercial marketing
+of their products.
+
+     4.11 "Licensed Improvements" shall mean any modification of the Licensed
+Technology related to the processes of generating molecular diversity within,
+on, or secreted from [*******], provided (1) that such modification is invented
+or developed by Maxygen or the Glaxo Wellcome Companies prior to the earlier of
+(i) five years from the closing of this transaction or (ii) upon the closing of
+an underwritten public offering of shares of Maxygen under which not less than
+$10 million in gross proceeds is provided to the Company and described in a U.S.
+or foreign patent or patent application and (2) that such modification, if
+unlicensed, would infringe one or more of the claims of the Licensed Patents and
+Applications.
+
+     4.12 "Licensed Technology" shall refer to the process of Shuffling of
+proteins, RNAs, or DNAs as practiced in [*******] using the compositions,
+reagents, and methods described in the Licensed Patents and Applications in the
+field of [*******]; provided, however, that the proteins, RNAs, or DNAs
+generated from such a process can be further manipulated, screened, selected, or
+used in other hosts.
+
+Licensed Technology includes but is not limited to:
+
+     (1)  the Shuffling of proteins for [*******];
+
+     (2)  the Shuffling of proteins for [*******];
+
+     (3)  the Shuffling of [*******];
+
+     (4)  the Shuffling of proteins, RNAs, or DNAs [*******] and the subsequent
+          screening and selection of the modified RNAs or DNAs in other cells
+          for [*******] purposes; and
+
+<PAGE>
+
+     (5)  the Shuffling of proteins, DNAs, and RNAs for Internal Research
+          Purposes only.
+
+     Licensed Technology shall not include:
+
+     (1)  the Shuffling of proteins, peptides, DNAs, and RNAs to be used as
+         [*******];
+
+     (2)  generic assay technology for [*******], as well as product-specific
+          assay technology for [*******]; and
+
+     (3)  the Shuffling of proteins, RNAs, or DNAs [*******] using the
+          compositions, reagents, and methods described in the Licensed Patents
+          and Applications.
+
+     4.13 Licensed Patents and Applications" are as defined in Schedule A.
+
+     4.14 "Patent," "Patents," "Patent Applications" or "Patents and
+Applications" refer to issued U.S. Patents, pending and abandoned U.S. patent
+applications, to any division, renewal, continuation in whole or in part,
+substitution, conversions, reissue, prolongation or extension thereof, to all
+foreign counterparts (including patent, utility model, and industrial designs),
+and to any Letters Patent and Registrations which may hereafter be granted on
+any of the foregoing in the United States and all countries throughout the
+world.
+
+     4.15 "Peptides-on-Plasmids Display Patents and Applications" refer to the
+Patents and Applications set forth in the attached Schedule B.
+
+     4.16 "Phage Display Patents and Applications" refer to the Patents and
+Applications set forth in the attached Schedule B.
+
+     4.17 "Polysome Display Patents and Applications" refer to the Patents and
+Applications set forth in the attached Schedule B.
+
+     4.18 "Receptor Immobilization Patent Application" refer to the Patents and
+Applications set forth in the attached Schedule B.
+
+     4.19 "Shuffling" shall mean the totality of the reiterative process of gene
+fragmentation; reassembly; amplification, if necessary; transformation; and
+screening or selection described in the Licensed Patents and Applications.
+
+5.0  TRANSFERS
+
+     5.1  ASSIGNMENT OF PATENTS AND ASSOCIATED TECHNOLOGY
+<PAGE>
+
+          5.1.1  For good and valuable consideration, receipt of which is
+acknowledged by the Glaxo Wellcome Companies, the Glaxo Wellcome Companies agree
+to assign and hereby assign to Maxygen all right, title, and interest in and to
+the Licensed Patents and Applications, including the right to claim the priority
+from the Patents and Applications as provided by the Paris Convention, and to
+the Associated Technology, subject to any outstanding licenses or other rights
+provided to Affymetrix under the Affymax/Affymetrix Technology Transfer
+Agreement by and among Affymax N.V., Affymax Technologies, N.V., Affymax
+Research Institute, Glaxo Group Limited, and Affymetrix, Inc., effective date,
+March 2, 1995 ("the Affymetrix Agreement"). The right, title and interest in and
+to these Patents and Applications is to be held and enjoyed by Maxygen and
+Maxygen's successors and assigns as fully and exclusively as it would have been
+held and enjoyed by the Glaxo Wellcome Companies had this assignment not been
+made, for the full term of any Letters Patent and Registrations which may be
+granted thereon.
+
+     5.2  LICENSE OF PATENTS
+
+          5.2.1  The Glaxo Wellcome Companies hereby grant Maxygen, a perpetual,
+worldwide, royalty-free, non-exclusive license without the right to sublicense,
+to Peptides-on-Plasmids Display Patents and Applications, Polysome Display
+Patents and Applications, Phage Display Patents and Applications, the Dulbecco
+Patent, and Receptor Immobilization Patent Application. Maxygen agrees that use
+of these patents and applications shall be restricted to [*******].
+
+     5.3  LICENSED TECHNOLOGY AND LICENSED IMPROVEMENTS
+
+          5.3.1  Grant to the Glaxo Wellcome Companies
+
+                 5.3.1.1 Maxygen hereby grants and agrees to grant the Glaxo
+Wellcome Companies a perpetual, worldwide, royalty-free, non-exclusive license,
+with the right to sublicense Affiliates only, under the Licensed Patents and
+Applications and Associated Technology to make, have made and use Licensed
+Technology for Internal Research Purposes only.
+
+                 5.3.1.2 Maxygen hereby grants and agrees to grant the Glaxo
+Wellcome Companies a perpetual, worldwide, royalty-free, non-exclusive license,
+with the right to sublicense Affiliates only, to make, have made, and use
+Licensed Improvements for Internal Research Purposes only.
+
+                 5.3.1.3 Notwithstanding the foregoing, if any Licensed
+Improvement is derived from a collaboration between Maxygen and an independent
+third party, whereby Maxygen does not have the right to license such Licensed
+Improvement outside
+<PAGE>
+
+of the collaboration, then Maxygen shall have no obligation to license or
+otherwise make available such Improvement to the Glaxo Wellcome Companies.
+
+                 5.3.1.4 Maxygen hereby grants and agrees to grant the Glaxo
+Wellcome Companies a perpetual, worldwide, royalty-free, non-exclusive license,
+with the right to sublicense Affiliates only, under the Licensed Patents and
+Applications, to make, have made, and use the [*******] for Internal Research
+Purposes only.
+
+                 5.3.1.5 Upon the request of the Glaxo Wellcome Companies,
+Maxygen shall grant a license to an Affiliate of the Glaxo Wellcome Companies
+upon the terms set forth herein provided that the Glaxo Wellcome Companies shall
+guarantee the performance of such licensee.
+
+
+          5.4.1  Grant to Maxygen
+
+                 5.4.1.1 The Glaxo Wellcome Companies hereby grant and agree to
+grant the Maxygen a perpetual, worldwide, royalty-free, non-exclusive license,
+without the right to sublicense, to make, have made and use Licensed
+Improvements for Internal Research Purposes only.
+
+                 5.4.1.2 Notwithstanding the foregoing, if any Licensed
+Improvement is derived from a collaboration between any of the Glaxo Wellcome
+Companies and an independent third party, whereby such Glaxo Wellcome Company
+does not have the right to license such Licensed Improvement outside of the
+collaboration, then the Glaxo Wellcome Companies shall have no obligation to
+license or otherwise make available such Improvement to Maxygen.
+
+     5.5  RIGHT OF FIRST NEGOTIATION FOR LICENSED TECHNOLOGY AND LICENSED
+IMPROVEMENTS
+
+          5.5.1 Maxygen grants and agrees to grant the Glaxo Wellcome Companies
+a right of first negotiation for any collaborative project to develop Licensed
+Technology and Licensed Improvements in the field of human pharmaceuticals.
+Notwithstanding the foregoing, this right of first negotiation shall not extend
+to collaborative projects proposed by third parties in confidence to Maxygen.
+This right will terminate upon the earlier of five years from the closing of the
+transaction or upon an underwritten public offering of shares of Maxygen under
+which not less than $10 million in gross proceeds is provided to the Company.
+This proposal for a collaborative research project shall include, at a minimum,
+a description of the scope of the research, the financial parameters of the
+project, and the required nonfinancial contributions of the collaborator.
+<PAGE>
+
+
+          5.5.2  If the Glaxo Wellcome Companies wish to pursue such a
+collaborative project with Maxygen, then the Glaxo Wellcome Companies and
+Maxygen agree that the parties will diligently and in good faith, negotiate the
+terms and conditions of a collaborative research agreement and shall make a good
+faith effort to conclude such license agreement within five months of
+receipt of the Maxygen proposal by the Glaxo Wellcome Companies. If the Glaxo
+Wellcome Companies decide not to pursue such a collaborative project, then they
+shall promptly inform Maxygen of such a decision.
+
+          5.5.3  In the event that the Glaxo, Wellcome Companies decide not to
+pursue a proposal of Maxygen as contemplated above or that the parties are
+unable to negotiate a mutually satisfactory agreement within five months of
+receipt of the Maxygen proposal by the Glaxo Wellcome Companies, Maxygen shall
+be free to seek a third party sponsor of the project. If Maxygen enters into a
+research collaboration with a third party on terms involving, comparable scope
+and financial parameters as those proposed to the Glaxo Wellcome Companies
+within twelve months of the Glaxo Wellcome Companies declining to participate
+in the project or the failure of the parties to negotiate a mutually
+satisfactory agreement within the stipulated time period, then the Glaxo
+Wellcome Companies right to first negotiation for a collaborative project to
+develop the Licensed Technology and Licensed Improvements specifically
+encompassed within such proposal shall terminate.
+
+          5.5.4 If, however, Maxygen has not entered into a third party
+collaboration on such project within twelve months of the Glaxo Wellcome
+Companies declining to participate in the project or the failure of the parties
+to negotiate a mutually satisfactory agreement within the stipulated time
+period, then the Glaxo Wellcome Companies shall again have a right of first
+negotiation for any collaborative project to develop the Licensed Technology and
+Licensed Improvements encompassed within such proposal and Maxygen shall be
+obligated to present any collaborative project to develop such Licensed
+Technology and Licensed Improvements in the field of human pharmaceuticals to
+the Glaxo Wellcome Companies prior to seeking a third party partner.
+
+          5.5.5 Notwithstanding the foregoing, in the event that Maxygen enters
+into a research collaboration with a third party to Licensed Technology and
+Licensed Improvements in the field of human pharmaceuticals, wherein the third
+party initially proposed, in confidence, the collaboration to Maxygen, then the
+Glaxo Wellcome Companies agree that the Glaxo Wellcome Companies right to first
+negotiation for a collaborative project to develop the Licensed Technology and
+Licensed Improvements specifically encompassed within such collaboration shall
+terminate.
+
+     5.6  RIGHT OF FIRST NEGOTIATION FOR DESIGNATED TECHNOLOGY
+
+          5.6.1 Maxygen will grant the Glaxo Wellcome Companies a right of first
+negotiation for any collaborative project to develop Designated Technology in
+the field of human pharmaceuticals. Notwithstanding the foregoing, this right of
+first negotiation
+<PAGE>
+
+shall not extend to collaborative projects proposed by third parties in
+confidence to Maxygen. This right will terminate upon the earlier of five years
+from the closing of the transaction or upon an underwritten public offering of
+shares of Maxygen under which not less than $10 million in gross proceeds is
+provided to the Company. This proposal for a collaborative research project
+shall include, at a minimum, a description of the scope of the research, the
+financial parameters of the project, and the required non-financial
+contributions of the collaborator.
+
+          5.6.2  If the Glaxo Wellcome Companies wish to pursue such a
+collaborative project with Maxygen, then the Glaxo Wellcome Companies and
+Maxygen agree that the parties will diligently and in good faith, negotiate the
+terms and conditions of a collaborative research agreement and shall make a good
+faith effort to conclude such license agreement within five months of
+receipt of the Maxygen proposal by the Glaxo Wellcome Companies. If the Glaxo
+Wellcome Companies decide not to pursue such a collaborative project, then they
+shall promptly inform Maxygen of such a decision.
+
+          5.6.3  In the event that the Glaxo Wellcome Companies decide not to
+pursue a proposal of Maxygen as contemplated above or that the parties are
+unable to negotiate a mutually satisfactory agreement within five months of
+receipt of the Maxygen proposal by the Glaxo Wellcome Companies, Maxygen shall
+be free to seek a third party sponsor of the project. If Maxygen enters into a
+research collaboration with a third party on terms involving comparable scope
+and financial parameters as those proposed to the Glaxo Wellcome Companies
+within twelve months of the Glaxo Wellcome Companies declining to participate in
+the project or the failure of the parties to negotiate a mutually satisfactory
+agreement within the stipulated time period, then the Glaxo Wellcome Companies
+right to first negotiation for a collaborative project to develop the Designated
+Technology specifically encompassed within such proposal shall terminate.
+
+          5.6.4 If, however, Maxygen has not entered into a third party
+collaboration on such project within twelve months of the Glaxo Wellcome
+Companies declining to participate in the project or the failure of the parties
+to negotiate a mutually satisfactory agreement within the stipulated time
+period, then the Glaxo Wellcome Companies shall again have a right of first
+negotiation for any collaborative project to develop the Designated Technology
+encompassed within such proposal and Maxygen shall be obligated to present any
+collaborative project to develop such Designated Technology in the field of
+human pharmaceuticals to the Glaxo Wellcome Companies prior to seeking a third
+party partner.
+
+          5.6.5 Notwithstanding the foregoing, in the event that Maxygen enters
+into a research collaboration with a third party to Designated Technology in the
+field of human pharmaceuticals wherein the third party initially proposed, in
+confidence, the collaboration to Maxygen, then the Glaxo Wellcome Companies
+agree that the Glaxo Wellcome Companies right to first negotiation for a
+collaborative project to develop the
+<PAGE>
+
+Designated Technology specifically encompassed within such collaboration shall
+terminate.
+
+     5.7  RIGHT OF FIRST NEGOTIATION FOR DEROGATABLE TECHNOLOGY AND DEROGATABLE
+          IMPROVEMENTS
+
+          5.7.1 Maxygen will grant the Glaxo Wellcome Companies a right of first
+negotiation for any collaborative project to develop Derogatable Technology or
+Derogatable Improvements in the field of human pharmaceuticals. Notwithstanding
+the foregoing, this right of first negotiation shall not extend to collaborative
+projects proposed by third parties in confidence to Maxygen. This right will
+terminate upon the earlier of five years from the closing of the transaction or
+upon an underwritten public offering of shares of Maxygen under which not less
+than $10 million in gross proceeds is provided to the Company. This proposal for
+a collaborative research project shall include, at a minimum, a description of
+the scope of the research, the financial parameters of the project, and the
+required nonfinancial contributions of the collaborator.
+
+          5.7.2  If the Glaxo Wellcome Companies wish to pursue such a
+collaborative project with Maxygen, then the Glaxo Wellcome Companies and
+Maxygen agree that the parties will diligently and in good faith, negotiate the
+terms and conditions of a collaborative research agreement and shall make a good
+faith effort to conclude such license agreement within five months of receipt of
+the Maxygen proposal by the Glaxo Wellcome Companies. If the Glaxo Wellcome
+Companies decide not to pursue such a collaborative project, then they shall
+promptly inform Maxygen of such a decision.
+
+          5.7.3  In the event that the Glaxo Wellcome Companies decide not to
+pursue a proposal of Maxygen as contemplated above or that the parties are
+unable to negotiate a mutually satisfactory agreement within five months of
+receipt of the Maxygen proposal by the Glaxo Wellcome Companies, then Maxygen
+shall be free to seek a third party sponsor of the project. If Maxygen enters
+into a research collaboration with a third party on terms involving comparable
+scope and financial parameters as those proposed to the Glaxo Wellcome Companies
+within twelve months of the Glaxo Wellcome Companies declining to participate in
+the project or the failure of the parties to negotiate a mutually satisfactory
+agreement within the stipulated time period, then the Glaxo Wellcome Companies
+right to first negotiation for a collaborative project to develop the
+Derogatable Technology or Derogatable Improvements specifically encompassed
+within such proposal shall terminate and the Derogatable Technology and
+Derogatable Improvements specifically encompassed within such proposal shall be
+deemed Derogated Technology and Derogated Improvements, respectively.
+
+          5.7.4  If, however, Maxygen has not entered into a third party
+collaboration on such project within twelve months of the Glaxo Wellcome
+Companies declining to participate in the project or the failure of the parties
+to negotiate a mutually satisfactory agreement within the stipulated time
+period, then such Derogated Technology or
+<PAGE>
+
+
+Derogated Improvements shall again be deemed Derogatable Technology or
+Derogatable Improvements, respectively, and the Glaxo Wellcome Companies shall
+again have a right of first negotiation as set forth above to such Derogatable
+Technology and to such Derogatable Improvements and Maxygen shall be obligated
+to present any collaborative project to develop such Derogatable Technology and
+Derogatable Improvements in the field of human pharmaceuticals to the Glaxo
+Wellcome Companies prior to seeking a third party for a collaborative partner
+based on such Derogatable Technology and Derogatable Improvements in the field
+of human pharmaceuticals.
+
+          5.7.5 Notwithstanding the foregoing, in the event that Maxygen enters
+into a research collaboration with a third party to develop Derogatable
+Technology or Derogatable Improvements in the field of human pharmaceuticals,
+wherein the third party initially proposed, in confidence, the collaboration to
+Maxygen, then the Glaxo Wellcome Companies agree that the Glaxo Wellcome
+Companies right to first negotiation for a collaborative project to develop the
+Derogatable Technology or Derogatable Improvements specifically encompassed
+within such collaboration shall terminate and the Derogatable Technology and
+Derogatable Improvements specifically encompassed within such collaboration
+shall be deemed Derogated Technology and Derogated Improvements,
+respectively.
+
+          5.7.6  The Glaxo Wellcome Companies shall have no rights to the
+Derogatable Technology and Derogatable Improvements except as otherwise provided
+in this section.
+
+     5.8  ASSOCIATED TECHNOLOGY
+
+     Each party agrees that the other party shall not be prevented from using
+any Associated Technology of one party which Associated Technology was
+rightfully acquired by the other party under this Technology Transfer Agreement,
+provided that such use does not (1) result in improper disclosure or misuse of
+Confidential Information or (2) make use of rights to Patents and Applications
+which rights are not expressly provided by this Agreement. Each party further
+agrees to maintain such Associated Technology as Confidential Information with
+the same degree of care that it exercises with respect to its own information of
+like import, but in no event less than reasonable care.
+
+
+     5.9  TRADEMARKS
+
+          5.9.1  For good and valuable consideration, receipt of which is hereby
+acknowledged by the Glaxo Wellcome Companies, the Glaxo Wellcome Companies
+hereby assigns to Maxygen all right, title, and interest to the marks MAXYGEN,
+SHUFFLING, MOLECULAR BREEDING, and SEXUAL PCR, including all goodwill associated
+therewith. Maxygen shall be responsible for any and all future expenses
+associated with registration and/or prosecution of these marks. The rights of
+<PAGE>
+
+Maxygen at common law and/or to the end of the term or terms of which
+registration of the mark may be granted or renewed are to be enjoyed by Maxygen
+for Maxygen's own use and enjoyment, and for the use and enjoyment of its
+successors, assigns and other legal representatives, as fully and entirely as
+the same would have been held and enjoyed by the Glaxo Wellcome Companies if
+this assignment and sale had not been made; including all claims for royalties
+for licensing of the marks provided in this section and damages by reason of
+past infringement(s) of these marks, with the right to sue for and collect the
+same for its own use and benefit, for the use, benefit and on behalf of its
+successors, assigns and other legal representatives.
+
+     5.10 Except as expressly provided herein, the licensing, assignment or
+other conveyance of rights under this Agreement shall not be construed as
+conferring any rights, license or title, express or implied, in or to any
+Patents and Applications or Associated Technology.
+
+6.0  TERM AND TERMINATION
+
+     6.1  Term. The term of this Agreement shall commence on the Effective Date
+and shall continue in force until terminated upon the expiration of the
+last-to-expire of the Licensed Patents and Applications unless terminated
+earlier as set forth below.
+
+     6.2  Termination for Material Breach. If either party fails to comply with
+any of the material terms and conditions of this Agreement, the other party may
+terminate this Agreement upon sixty (60) days' written notice to the defaulting
+party specifying any such breach unless within the period of such notice, all
+breaches specified therein shall have been remedied, or unless the breach is one
+which, by its nature, cannot be fully remedied in sixty (60) days, but the
+breaching party has undertaken reasonable, good faith efforts toward remedying
+the breach within such sixty (60) days, and continues to use reasonable, good
+faith, and diligent efforts to promptly remedy the breach.
+
+          A material breach includes but is not limited to either party's
+failure to comply with the provisions prohibiting disclosure or unauthorized use
+of Confidential Information.
+
+     6.3  Effect of Termination. Upon termination of the Agreement, as provided
+in Section 6.2, all licenses granted by the nonbreaching party to the other
+party under this Agreement shall terminate and all other rights granted by the
+nonbreaching party to the other party shall revest in the nonbreaching party.
+
+     6.4  Survival. The provisions of the following sections and paragraphs
+shall survive expiration or termination of this Agreement: Section 4.0
+("Definitions"); Paragraph 10.8 ("Notices"); Paragraph 6.3 ("Effect of
+Termination"); Section 7.0 ("Confidential Information"); Section 8.0
+("Warranties and Disclaimer of Warranties"); and Section 9.0 ("Limitations of
+Liability").
+<PAGE>
+
+7.0  CONFIDENTIAL INFORMATION
+
+     7.1  Restrictions. Each party will hold in confidence any Confidential
+Information received by it from the other and will protect the confidentiality
+of such with the same degree of care that it exercises with respect to its own
+information of like import, but in no event less than reasonable care.
+
+     7.2  Exceptions. Notwithstanding any provisions herein concerning
+non-disclosure and non-use of the Confidential Information, the obligations of
+the above Paragraph will not apply to any portion of the Confidential
+Information which:
+
+            (a) is now or which hereafter through no act or failure to act on
+the part of the receiving party becomes generally known without restriction on
+disclosure;
+
+            (b) is hereafter furnished to the receiving party by a third party
+as matter of right without restriction on disclosure;
+
+            (c) is independently developed by the receiving party without the
+use of the Confidential Information;
+
+            (d) is disclosed to others by the party owning the Confidential
+Information without restriction.
+
+            (e) is required to be disclosed by the receiving party pursuant to a
+legal, judicial, or administrative procedure, or is otherwise required by law;
+providing the party required to disclose the Confidential Information gives the
+party owning the Confidential Information notice of the proposed disclosure with
+sufficient time to seek relief and that such disclosure, if made, is made in a
+fashion as to maximize the protection of the information from further
+disclosure;
+
+            (f) is already known to the receiving party without restriction on
+disclosure; or
+
+            (g) is approved for release or use without restriction by written
+authorization of an officer of the party owning the Confidential Information.
+
+     7.3  Advising Employees and Suspected Violations. Each party will inform
+its employees having access to the Confidential Information of such party's
+limitations, duties, and obligations regarding non-disclosure and copying of the
+Confidential Information and will obtain their agreement, whether by means of
+existing or new agreements, to comply with those limitations, duties, and
+obligations. Each party will provide notice to the other party immediately after
+learning of, or having reason to suspect, a breach of any of the confidential
+restrictions set forth in this section.
+<PAGE>
+
+     7.4  Independent Development. Each party understands that the other party
+may develop information internally, or receive information from third parties,
+that may be similar to Confidential Information. Accordingly, nothing in this
+Agreement will be construed as a representation or inference that each party
+will not develop or acquire products, for itself or others, that compete with
+the products, systems, or methods contemplated by the other party's Confidential
+Information, provided that the party has not done so in breach of this
+Agreement.
+
+8.0  WARRANTIES AND DISCLAIMER OF WARRANTY
+
+     8.1  Right to Enter into Agreement. The parties warrant that they have the
+right and power to enter into this Agreement and to convey the rights granted
+herein.
+
+     8.2  DISCLAIMER OF WARRANTY. EXCEPT AS PROVIDED IN THIS SECTION, NEITHER
+PARTY MAKES ANY EXPRESS OR IMPLIED WARRANTIES. WARRANTIES DISCLAIMED INCLUDE,
+BUT ARE NOT LIMITED TO, THE WARRANTIES OF DESIGN, MERCHANTABILITY, OR FITNESS
+FOR A PARTICULAR PURPOSE, OR ARISING FROM A COURSE OF DEALING, USAGE, OR TRADE
+PRACTICE. NO REPRESENTATION OR STATEMENT NOT EXPRESSLY CONTAINED IN THIS
+AGREEMENT WILL BE BINDING UPON EITHER PARTY AS A WARRANTY OR OTHERWISE.
+
+     8.3  Nothing in this Agreement shall be construed as:
+
+           (i)   a warranty or representation by either Party as to the
+validity or scope of any Licensed Patent; or
+
+           (ii)  a warranty or representation that anything made, use, sold or
+otherwise disposed of under any license granted in this Agreement is or will be
+free from infringement of patents of third parties; or
+
+           (iii) a requirement that either Party shall file any patent
+application, secure any patent, or maintain any patent in force; or
+
+           (iv)  an obligation to bring or prosecute actions or suits against
+third parties for infringement; or
+
+           (v)   an obligation to furnish any manufacturing or technical
+information or training; or
+
+           (vi)  conferring a right to use in advertising, publicity, or
+otherwise any trademark or tradename of either Party
+<PAGE>
+
+9.0  LIMITATIONS OF LIABILITY
+
+     9.1  IN NO EVENT WILL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY LOST
+REVENUES OR PROFITS OR OTHER INCIDENTAL, SPECIAL, INDIRECT, OR CONSEQUENTIAL
+DAMAGES ARISING OUT OF THIS AGREEMENT, EVEN IF THAT PARTY HAS BEEN ADVISED OF
+THE POSSIBILITY OF SUCH DAMAGES.
+
+10.0 MISCELLANEOUS
+
+     10.1 Force Majeure. Neither party will be deemed in default of this
+Agreement to the extent that performance of its obligations or attempts to cure
+any breach are delayed or prevented by reason of any act of god, fire, natural
+disaster, accident, act of government, or any other cause beyond the control of
+such party ("Force Majeure"), provided that such party gives the other party
+written notice thereof, and uses good faith efforts to so perform or cure. In
+the event of such a Force Majeure, the time for performance or cure will be
+extended for a period equal to the Force Majeure, but in no event more than six
+(6) months.
+
+     10.2 Governing Law. This Agreement is deemed entered into in the state of
+California and will be governed and construed in all respects according to the
+laws of California as such laws are applied to agreements between California
+residents entered into and entirely performed within California (except that
+body of law controlling conflict of laws). Any litigation or other dispute
+resolution between the parties, relating to this Agreement will take place in
+Santa Clara County, California. By executing this Agreement, the parties consent
+to personal jurisdiction of, and venue within the state and federal courts
+within that country.
+
+     10.3 Arbitration of Disputes. Any controversy or claim arising out of or
+relating to this Agreement, or the breach thereof, will be settled by
+arbitration before a single arbitrator, and judgment upon the award rendered by
+the arbitrator may be entered in any court having jurisdiction thereof. The
+arbitration will take place in Palo Alto, California. The arbitration will be
+conducted in the English language, and each party will bear its own expenses and
+attorneys fees connected with the arbitration regardless of the outcome.
+
+          If the parties cannot agree on a single arbitrator, each party will
+appoint an arbitrator, and the two appointed arbitrators will appoint a third
+neutral arbitrator, whereupon the arbitration will take place before the three
+arbitrators, so appointed.
+
+     10.4 Severability. If any provision of this Agreement, or the application
+thereof, will for any reason and to any extent be determined by a court of
+competent jurisdiction to be invalid or unenforceable under applicable law, the
+remaining provisions of this Agreement will be interpreted so as best to
+reasonably effect the intent of the parties. The
+<PAGE>
+
+parties further agree to replace any such invalid or unenforceable provisions
+with valid and enforceable provisions designed to achieve, to the extent
+possible. The business purposes and intent of such invalid and unenforceable
+provisions.
+
+     10.5 Relationship to the Parties. No employees, consultants, contractors,
+or agents of one party are agents, employees, franchisees, or joint ventures of
+the other party, nor do they have any authority to bind the other party by
+contract or otherwise to any obligation. They will not represent to the
+contrary, either expressly, implicitly, or otherwise.
+
+     10.6 Assignment. Neither party will assign this Agreement to a third party
+without the other party's prior written approval, except to a third party
+pursuant to a merger, sale of all or substantially all of the business of which
+this Agreement is a part, or other corporate reorganization.
+
+     10.7 Successors and Assigns. This Agreement will be binding upon and inure
+to the benefit of the parties hereto and to their respective successors and
+assigns, subject to the provisions of Paragraph 10.6.
+
+     10.8 Notices. All notices required hereunder must be in writing and
+delivered either in person or by a means evidenced by a delivery receipt, to the
+address specified in this Agreement or as otherwise notified in writing. Such
+notice will be effective upon receipt.
+
+          Notices to the Glaxo Wellcome Companies will be to the attention of:
+
+
+Affymax N.V. and Affymax Technologies N.V.   Via Facsimile 011-44-181-966-8838
+c/o Dr. Alan Hesketh                            Confirmation by DHL Courier
+Manager, Intellectual Property Department
+Glaxo Wellcome plc
+Glaxo House, Berkeley Avenue
+Greenford, Middlesex, United Kingdom UB6 ONN
+
+Dr. Gordon Ringold                              Via Facsimile (415) 424-0832
+Chief Executive Officer                      Confirmation by Registered Mail
+Affymax Research Institute
+4001 Miranda Avenue
+Palo Alto, CA 94304
+
+          Notices to Maxygen will be to the attention of:
+
+Dr. Alejandro Zaffaroni                      Via Facsimile (415) 424-0832
+Chief Executive Officer                      Confirmation by Registered Mail
+Maxygen, Inc.
+<PAGE>
+
+4001 Miranda Avenue
+Palo Alto, CA 94304
+
+     10.9  No Waiver. Failure by either party to enforce any provision of this
+Agreement will not be deemed a waiver of future enforcement of that or any other
+provision.
+
+     10.10 No Rights in Third Parties. This Agreement is made for the benefit of
+the parties, and not for the benefit of any third parties unless otherwise
+agreed to by the parties.
+
+     10.11 Headings. The headings and captions used in this Agreement are used
+for convenience only and are not to be considered in construing or interpreting
+this Agreement.
+
+     10.12 Construction. This Agreement has been negotiated by the parties and
+by their respective counsel. This Agreement will be fairly interpreted in
+accordance with its terms and without any strict construction in favor of or
+against either party.
+
+     10.13 Entire Agreement. This Agreement, including all Attachments hereto,
+represents the entire understanding and agreement of the parties with respect to
+the subject matter of the Agreement, and supersedes all prior or contemporaneous
+understandings and agreements, whether written or oral, except as specifically
+provided in this Agreement. Unless otherwise provided herein, this Agreement may
+not be modified, amended, rescinded, or waived, in whole or part except by a
+written instrument signed by the duly authorized representatives of both
+parties.
+<PAGE>
+
+11.0 EXECUTION BY THE PARTIES
+
+          IN WITNESS WHEREOF, the parties have caused this Agreement to be
+executed by their duly authorized representatives. This Agreement may be
+executed in one or more counterparts, each of which will be deemed an original,
+but all of which will constitute but one and the same instrument.
+
+
+Affymax Technologies N.V.
+
+By: /s/ Adrian Hennah
+Name:   Adrian Hennah
+Title:  Director
+Date:   March 12, 1997
+
+
+Glaxo Group Limited
+
+By: /s/ Stephen J. Cowden
+Name:   Stephen J. Cowden
+Title:  Company Secretary
+Date:   March 12, 1997
+
+Maxygen, Inc.
+
+By: /s/ Alejandro Zaffaroni
+Name:   Alejandro Zaffaroni
+Title:  President
+Date:
+<PAGE>
+
+                                  SCHEDULE A
+
+For the purposes of this term sheet, "Licensed Patents and Applications" shall
+be defined as the following patents and applications:
+
+
+1.    U.S. Serial No. 08/198,431        filed February 17, 1994
+2.    U.S. Serial No. 08/537,874        filed October 30, 1995
+3.    U.S. Serial No. 08/564,955        filed November 30, 1995
+4.    U.S. Serial No. 08/621,859        filed March 25, 1996
+5.    U.S. Serial No. 08/621,430        filed March 25, 1996
+6.    U.S. Serial No. 08/650,400        filed May 20, 1996
+7.    PCT/US95/02126                    filed February 17, 1995 and
+
+      National Phase counterparts:
+
+      a)    Australia Appln. No. 29714/95;
+      b)    Canada Appln. No. 2,182,393;
+      c)    China Appln. No. 95191679.3;
+      d)    Europe Appln. No. 95911826.6;
+      e)    Japan Appln. No. 7-521977;
+      f)    Korea Appln. No. 96-704465;
+      g)    Russia Appln. No. 96118426
+
+8.    U.S. Serial No. 08/721,824        filed September 27, 1996
+9.    U.S. Serial No. 08/722,660        filed September 27, 1996
+10.   Townsend & Townsend file          filed December 2, 1996
+      No. 16528J-014613PCT, entitled "Methods for generating
+      polynucleotides having desired characteristics by iterative selection and
+      recombination"
+
+11.   Townsend & Townsend file filed December 18, 1996
+      No. 16528J-0202500, entitled "Methods and compositions for polypeptide
+      engineering"
+
+12.   U.S. Serial No. 08/425,684        filed April 18, 1995
+13.   U.S. Serial No. 08/675,502        filed July 3, 1996
+14.   PCT/US96/05480                    filed April 18, 1996
+
+15.   Provisional Application           filed January    , 1997
+      Townsend & Townsend file No. 018907-0207-OOUS, entitled "Recursive
+      sequence recombination between libraries of fragments and cellular genomes
+      of evolving whole cells and organisms"
+
+16.   All rights of Glaxo Wellcome Companies relating to Shuffling Patents and
+      Applications under the Affymax/Affymetrix Technology Transfer
+      Agreement; effective date, March 2, 1995.
+<PAGE>
+
+                                  SCHEDULE B
+
+For the purposes of this term sheet, the patents and patent applications related
+to various peptide display technologies shall be defined as the following
+patents and applications:
+
+
+Peptides-on-Plasmids Display-Patents and Applications
+----------------------------------------------------
+
+1.  U.S. Patent No. 5,270,170
+2.  U.S. Patent No. 5,338,665
+3.  European Patent Application No. 93908777.1
+4.  U.S. Patent No. 5,498,530
+5.  U.S. Serial No. 08/548,540     filed October 26, 1995
+6.  PCT Patent Application No. US96/09809
+
+Polysome Display Patents and Applications
+-----------------------------------------
+
+1.  U.S. Serial No. 08/300,262     filed September 2, 1994
+
+2.  U.S. Serial No. 08/586,176     filed January 17, 1996
+
+Phage Display Patents and Applications
+--------------------------------------
+
+1.  U.S. Patent No. 5,427,908
+2.  European Patent Application No. 91908963.1
+3.  Japan Patent Application No. 3-508896
+4.  U.S. Serial No. 08/376,326     filed January 20, 1995
+5.  U.S. Serial No. 08/450,754     filed May 25, 1995
+6.  U.S. Serial No. 07/541,108     filed June 20, 1990
+7.  U.S. Patent No. 5,432,018
+8.  European Patent Application No. 91913221.7
+9.  Japan Patent Application No. 3-512623
+10. Australian Patent No. 663,055
+11. Canada Patent No. 2,084,411
+12. U.S. Serial No. 08/465,295    filed June 5, 1995
+13. U.S. Serial No. 08/463,390    filed June 5, 1995
+14. U.S. Serial No. 08/465,484    filed June 5, 1995
+15. U.S. Serial No. 08/466,653    filed June 6, 1995
+
+Dulbecco Patent
+---------------
+
+1.  U.S. Patent No. 4,593,002
+
+Receptor Immobilization Patent Application
+-----------------------------------------
+
+1.  U.S. Serial No. 08/309,345    filed September 19, 1994 as a file wrapper
+    continuation of U.S. Serial No. 07/947,339, filed September 18,
+    1992
+<PAGE>
+
+                                MODIFICATION TO
+                          AFFYMAX/MAXYGEN TECHNOLOGY
+                              TRANSFER AGREEMENT
+
+     This modification to the Affymax/Maxygen Technology Transfer Agreement (the
+Agreement), is made by and between Affymax Technologies N.V. and Glaxo Group
+Limited, each of which is a corporation having a registered address at Glaxo
+Wellcome House, Berkeley Avenue, Greenford, Middlesex, United Kingdom
+(collectively referred to as "the Glaxo Wellcome Companies") and Maxygen, Inc.,
+a Delaware corporation having an address at 3410 Central Expressway, Santa
+Clara, CA 95051 (referred to as "Maxygen") and shall have an effective date of
+March 1, 1998.
+
+1.0      Definitions
+         -----------
+
+     "Antibodies on Phage Patents and Applications"' refer to the following
+     Patents and Applications: US Patent No. 5,427,908; European Patent
+     Application No. 91908963.1; and Japan Patent Application No. 3-508896
+
+     "Modification Agreement" shall refer to this agreement.
+
+2.0      Modification of Article 5.2
+         ---------------------------
+
+     Article 5.2 of the Agreement is hereby modified in its entirety to read as
+     follows:
+
+     5.2.1   The Glaxo Wellcome Companies hereby grant Maxygen a perpetual,
+             worldwide, royalty-free, non-exclusive license, without the right
+             to sublicense, to Peptides-on-Plasmids Display Patents and
+             Applications, Polysome Display Patents and Applications, Phage
+             Display Patents and Applications, the Dulbecco Patent, and Receptor
+             Immobilization Patent Application. Maxygen agrees that use of these
+             patents and applications shall be [*******]. Maxygen further agrees
+             that Maxygen shall not enter into a research collaboration with a
+             third party, or conduct research on behalf of a third party, for
+             the purpose of developing reagents for commercial use in the
+             Diagnostic Field and using antibodies on phage technology as
+             claimed in the Antibody on Phage Patents and Applications.
+             Notwithstanding the foregoing, such restriction shall apply only in
+             those countries in which the Antibody on Phage Patents have
+             issued.
+
+     5.2.2   For purposes of this Modification Agreement, "Diagnostic Field"
+             shall mean the [*******].
+
+3.0  Miscellaneous
+     -------------
+
+     The terms of the Agreement not specifically modified by this Modification
+Agreement shall continue in effect.
+
+<PAGE>
+
+4.0    Execution by the Parties
+       ------------------------
+
+     IN WITNESS WHEREOF, the parties have caused this Modification Agreement to
+be executed by their duly authorized representatives. This Modification
+Agreement may be executed in one or more counterparts, each of which will be
+deemed an original, but all of which will constitute but one and the same
+instrument.
+
+Affymax Technologies N.V.
+
+By: /s/ Alan Baxter
+Name:   Alan Baxter
+Title:  Managing Director
+Date:   November 13, 1998
+
+
+Glaxo Group Limited
+
+By: /s/ S M Bicknell
+Name:   S M Bicknell
+Title:  Assistant Secretary
+Date:   May 11, 1998
+
+Maxygen, Inc.
+
+By: /s/ Russell J. Howard
+Name:   Russell J. Howard
+Title:  President & CEO
+Date:   October 7, 1998
+

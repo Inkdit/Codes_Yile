@@ -1,0 +1,293 @@
+﻿TIER TECHNOLOGIES, INC.
+
+                              BUY-SELL AGREEMENT
+
+
+          THIS BUY-SELL AGREEMENT ("Agreement") is entered into as of
+______________________ ___, 1997 between James L. Bildner ("Bildner") and
+William G. Barton ("Barton").
+
+                                   RECITALS
+                                   --------
+
+          The holders of Class A Common Stock in Tier Technologies, Inc. (the
+"Company") have created a voting trust (the "Trust") pursuant to the Voting
+Trust Agreement of even date herewith (the "Voting Trust Agreement"). Bildner
+and Barton (individually, a "Shareholder" and collectively, the "Shareholders"),
+who are both trustees and beneficiaries of the Trust, seek to articulate, in the
+form of this Agreement, procedures for the transfer of their Certificates (as
+defined in the Voting Trust Agreement) in respect of shares of the Company
+should such transfer become necessary or desirable.
+
+          NOW, THEREFORE, incorporating the foregoing Recitals and in
+consideration of the mutual agreements and covenants contained herein, the
+parties hereby agree as follows:
+
+                                      1.
+
+                                 APPLICABILITY
+                                 -------------
+
+          1.1  Applicability. The terms and procedures set forth in this
+Agreement shall apply to the transfer of Certificates either during life
+("intervivos"), as set forth in Section 3, or at death, as set forth in Section
+4.
+
+                                      2.
+
+                                  ENFORCEMENT
+                                  -----------
+
+          2.1  Restriction on Transfer. To accomplish the purposes of this
+Agreement and the Voting Trust Agreement, any transfer, sale, assignment,
+hypothecation, encumbrance, or alienation, regardless of the manner,
+circumstances, timing, or nature or such transfer, whether intervivos or at
+death (collectively, "Transfer"), of any Certificate(s) is void and transfers no
+right, title, or interest in or to those shares to the purported transferee,
+buyer, assignee, pledgee, or encumbrance holder, except as specifically provided
+herein.
+
+          2.2  Legend on Certificates. Each Certificate shall have the following
+statement conspicuously printed on its face and each party shall cooperate in
+the process of printing such statements:
+
+                                       1
+<PAGE>
+ 
+               "The transfer, sale, assignment, hypothecation, encumbrance, or
+          alienation of this certificate is restricted by a Buy-Sell Agreement
+          dated ________, which may be inspected at the offices of the Company
+          during normal business hours. All of the terms and provisions of the
+          Buy-Sell Agreement are incorporated by this reference and made a part
+          of this certificate."
+
+                                      3.
+
+                              INTERVIVOS TRANSFER
+                              -------------------
+
+          3.1  Generally. The Articles of Incorporation of the Company provide
+that certain Transfers shall cause Class A Common Stock to be converted to Class
+B Common Stock (a "Conversion").
+
+               3.1.1  No Conversion. A Transfer of a Certificate that would not
+result in a Conversion shall be permitted, with the terms of the Transfer to be
+determined by the transferor and the transferee, in their sole discretion.
+
+               3.1.2  Conversion. An intervivos Transfer of a Certificate that
+would result in Conversion shall be prohibited for 5 years from the date hereof.
+After the expiration of 5 years from the date hereof, such a Transfer would be
+permitted, subject to the right of first refusal discussed in Section 3.2
+hereof.
+
+               3.1.3  Remain Subject. Any transferred Certificate shall remain
+subject to this Agreement.
+
+          3.2  Right of First Refusal. Before either Shareholder makes an
+intervivos Transfer of a Certificate which would result in Conversion, the other
+shall have the opportunity to purchase the Certificate under the terms of this
+Section 3.2. The party desiring to Transfer his Certificate (the "Transferring
+Party") shall inform the other party (the "Non-Transferring Party") of his
+intent to Transfer. The Non-Transferring Party shall have two (2) days to decide
+whether to purchase the Certificate. If the Non-Transferring Party decides not
+to purchase the Certificate, or fails to respond to the Transferring Party's
+notice, then the Transferring Party may make an intervivos Transfer of his
+Certificate subject to the terms of the Voting Trust Agreement. If the Non-
+Transferring Party decides to purchase the Certificate, the terms of the
+purchase shall be as provided in Sections 3.2.1 and 3.2.2.
+
+               3.2.1  Price. The purchase price for the Transfer described in
+Section 3.2, stated on a per share of Class A Common Stock basis, shall be equal
+to the market value of a share of Class B Common Stock of the Company on the
+date that the Transferring Party notifies the Non-Transferring Party of his
+intent to Transfer (pursuant to Section 3.2 hereof). The market value of the
+Class B share shall be equal to the average of opening and closing values on the
+day of the aforementioned notice. No premium or discount shall be taken for
+differences in voting power between the Class A and Class B shares.
+
+                                       2
+<PAGE>
+ 
+               3.2.2  Payment. Payment for the Transfer described in Section 3.2
+shall be made within thirty (30) days of such Transfer, either in cash or with a
+number of Class B Common Stock shares equal to the number of Class A Common
+Stock shares represented by the transferred Certificate.
+
+                                      4.
+
+                               TRANSFER AT DEATH
+                               -----------------
+
+          4.1  Obligation to Purchase. Upon the death of either Shareholder, the
+other (the "Survivor") shall have a fully recourse obligation to purchase the
+Certificate of the deceased (the "Deceased"), under the terms set forth in this
+Section 4.
+
+          4.2  Price. The purchase price for the Transfer described in Section
+4.1, stated on a per share of Class A Common Stock basis, shall be equal to the
+market value of a share of Class B Common Stock of the Company on the date of
+the Deceased's death. The market value of the Class B share shall be equal to
+the average of opening and closing values on the day of the aforementioned
+notice. No premium or discount shall be taken for differences in voting power
+between the Class A and Class B shares.
+
+          4.3  Payment. Payment for the Transfer described in Section 4.1 shall
+be made as follows: As much of the purchase price as possible shall be paid in
+cash, using solely the proceeds of the insurance policy described in Section 4.4
+below. The remainder shall be paid within one hundred twenty (120) days of
+death. The remainder may be paid (i) in cash; or (ii) with one share of Class B
+Common Stock for each Class A Common Stock share represented by the transferred
+Certificate, or any proportion of (i) and (ii).
+
+          4.4  Insurance. Each Shareholder shall obtain a 10-year level term
+life insurance policy on the life of the other, in the amount of $5 million, for
+the purpose of making the payment contemplated in Section 4.3 (individually, a
+"Policy" and collectively, the "Policies"). Each Shareholder hereby consents to
+the acquisition of such policies and agrees to cooperate in the acquisition and
+administration of the policies. The details of the policies are set forth in
+Exhibit A attached hereto.
+
+          4.5  Implementation. The following procedures shall apply to this
+Section 4.
+
+               4.5.1  Beneficiary and Payment. Each Shareholder shall be the
+named beneficiary and beneficial owner of the Policy on the life of the other
+Shareholder, and shall make premium payments on such Policy to the appropriate
+insurance company.
+
+
+               4.5.2  Transfers. The Shareholders agree that as long as this
+Agreement is in effect, they will maintain the Policies and will not exercise
+any of the rights, privileges, and benefits accruing under any policy they own
+subject to this Agreement, nor will they Transfer any such policy.
+
+                                       3
+<PAGE>
+ 
+               4.5.3  Delinquent Payment. The beneficial owner of each Policy
+shall file with each insurance company insuring the life of a Shareholder under
+this Agreement a request that copies of all delinquent payment notices be sent
+to the insured Shareholder. If any premium is not paid in full on or before 10
+days before it is due, the insured may pay the premium on behalf of the other
+Shareholder. Payment by the insured shall be considered a loan to the other
+Shareholder to be repaid on demand of the insured, with interest from the date
+of payment at an annual rate equal to the maximum rate established by applicable
+law as of such date.
+
+               4.5.4  Proceeds. On the death of either Shareholder, the Survivor
+shall collect the proceeds of the Policy on the life of the Deceased and pay
+those proceeds over to the authorized legal representative of the Deceased for
+the purpose of the payment contemplated in Section 4.3. Any proceeds in excess
+of the purchase price provided in Section 4.2 shall be paid to the estate of the
+Deceased.
+
+               4.5.5  Release of Certificate. Once the full payment contemplated
+by Section 4.3 has been made, the authorized legal representative of the
+Deceased shall transfer the Certificate of the Deceased to the Survivor.
+
+          4.6  Death of Both Parties. Upon the death of the second to die of
+Bildner and Barton, the Trust terminates and so shall any obligations under this
+Agreement terminate.
+
+                                      5.
+
+                               GENERAL PROVISIONS
+                               ------------------
+
+          5.1  Notice. Any notice required by this Agreement shall be faxed or
+mailed to the other party at the address shown, which notice shall, where the
+party required to provide notice is deceased, be faxed or mailed by the party's
+authorized legal representative.
+
+James L. Bildner                    William G. Barton
+Chairman                            President & COO
+TIER Technologies, Inc.             TIER Technologies, Inc.
+1350 Treat Blvd., Ste. 250          1350 Treat Blvd., Ste. 250
+Walnut Creek, CA  94596             Walnut Creek, CA  94596
+ 
+510-937-3902 (Fax)                  510-937-3752 (Fax)
+
+
+     5.2  Assurances. Each party will execute all certificates and other
+documents and will do all such filing, recording, publishing and other acts as
+the parties deem appropriate to comply with the requirements of law for the
+execution and application of this Agreement.
+
+     5.3  Specific Performance. The parties recognize that irreparable injury
+will result from a breach of any provision of this Agreement and that money
+damages will be inadequate
+
+                                       4
+<PAGE>
+ 
+to fully remedy the injury. Accordingly, in the event of a breach or threatened
+breach of one or more of the provisions of this Agreement, any party who may be
+injured (in addition to any other remedies which may be available to that party)
+will be entitled to one or more preliminary or permanent orders (i) restraining
+and enjoining any act which would constitute a breach or (ii) compelling the
+performance of any obligation which, if not performed, would constitute a
+breach.
+
+     5.4  Complete Agreement. This Agreement supersedes all prior written and
+oral statements by the parties with respect to the subject matter hereof,
+including any prior representation, statement, condition or warranty. Any
+modification of this Agreement must be in writing and be signed by all of the
+parties.
+
+     5.5  Applicable Law. All questions concerning the construction, validity
+and interpretation of this Agreement and the performance of the obligations
+imposed by this Agreement will be governed by the laws of the State of
+California.
+
+     5.6  Section Titles. The headings herein are inserted as a matter of
+convenience only and do not define, limit or describe the scope of this
+Agreement or the intent of the provisions hereof.
+
+     5.7  Binding Provisions. This Agreement is binding upon, and to the limited
+extent specifically provided herein, inures to the benefit of, the parties
+hereto and their respective heirs, executors, administrators, personal and legal
+representatives, successors and assigns.
+
+     5.8  Terms. Common nouns and pronouns will be deemed to refer to the
+masculine, feminine, neuter, singular and plural, as the identity of the person
+may in the context require.
+
+     5.9  Separability of Provisions. Each provision of this Agreement will be
+considered separable. If, for any reason, any provision or provisions herein are
+determined to be invalid and contrary to any existing or future law, such
+invalidity will not impair the operation of or affect those portions of this
+Agreement which are valid.
+
+     5.10 Counterparts. This Agreement may be executed in two or more
+counterparts, each of which will be deemed an original and all of which, when
+taken together, constitute one and the same document. The signature of any party
+to any counterpart will be deemed a signature to, and may be appended to, any
+other counterpart.
+
+     5.11 Termination. Any obligations under this Agreement shall terminate upon
+the termination of the Trust.
+
+                                       5
+<PAGE>
+ 
+          IN WITNESS WHEREOF, the parties have executed this Agreement as of the
+date first set forth above.
+
+
+SHAREHOLDERS:
+
+_________________________               ___________________________
+James L. Bildner                        William G. Barton
+ 
+ 
+
+                                       6
+<PAGE>
+ 
+                                   EXHIBIT A
+                                   ---------
+
+                              INSURANCE POLICIES
+
+                               Exhibit A, Page 1
+

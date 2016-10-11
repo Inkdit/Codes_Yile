@@ -1,0 +1,1103 @@
+﻿SERVICING AGREEMENT
+                               -------------------
+
+     SERVICING AGREEMENT (as amended, restated, supplemented or otherwise
+modified and in effect from time to time, the "Agreement"), dated as of February
+28, 2003, by and among TRW AUTOMOTIVE GLOBAL RECEIVABLES LLC, a Delaware limited
+liability company (the "Borrower"), TRW AUTOMOTIVE U.S. LLC, a Delaware limited
+liability company ("TRW U.S."), as the initial Collection Agent (as defined
+below) hereunder, the Persons identified on Schedule I (each a "Seller" and,
+collectively, the "Sellers"), as Sub-Collection Agents (as defined below) and
+JPMorgan Chase Bank, as administrative agent (together with any successor
+thereto in such capacity, the "Administrative Agent") under the Receivables Loan
+Agreement referred to below. TRW AUTOMOTIVE EUROPE RECEIVABLES LIMITED, a
+limited liability company incorporated under laws of Ireland (the "European
+Purchaser") may be added as a party hereto hereunder upon the agreement of the
+other parties hereto and in accordance with the terms of the Receivables Loan
+Agreement; until the European Purchaser becomes a party hereto in accordance
+with the foregoing, all references in the body of this Agreement to the
+"European Collateral Account", "European Loan Agreement" and "European
+Purchaser", shall have no force or effect.
+
+                             PRELIMINARY STATEMENTS
+
+     A. The Transferor may from time to time purchase Receivables from the North
+American Originators pursuant to the North American Originator Purchase
+Agreement. In addition, the Transferor may from time to time make loans to the
+European Purchaser under the European Loan Agreement, the proceeds of which will
+be used to purchase Receivables from the European Originators pursuant to the
+European Originator Purchase Agreements.
+
+     B. Pursuant to the Transfer Agreement, the Borrower shall purchase from the
+Transferor (i) all Receivables sold to the Transferor under the North American
+Purchase Agreement and (ii) all loans made by the Transferor under the European
+Loan Agreement.
+
+     C. Each of the Borrower, the European Purchaser (if a party hereto) and the
+Secured Parties desires that the Collection Agent shall conduct the servicing,
+administering and collection of the Pool Receivables on the terms and subject to
+the conditions set forth in this Agreement.
+
+     D. Each of the Sellers has agreed to act as a Sub-Collection Agent in
+accordance with the terms and subject to the conditions set forth in this
+Agreement.
+
+     E. The Collection Agent and the Sub-Collection Agents (each a "Collection
+Agent Party" and, collectively, the "Collection Agent Parties") intend to
+conduct the servicing, administration, collection and management of the Pool
+Receivables on the terms and subject to the conditions set forth in this
+Agreement.
+
+     NOW, THEREFORE, in consideration of the premises and of the mutual
+covenants and agreements contained herein, the parties hereto agree as follows:
+
+<PAGE>
+
+                                    ARTICLE I
+                                   DEFINITIONS
+
+     1.1 Definitions. Unless otherwise defined herein, capitalized terms which
+are used herein shall have the meanings assigned to such terms in the
+Receivables Loan Agreement dated as of February 27, 2003 among the Borrower, TRW
+U.S., as Collection Agent, the entities from time to time parties thereto as
+"Conduit Lenders," "Committed Lenders" and "Funding Agents" and the
+Administrative Agent (as amended, restated, supplemented or otherwise modified
+from time to time, the "Receivables Loan Agreement").
+
+     1.2 Other Terms. All accounting terms not specifically defined herein shall
+be construed in accordance with GAAP. All terms used in Article 9 of the UCC in
+the State of New York, as in effect on the date hereof and not specifically
+defined herein, are used herein as defined in such Article 9. Unless otherwise
+expressly indicated, all references herein to "Article," "Section," "Schedule"
+or "Exhibit" means articles and sections of, and schedules and exhibits to, this
+Agreement. Headings are for purposes of reference only and shall not otherwise
+affect the meaning or interpretation of any provision hereof. All terms defined
+directly or by incorporation herein shall have the defined meanings when used in
+any certificate or other document delivered pursuant hereto unless otherwise
+defined therein.
+
+                                   ARTICLE II
+                         ADMINISTRATION AND COLLECTIONS
+
+     2.1 Designation of Collection Agent. The servicing, administration,
+collection and management of the Pool Receivables shall be conducted by the
+Person so designated hereunder from time to time (such Person, the "Collection
+Agent"). Until the Administrative Agent (with the consent or at the direction of
+the Required Committed Lenders) gives notice to the Borrower and the European
+Purchaser of the designation of a new Collection Agent (which notice may be
+given at any time following the occurrence and during the continuation of a
+Collection Agent Default), TRW U.S. is hereby designated as, and hereby agrees
+to perform the duties and obligations of, the Collection Agent pursuant to the
+terms of this Agreement and the other Transaction Documents. TRW U.S. may not
+resign from the obligations and liabilities hereby imposed on it. The
+Administrative Agent may, and at the direction of the Required Committed Lenders
+shall, at any time after the occurrence and during the continuation of a
+Collection Agent Default, designate as Collection Agent any Person (including
+itself) to succeed TRW U.S. or any successor Collection Agent, on such terms and
+conditions as the Administrative Agent and such successor Collection Agent shall
+agree. The Collection Agent may, with the prior consent of the Required
+Committed Lenders, subcontract with any other Person for the servicing,
+administration, collection or management of the Receivables (each such Person a
+"Sub-Collection Agent"); provided that TRW U.S. may without such consent
+delegate its duties as Collection Agent hereunder to any Affiliate. Any such
+subcontract or delegation shall not affect the Collection Agent's liability for
+performance of its duties and obligations pursuant to the terms hereof. Without
+limiting the generality of the foregoing, any action taken or omitted to be
+taken by any Person that has entered into a subcontract with the Collection
+Agent or to whom the Collection Agent has delegated any of its duties
+(including, without limitation, any Seller) shall be deemed to be an action or
+omission by the Collection Agent (including, without limitation, for purposes of
+determining whether any Receivable is a Diluted
+
+                                       2
+<PAGE>
+
+Receivable and for purposes of Sections 2.6 of this Agreement and 10.01 of the
+Receivables Loan Agreement).
+
+     2.2 Duties of Collection Agent.
+
+         (a) The Collection Agent shall take or cause to be taken all such
+actions as may be necessary or advisable to collect and manage each Pool
+Receivable from time to time, all in accordance in all material respects with
+applicable Laws and in accordance with the Credit and Collection Policy. The
+Borrower, the European Purchaser and the Administrative Agent hereby appoint the
+Collection Agent, from time to time designated pursuant to Section 2.1, as their
+agent to enforce their respective rights and interests in the Pool Receivables,
+the Related Security and the related Contracts. In performing its duties as
+Collection Agent, the Collection Agent shall exercise reasonable care and
+diligence and shall use the same care and apply the same policies as it would
+exercise and apply if it owned such Pool Receivables and shall act in such
+manner as it reasonably deems to be in the best interests of the Lenders and the
+Administrative Agent. Following the occurrence and during the continuation of a
+Collection Agent Default, if the Termination Date has occurred, the
+Administrative Agent shall have the sole right to direct the Collection Agent to
+commence or settle any legal action to enforce collection of any Receivable or
+any Related Security with respect thereto.
+
+         (b) The Collection Agent shall perform and shall comply with, and
+agrees to be bound by, the terms of the Receivables Loan Agreement and the
+European Loan Agreement in the same manner as if it were a party thereto.
+Without limiting the generality of the foregoing, the Collection Agent shall (i)
+administer, manage and apply the Collections in accordance with Article II of
+each of the Receivables Loan Agreement and the European Loan Agreement and (ii)
+cause Accountants' Letters to be delivered, at its own expense, as and when
+required pursuant to Section 5.02(b) of the Receivables Loan Agreement.
+
+         (c) If no Termination Event shall have occurred and be continuing, the
+Collection Agent, may, in accordance with the Credit and Collection Policy,
+extend the maturity or adjust the Outstanding Balance of any Pool Receivable as
+the Collection Agent deems appropriate to maximize Collections thereof, provided
+that the classification of any such Pool Receivable as a Delinquent Receivable
+or Defaulted Receivable shall not be affected by any such extension, and
+provided further that if such Pool Receivable is an Eligible Receivable, the
+Collection Agent shall not amend or modify such Pool Receivable or any Contract
+related thereto in a manner that would cause such Receivable to cease to be an
+Eligible Receivable unless (i) following such amendment or modification the
+Percentage Factor would not exceed the Maximum Percentage Factor, as determined
+by the most recent Portfolio Report delivered hereunder, and (ii) the applicable
+Originator has granted or paid all Purchase Price Credits (as defined in the
+applicable Originator Purchase Agreement) required in connection therewith.
+Following the occurrence and during the continuation of a Termination Event, the
+Collection Agent may grant such extensions or adjustments only with the prior
+written consent of the Administrative Agent. In no event shall the Collection
+Agent be entitled to make any Lender, any Funding Agent or the Administrative
+Agent a party to any litigation involving the Transaction Documents or the
+Receivables without such Lender's, such Funding Agent's or the Administrative
+Agent's prior written consent.
+
+                                       3
+<PAGE>
+
+         (d) The Collection Agent shall hold in trust for the Borrower, the
+European Purchaser, the Administrative Agent, the Funding Agents and each
+Lender, in accordance with their respective interests, all documents,
+instruments and records (including, without limitation, computer tapes or disks)
+which evidence or relate to Pool Receivables or Related Security. The Collection
+Agent shall mark or cause to be marked the Borrower's, the European Purchaser's,
+the Transferor's and each Originator's master data processing records evidencing
+the Pool Receivables with a legend, reasonably acceptable to the Administrative
+Agent, evidencing that the Pool Receivables have been sold to the Borrower or
+the European Purchaser (as applicable) and a security interest has been granted
+in favor of the Administrative Agent.
+
+         (e) The Collection Agent shall, as soon as practicable following
+receipt and identification thereof, and in any event within one Business Day,
+turn over to the Borrower (in the case of any North American Collection Account
+or North American Concentration Account), the European Purchaser (in the case of
+any European Collection Account or European Concentration Account) or such other
+Person as may be entitled thereto any cash collections or other cash proceeds
+received in the Collection Accounts or the Concentration Accounts and not
+constituting Collections of Collateral.
+
+     2.3 Reports.
+
+         (a) Monthly Report. No later than 4:00 p.m., New York City time, on
+each Monthly Reporting Date, the Collection Agent shall deliver to the
+Administrative Agent, each Funding Agent, the Borrower and the European
+Purchaser a Monthly Report containing the information listed in Exhibit A-1 as
+of the close of business on the last Business Day of the immediately preceding
+Calculation Period and such other information as the Administrative Agent or any
+Funding Agent may reasonably request.
+
+         (b) Weekly Reports. No later than 4:00 p.m., New York City time, on the
+third Business Day of each calendar week, for so long as the Collection Agent is
+not required to deliver Daily Reports hereunder, the Collection Agent shall
+deliver to the Administrative Agent, each Funding Agent, the Borrower and the
+European Purchaser a Weekly Report setting forth the information listed in
+Exhibit A-2 as of the close of business on the last Business Day of the
+immediately preceding week, and such other information as the Administrative
+Agent or any Funding Agent may reasonably request.
+
+         (c) Daily Reports. No later than 4:00 p.m., New York City time, on each
+Business Day commencing on the date which falls six months after the Closing
+Date (or, if the Performance Guarantor does not have a published Debt Rating
+from S&P of at least B and from Moody's of at least B2, on the date which falls
+three months after the Closing Date) the Collection Agent shall deliver to the
+Administrative Agent, each Funding Agent, the Borrower and the European
+Purchaser a Daily Report setting forth the information listed in Exhibit A-3 as
+of the close of business on the second preceding Business Day, and such other
+information as the Administrative Agent or any Funding Agent may reasonably
+request; provided that during any such period when the Performance Guarantor has
+a published Debt Rating from S&P of at least B+ and from Moody's of at least B1,
+no such Daily Report shall be required unless the Percentage Factor exceeds 80%,
+in which case a Daily Report shall be required on second
+
+                                       4
+<PAGE>
+
+Business Day following the 29th day of each calendar month with respect to such
+day (or, if such 29th day is not a Business Day or if there is no such 29th day,
+in the case of February, the next succeeding Business Day).
+
+         (d) Transmission of Portfolio Reports. The Collection Agent shall
+transmit each Portfolio Report to each Funding Agent by electronic mail. In
+addition, the Collection Agent shall transmit a copy of each such Portfolio
+Report to the Administrative Agent and, upon request, each Funding Agent by
+facsimile (certified by a Financial Officer of the Collection Agent or such
+other employee of the Collection Agent as shall have primary responsibility for
+the preparation of such report and shall have been authorized to certify
+Portfolio Reports hereunder by a Financial Officer).
+
+         (e) Notice of Termination Events. The Collection Agent shall provide to
+the Administrative Agent and each Funding Agent, promptly, and in any event
+within one Business Day after a Responsible Officer of the Collection Agent
+obtains actual knowledge thereof, notice of any Termination Event or Incipient
+Termination Event.
+
+         (f) Notice of Downgrades. Promptly after a Responsible Officer of the
+Collection Agent obtains actual knowledge thereof, the Collection Agent shall
+provide to each Funding Agent notice of any downgrade in the Debt Rating (or the
+withdrawal by either S&P or Moody's of a Debt Rating) of the Performance
+Guarantor, setting forth the Indebtedness affected and the nature of such change
+(or withdrawal).
+
+         (g) Notice of Litigation; Material Adverse Effect. Promptly after a
+Responsible Officer of the Collection Agent obtains actual knowledge thereof,
+the Collection Agent shall provide to the Administrative Agent and each Funding
+Agent notice of:
+
+               (i) the filing or commencement of, or any written threat or
+notice of intention of any person to file or commence, any action, suit or
+proceeding, whether at law or in equity or by or before any Official Body or in
+arbitration, against the Collection Agent or any of its Subsidiaries as to which
+an adverse determination is reasonably probable and which could reasonably be
+expected to have a Material Adverse Effect; and
+
+               (ii) any other development that is not a matter of general public
+knowledge and that has had, or could reasonably be expected to have, a Material
+Adverse Effect.
+
+         (h) Other Information. The Collection Agent shall provide to the
+Administrative Agent and each Funding Agent, promptly upon request, such other
+information respecting the Receivables or the condition or operations, financial
+or otherwise, of the Collection Agent (including, without limitation,
+information regarding any pending or threatened litigation) as the
+Administrative Agent or any Funding Agent may from time to time reasonably
+request.
+
+     2.4 Transition to Successor Collection Agent. If replaced as Collection
+Agent, TRW U.S. agrees that it will (i) terminate, and cause each existing
+Sub-Collection Agent to terminate, its collection activities in a manner and to
+the extent requested by the Administrative Agent to facilitate the transition to
+a new Collection Agent and (ii) transfer to the Administrative Agent (or its
+designee), or (to the extent permitted by applicable Law and contract) license
+to the
+
+                                       5
+<PAGE>
+
+Administrative Agent (or its designee) the use of, all software used in
+connection with the collection of the Pool Receivables. To the extent any such
+transfer or license would require the payment of any license fee or other
+amount, TRW U.S. agrees to pay such fee or other amount out of its own funds
+promptly upon demand by the Administrative Agent. TRW U.S. shall cooperate with
+and assist any successor Collection Agent in the performance of its
+responsibilities as Collection Agent (including, without limitation, providing
+access to, and transferring, to such successor Collection Agent all records
+related to the Collateral and allowing (to the extent permitted by applicable
+law and contract) the successor Collection Agent to use all licenses, hardware
+or software necessary or desirable to collect or obtain or store information
+regarding the Pool Receivables. TRW U.S. irrevocably agrees to act (to the
+extent requested to do so by the Administrative Agent) as the data-processing
+agent for any successor Collection Agent in substantially the same manner as TRW
+U.S. conducted such data-processing functions while it acted as the Collection
+Agent.
+
+     2.5 Sub-Collection Agents.
+
+         (a) As the initial Collection Agent, TRW U.S. hereby appoints each
+Seller to be its Sub-Collection Agent with respect to the Pool Receivables
+originated by such Seller. Each Seller hereby accepts such appointment and
+agrees to act as Sub-Collection Agent in accordance with the terms and
+conditions set forth herein and in the other Transaction Documents.
+
+         (b) Each Sub-Collection Agent shall take or cause to be taken all such
+actions as may be necessary or advisable to collect each Pool Receivable for
+which it acts as Sub-Collection Agent from time to time, all in accordance in
+all material respects with applicable Laws and in accordance with the Credit and
+Collection Policy. In performing its duties as Sub-Collection Agent, each
+Sub-Collection Agent shall exercise reasonable care and diligence and shall use
+the same care and apply the same policies as it would exercise and apply if it
+owned such Pool Receivables and shall act in such manner as it reasonably deems
+to be in the best interests of the Lenders and the Administrative Agent. Each
+Sub-Collection Agent agrees to be bound by the provisions of Section 2.2(c) to
+the same extent as if it were the Collection Agent.
+
+         (c) Each Sub-Collection Agent shall hold in trust for the Borrower, the
+European Purchaser, the Administrative Agent, the Funding Agents and each
+Lender, in accordance with their respective interests, all documents,
+instruments and records (including, without limitation, computer tapes or disks)
+which evidence or relate to Pool Receivables or Related Security. Each
+Sub-Collection Agent shall mark its master data processing records evidencing
+the Pool Receivables with a legend, reasonably acceptable to the Administrative
+Agent, evidencing that the Pool Receivables have been sold to the Borrower or
+the European Purchaser (as applicable) and a security interest has been granted
+in favor of the Administrative Agent.
+
+         (d) To the extent the Administrative Agent is entitled to exercise any
+rights or remedies with respect to the Collection Agent, each Sub-Collection
+Agent acknowledges and agrees that the Administrative Agent may exercise the
+same rights and remedies against such Sub-Collection Agent with respect to the
+Pool Receivables originated by such Sub-Collection Agent. Without limiting the
+generality of the foregoing, each Sub-
+
+                                       6
+<PAGE>
+
+Collection Agent hereby acknowledges and agrees that its appointment as
+Sub-Collection Agent hereunder shall automatically terminate upon the
+appointment of a new Collection Agent in accordance with the terms hereof. Upon
+the designation of a successor Collection Agent, each Seller agrees that it will
+(i) terminate its collection activities in a manner and to the extent requested
+by the Administrative Agent to facilitate the transition to a new Collection
+Agent and (ii) transfer to the Administrative Agent (or its designee), or (to
+the extent permitted by applicable Law and contract) license to the
+Administrative Agent (or its designee) the use of, all software used by such
+Seller in connection with the collection of the Pool Receivables. To the extent
+any such transfer or license would require the payment of any license fee or
+other amount, such Seller agrees to pay such fee or other amount out of its own
+funds promptly upon demand by the Administrative Agent. Each Seller shall
+cooperate with and assist any successor Collection Agent in the performance of
+its responsibilities as Collection Agent (including, without limitation,
+providing access to, and transferring, to such successor Collection Agent all
+records related to the Collateral and allowing (to the extent permitted by
+applicable law and contract) the successor Collection Agent to use all licenses,
+hardware or software necessary or desirable to collect or obtain or store
+information regarding the Receivables. Each Seller irrevocably agrees to act (to
+the extent requested to do so by the Administrative Agent) as the
+data-processing agent for any successor Collection Agent in substantially the
+same manner as such Seller conducted such data-processing functions while it
+acted as a Sub-Collection Agent.
+
+         (e) On or prior to the close of business on the Business Day
+immediately preceding each Reporting Date, each Sub-Collection Agent shall
+deliver a report to the Collection Agent a report (each an "Originator Report")
+in the form attached hereto as Exhibit A-4 with respect to the Receivables for
+which it acts as Sub-Collection Agent.
+
+     2.6 Indemnities.
+
+         (a) Indemnities by Collection Agent. Without limiting any other rights
+that the Indemnified Parties may have under the Transaction Documents or under
+applicable law, and in consideration of its appointment as Collection Agent, TRW
+U.S. hereby agrees to indemnify each Secured Party, the Borrower, the Transferor
+and the European Purchaser (collectively, the "Indemnified Parties") from and
+against any and all damages, losses, claims, liabilities, deficiencies, costs,
+disbursements and expenses, including, without limitation, interest, penalties,
+amounts paid in settlement and reasonable attorneys' fees (all of the foregoing
+being collectively referred to as "Special Indemnified Amounts") arising out of
+or resulting from any of the following (excluding, however, (a) Special
+Indemnified Amounts to the extent such Special Indemnified Amounts resulted from
+gross negligence or willful misconduct on the part of such Indemnified Party and
+(b) any income taxes or any other tax or fee measured by income incurred by such
+Indemnified Party arising out of or as a result of this Agreement or the
+Collateral or any interest of the Secured Parties therein):
+
+         (i) any representation, warranty, certification, report or other
+     statement made or deemed made by any Collection Agent Party under or in
+     connection with this Agreement or any other Transaction Document which
+     shall have been incorrect in any respect when made or deemed made;
+
+                                       7
+<PAGE>
+
+         (ii) the failure by any Collection Agent Party to comply with any
+     applicable Law;
+
+         (iii) any failure of any Collection Agent Party to perform its duties
+     or obligations in accordance with the provisions of this Agreement or any
+     other Transaction Document;
+
+         (iv) the commingling of Collections of Collateral at any time by any
+     Collection Agent Party or any Affiliate of a Collection Agent Party (other
+     than the Borrower, the Transferor or the European Purchaser) with other
+     funds;
+
+         (v) any action by any Collection Agent Party (other than an action
+     required by the Transaction Documents) reducing or impairing the rights of
+     the Borrower, the European Purchaser, the Transferor or the Secured Parties
+     with respect to any Pool Receivable or the value of any Pool Receivable;
+
+         (vi) any Servicing Fees or other costs and expenses payable to any
+     replacement Collection Agent, to the extent in excess of the Servicing Fees
+     payable to TRW U.S. in its capacity as Collection Agent hereunder;
+
+         (vii) any claim brought by any Person arising from any activity by any
+     Collection Agent Party or Affiliate thereof in servicing, administering or
+     collecting any Pool Receivable;
+
+         (viii) any change in the Credit and Collection Policy by any Collection
+     Agent Party which impairs the collectibility of any Receivable or the
+     ability of any Collection Agent Party to perform its obligations under this
+     Agreement;
+
+         (ix) any failure by any Collection Agent Party to fully comply in all
+     material respects with the Credit and Collection Policy in regard to each
+     Pool Receivable and the related Contract; or
+
+         (x) the Percentage Factor exceeding the Maximum Percentage Factor as of
+     the close of business on the Business Day immediately preceding any Release
+     Date or Borrowing Date.
+
+         (b) Indemnities by Sub-Collection Agents. Without limiting any other
+rights that the Indemnified Parties may have under the Transaction Documents or
+under applicable law, and in consideration of its appointment as a
+Sub-Collection Agent, each Seller hereby agrees to indemnify each Indemnified
+Party from and against any and all Special Indemnified Amounts arising out of or
+resulting from any action, omission or breach of such Seller of a type described
+in any of clauses (i) through (x) of Section 2.6(a) above (excluding, however,
+(a) Special Indemnified Amounts to the extent such Special Indemnified Amounts
+resulted from gross negligence or willful misconduct on the part of such
+Indemnified Party and (b) any income taxes or any other tax or fee measured by
+income incurred by such Indemnified Party arising out of or as a result of this
+Agreement or the Collateral or any interest of the Secured Parties therein).
+
+                                       8
+<PAGE>
+
+         (c) Construction. Notwithstanding anything to the contrary in this
+Agreement, solely for purposes of the indemnification obligations described in
+this Section 2.6, any representation, warranty or covenant of a Collection Agent
+Party qualified by the occurrence or non-occurrence of a Material Adverse Effect
+or similar concepts of materiality shall be deemed to be not so qualified.
+
+     2.7 Concentration Accounts. On or prior to the date hereof, the Collection
+Agent shall establish, in the name of the Transferor or the European Purchaser
+(as applicable), with an Eligible Account Bank, a segregated account for each
+Approved Currency (each a "Concentration Account"), bearing a designation
+clearly indicating that the funds deposited therein are held for the benefit of
+the Secured Parties. The Collection Agent shall cause all Collections deposited
+into any Collection Account or otherwise received by the Collection Agent or any
+other Transaction Party to be transferred to the applicable currency
+Concentration Account on or prior to the next Business Day following the day on
+which such Collections are so deposited or received. If the bank at which a
+Concentration Account is maintained ceases to be an Eligible Account Bank, the
+Collection Agent shall promptly and in any event within 30 days establish a new
+Concentration Account for the relevant currency at an Eligible Account Bank and
+shall deliver to the Administrative Agent a duly executed Control Agreement
+covering such Concentration Account. Upon such establishment and delivery, all
+funds on deposit in the prior Concentration Account for such currency shall be
+transferred to the new Concentration Account. The Collection Agent shall not at
+any time use more than one Concentration Account for any Approved Currency
+unless such use has been approved in writing by the Administrative Agent.
+
+     2.8 Collateral Accounts.
+
+         (a) On or prior to the Closing Date, the Administrative Agent shall
+cause to be established, in its own name at an Eligible Account Bank, a
+segregated account for each Approved Currency (each, a "Collateral Account"),
+bearing a designation clearly indicating that the funds deposited therein are
+held for the benefit of the Secured Parties.
+
+         (b) Each of the Borrower, the European Purchaser and the Collection
+Agent agrees that the Administrative Agent shall have exclusive dominion and
+control over the Collateral Accounts and all monies, instruments and other
+property from time to time deposited in or credited to the Collateral Accounts.
+
+         (c) The Administrative Agent may invest funds on deposit in any
+Collateral Account, reinvest proceeds of any such investments which may mature
+or be sold, and invest interest or other income received from any such
+investments, in each case in such Permitted Investments as the Collection Agent
+may select (or, in the absence of any such selection by the Collection Agent, as
+the Administrative Agent may select in its sole discretion); provided that each
+such Permitted Investment shall have a maturity date no later than the next
+succeeding Settlement Date. Such proceeds, interest or income which are not so
+invested or reinvested in Permitted Investments shall, except as otherwise
+provided in this Agreement, be deposited and held in the applicable Collateral
+Account; provided that, prior to the Termination Date, any interest or income in
+respect of such Permitted Investments shall, at the direction of the Collection
+Agent be deposited into the applicable Concentration Account and applied as
+Collections in accordance with Section 2.06 of the Receivables Loan Agreement.
+Neither the
+
+                                       9
+<PAGE>
+
+Administrative Agent nor any of its Affiliates shall be liable to the Borrower,
+the European Purchaser, the Collection Agent, any Secured Party or any other
+Person for, or with respect to, any decline in value of amounts on deposit in
+any Collateral Account. Permitted Investments from time to time purchased and
+held pursuant to this Section 2.8 shall be referred to as "Collateral
+Securities" and shall, for purposes of this Agreement and each other Transaction
+Document, constitute part of the funds held in the applicable Collateral Account
+in amounts equal to their respective outstanding principal amounts. Each such
+Permitted Investment shall be made in the name of the Administrative Agent or
+its designee.
+
+         (d) Following the occurrence of any Termination Event, the
+Administrative Agent may, at any time or from time to time after funds are
+either deposited in a Collateral Account or invested in Collateral Securities,
+after selling, if necessary, any Collateral Securities, withdraw funds then held
+in such Collateral Account and apply the same in accordance with the priority of
+payments set forth in Section 2.07 of the Receivables Loan Agreement. Each of
+the Borrower and the European Purchaser agrees that Permitted Investments are of
+a type customarily sold on a recognized market and, accordingly, no notice of
+sale of any Permitted Investments shall be required. To the extent notice of
+sale of any Collateral Securities shall be required by law, at least ten days'
+notice to the Borrower of the time and place of any public sale or the time
+after which any private sale is to be made shall constitute reasonable
+notification. The Administrative Agent may adjourn any public or private sale
+from time to time by announcement at the time and place fixed therefor, and such
+sale may, without further notice, be made at the time and place to which it was
+so adjourned.
+
+         (e) The Administrative Agent shall have the sole right of withdrawal
+with respect to each Collateral Account. None of the Borrower, the European
+Purchaser, the Collection Agent or any Person claiming on behalf of or through
+the Borrower, the European Purchaser or the Collection Agent shall have any
+right to withdraw any of the funds held in any Collateral Account.
+
+         (f) The Administrative Agent shall exercise reasonable care in the
+custody and preservation of any funds held in the Collateral Accounts and shall
+be deemed to have exercised such care if such funds are accorded treatment
+substantially equivalent to that which the Administrative Agent accords its own
+property, it being understood that the Administrative Agent shall not have any
+responsibility for taking any necessary steps to preserve rights against any
+parties with respect to any such funds.
+
+         (g) On the Final Payout Date, any funds remaining on deposit in the
+North American Collateral Accounts shall be paid to the Borrower and any funds
+remaining on deposit in the European Collateral Account shall be paid to the
+European Purchaser.
+
+     2.9 Collection Agent Default. If any one or more of the following events
+shall occur (each, a "Collection Agent Default"):
+
+         (a) (i) any Collection Agent Party or, to the extent that any
+     Originator or any Affiliate of an Originator is then a Collection Agent
+     Party, such Originator or such Affiliate, as applicable, shall fail to
+     observe or perform any material term, covenant or agreement under this
+     Agreement or any other Transaction Document
+
+                                       10
+<PAGE>
+
+     (other than as referred to in clauses (ii) and (iii) of this Section
+     2.9(a)), and such failure shall remain unremedied for ten days after a
+     Responsible Officer of such Collection Agent Party has knowledge or obtains
+     notice thereof or (ii) the Collection Agent or, to the extent that any
+     Originator or any Affiliate of an Originator is then acting a Collection
+     Agent Party, such Originator or such Affiliate, as applicable, shall fail
+     to make any payment or deposit required to be made by it under this
+     Agreement or any other Transaction Document when due and such failure
+     remains unremedied for one Business Day, (iii) the Collection Agent shall
+     fail to deliver any Weekly Report or Monthly Report within two Business
+     Days of the date when due or any Daily Report within one Business Day of
+     the date when due or shall fail to deliver any other report required to be
+     delivered by it hereunder or under the Receivables Loan Agreement within
+     two Business Days after a Responsible Officer of the Collection Agent has
+     knowledge or obtains notice thereof, or (iv) during any calendar month, the
+     Collection Agent shall fail to deliver more than two Weekly Reports on the
+     date when due or more than two Daily Reports on the date when due; or
+
+         (b) any representation, warranty, certification or statement made by
+     any Collection Agent Party or, to the extent that any Originator or any
+     Affiliate of an Originator is then a Collection Agent Party, by such
+     Originator or such Affiliate, as applicable, in this Agreement, any other
+     Transaction Document or in any report or other document delivered pursuant
+     hereto or thereto shall prove to have been incorrect in any material
+     respect when made or deemed made; or
+
+         (c) any Event of Bankruptcy shall occur and be continuing with respect
+     to any Collection Agent Party; or
+
+         (d) there shall have occurred since the Closing Date any event or
+     condition which has had or could reasonably be expected to have a material
+     adverse effect on the ability of any Collection Agent Party to perform its
+     obligations under the Transaction Documents; or
+
+         (e) there shall have occurred any other Termination Event of the type
+     described in Section 7.01(d) or 7.01(e) of the Receivables Loan Agreement;
+     or
+
+         (f) the Performance Guaranty or this Agreement shall cease, for any
+     reason, to be in full force and effect, or any Transaction Party shall so
+     assert in writing or the Performance Guarantor or any Collection Agent
+     Party shall otherwise seek to terminate or disaffirm its obligations under
+     the Performance Guaranty or this Agreement;
+
+then, and in any such event, the Administrative Agent may, in its discretion,
+and shall, at the direction of the Required Committed Lenders, designate another
+Person to succeed TRW U.S. as the Collection Agent.
+
+     2.10 Servicing Fee. The Collection Agent shall be paid a Servicing Fee out
+of Collections available for such purpose pursuant to the Receivables Loan
+Agreement and subject
+
+                                       11
+<PAGE>
+
+to the priorities therein. Each Sub-Collection Agent shall be paid such fees as
+the Collection Agent and such Sub-Collection Agent shall agree from time to
+time; provided that such fees shall be the sole responsibility of the Collection
+Agent and none of the Borrower, the European Purchaser or any of the Secured
+Parties shall have any liability therefor.
+
+     2.11 Power of Attorney. The Collection Agent authorizes the Administrative
+Agent, and hereby irrevocably appoints the Administrative Agent as its
+attorney-in-fact coupled with an interest, with full power of substitution and
+with full authority in place of the Collection Agent, following the occurrence
+and during the continuation of a Termination Event or Involuntary Bankruptcy
+Event, to take any and all steps in the Collection Agent's name and on behalf of
+the Collection Agent that are necessary or desirable, in the determination of
+the Administrative Agent, to collect amounts due under the Collateral,
+including, without limitation, (i) endorsing the Borrower's, the Collection
+Agent's, the European Purchaser's, the Transferor's or any Originator's name on
+checks and other instruments representing Collections of Collateral, (ii)
+enforcing the Receivables and the Related Security and the Collateral Agreements
+including to ask, demand, collect, sue for, recover, compromise, receive and
+give acquittance and receipts for moneys due and to become due under or in
+connection with therewith and to file any claims or take any action or institute
+any proceedings that the Administrative Agent (or such designee) may deem to be
+necessary or desirable for the collection thereof or to enforce compliance with
+the terms and conditions of, or to perform any obligations or enforce any rights
+of the Borrower in respect of, the Receivables and the Related Security and the
+Collateral Agreements; provided that no enforcement action of the type described
+in this clause (ii) may be taken by the Administrative Agent if no Involuntary
+Bankruptcy Event then exists and the only Termination Event(s) that shall have
+occurred are those set forth in Section 7.01(h), (k), (l) or (m) of the
+Receivables Loan Agreement.
+
+     2.12 Receivables Loan Agreement and European Loan Agreement Provisions.
+Each party to this Agreement hereby acknowledges and agrees that (i) Collections
+shall be applied as provided in Sections 2.06 and 2.07 of each of the
+Receivables Loan Agreement and the European Loan Agreement, (ii) any right or
+claim of such party to receive any payment from such Collections is subject to
+the terms, conditions and priorities of such Sections and (iii) any right or
+claim of such party to receive payment from the European Purchaser is subject to
+the limitations on recourse set forth in Section 8.05 of the European Loan
+Agreement.
+
+     2.13 Remittance of Other Receivables Payments. Each of the Borrower, the
+European Purchaser, the Collection Agent and the Administrative Agent hereby
+agree that in the event any payment is made into a Collection Account,
+Concentration Account or Collateral Account with respect to a Receivable that is
+not a Pool Receivable, such Person shall promptly after becoming aware thereof
+pay over such payment to the Originator that owns the relevant Receivable.
+
+                                  ARTICLE III
+                         REPRESENTATIONS AND WARRANTIES
+
+     3.1 Representations and Warranties of the Collection Agent Parties. Each
+Collection Agent Party hereby represents and warrants as follows as of the date
+hereof, as of the date of each Borrowing and each Release under the Receivables
+Loan Agreement and as of each
+
+                                       12
+<PAGE>
+
+Reporting Date (except that the representations set forth in paragraphs (e) and
+(f) below shall be required to be made only as of the date of each Borrowing and
+as of each Reporting Date):
+
+         (a) Such Collection Agent Party is a corporation, partnership or
+limited liability company duly incorporated, validly existing and in good
+standing under the laws of its jurisdiction of organization specified in the
+preamble to this Agreement, and is duly qualified to do business, and is in good
+standing, in every jurisdiction where the nature of its business requires it to
+be so qualified, unless the failure to so qualify would not reasonably be
+expected to have a Material Adverse Effect.
+
+         (b) The execution, delivery and performance by such Collection Agent
+Party of this Agreement and any other Transaction Document to which it is a
+party (i) are within the such Collection Agent Party's corporate powers, (ii)
+have been duly authorized by all necessary corporate action, (iii) will not (A)
+violate (1) such Collection Agent Party's certificate of incorporation or
+by-laws or other organizational documents, as applicable, (2) any Law applicable
+to such Collection Agent Party, or (3) any provision of any indenture,
+certificate of designation for preferred stock, agreement or other instrument to
+which such Collection Agent Party is a party or by which it or any of its
+property is or may be bound or (B) be in conflict with, result in a breach of or
+constitute (alone or with notice or lapse of time or both) a default under, give
+rise to a right of or result in any cancellation of a material right or
+acceleration of any material payment obligation under any such indenture,
+certificate of designation for preferred stock, agreement or other instrument,
+where any such conflict, violation, breach or default referred to in clause (A)
+or (B) of this Section 3.1(b), could reasonably be expected to have,
+individually or in the aggregate, a Material Adverse Effect, and (iv) do not
+result in or require the creation of any Adverse Claim upon or with respect to
+any of its properties. This Agreement has been duly executed and delivered by
+such Collection Agent Party.
+
+         (c) No authorization or approval or other action by, and no notice to
+or filing with, any governmental authority or regulatory body is required for
+the due execution, delivery and performance by such Collection Agent Party of
+this Agreement or any other Transaction Document to which it is a party except
+for such as have already been obtained or made and are in full force and effect.
+
+         (d) This Agreement constitutes the legal, valid and binding obligation
+of such Collection Agent Party, enforceable against such Collection Agent Party
+in accordance with its terms, subject to (i) the effects of bankruptcy,
+insolvency, moratorium, reorganization or other similar laws affecting
+creditors' rights generally, (ii) general principles of equity (regardless of
+whether such enforceability is considered in a proceeding in equity or at law)
+and (iii) implied covenants of good faith and fair dealing.
+
+         (e) Since December 31, 2001, there has been no Material Adverse Effect.
+
+         (f) Except as set forth on Schedule II, (i) as of the initial Borrowing
+Date, there are no actions, suits or proceedings at law or in equity or by or
+before any Official Body or in arbitration now pending or, to the actual
+knowledge of a Responsible Officer of such Collection Agent Party, threatened in
+writing against or affecting such Collection Agent Party or any of its business,
+property or rights and (ii) as of each other Borrowing Date and Reporting
+
+                                       13
+<PAGE>
+
+Date, there are no actions, suits or proceedings at law or in equity or by or
+before any Official Body or in arbitration, or, to the actual knowledge of a
+Responsible Officer of such Collection Agent Party, threatened in writing
+against or affecting such Collection Agent Party or any of its business,
+property or rights as to which in either case, an adverse determination is
+reasonably probable and which could reasonably be expected to have, individually
+or in the aggregate, a Material Adverse Effect.
+
+         (g) All Obligors have been instructed to remit all their payments in
+respect of Pool Receivables directly to a Collection Account.
+
+         (h) Each Portfolio Report (if prepared by such Collection Agent Party
+or any of its Affiliates, or to the extent that information contained therein is
+supplied by such Collection Agent Party or an Affiliate), information, exhibit,
+financial statement, document, book, record or report furnished in writing at
+any time by or on behalf of any Collection Agent Party in connection with the
+Transaction Documents is accurate in all material respects as of its date or
+(except as otherwise disclosed to the Administrative Agent and each Funding
+Agent at such time) as of the date so furnished.
+
+         (i) On the date of each Borrowing and Release under the Receivables
+Loan Agreement (and after giving effect thereto) the Percentage Factor does not
+exceed the Maximum Percentage Factor, as determined by the most recent Portfolio
+Report delivered hereunder.
+
+         (j) No event has occurred and is continuing and no condition exists
+which constitutes a Termination Event.
+
+         (k) Each Receivable treated as or represented by such Collection Agent
+Party to be an Eligible Receivable on any date (whether by inclusion in the Net
+Receivables Balance or otherwise) was an Eligible Receivable on such date.
+
+                                   ARTICLE IV
+                                    COVENANTS
+
+     4.1 Covenants of the Collection Agent Parties. Until the Final Payout Date:
+
+         (a) Compliance with Laws, Etc. Each Collection Agent Party will comply
+in all respects with all applicable Laws and preserve and maintain its corporate
+existence, rights, franchises, qualifications, and privileges except to the
+extent that the failure so to comply with such Laws or the failure so to
+preserve and maintain such rights, franchises, qualifications, and privileges
+would not reasonably be expected to have a Material Adverse Effect.
+
+         (b) Records and Books of Account. Each Collection Agent Party will
+maintain and implement administrative and operating procedures (including,
+without limitation, an ability to recreate records evidencing Pool Receivables
+and related Contracts in the event of the destruction of the originals thereof),
+and keep and maintain all documents, books, records and other information
+reasonably necessary or advisable for the collection of all Pool Receivables or,
+in the case of a Sub-Collection Agent, all Pool Receivables for which it acts as
+Sub-Collection Agent (including, without limitation, records adequate to permit
+the daily
+
+                                       14
+<PAGE>
+
+identification of each such Receivable and all Collections of and adjustments to
+each such existing Receivable).
+
+         (c) Compliance with Credit and Collection Policy. Each Collection Agent
+Party will timely and fully comply in all material respects with the Credit and
+Collection Policy in regard to Purchased Receivables that are treated as or
+represented by such Collection Agent Party to be Eligible Receivables.
+
+         (d) Extension or Amendment of Receivables and Contracts. Except as
+provided in Section 2.2(c), no Collection Agent Party will extend, amend or
+otherwise modify the terms of any Pool Receivable or amend, modify or waive any
+term or condition of any Contract related thereto in a manner that could
+reasonably be expected to adversely affect the collectability of such Pool
+Receivable.
+
+         (e) Change in Credit and Collection Policy. No Collection Agent Party
+will make any change in the Credit and Collection Policy, except (i) for any
+such change that would not impair the collectibility of any Pool Receivables in
+any material respect or otherwise be reasonably likely to have a Material
+Adverse Effect or (ii) as required by applicable Law. In the event that any
+Collection Agent Party makes any material change to the Credit and Collection
+Policy, it shall, promptly following such change, provide the Administrative
+Agent and each Funding Agent with an updated Credit and Collection Policy and a
+summary of all material changes.
+
+         (f) Change in Payment Instructions to Obligors. No Collection Agent
+Party will add or terminate any Collection Account or any Concentration Account
+from those listed in Schedule V to the Receivables Loan Agreement, or make any
+change in its instructions to Obligors regarding payments to be made in respect
+of the Receivables or payments to be made to any Collection Account or any
+Concentration Account, unless the Administrative Agent shall have received
+notice of such addition, termination or change (including an updated Schedule V)
+and a fully executed Control Agreement with respect to each new Collection
+Account and each new Concentration Account. Each European Concentration Account
+shall be maintained at all times in the name of the European Purchaser. Each
+North American Collection Account and North American Concentration Account shall
+be maintained at all times in the name of the Transferor.
+
+         (g) Deposits to Collection Accounts. Each Collection Agent Party will
+instruct all Obligors to remit all their payments in respect of Receivables to a
+Collection Account (either directly by wire transfer or electronic funds
+transfer or by check mailed to a lock-box maintained by the relevant Collection
+Account Bank). If any Collection Agent Party shall receive any Collections
+directly, such Collection Agent Party shall promptly (and in any event within
+one Business Day) cause such Collections to be deposited into a Collection
+Account or a Concentration Account. Each Collection Agent Party will use its
+reasonable best efforts to prevent funds which do not constitute Collections of
+Receivables from being deposited into any Collection Account or Concentration
+Account. Each Collection Agent Party shall instruct each Collection Account Bank
+to remit funds on deposit in each Collection Account to the applicable
+Concentration Account on a daily basis.
+
+                                       15
+<PAGE>
+
+         (h) Control Agreements. The Collection Agent shall cause all Collection
+Accounts and all Concentration Accounts to be subject at all times to a Control
+Agreement duly executed by the Collection Agent, the Transferor or the European
+Purchaser (as applicable), the Administrative Agent and the applicable bank.
+
+         (i) Inspections. Each Collection Agent Party will, from time to time
+during regular business hours as requested by the Administrative Agent or any
+Funding Agent upon reasonable prior notice, permit the Administrative Agent, any
+Funding Agent, or their respective agents or representatives (including
+independent public accountants, which may be the Borrower's or the Collection
+Agent's independent public accountants), (i) to conduct periodic audits of the
+Receivables, the Related Security, the other Collateral and the related books
+and records and collections systems of each Collection Agent Party, (ii) to
+examine and make copies of and abstracts from all books, records and documents
+(including, without limitation, computer tapes and disks) in the possession or
+under the control of any Collection Agent Party relating to Receivables, the
+Related Security and the other Collateral, including, without limitation, the
+Contracts, and (iii) to visit the offices and properties of any Collection Agent
+Party for the purpose of examining such materials described in clause (ii)
+above, and to discuss matters relating to Receivables, the Related Security and
+the other Collateral or any Collection Agent Party's performance under the
+Transaction Documents or under the Contracts with any of the officers or
+employees of such Collection Agent Party having knowledge of such matters.
+
+                                    ARTICLE V
+                                  MISCELLANEOUS
+
+     5.1 Amendment. No failure on the part of the Administrative Agent to
+exercise, and no delay in exercising, any right hereunder shall operate as a
+waiver thereof; nor shall any single or partial exercise of any right hereunder
+preclude any other or further exercise thereof or the exercise of any other
+right. No amendment or waiver of any provision of this Agreement or consent to
+any departure by any Collection Agent Party therefrom shall be effective unless
+in a writing signed by the Administrative Agent and the Required Committed
+Lenders (and, in the case of any amendment, also signed by the Collection
+Agent), and then such amendment, waiver or consent shall be effective only in
+the specific instance and for the specific purpose for which given; provided,
+however, that no consent of the Borrower, TRW U.S. or any Seller shall be
+required for any amendment which modifies the representations, warranties,
+covenants or responsibilities of the Collection Agent at any time when the
+Collection Agent is not TRW U.S. or any Affiliate of TRW U.S. or upon the
+replacement of the Collection Agent with a Person who is not TRW U.S. or any
+Affiliate of TRW U.S.
+
+     5.2 Notices. All communications and notices provided for hereunder shall be
+in writing (including telecopy or electronic facsimile transmission or similar
+writing) and shall be given to the other party (i) in the case of the Borrower,
+the Collection Agent and the Administrative Agent, at its address or telecopy
+number specified for notices pursuant to the Receivables Loan Agreement, (ii) in
+the case of the European Purchaser, at its address or telecopy number specified
+for notices pursuant to the European Loan Agreement and (iii) in the case of any
+Seller, at its address or telecopy number specified for notices pursuant to the
+Originator Purchase Agreement to which it is a party or, in any such case, at
+such other address or telecopy number as such party may hereafter specify for
+the purposes of notice to such party.
+
+                                       16
+<PAGE>
+
+Each such notice or other communication shall be effective (i) if given by
+telecopy, when such telecopy is transmitted to the telecopy number specified in
+this Section 5.2 and confirmation is received, (ii) if given by mail three
+Business Days following such posting, postage prepaid, U.S. certified or
+registered, (iii) if given by overnight courier, one Business Day after deposit
+thereof with a national overnight courier service, or (iv) if given by any other
+means, when received at the address specified in this Section 5.2.
+
+     5.3 Assignments. No Collection Agent Party may assign any of its rights or
+obligations hereunder or any interest herein without the prior written consent
+of the Administrative Agent and the Required Committed Lenders. The Borrower and
+the European Purchaser may assign their rights hereunder only to the
+Administrative Agent pursuant to the Receivables Loan Agreement and the European
+Purchaser Security Agreement, as applicable. The Administrative Agent may assign
+any of its rights or obligations hereunder or any interest herein to any
+successor Administrative Agent appointed pursuant to the terms of the
+Receivables Loan Agreement.
+
+     5.4 No Proceedings. Each Collection Agent Party hereby agrees that it will
+not institute against the Borrower or the European Purchaser any proceeding of
+the type referred to in the definition of "Event of Bankruptcy" until there
+shall have elapsed one year plus one day since the Final Payout Date. Each
+Collection Agent Party further agrees that it will not institute against any
+Conduit Lender any proceeding of the type referred to in the definition of
+"Event of Bankruptcy" so long as any Commercial Paper or other senior
+indebtedness issued by such Conduit Lender shall be outstanding or there shall
+not have elapsed one year plus one day since the last day on which any such
+Commercial Paper or other senior indebtedness shall have been outstanding.
+
+     5.5 GOVERNING LAW. THIS AGREEMENT SHALL BE GOVERNED BY, AND CONSTRUED AND
+INTERPRETED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK.
+
+     5.6 Execution in Counterparts. This Agreement may be executed in any number
+of counterparts, each of which when so executed shall be deemed to be an
+original and all of which when taken together shall constitute one and the same
+agreement. Delivery of an executed counterpart of a signature page to this
+Agreement by facsimile shall be effective as delivery of a manually executed
+counterpart of this Agreement.
+
+     5.7 Binding Effect; Survival of Termination. This Agreement shall be
+binding upon and inure to the benefit of the parties hereto and their respective
+successors and permitted assigns (including any trustee in bankruptcy). Any
+provisions of this Agreement which are prohibited or unenforceable in any
+jurisdiction shall, as to such jurisdiction, be ineffective to the extent of
+such prohibition or unenforceability without invalidating the remaining
+provisions hereof, and any such prohibition or unenforceability in any
+jurisdiction shall not invalidate or render unenforceable such provision in any
+other jurisdiction. This Agreement shall create and constitute the continuing
+obligations of the parties hereto in accordance with its terms and shall remain
+in full force and effect until the Final Payout Date; provided, however, that
+the provisions of Sections 2.6 and 5.4 shall survive any termination of this
+Agreement.
+
+                                       17
+<PAGE>
+
+     5.8 Consent to Jurisdiction.
+
+         (a) Each party hereto hereby irrevocably submits to the non-exclusive
+jurisdiction of any New York State or Federal court sitting in New York City in
+any action or proceeding arising out of or relating to this Agreement, and each
+party hereto hereby irrevocably agrees that all claims in respect of such action
+or proceeding may be heard and determined in such New York State court or, to
+the extent permitted by law, in such Federal court. The parties hereto hereby
+irrevocably waive, to the fullest extent they may effectively do so, the defense
+of an inconvenient forum to the maintenance of such action or proceeding. The
+parties hereto agree that a final judgment in any such action or proceeding
+shall be conclusive and may be enforced in other jurisdictions by suit on the
+judgment or in any other manner provided by law.
+
+         (b) Each party hereto consents to the service of any and all process in
+any such action or proceeding by the mailing of copies of such process to it at
+its address for notices specified or referred to in Section 5.2. Nothing in this
+Section 5.8 shall affect the right of the Administrative Agent to serve legal
+process in any other manner permitted by law.
+
+     5.9 WAIVER OF JURY TRIAL. EACH PARTY HERETO HEREBY WAIVES, TO THE MAXIMUM
+EXTENT PERMITTED BY APPLICABLE LAW, TRIAL BY JURY IN ANY JUDICIAL PROCEEDING
+INVOLVING, DIRECTLY OR INDIRECTLY, ANY MATTER (WHETHER SOUNDING IN TORT,
+CONTRACT OR OTHERWISE) IN ANY WAY ARISING OUT OF, RELATED TO, OR CONNECTED WITH
+THIS AGREEMENT OR ANY OTHER TRANSACTION DOCUMENT.
+
+     5.10 Third-Party Beneficiaries. This Agreement will inure to the benefit of
+and be binding upon the parties hereto and their respective successors and
+permitted assigns. The Secured Parties are express third party beneficiaries of
+this Agreement.
+
+     5.11 Additional Sellers. In the event any Person becomes a "Seller" under
+(and in accordance with the terms and conditions set forth in) an Originator
+Purchase Agreement after the date hereof, such Person shall automatically become
+a party to this Agreement as a Sub-Collection Agent upon the execution and
+delivery of an "Additional Seller Supplement" pursuant to such Originator
+Purchase Agreement.
+
+
+                                SIGNATURES FOLLOW
+
+
+
+
+                                       18
+<PAGE>
+
+     IN WITNESS WHEREOF, the parties hereto have executed and delivered this
+Agreement as of the date first written above.
+
+                                 TRW AUTOMOTIVE U.S. LLC
+
+
+                                 By     /s/ David L. Bialosky
+                                        ---------------------
+                                 Name:  David L. Bialosky
+                                 Title: Vice President and General Counsel
+
+                                 KELSEY-HAYES COMPANY
+
+
+                                 By     /s/ David L. Bialosky
+                                        ---------------------
+                                 Name:  David L. Bialosky
+                                 Title: Secretary and Vice President
+
+
+                                 TRW AUTOMOTIVE U.S. LLC
+
+
+                                 By     /s/ David L. Bialosky
+                                        ---------------------
+                                 Name:  David L. Bialosky
+                                 Title: Vice President and General Counsel
+
+
+                                 TRW VEHICLE SAFETY SYSTEMS INC.
+
+
+                                 By     /s/ David L. Bialosky
+                                        ---------------------
+                                 Name:  David L. Bialosky
+                                 Title: Secretary and Vice President
+
+
+                                 LAKE CENTER INDUSTRIES
+                                 TRANSPORTATION, INC.
+
+
+                                 By     /s/ David L. Bialosky
+                                        ---------------------
+                                 Name:  David L. Bialosky
+                                 Title: Secretary and Vice President
+
+<PAGE>
+
+                                 TRW AUTOMOTIVE GLOBAL RECEIVABLES LLC
+
+
+                                 By     /s/ David L. Bialosky
+                                        ---------------------
+                                 Name:  David L. Bialosky
+                                 Title: Secretary and Vice President
+
+
+                                 JPMORGAN CHASE BANK, as
+                                 Administrative Agent
+
+
+                                 By     /s/ Christopher Lew
+                                        -------------------
+                                 Name:  Christopher Lew
+                                 Title: Assistant Vice President
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       20

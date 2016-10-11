@@ -1,0 +1,1254 @@
+﻿REALNETWORKS, INC.
+
+                           THIRD AMENDED AND RESTATED
+                           INVESTORS' RIGHTS AGREEMENT
+
+
+                                 March 24, 1998
+
+
+<PAGE>   2
+
+
+                                       TABLE OF CONTENTS
+
+
+
+<TABLE>
+<S>     <C>                                                                                 <C>
+1.      REGISTRATION RIGHTS......................................................  1
+
+        1.1    Certain Definitions...............................................  1
+
+        1.2    Registrable Securities............................................  2
+
+               (a)    Definition    .............................................  2
+               (b)    Transfer of Registration Rights............................  2
+               (c)    Conditions to Participation................................  3
+
+        1.3    Demand Registration...............................................  3
+
+        1.4    S-3 Registration..................................................  4
+
+               (a)    S-3 Registrations..........................................  4
+               (b)    Priority S-3 Registrations.................................  5
+               (c)    Restrictions on Purchasers and S-3 Registrations...........  5
+               (d)    Limited Number of S-3 Registrations........................  6
+               (e)    Selection of Underwriters..................................  6
+
+        1.5    Piggyback Registrations...........................................  6
+
+               (a)    Right to Piggyback.........................................  6
+               (b)    Priority on Primary Registrations..........................  6
+               (c)    Priority on Secondary Registrations........................  6
+               (d)    Piggyback Rights of Vivo Shareholders......................  7
+
+        1.6    Lockup Agreements.................................................  7
+
+        1.7    Registration Procedures...........................................  7
+
+        1.8    Registration Expenses.............................................  9
+
+        1.9    Indemnification................................................... 10
+
+        1.10   Termination....................................................... 11
+
+2.      COVENANTS OF THE COMPANY................................................. 12
+</TABLE>
+
+
+
+
+                                       i
+
+<PAGE>   3
+
+<TABLE>
+<S>     <C>                                                                                 <C>
+3.      MISCELLANEOUS............................................................ 12
+
+        3.1    Parties in Interest............................................... 12
+
+        3.2    Entire Agreement: Amendments and Waivers.......................... 12
+
+        3.3    Governing Law, Severability....................................... 13
+
+        3.4    Notices........................................................... 13
+
+        3.5    Counterparts...................................................... 13
+
+        3.6    Captions.......................................................... 14
+
+Exhibit A      Company Shareholders
+Exhibit B      Vivo Shareholders
+</TABLE>
+
+                                       ii
+
+
+<PAGE>   4
+
+                           THIRD AMENDED AND RESTATED
+                           INVESTORS' RIGHTS AGREEMENT
+
+        This Third Amended and Restated Investors' Rights Agreement (this
+"Agreement") is entered into effective as of the 24 day of March, 1998, by and
+among REALNETWORKS, INC., a Washington corporation (the "Company"), the holders
+of the Company Common Stock listed on Exhibit A, certain former shareholders of
+Vivo Software, Inc., a Massachusetts corporation (the "Vivo Shareholders")
+identified on attached Exhibit B, and Microsoft Corporation, a Washington
+corporation ("Microsoft").
+
+
+                                    RECITALS
+
+        The Company and Vivo Software, Inc. ("Vivo") are parties to that certain
+Agreement and Plan of Merger dated February 20, 1998 (the "Merger Agreement"),
+pursuant to which shareholders of Vivo will become shareholders of the Company
+and entitled to certain benefits provided for in this Agreement.
+
+        NOW, THEREFORE, in consideration of the mutual promises and covenants
+set forth herein, the parties hereto agree as follows:
+
+1.      REGISTRATION RIGHTS
+
+        1.1 Certain Definitions. As used in this Agreement, the following terms
+shall have the following respective meanings:
+
+            (a) "Exchange Act" shall mean the Securities Exchange Act of 1934,
+as amended, or any similar successor federal statute and the rules and
+regulations thereunder, all as the same shall be in effect from time to time.
+
+            (b) "Exempt Registrations" shall mean registrations relating solely
+to employee benefit plans on Form S-1 or Form S-8 or similar forms that may be
+promulgated in the future, or registrations relating solely to a Commission Rule
+145 transaction on Form S-4 or similar forms that may be promulgated in the
+future.
+
+            (c) "Investors" shall mean investors who purchased shares pursuant
+to the Series B Preferred Stock Purchase Agreement by and among the Series B
+Holders and the Company dated April 8, 1995 (the "Series B Agreement"), the
+Series C Preferred Stock Purchase Agreement by and among the Series C Holders
+and the Company dated October 26, 1995 (the "Series C Agreement"), the Series D
+Preferred Stock Purchase Agreement by and among the Series D Holders and the
+Company dated November 27, 1996 (the "Series D Agreement"), and/or the Series E
+Preferred Stock Purchase Agreement dated July 21, 1997 (the "Series E
+Agreement") and persons or entities who received any of such shares from such
+Investors.
+
+            (d) "Rule 144" shall mean Rule 144 as promulgated by the Securities
+and Exchange Commission (the "Commission") under the Securities Act, as such
+Rule may be
+
+
+
+
+<PAGE>   5
+
+amended from time to time, or any similar successor rule that may be
+promulgated by the Commission.
+
+            (e) "Rule 145" shall mean Rule 145 as promulgated by the Commission
+under the Securities Act, as such Rule may be amended from time to time, or any
+similar successor rule that may be promulgated by the Commission.
+
+            (f) "Securities Act" shall mean the Securities Act of 1933, as
+amended, or any similar successor federal statute and the rules and regulations
+thereunder, all as the same shall be in effect from time to time, corresponding
+to such act.
+
+        1.2 Registrable Securities.
+
+            (a) Definition. The term "Registrable Securities" means (i) any
+common stock ("Common Stock") and other securities issued upon conversion of any
+Series B Preferred, Series C Preferred, Series D Preferred or Series E Preferred
+Stock (including without limitation the Series C Preferred issuable upon
+exercise of those certain Series C Warrants, as defined in the Series C
+Agreement, the Series D Preferred issuable upon the exercise of those certain
+Series D Warrants, as defined in the Series D Agreement and the Series E
+Preferred issuable upon the exercise of that certain Series E Warrant, as
+defined in the Series E Agreement), (ii) any Common Stock and other securities
+issued upon exercise of those certain Series B Common Warrants, as defined in
+the Series C Agreement, (iii) common stock issued to Vivo Shareholders upon
+consummation of the Merger (as defined in the Merger Agreement), including
+common stock issued upon exercise of former Vivo Stock Options (as defined in
+the Merger Agreement) or (iv) any securities issued with respect to the Series B
+Preferred, Series C Preferred, Series D Preferred, Series E Preferred or the
+Common Stock and other securities referred to in clauses (i), (ii) and (iii) by
+way of a stock dividend or stock split or in connection with a combination of
+shares, recapitalization, merger, consolidation or other reorganization. For
+purposes of this Agreement, a person will be deemed to be a holder of
+Registrable Securities whenever such person has the right to acquire such
+Registrable Securities whether or not such acquisition has actually been
+effected. Registrable Securities, if transferred in accordance with Section
+1.2(b), will remain Registrable Securities; provided, however, that Registrable
+Securities shall not include shares (a) registered under the Securities Act
+pursuant to an effective registration statement filed thereunder and disposed of
+in accordance with the registration statement covering them or (b) that may be
+publicly sold pursuant to Rule 144 under the Securities Act.
+
+            (b) Transfer of Registration Rights. The rights granted under this
+Section may be assigned or otherwise conveyed by any holder of Registrable
+Securities, in compliance with federal and applicable state securities laws, to
+any transferee or assignee who, after such assignment or transfer, holds at
+least 50,000 shares of Registrable Securities (subject to appropriate adjustment
+for stock splits, stock dividends, combinations and other recapitalizations),
+provided that the Company is given written notice by such transferee at the time
+of or within thirty (30) days after said transfer, stating the name and address
+of said transferee and said transferee's agreement to be bound by the provisions
+of this Agreement. For the purposes of determining the number of shares of
+Registrable Securities held by a transferee or
+
+
+
+
+
+                                      -2-
+<PAGE>   6
+
+assignee, the holdings of a transferee or assignee who is (A) a shareholder,
+partner, retired partner, member, retired member or beneficiary of a Purchaser;
+(B) a spouse or child of a shareholder, partner, retired partner, member,
+retired member or beneficiary of a Purchaser; (C) a trust for the benefit of the
+persons set forth in (A) or (B) or for the issue of the persons set forth in (A)
+or (B); and (D) an entity (corporation, partnership, limited liability company
+or other juridical entity) of which at least 75 percent in interest is owned or
+controlled, directly or indirectly through other entities, or by one or more of
+the persons set forth in (A), (B) or (C), shall be aggregated together with the
+corporation, partnership or limited liability company as the case may be;
+provided that all assignees and transferees who would not qualify individually
+for assignment of registration rights shall have a single attorney-in-fact for
+the purpose of exercising any rights, receiving notices or taking any action
+under this Agreement.
+
+            (c) Conditions to Participation. No holder of Registrable Securities
+may participate in any underwritten registration hereunder unless such holder
+(i) agrees to sell such holder's securities on the basis provided in any
+underwriting arrangements and (ii) completes and executes all questionnaires,
+indemnities, underwriting agreements and other documents reasonably required
+under the terms of such underwriting arrangements, provided that such documents
+shall not provide for indemnification or contribution obligations to the
+Company, or obligations to the Company to provide information, of holders of
+Registrable Securities greater than those obligations to the Company provided
+for in Section 1.9.
+
+        1.3 Demand Registration.
+
+            (a) If at any time after the earlier of (i) two (2) years after the
+date of this Agreement or (ii) six (6) months after the effective date of the
+Initial Public Offering (as such term is defined in Section 2 of this
+Agreement), the Company shall receive a written request from Investors holding
+at least 30% of the Registrable Securities then outstanding that the Company
+file a registration statement (other than on Form S-3 pursuant to Section 1.4 of
+this Agreement) under the Securities Act covering the registration of all or
+part of the Registrable Securities, then the Company shall, within ten (10) days
+of the receipt of such request, give written notice of such request to all
+holders of Registrable Securities and shall, subject to the limitations of
+Section 1.3(b), use its best efforts to effect as soon as practicable the
+registration under the Securities Act of all Registrable Securities which the
+Investors request to be registered in a written request to be given within
+twenty (20) days of the giving of such notice by the Company.
+
+            (b) The Investors initiating the registration request under this
+Section 1.3 (the "Initiating Investors") must distribute the Registrable
+Securities covered by their request by means of a public offering underwritten
+by a recognized national or regional underwriter, which underwriter shall be
+reasonably acceptable to the Company. The right of any Investor to include its
+Registrable Securities in such registration shall be conditioned upon such
+Investor's participation in such underwriting and the inclusion of such
+Investor's Registrable Securities in the underwriting to the extent provided
+herein. All Investors proposing to distribute their Registrable Securities
+through such underwriting shall (together with the Company as provided in
+Section 1.7(h)) enter into an underwriting agreement in customary form with the
+underwriter or underwriters selected for such underwriting by a majority in
+interest of the Initiating Investors.
+
+
+
+
+
+                                      -3-
+<PAGE>   7
+
+Notwithstanding any other provision of this Section 1.3, if the underwriter
+advises the Initiating Investors in writing that marketing factors require a
+limitation of the number of shares to be underwritten, then the Initiating
+Investors shall so advise all Investors who are holders of Registrable
+Securities which would otherwise be underwritten pursuant hereto, and the number
+of shares of Registrable Securities that may be included in the underwriting
+shall be allocated among all holders thereof, including the Initiating
+Investors, in proportion (as nearly as practicable) to the amount of Registrable
+Securities of the Company owned by each Investor and requested to be registered
+in such registration. Any Registrable Securities excluded or withdrawn from such
+underwriting shall be withdrawn from the registration.
+
+            (c) The Company is obligated to effect only two registrations
+pursuant to this Section 1.3. A request for registration under this Section 1.3
+cannot be made within six (6) months of the effective date of a registration
+statement for a public offering of the Company's securities (other than Exempt
+Registrations).
+
+            (d) Notwithstanding the foregoing, if the Company shall furnish to
+the Investors requesting a registration statement pursuant to this Section 1.3 a
+certificate signed by the President of the Company, stating that in the good
+faith judgment of the Board of Directors of the Company it would be seriously
+detrimental to the Company and its shareholders for such registration statement
+to be filed and it is therefore essential to defer the filing of such
+registration statement, the Company shall have the right to defer such filing
+for a period of not more than ninety (90) days after receipt of the request of
+the Initiating Investors; provided, however, that the Company may not utilize
+this right more than once in any twelve (12) month period.
+
+            (e) The Company shall not be obligated to take any action to effect
+any registration pursuant to this Section 1.3, if, within ten (10) days of the
+receipt of a request from Initiating Investors the Company gives the Initiating
+Investors written notice that it has begun substantive discussions with an
+underwriter with respect to a public offering of securities that would give rise
+to registration rights under Section 1.5. The Company must promptly notify the
+Investors of any abandonment of such offering.
+
+        1.4 S-3 Registration.
+
+               (a) S-3 Registrations. Subject to the terms hereof, the holders
+of Registrable Securities, including transferees that have acquired the
+Registrable Securities in accordance with Section 1.2(b) (the "Holders"), may
+request in writing registration under the Securities Act of all or part of their
+Registrable Securities (an "S-3 Registration") on Form S-3 (or any other form of
+offering permitted under applicable securities laws involving effort and expense
+reasonably similar to that involved in effecting a registration on Form S-3 for
+which the Company may then be eligible). Any such request shall state the number
+of Registrable Securities to be disposed of and the intended disposition of such
+shares by their Holders, provided that the aggregate offering price must be not
+less than $250,000 for each such registration and on not more than three
+occasions, provided, further, however, that the Vivo Shareholders shall be
+entitled to request only one S-3 Registration, which must be requested by
+holders of at least 50% of the then outstanding Registrable Securities held by
+the Vivo Shareholders or their transferees. Such S-3
+
+
+
+
+
+                                      -4-
+<PAGE>   8
+
+Registration shall be in addition to the three S-3 Registrations which may be
+requested by the other Holders. The Company hereby agrees that it will file an
+S-3 Registration Statement in November 1998 and that all Vivo Shareholders shall
+be entitled to register their shares therein. S-3 Registrations will be effected
+on Form S-3 (or any similar short-form registration for which the Company may
+then be eligible) whenever the Company is permitted to use such a form.
+Following the initial public offering of its securities, the Company will use
+its best efforts to qualify for registration on Form S-3 (or any similar
+short-form registration for which the Company may then be eligible) and maintain
+such registration in effect for not less than one hundred twenty (120) days.
+
+            (b) Priority S-3 Registrations. If any S-3 Registration is an
+underwritten offering, the Company may request that securities to be sold on its
+behalf be included in such S-3 Registration, and if the managing underwriters
+advise the Company in writing that in their opinion the number of securities
+requested to be included exceeds the number that can be sold in such offering
+without adversely affecting such underwriters' ability to effect an orderly
+distribution of the securities, the Company will include in such registration:
+first, the securities the Company proposes to sell; and second, the number of
+Registrable Securities that the Holders propose to sell and that in the opinion
+of such underwriters can be sold; provided that in the event that the number of
+Registrable Securities that the Holders propose to sell is reduced by more than
+ten percent (10%), such registration will not be counted as a S-3 Registration.
+Anything in this subsection (b) to the contrary notwithstanding, for a period of
+twelve months following the conclusion of any offering from which, pursuant to
+this subsection (b), there were excluded any Registrable Securities requested to
+be included (an "Exclusion Offering"), the Company shall not exercise its right
+to priority so as to exclude such Registrable Securities from a subsequent S-3
+Registration; provided, however, that a S-3 Registration may not be requested by
+the Holders of Registrable Securities for a period of four (4) months following
+the conclusion of any such Exclusion Offering. If any S-3 Registration in which
+the Company does not have the right to priority is an underwritten offering, the
+Company may have securities to be sold on its behalf included in such S-3
+Registration, to the extent deemed practicable by the managing underwriters,
+provided the number of Registrable Securities included therein is not reduced.
+
+            (c) Restrictions on Purchasers and S-3 Registrations. The Company
+may postpone for up to ninety (90) days the filing or the effectiveness of a
+registration statement for a S-3 Registration if the Company's Chief Executive
+Officer delivers a written certification to each Holder of the Registrable
+Securities requested to be included therein stating that the Company's Board of
+Directors has declared that such S-3 Registration would not be in the best
+interests of the Company; provided that in any such event, the Holders of
+Registrable Securities requesting such registration will be entitled to withdraw
+such requests and, if the remaining requests that are not withdrawn are not
+sufficient to initiate such registration, such registration need not be effected
+by the Company and will not count as a S-3 Registration; provided further, that
+if such event occurs during the twelve (12) month period during which the
+Company may not conduct an Exclusion Offering (as described in Clause (b)
+above), then such twelve (12) month period shall be extended by the length of
+any such postponement. The Company may only make one election in any
+twelve-month period to postpone a S-3 Registration pursuant hereto.
+
+
+
+
+
+                                      -5-
+<PAGE>   9
+
+            (d) Limited Number of S-3 Registrations. The Company is obligated to
+effect only three (3) registrations pursuant to this Section 1.4, plus the one
+(1) registration which may be requested only by the Vivo Shareholders owning at
+least 50% of the Registrable Securities held by the Vivo Shareholders or their
+transferees.
+
+            (e) Selection of Underwriters. In a S-3 Registration, the holders of
+Registrable Securities will have the right to determine the method of
+distribution and, if the offering is underwritten, to select the investment
+banker(s) and manager(s) to administer the offering.
+
+        1.5 Piggyback Registrations.
+
+            (a) Right to Piggyback. Whenever the Company proposes to register
+any of its securities under the Securities Act (other than pursuant to a
+registration primarily for sales of securities to employees of the Company or in
+connection with a transaction to which Rule 145 or any similar rule of the SEC
+under the Securities Act is applicable) and the registration form to be used
+also may be used for the registration of Registrable Securities, the Company
+will give prompt written notice to all holders of Registrable Securities of its
+intention to effect such a registration (a "Piggyback Registration") and will
+use its best efforts to include in such registration all Registrable Securities
+with respect to which the Company has received written requests for inclusion
+therein within thirty (30) days after the receipt of the Company's notice except
+as set forth in paragraph (b) below. Such written request may specify all or
+part of a holder's Registrable Securities to be included in the registration.
+
+            (b) Priority on Primary Registrations. If a Piggyback Registration
+is an underwritten primary registration on behalf of the Company, and the
+managing underwriters advise the Company in writing that in their opinion the
+number of securities requested to be included in such registration exceeds the
+number that can be sold in such offering without adversely affecting such
+underwriters' ability to effect an orderly distribution of such securities, the
+Company will include in such registration: first, the securities the Company
+proposes to sell; second, the Registrable Securities requested to be included in
+such registration, pro rata among the holders of such securities on the basis of
+the number of shares of Common Stock (or equivalents) represented by the
+Registrable Securities owned by the holders thereof and requested to be
+registered, but in no event in an offering following the Company's initial
+public offering shall the number of Registrable Securities included in such
+registration be less than 30% of the total of all securities included in such
+registration; and third, other securities requested to be included in such
+registration.
+
+            (c) Priority on Secondary Registrations. If a Piggyback Registration
+is an underwritten secondary registration on behalf of holders of the Company's
+securities and there are no newly issued securities of the Company being
+registered thereunder, and the managing underwriters advise the Company in
+writing that in their opinion the number of securities requested to be included
+in such registration exceeds the number that can be sold in such offering
+without adversely affecting such underwriters' ability to effect an orderly
+distribution of such securities, the Company will include in such registration:
+first, any Registrable Securities
+
+
+
+
+
+                                      -6-
+<PAGE>   10
+
+requested to be included in such registration, pro rata among the holders of
+such securities on the basis of the number of shares of Common Stock (or
+equivalents) represented by the Registrable Securities owned by the holders
+thereof and requested to be registered, and second, other securities requested
+to be included in such registration. If any holder of Registrable Securities who
+has requested inclusion in such registration or offering disapproves of the
+terms of the underwriting, he may elect to withdraw therefrom by written notice
+to the Company, the underwriter and the holders of Registrable Securities who
+initiated the offering.
+
+            (d) Absence of Piggyback Rights for Vivo Shareholders.
+Notwithstanding anything herein to the contrary, Vivo Shareholders and their
+transferees shall not have any rights to piggyback registration as described
+under this Section 1.5, except with respect to the S-3 Registration demanded by
+the Vivo Shareholders.
+
+        1.6 Lockup Agreements. Each holder of the Registrable Securities agrees
+not to effect any public sale or distribution of Registrable Securities, or any
+securities convertible into or exchangeable or exercisable for Registrable
+Securities, during the seven (7) days prior to and the period after (as
+requested by the underwriters, but not to exceed 180 days) the effectiveness of
+the first registration of the Company's securities to be sold in an underwritten
+public offering for the account of the Company, provided that all officers and
+directors of the Company and all other holders of more than one percent (1%) of
+the Company's equity securities agree to be similarly bound with respect to
+equity securities of the Company held by such officers, directors and one
+percent (1%) holders, provided further that any discretionary waiver or
+termination of the restrictions of such agreements by the representatives of the
+underwriters shall apply to all persons subject to such agreements pro rata
+based on the number of equity securities held by such persons and subject to
+such agreements, provided further that such holders are given reasonable notice
+of such Registration, and provided further, that the provisions of this Section
+1.6 shall bind The Goldman Sachs Group, L.P. and any transferee of its
+Registrable Securities only with respect to the Registrable Securities held by
+such person and shall not otherwise in any manner bind or restrict Goldman,
+Sachs & Co. (whether as a broker, dealer, underwriter or otherwise) or The
+Goldman Sachs Group. L.P. or any of their affiliates or general or limited
+partners. Without limiting the foregoing, it is expressly agreed that the
+provisions of this Section 1.6 shall not (a) apply to any shares of Common Stock
+or any securities convertible into or exercisable or exchangeable for Common
+Stock acquired by a Holder directly from the underwriters in a registered public
+offering of the Company's securities or in an established trading market from
+any party other than the Company, or (b) prevent the exercise of the Series B
+Common Warrants, the Series C Warrants, the Series D Warrants, or the Series E
+Warrant described in Section 1.2(a) during such lockup period.
+
+        1.7 Registration Procedures. Whenever the holders of Registrable
+Securities have requested that any Registrable Securities be registered pursuant
+to this Agreement, the Company will use its best efforts to effect the
+registration of such Registrable Securities in accordance with the intended
+method of disposition thereof, and pursuant thereto the Company will, without
+limiting the generality of the foregoing, as expeditiously as possible:
+
+
+
+
+
+                                      -7-
+<PAGE>   11
+
+            (a) prepare and file with the Securities and Exchange Commission a
+registration statement with respect to such Registrable Securities, which
+registration statement will state that the holders of Registrable Securities
+covered thereby may sell such Registrable Securities either under such
+registration statement or pursuant to Rule 144 (or any similar rule then in
+effect), and use its best efforts to cause such registration statement to become
+effective (provided that before filing a registration statement or prospectus or
+any amendments or supplements thereto, the Company will furnish to the counsel
+selected by the holders of a majority of the voting interest of the Registrable
+Securities covered by such registration statement copies of all such documents
+proposed to be filed);
+
+            (b) prepare and file with the Commission, if applicable, such
+amendments and supplements to such registration statement and the prospectus
+used in connection therewith as may be necessary to keep such registration
+statement effective for a period of not less than one hundred eighty (180) days
+in the case of the Company's initial registration of Common Stock under the
+Securities Act and one hundred twenty (120) days in the case of any subsequent
+registration, provided, however, that if the Company files an S-3 Registration
+at the request of the Vivo Shareholders, the Company shall maintain the
+effectiveness of such S-3 Registration until the later of the first anniversary
+of the consummation of the Merger Agreement or 120 days;
+
+            (c) furnish to each seller of Registrable Securities such number of
+copies of such registration statement, each amendment and supplement thereto,
+and the prospectus included in such registration statement (including each
+preliminary prospectus) as such seller may reasonably request in order to
+facilitate the disposition of the Registrable Securities owned by such seller;
+
+            (d) use its best efforts to register or qualify such Registrable
+Securities under such other securities or blue sky laws of such jurisdictions of
+the United States as any seller reasonably requests and do any other related
+acts that may be reasonably necessary to enable such seller to consummate the
+disposition in such jurisdictions of the Registrable Securities owned by such
+seller (provided that the Company will not be required to (i) qualify generally
+to do business in any jurisdiction where it would not otherwise be required to
+qualify but for this Section 1.7(d) or (ii) consent to general service of
+process in any such jurisdiction);
+
+            (e) notify each seller of such Registrable Securities, at any time
+when a prospectus relating thereto is or would be required to be delivered under
+the Securities Act, of the happening of any event as a result of which the
+prospectus included in such registration statement contains an untrue statement
+of a material fact or omits any fact necessary to make the statements therein
+not misleading, and, at the request of any such seller, the Company will prepare
+a supplement or amendment to such prospectus so that, as thereafter delivered to
+the purchasers of such Registrable Securities, such prospectus will not contain
+any untrue statement of a material fact or omit any fact necessary to make the
+statements therein not misleading;
+
+            (f) upon the request of the holders of 20% or more of the
+Registrable Securities or such lesser number of Registrable Securities as are
+actually registered pursuant to
+
+
+
+
+
+                                      -8-
+<PAGE>   12
+
+this Agreement, cause all such Registrable Securities to be listed on each
+securities exchange or quotation system on which similar securities issued by
+the Company are then listed;
+
+            (g) provide a transfer agent and registrar for all such Registrable
+Securities not later than the effective date of such registration statement;
+
+            (h) enter into such customary agreements (including underwriting
+agreements on customary terms) and take all such other actions as are reasonably
+required in order to expedite or facilitate the disposition of such Registrable
+Securities (including, without limitation, effecting a stock split or a
+combination of shares);
+
+            (i) make available for inspection by any seller of Registrable
+Securities, any underwriter participating in any disposition pursuant to such
+registration statement, and any attorney, accountant or any other agent retained
+by any such seller or underwriter, all financial and other records, pertinent
+corporate documents and properties of the Company, and cause the Company's
+officers, directors and employees to supply all information reasonably requested
+by any such seller, underwriter, attorney, accountant or agent in connection
+with such registration statement;
+
+            (j) comply with all necessary filing and other requirements,
+including without limitation listing shares on any national securities exchange
+on which similar securities of the Company are then listed, so as to enable the
+holders of Registrable Securities to sell Registrable Securities under Rule 144
+(or any similar rule then in effect) after any initial public offering of the
+Company's Common Stock; and
+
+            (k) obtain a comfort letter from the Company's independent
+accountants in customary form and covering such matters of the type customarily
+covered by comfort letters and an opinion from the Company's counsel in
+customary form covering such matters normally covered in a public issuance of
+securities, in each case addressed to the holders of the Registrable Securities.
+
+        1.8 Registration Expenses.
+
+            (a) All expenses incident to the Company's performance of or
+compliance with this Agreement with respect to any Demand Registration, S-3
+Registration or Piggyback Registration, including, without limitation, all
+registration and filing fees, fees and expenses of compliance with securities or
+blue sky laws, printing expenses, messenger and delivery expenses, and fees and
+disbursements of counsel for the Company and all independent certified public
+accountants, underwriters (excluding discounts and commissions, which in all
+cases shall be borne by the party selling the securities with respect to which
+the discounts or commissions are incurred or paid) and other persons retained by
+the Company, will be borne by the Company.
+
+            (b) In connection with any Demand Registration, S-3 Registration or
+Piggyback Registration, the Company will reimburse the holders of Registrable
+Securities
+
+
+
+
+
+                                      -9-
+<PAGE>   13
+
+covered by such registration for the reasonable fees and disbursements of one
+counsel chosen by the holders of a majority of the voting interest of such
+Registrable Securities.
+
+        1.9 Indemnification.
+
+            (a) Incident to any registration statement referred to in this
+Section 1 and subject to applicable law, the Company will indemnify and hold
+harmless each underwriter, each holder of Registrable Securities (including its
+respective directors, officers, members, employees and agents) so registered,
+and each person who controls any of them within the meaning of Section 15 of the
+Securities Act or Section 20 of the Exchange Act and the rules and regulations
+promulgated thereunder, from and against any and all losses, claims, damages,
+expenses and liabilities, joint or several (including any investigation, legal
+and other expenses incurred in connection with, and any amount paid in
+settlement of, any action, suit or proceeding or any claim asserted), to which
+they, or any of them, may become subject under the Securities Act, the Exchange
+Act or other federal or state statutory law or regulation, at common law or
+otherwise, insofar as such losses, claims, damages or liabilities arise out of
+or are based on (i) any untrue statement or alleged untrue statement of a
+material fact contained in such registration statement (including any related
+preliminary or definitive prospectus, or any amendment or supplement to such
+registration statement or prospectus), (ii) any omission or alleged omission to
+state in such document a material fact required to be stated in it or necessary
+to make the statements in it not misleading, or (iii) any violation by the
+Company of the Securities Act, any state securities or "blue sky" laws or any
+rule or regulation thereunder in connection with such registration, provided
+that the Company will not be liable to the extent that such loss, claim, damage,
+expense or liability arises from and is based on an untrue statement or omission
+or alleged untrue statement or omission made in reliance on and in conformity
+with information furnished in writing to the Company by such underwriter, holder
+or controlling person expressly for use in such registration statement. With
+respect to such untrue statement or omission or alleged untrue statement or
+omission in the information furnished in writing to the Company by such holder
+expressly for use in such registration statement, such holder will indemnify and
+hold harmless each underwriter, the Company (including its directors, officers,
+members, employees and agents), each other holder of Registrable Securities
+(including its respective directors, officers, employees and agents) so
+registered, and each person who controls any of them within the meaning of
+Section 15 of the Securities Act or Section 20 of the Exchange Act, from and
+against any and all losses, claims, damages, expenses and liabilities, joint or
+several, to which they, or any of them, may become subject under the Securities
+Act, the Exchange Act or other federal or state statutory law or regulation, at
+common law or otherwise to the same extent provided in the immediately preceding
+sentence. In no event, however, shall the liability of a holder for
+indemnification under this Section 1.9(a) exceed the lesser of (i) that
+proportion of the total of such losses, claims, damages or liabilities
+indemnified against equal to the proportion of the total Registrable Securities
+sold under such registration statement which is being sold by such holder of
+Registrable Securities or (ii) the proceeds received by such holder from its
+sale of Registrable Securities under such registration statement.
+
+            (b) If the indemnification provided for in Section 1.9(a) above for
+any reason is held by a court of competent jurisdiction to be unavailable to an
+indemnified party in respect of
+
+
+
+
+
+                                      -10-
+<PAGE>   14
+
+any losses, claims, damages, expenses or liabilities referred to therein, then
+each indemnifying party under this Section 1.9, in lieu of indemnifying such
+indemnified party thereunder, shall contribute to the amount paid or payable by
+such indemnified party as a result of such losses, claims, damages, expenses or
+liabilities (i) in such proportion as is appropriate to reflect the relative
+benefits received by the Company, the other selling holders of Registrable
+Securities and the underwriters from the offering of the Registrable Securities
+or (ii) if the allocation provided by clause (i) above is not permitted by
+applicable law, in such proportion as is appropriate to reflect not only the
+relative benefits referred to in clause (i) above but also the relative fault of
+the Company, the other selling holders of Registrable Securities and the
+underwriters in connection with the statements or omissions which resulted in
+such losses, claims, damages, expenses or liabilities, as well as any other
+relevant equitable considerations. The relative benefits received by the
+Company, the selling holders of Registrable Securities and the underwriters
+shall be deemed to be in the same respective proportions as the net proceeds
+from the offering (before deducting expenses) received by the Company and the
+selling holders and the underwriting discount received by the underwriters, in
+each case as set forth in the table on the cover page of the applicable
+prospectus, bear to the aggregate public offering price of the Registrable
+Securities. The relative fault of the Company, the selling holders of
+Registrable Securities and the underwriters shall be determined by reference to,
+among other things, whether the untrue or alleged untrue statement of a material
+fact or the omission or alleged omission to state a material fact relates to
+information supplied by the Company, the selling holders or the underwriters and
+the parties' relative intent, knowledge, access to information and opportunity
+to correct or prevent such statement or omission. The Company, the holders of
+Registrable Securities, and the underwriters agree that it would not be just and
+equitable if contribution pursuant to this Section 1.9(b) were determined by pro
+rata or per capita allocation or by any other method of allocation which does
+not take account of the equitable considerations referred to in the first
+sentence of this Section 1.9(b). In no event, however, shall a holder of
+Registrable Securities be required to contribute any amount under this Section
+1.9(b) in excess of the lesser of (i) that proportion of the total of such
+losses, claims, damages or liabilities indemnified against equal to the
+proportion of the total Registrable Securities sold under such registration
+statement which is being sold by such holder or (ii) the proceeds received by
+such holder from its sale of Registrable Securities under such registration
+statement. No person found guilty of fraudulent misrepresentation (within the
+meaning of Section 11(f) of the Securities Act) shall be entitled to
+contribution from any person who was not guilty of such fraudulent
+misrepresentation.
+
+            (c) The amount paid or payable by an indemnified party as a result
+of the losses, claims, damages and liabilities referred to in this Section 1.9
+shall be deemed to include, subject to the limitations set forth above, any
+legal or other expenses reasonably incurred by such indemnified party in
+connection with investigating or defending any such action or claim. The
+indemnification and contribution provided for in this Section 1.9 will remain in
+full force and effect regardless of any investigation made by or on behalf of
+the indemnified parties or any officer, director, employee, agent or controlling
+person of the indemnified parties.
+
+        1.10 Termination. The rights to registration of Registrable Securities
+set forth in this Section shall terminate and have no further effect on the
+seventh (7th) anniversary of the closing of the Company's Initial Public
+Offering, as defined below, provided, however, that the Vivo
+
+
+
+
+
+                                      -11-
+<PAGE>   15
+
+Shareholders shall have no further registration rights, and the Common Stock
+issued to Vivo Shareholders pursuant to the Merger Agreement shall no longer be
+considered Registrable Securities, upon the later of the first anniversary of
+the consummation of the Merger Agreement or 120 days after filing of the Vivo
+S-3 Registration Statement.
+
+2.      COVENANTS OF THE COMPANY
+
+        During the term of this Agreement, the Company covenants and agrees that
+for so long as any (a) Common Stock issued upon conversion of the Series B
+Preferred, Series C Preferred, Series D Preferred, or Series E Preferred
+(including without limitation the Series C Preferred issuable upon exercise of
+the Series C Warrants, Series D Preferred issuable upon exercise of the Series D
+Warrants, and Series E Preferred issuable upon exercise of the Series E
+Warrant), or pursuant to Section 1.2(a)(iii) of this Agreement, or (b)
+securities issued with respect to the securities referred to in clause (a) above
+by way of a stock dividend or stock split or in connection with a combination of
+shares, recapitalization, merger, consolidation or other reorganization
+(hereinafter collectively referred to as "Restricted Securities"), remain
+outstanding (the Series C Preferred issuable upon exercise of the Series C
+Warrants, the Series D Preferred issuable upon exercise of the Series D
+Warrants, and the Series E Preferred issuable upon exercise of the Series E
+Warrant being deemed outstanding for purposes of this Section 2), at all times
+after the Company has filed a registration statement pursuant to the
+requirements of the Securities Act, or the Exchange Act, the Company will file
+all reports required to be filed by it under the Securities Act or the Exchange
+Act and the rules and regulations adopted by the Securities and Exchange
+Commission (the "Commission") thereunder, and will take such further action as
+any holder or holders of Restricted Securities may reasonably request, all to
+the extent required to enable each such holder to sell Restricted Securities
+pursuant to (i) Rule 144 under the Securities Act, or (ii) any similar rule or
+regulation hereafter adopted by the Commission. Upon request, the Company will
+deliver to each such holder a written statement as to whether the Company has
+complied with such requirements.
+
+3.      MISCELLANEOUS
+
+        3.1 Parties in Interest. All covenants, agreements, representations,
+warranties and undertakings in this Agreement made by and on behalf of any of
+the parties hereto shall bind and inure to the benefit of their respective
+successors and assigns.
+
+        3.2 Entire Agreement: Amendments and Waivers. This Agreement (including
+the attachments hereto) and the other documents delivered pursuant hereto
+constitute the full and entire understanding and agreement between the parties
+with regard to the subjects hereof and thereof. This Agreement may be amended,
+or compliance with any term, covenant, agreement, condition or provision set
+forth herein may be omitted or waived (either generally or in a particular
+instance and either retroactively or prospectively) if agreed to in writing by
+the Company and either: (a) the holders of at least two-thirds (2/3) of the
+outstanding Registrable Securities (other than those held by Microsoft), and
+two-thirds (2/3) of the Common Stock issuable upon conversion of the Series E
+Preferred Stock, or (b) the holders of at least 51% of the outstanding Common
+Stock issued upon conversion of the Series B Preferred Stock, the holders
+
+
+
+
+
+                                      -12-
+<PAGE>   16
+
+of at least 51% of the outstanding Common Stock issued upon conversion of the
+Series C Preferred Stock, the holders of at least 51% of the outstanding Common
+Stock issued upon conversion of the Series D Preferred Stock, the holders of at
+least 51% of the Common Stock issued upon conversion of the Series E Preferred
+Stock; and 51% of the Registrable Securities held by the Vivo Shareholders;
+provided, however, that the holder(s) of the Series E Preferred Stock hereby
+agree to: (i) any amendment that is limited to adding holders of Common Stock or
+a new series of Common Stock or Preferred Stock or securities convertible into
+or carrying the rights to purchase Common Stock or a new series of Common Stock
+or Preferred Stock (the "New Securities") as parties to this Agreement as long
+as the New Securities have rights under this Agreement that are equivalent or
+subordinate to those of the Series E Preferred, and (ii) any amendment that does
+not (A) adversely affect the holders of Series E Preferred Stock but not the
+holders of the other series of Preferred Stock or (B) otherwise disadvantage
+disproportionately the holders of Series E Preferred Stock; and provided
+further, that if any amendment or omission or waiver of compliance with any
+term, covenant, agreement or condition or provision affects any Holder
+disproportionately, the written agreement of such Holder shall also be required.
+The Series B Holders and the Company expressly agree that this Agreement
+supersedes Sections 4 and 5 of the Series B Agreement in their entirety and that
+such sections of the Series B Agreement are no longer in force or effect, the
+Series B Holders, Series C Holders and the Company expressly agree that this
+Agreement supersedes the C Rights Agreement in its entirety and the C Rights
+Agreement is no longer in force and effect; and the Series B Holders, Series C
+Holders, Series D Holders, and the Company expressly agree that this Agreement
+supersedes the D Rights Agreement in its entirety and the D Rights Agreement is
+no longer in force and effect.
+
+        3.3 Governing Law, Severability. This Agreement, together with the
+rights and obligations of the parties hereunder, shall be governed by, construed
+and enforced in accordance with the laws of the State of Washington without
+regard to principles of conflicts of laws. In the event any provision of this
+Agreement or the application of any such provision to any party shall be held by
+a court of competent jurisdiction to be contrary to law, the remaining
+provisions of this Agreement shall remain in full force and effect.
+
+        3.4 Notices. All notices, requests, consents, and demands shall be in
+writing and shall be deemed to have been sufficiently given if sent, postage
+prepaid, by registered or certified mail, return receipt requested, to the
+Company at RealNetworks, Inc., 1111 Third Avenue, Suite 500, Seattle, WA 98101,
+Attention: President, with a second copy addressed separately to the General
+Counsel; to the Investors at the addresses listed in Exhibits A and B and to
+Microsoft at Microsoft Corporation, One Microsoft Way, Redmond, Washington
+98052-6399, Attention: Robert A. Eshelman, Assistant Secretary; or to such other
+address as may from time to time be furnished in writing to the other parties
+hereto.
+
+        3.5 Counterparts. This Agreement may be executed in counterparts, each
+of which shall be deemed an original, but all of which together shall constitute
+one and the same instrument.
+
+
+
+
+
+                                      -13-
+<PAGE>   17
+
+        3.6 Captions. The captions and headings of this Agreement are for
+convenience only and are not to be construed as defining or limiting the scope
+or intent of any of the provisions hereof.
+
+        IN WITNESS WHEREOF, the parties hereto have executed this Agreement as
+of the date first set forth above.
+
+
+
+                                        REALNETWORKS, INC.
+
+
+                                        By: ____________________________________
+                                        Its: ___________________________________
+
+
+The undersigned, who are parties to that certain Second Amended and Restated
+Investors' Rights Agreement dated July 21, 1997 (the "Agreement"), hereby
+consent to amend and restate such Agreement in its entirety as set forth in this
+Third Amended and Restated Investors' Rights Agreement:
+
+
+
+                                        INVESTOR: ______________________________
+                                                       (Please Print Name)
+
+
+                                        By: ____________________________________
+                                        Its: ___________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+                                      -14-
+
+
+<PAGE>   18
+
+                                    EXHIBIT A
+
+                        FORMER SERIES B PREFERRED HOLDERS
+
+                                Name and Address
+
+Phillip Barrett
+13224 - 178th N.E.
+Redmond, WA  98052
+
+Howard P. Welt
+820 - 34th Avenue E.
+Seattle, WA  98112
+
+Jeanine Tang
+16015 Olympic Drive N.W.
+Seattle, WA  98177
+
+Elaine Yeomelakis
+3 Spruce Street
+Stoneham, MA  02180
+
+Julius and Barbara Glaser TR U/A 09-03-91
+Julius and Barbara Glaser, Trustees
+424 Trail Ridge Place
+Santa Rosa, California  95409
+
+Martha E. Glaser
+7720 Bodega Avenue, #11
+Sebastapol, CA  95472
+
+Rob Glaser
+c/o RealNetworks, Inc.
+1111 Third Avenue, Suite 2900
+Seattle, Washington  98101-3207
+
+Dennis L. Heck
+1518 South Columbia
+Olympia, Washington  98501
+
+Mitchell Kapor
+Kapor Enterprises, Inc.
+238 Main Street, Suite 400
+Cambridge, Massachusetts  02142
+
+
+
+
+
+<PAGE>   19
+
+Michael B. Slade
+3732 East High Lane
+Seattle, Washington  98112
+
+
+
+
+
+
+<PAGE>   20
+
+                        FORMER SERIES C PREFERRED HOLDERS
+
+                                Name and Address
+
+Accel IV L.P.
+c/o Accel Partners
+428 University Avenue
+Palo Alto, CA  94301
+Attn: James W. Breyer
+
+Accel Keiretsu L.P.
+c/o Accel Partners
+428 University Avenue
+Palo Alto, CA  94301
+Attn: James W. Breyer
+
+Accel Investors '95 L.P.
+c/o Accel Partners
+428 University Avenue
+Palo Alto, CA  94301
+Attn: James W. Breyer
+
+Ellmore C. Patterson Partners
+c/o Accel Partners
+428 University Avenue
+Palo Alto, CA  94301
+Attn: James W. Breyer
+
+Jeanine Tang
+16015 Olympic Drive N.W.
+Seattle, WA  98177
+
+Julius and Barbara Glaser TR U/A 09-03-91
+Julius and Barbara Glaser, Trustees
+424 Trail Ridge Place
+Santa Rosa, CA  95409
+
+Martha E. Glaser
+7720 Bodega Avenue, #11
+Sebastapol, CA 95472
+
+Rob Glaser
+c/o RealNetworks, Inc.
+1111 Third Avenue, Suite 2900
+Seattle, WA  98101-3207
+
+
+
+
+
+
+<PAGE>   21
+
+Dennis L. Heck
+1518 South Columbia
+Olympia, WA  98501
+
+Mitchell Kapor
+Kapor Enterprises, Inc.
+238 Main Street, Suite 400
+Cambridge, MA  02142
+
+Michael B. Slade
+3732 East High Lane
+Seattle, WA  98112
+
+Howard P. Welt
+820 - 34th Avenue E.
+Seattle, WA  98112
+
+
+<PAGE>   22
+
+                        FORMER SERIES D PREFERRED HOLDERS
+
+                                Name and Address
+
+Bayview Investors, Ltd.
+555 California St.
+San Francisco, CA 94104
+Attn:  Jennifer Sherrill
+
+IPG Network, Inc.
+1700 Montgomery Street, Suite 420
+San Francisco, CA  94111
+Attn:  Yoshiteru Sagiya
+
+Ziff Asset Management, L.P.
+153 E. 53rd St., 43rd Floor
+New York, NY 10022
+Attn:  Philip B. Korsant
+
+Technology Crossover Ventures, L.P.
+56 Main Street, Suite 210
+Millburn, NJ  07041
+Attn:  Robert C. Bensky
+
+Technology Crossover Ventures, C.V.
+56 Main Street, Suite 210
+Millburn, NJ  07041
+Attn:  Robert C. Bensky
+
+Accel IV L.P.
+428 University Avenue
+Palo Alto, CA  94301
+Attn: James W. Breyer
+
+Accel Keiretsu L.P.
+428 University Avenue
+Palo Alto, CA  94301
+Attn: James W. Breyer
+
+Accel Investors '95 L.P.
+428 University Avenue
+Palo Alto, CA  94301
+Attn.:  James W. Breyer
+
+
+
+<PAGE>   23
+
+Ellmore C. Patterson Partners
+c/o Accel Partners
+428 University Avenue
+Palo Alto, CA  94301
+Attn.:  James W. Breyer
+
+Velocity Technology and
+Communications Trust B
+260 Hamilton Avenue, Suite 212
+Palo Alto, CA 94301
+Attn:  Andy Kessler
+
+Dennis L. Heck
+1518 S. Columbia
+Olympia, WA 98501
+
+Norma Ann Crampton
+820 - 34th Avenue E.
+Seattle, WA 98112
+
+Elaine Yeomelakis
+3 Spruce Street
+Stoneham, MA  02180
+
+Jeanine Tang
+16015 Olympic Drive N.W.
+Seattle, WA  98177
+
+Rob Glaser
+c/o RealNetworks, Inc.
+1111 Third Avenue, Suite 2900
+Seattle, WA 98101-3207
+
+Merrill Lynch KECALP L.P. 1994
+Attn.:  Robert Tully
+World Financial Center, South Tower
+225 Liberty Street
+New York, NY  10080
+
+CSK Venture Capital Co., Ltd.
+Kenchiku Kaikan, 7th Floor
+26-20 Shiba, 5-chome, Minato-ku
+Tokyo 105, Japan
+Attn:  Kenji Suzuki
+
+
+
+
+
+<PAGE>   24
+
+CSK Corporation
+Shinjuku Sumitomo Bldg.
+2-6-1 Nishi-Shinjuku, Shinjuku-ku
+Tokyo 163-02 Japan
+Attn:  Tadashi Fujisawa
+
+Encompass Group, Inc.
+Suite 205
+4040 Lake Washington Blvd. N.E.
+Kirkland, WA 98033
+Attn:  Yasuki Matsumoto
+
+Trans Cosmos USA, Inc.
+Suite 205
+4040 Lake Washington Blvd. N.E.
+Kirkland, WA 98033
+Attn.:  Yasuki Matsumoto
+
+The Goldman Sachs Group, L.P.
+c/o Goldman Sachs & Co.
+85 Broad Street, 19th Floor
+New York, NY 10004
+Attn:  Joseph Gleberman
+
+Mitchell Kapor
+c/o Kapor Enterprises
+238 Main Street, Suite 400
+Cambridge, MA 02142
+
+Peter J. Rubin Trustee,
+PSP and Trust
+PS Plan DTD 11/14/96,
+FBO Peter J. Rubin
+400 Seward Square, S.E., Apt. 42
+Washington, DC 20003
+
+
+<PAGE>   25
+
+
+                                    EXHIBIT B
+
+                                VIVO SHAREHOLDERS
+
+Accel IV L.P.
+Accel Japan L.P.
+Accel Investors '93 L.P.
+Accel Keiretsu L.P.
+Prosper Partners
+Ellmore C. Patterson Partners
+St Paul Venture Capital IV, LLC
+St Paul Venture Capital Affiliates Fund I, LLC
+Morgenthaler Venture Partners III
+Matrix Partners III L.P.
+CMP Media Inc.
+PictureTel Corp.
+Sigma Partners III
+Sigma Associates III
+Sigma Investors III
+Gardner Hendrie
+Susanne Lilly Hutcheson Trust
+David M Lilly
+Flach & Associates
+James Flach
+Staffan Ericsson
+Anthony Antonuccio
+Bernd Girod
+Zenas Hutcheson
+Mark Bretl
+Daud Power
+Oliver Jones
+Peter Zaballos
+Dean Wiltse
+John Bruder
+George Madaus
+Roz Hoffman
+John Carlton
+Andreas Wanka
+Joseph Rovine
+Lesley Peebles
+Enna Rojas
+Stephanie Woiciechowski
+Bin Zhang
+Corinne Howard
+Vadim Matskin
+
+
+
+
+<PAGE>   26
+

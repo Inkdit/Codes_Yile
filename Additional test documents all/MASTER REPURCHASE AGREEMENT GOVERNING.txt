@@ -1,0 +1,1454 @@
+﻿MASTER REPURCHASE AGREEMENT GOVERNING
+
+                     PURCHASES AND SALES OF MORTGAGE LOANS
+
+                           Dated as of June 11, 1998
+
+
+                                    Between
+
+                         LEHMAN COMMERCIAL PAPER INC.,
+
+                                   as Buyer
+
+                                      and
+
+                           NOVASTAR FINANCIAL, INC.,
+
+                                   as Seller
+
+1.   APPLICABILITY
+
+From time to time, the parties hereto may, subject to the terms hereof, enter
+into transactions in which Novastar Financial, Inc. ("Seller") agrees to
+transfer to Lehman Commercial Paper Inc. ("Buyer") Mortgage Loans against the
+transfer of funds by Buyer, with a simultaneous agreement by Buyer to transfer
+to Seller such Mortgage Loans at a date certain not later than the date of
+transfer specified in the Confirmation, against the transfer of funds by Seller.
+Each such transaction shall be referred to herein as a "Transaction" and shall
+be governed by this Agreement and the related Confirmation, unless otherwise
+agreed in writing. This Agreement does not constitute a commitment of Buyer or
+Seller to enter into Transactions but rather sets forth the procedures to be
+followed in connection with requests to enter into Transactions by Seller to
+Buyer. Seller hereby acknowledges that Buyer is under no obligation to agree to
+enter into Transactions under this Agreement.
+
+2.   DEFINITIONS
+
+"Act of Insolvency" means, with respect to any party and its Affiliates, (i) the
+filing of a petition, commencing, or authorizing the commencement of any case or
+proceeding under any bankruptcy, insolvency, reorganization, liquidation,
+dissolution or similar law relating to the protection of creditors, or suffering
+any such petition or proceeding to be commenced by another which is consented
+to, not timely contested or results in entry of an order for relief; (ii) the
+seeking the
+<PAGE>
+ 
+appointment of a receiver, trustee, custodian or similar official for such party
+or an Affiliate or any substantial part of the property of either, (iii) the
+appointment of a receiver, conservator, or manager for such party or an
+Affiliate by any governmental agency or authority having the jurisdiction to do
+so; (iv) the making or offering by such party or an Affiliate of a composition
+with its creditors or a general assignment for the benefit of creditors, (v) the
+admission by such party or an Affiliate of such party of its inability to pay
+its debts or discharge its obligations as they become due or mature; or (vi)
+that any governmental authority or agency or any person, agency or entity acting
+or purporting to act under governmental authority shall have taken any action to
+condemn, seize or appropriate, or to assume custody or control of, all or any
+substantial part of the property of such party or of any of its Affiliates, or
+shall have taken any action to displace the management of such party or of any
+of its Affiliates or to curtail its authority in the conduct of the business of
+such party or of any of its Affiliates.
+
+"Additional Loans" means Mortgage Loans or cash provided by Seller to Buyer or
+its designee pursuant to Section 4(a).
+
+"Affiliate" means an affiliate of a party as such term is defined in the United
+States Bankruptcy Code in effect from time to time.
+
+"Agency" means FNMA, FHLMC or GNMA.
+
+"Agreement" means this Master Repurchase Agreement Governing Purchases and Sales
+of Mortgage Loans between Buyer and Seller, as amended from time to time.
+
+"Balloon Mortgage Loan" means any Mortgage Loan that provided on the date of
+origination for scheduled payments by the Mortgagor based upon an amortization
+schedule extending beyond its maturity date.
+
+"Business Day" means a day other than (i) a Saturday or Sunday, or (ii) a day in
+which the New York Stock Exchange is authorized or obligated by law or executive
+order to be closed.
+
+"Buyer" has the meaning specified in Section 1.
+
+" "C" Loan" means a Mortgage Loan made by Seller to a Mortgagor with a "C"
+credit history which is underwritten in accordance with Seller's underwriting
+guidelines for "C" credit Mortgage Loans, a copy of which is attached as Exhibit
+VI hereto.
+
+"Collateral" has the meaning specified in Section 6.
+
+"Collateral Amount" means, with respect to any Transaction, the amount obtained
+by application of the applicable Collateral Amount Percentage to the related
+Repurchase Price for such Transaction.
+
+"Collateral Amount Percentage" means the amount set forth in the Confirmation
+which, in any event, (i) shall not be less than 103% with respect to all
+Mortgage Loans in determining whether 
+
+                                       2
+<PAGE>
+ 
+a Market Value Collateral Deficit exists pursuant to the first sentence of
+Section 4(a) hereof and (ii) shall not be less than 105% with respect to all
+Mortgage Loans in determining whether a Securitization Value Collateral Deficit
+exists pursuant to the second sentence of Section 4(a) hereof.
+
+"Collateral Deficit" means either a Market Value Collateral Deficit or a
+Securitization Value Collateral Deficit.
+
+"Collateral Information" means the following information with respect to each
+Mortgage Loan: (i) Seller's loan number, (ii) the Mortgagor's name, (iii) the
+address of the Mortgaged Property, (iv) the current interest rate, (v) the
+original balance, (vi) current balance as of the last day of the immediately
+preceding month, (vii) the principal paid to date, (viii) the appraisal value of
+the Mortgaged Property, (ix) whether interest rate is fixed or adjustable (and
+if adjustable, the ARM terms, including the index, spread, adjustment frequency,
+next adjustment date, caps and floors), (x) whether the Mortgage Loan is
+convertible from ARM to fixed, (xi) the occupancy status of the Mortgaged
+Property (including whether owner occupied), (xii) whether the Mortgage Loan is
+a Balloon Loan, (xiii) the first payment date, (xiv) the maturity date, (xv) the
+principal and interest payment, (xvi) the property type of the Mortgaged
+Property, (xvii) the applicable credit grade, (xviii) the note date and (xix)
+whether the Mortgage Loan is a Wet Ink Mortgage Loan.
+
+"Confirmation" has the meaning specified in Section 3(a).
+
+"Custodial Agreement" means that certain custodial agreement, dated as of June
+11, 1998, by and among Buyer, Seller and the Custodian.
+
+"Custodial Delivery" means the form executed by Seller in order to deliver the
+Mortgage Loan Schedule and/or the Mortgage File to Buyer or its designee
+(including the Custodian) pursuant to Section 7, a form of which is attached
+hereto as Exhibit II. Such form shall indicate any Mortgage Loans which are Wet
+Ink Mortgage Loans.
+
+"Custodian" means the custodian under the Custodial Agreement. The initial
+custodian is First Union National Bank.
+
+" "D" Loan" means a Mortgage Loan made by Seller to a Mortgagor with a "D"
+credit history which is underwritten in accordance with Seller's underwriting
+guidelines for "D" credit Mortgage Loans, a copy of which is attached as Exhibit
+VI hereto.
+
+"Delinquent" means, with respect to any Mortgage Loan, the period of time from
+the date on which a Mortgagor fails to pay an obligation under the terms of such
+Mortgage Loan (without regard to any applicable grace periods) to the date on
+which such payment is made.
+
+"Event of Default" has the meaning specified in Section 13.
+
+"First Mortgage" means a Mortgage that is a first lien on the Mortgaged
+Property.
+
+                                       3
+<PAGE>
+ 
+"FHLMC" means the Federal Home Loan Mortgage Corporation.
+
+"FNMA" means the Federal National Mortgage Association.
+
+"GNMA" means the Government National Mortgage Association.
+
+"Hedge" means, with respect to any or all of the Purchased Mortgage Loans, any
+interest rate swap, cap or collar agreement or similar arrangements providing
+for protection against fluctuations in interest rates or the exchange of nominal
+interest obligations, either generally or under specific contingencies, entered
+into by Seller with Buyer or its Affiliates, and reasonably acceptable to the
+Buyer.
+
+"HUD" means the United States Department of Housing and Urban Development.
+
+"Income" means, with respect to any Purchased Mortgage Loan at any time, any
+principal thereof then payable and all interest, dividends or other
+distributions payable thereon less any related servicing fee(s) charged by a
+subservicer.
+
+"LIBOR" means the London Interbank Offered Rate for one-month United States
+dollar deposits as set forth on page 3750 of Telerate as of 11:00 a.m., London
+time, on the date of determination.
+
+"Loan-to-Value Ratio" means with respect to any Mortgage Loan as of any date,
+the fraction, expressed as a percentage, the numerator of which is the principal
+balance of such Mortgage Loan at the date of determination and the denominator
+of which is the lower of (x) the sale price of the related Mortgaged Property or
+(y) the value of the related Mortgaged Property as set forth in the appraisal of
+such Mortgaged Property obtained in connection with the origination of such
+Mortgage Loan.
+
+"Market Value" means as of any date with respect to any Mortgage Loan, the price
+at which such Mortgage Loan could readily be sold as determined by Buyer in its
+sole discretion; provided, however, that Buyer shall not take into account, for
+purposes of calculating Market Value, any Mortgage Loan (i) which has been
+subject to consecutive Transactions for more than 270 days, (ii) which, together
+with the other Mortgage Loans subject to then outstanding Transactions, would
+cause the 30+ Delinquency Percentage to exceed 5.0%, (iii) which is a Wet Ink
+Mortgage Loan for more than 5 Business Days, (iv) which are more than 59 days
+Delinquent or (v) with respect to which there is a breach of a representation,
+warranty or covenant made by Seller in this Agreement that materially adversely
+affects Buyer's interest in such Mortgage Loan and which breach has not been
+cured.
+
+"Market Value Collateral Deficit" has the meaning specified in Section 4(a).
+
+"Mortgage" means a mortgage, deed of trust, deed to secure debt or other
+instrument, creating a valid and enforceable first or second lien on or a first
+or second priority ownership interest in an estate in fee simple in real
+property and the improvements thereon, securing a Mortgage Note or similar
+evidence of indebtedness.
+
+                                       4
+<PAGE>
+ 
+"Mortgage File" means the documents specified as the "Mortgage File" in Section
+7(d), together with any additional documents and information required to be
+delivered to Buyer or its designee (including the Custodian) pursuant to this
+Agreement.
+
+"Mortgage Loan" means (i) a non-securitized whole loan, namely a conventional
+mortgage loan secured by a first or second lien on a one to four family
+residential property which conforms to Seller's underwriting guidelines
+(including, without limitation, Wet-Ink Mortgage Loans) or (ii) another type of
+non-securitized whole loan as may be agreed upon in writing by the parties
+hereto from time to time.
+
+"Mortgage Loan Schedule" means a schedule of Mortgage Loans attached to each
+Trust Receipt, Confirmation and Custodial Delivery.
+
+"Mortgage Note" means a note or other evidence of indebtedness of a Mortgagor
+secured by a Mortgage.
+
+"Mortgaged Property" means the real property securing repayment of the debt
+evidenced by a Mortgage Note.
+
+"Mortgagee" means the record holder of a Mortgage Note secured by a Mortgage.
+
+"Mortgagor" means the obligor on a Mortgage Note and the grantor of the related
+Mortgage.
+
+"Periodic Payment" has the meaning specified in Section 5(b).
+
+"Person" means an individual, partnership, corporation, joint stock company,
+trust or unincorporated organization or a governmental agency or political
+subdivision thereof.
+
+"Price Differential" means, with respect to any Transaction hereunder as of any
+date, the aggregate amount obtained by daily application of the Pricing Rate for
+such Transaction to the Purchase Price for such Transaction on a 360 day per
+year basis for the actual number of days during the period commencing on (and
+including) the Purchase Date for such Transaction and ending on (but excluding)
+the Repurchase Date (reduced by any amount of such Price Differential previously
+paid by Seller to Buyer with respect to such Transaction).
+
+"Pricing Rate" means the per annum percentage rate specified in the Confirmation
+for determination of the Price Differential which shall not exceed LIBOR plus
+the applicable Pricing Spread.
+
+"Pricing Spread" means (x) [     ]%; provided that during any period for which
+any such Mortgage Loans are Wet Ink Mortgage Loans, the applicable Pricing
+Spread in respect of such Mortgage Loan shall be [    ]%.
+
+                                       5
+<PAGE>
+ 
+"Prime Rate" means the rate of interest published by The Wall Street Journal,
+northeast edition, as the "prime rate".
+
+"Purchase Date" means the date on which Purchased Mortgage Loans are transferred
+by Seller to Buyer or its designee (including the Custodian) as specified in the
+Confirmation.
+
+"Purchase Price" means, on each Purchase Date, the price at which Purchased
+Mortgage Loans are transferred by Seller to Buyer or its designee (including the
+Custodian), which, subject to compliance with the collateral maintenance
+requirements of Section 4, shall equal the outstanding principal amount of such
+Purchased Mortgage Loans; provided, however, that the Purchase Price of any
+Mortgage Loan shall not in any event exceed the outstanding principal amount
+thereof.
+
+"Purchased Mortgage Loans" means the Mortgage Loans sold by Seller to Buyer in a
+Transaction, any Additional Loans and any Substituted Mortgage Loans.
+
+"Replacement Loans" has the meaning specified in Section 14(b)(ii).
+
+"Repurchase Date" means the date on which Seller is to repurchase the Purchased
+Mortgage Loans from Buyer, including any date determined by application of the
+provisions of Sections 3 or 14, as specified in the Confirmation; provided that
+in no event shall such date be more than 30 days after the Purchase Date.
+
+"Repurchase Price" means the price at which Purchased Mortgage Loans are to be
+transferred from Buyer or its designee (including the Custodian) to Seller upon
+termination of a Transaction, which will be determined in each case (including
+Transactions terminable upon demand) as the sum of the Purchase Price and the
+Price Differential as of the date of such determination decreased by all cash,
+Income and Periodic Payments actually received by Buyer pursuant to Sections
+4(a), 5(a) and 5(b), respectively.
+
+"Second Mortgage" means a Mortgage that is a second lien on the Mortgaged
+Property.
+
+"Securitization Value" means, as of any date with respect to any Mortgage Loans,
+the price at which such Mortgage Loans could be securitized and sold in a
+securitization as determined by Buyer in its sole discretion; provided, however,
+that Buyer shall not take into account, for purposes of calculating
+Securitization Value, any Mortgage Loan (i) which has been subject to
+consecutive Transactions for more than 270 days, (ii) which, together with the
+other Mortgage Loans subject to then outstanding Transactions, would cause the
+30+ Delinquency Percentage to exceed 5.0%, (iii) which is a Wet Ink Mortgage
+Loan for more than 5 Business Days, (iv) which are more than 59 days Delinquent
+or (v) with respect to which there is a breach of a representation, warranty or
+covenant made by Seller in this Agreement that materially adversely affects
+Buyer's interest in such Mortgage Loan and which breach has not been cured.
+
+"Securitization Value Collateral Deficit" has the meaning specified in Section
+4(a).
+
+"Seller" has the meaning specified in Section 1.
+
+                                       6
+<PAGE>
+ 
+"Servicing Agreement" has the meaning specified in Section 25.
+
+"Servicing Records" has the meaning specified in Section 25.
+
+"Substituted Mortgage Loans" means any Mortgage Loans substituted for Purchased
+Mortgage Loans in accordance with Section 9 hereof.
+
+"30+ Delinquency Percentage" means the fraction, expressed as a percentage, the
+numerator of which is the aggregate Purchase Price of Purchased Mortgage Loans
+subject to then outstanding Transactions which are more than 30 days Delinquent
+and the denominator of which is the aggregate Purchase Price of all Purchased
+Mortgage Loans subject to then outstanding Transactions.
+
+"Transaction" has the meaning specified in Section 1.
+
+"Trust Receipt" means a trust receipt issued by Custodian to Buyer confirming
+the Custodian's possession of certain mortgage loan files which are the property
+of and held by Custodian for the benefit of the Buyer or the registered holder
+of such trust receipt.
+
+"Wet Ink Mortgage Loan" means a non-securitized whole loan, namely a
+conventional mortgage loan secured by a first or second lien on a one to four
+family residential property for which a  Mortgage File has not been delivered to
+the Custodian.
+
+3.   INITIATION; CONFIRMATION; TERMINATION;
+     MAXIMUM TRANSACTION AMOUNTS
+
+(a) An agreement to enter into a Transaction may be entered into orally or in
+writing at the initiation of either Buyer or Seller. In any event, Buyer shall
+confirm the terms of each Transaction by issuing a written confirmation to
+Seller promptly after the parties enter into such Transaction in the form of
+Exhibit I attached hereto (a "Confirmation"). Such Confirmation shall describe
+the Purchased Mortgage Loans, identify Buyer and Seller and set forth (i) the
+Purchase Date, (ii) the Purchase Price, (iii) the Repurchase Date, unless the
+Transaction is to be terminable on demand, (iv) the Pricing Rate applicable to
+the Transaction, (v) the applicable Collateral Amount Percentages and (vi)
+additional terms or conditions not inconsistent with this Agreement. After
+receipt of the Confirmation, Seller shall, upon its approval thereof and subject
+to the provisions of subsection (c) below, sign the Confirmation and promptly
+return it to Buyer. With respect to any Transaction, Seller must sell Buyer
+sufficient number of Mortgage Loans such that the Purchase Price for such
+Transaction shall exceed $1,000,000.
+
+(b) Any Confirmation sent by Buyer shall be deemed to have been received by
+Seller on the date actually received by Seller.
+
+(c) Each Confirmation, together with this Agreement, shall be conclusive
+evidence of the terms of the Transaction(s) covered thereby unless objected to
+in writing by Seller no more than two (2) Business Days after the date the
+Confirmation was received by Seller or unless a corrected
+
+                                       7
+<PAGE>
+ 
+Confirmation is sent by Buyer. An objection sent by Seller must state
+specifically that such writing is an objection, must specify the provision(s)
+being objected to by Seller, must set forth such provision(s) in the manner that
+the Seller believes they should be stated, and must be received by Buyer no more
+than two (2) Business Days after the Confirmation was received by Seller.
+
+(d) In the case of Transactions terminable upon demand, such demand shall be
+made by Seller by telephone or otherwise, no later than 4:00 p.m. (New York
+Time) on the Business Day prior to the day on which such termination will be
+effective.
+
+(e) On the Repurchase Date, termination of the Transaction will be effected by
+transfer to Seller or its designee of the Purchased Mortgage Loans (and any
+Income in respect thereof received by Buyer not previously credited or
+transferred to, or applied to the obligations of, Seller pursuant to Section 5)
+against the simultaneous transfer of the Repurchase Price to an account of
+Buyer. Seller is obligated to obtain the Mortgage Files from Buyer or its
+designee at Seller's expense on the Repurchase Date.
+
+(f) With respect to all Transactions hereunder, the aggregate Purchase Price for
+all Purchased Mortgage Loans at any one time subject to then outstanding
+Transactions under this Agreement shall not exceed $200,000,000.
+
+(g) The aggregate Purchase Price of all Purchased Mortgage Loans which are
+secured by a Wet Ink Mortgage Loans shall not represent more than 10% of the
+aggregate Purchase Price for all Purchased Mortgage Loans which are subject to
+then outstanding Transactions.
+
+(h) The aggregate Purchase Price of all Purchased Mortgage Loans which are
+secured by a Second Mortgage shall not represent more than 10% of the aggregate
+Purchase Price for all Purchased Mortgage Loans which are subject to then
+outstanding Transactions.
+
+4.   COLLATERAL AMOUNT MAINTENANCE
+
+(a) If at any time the aggregate Market Value of all Purchased Mortgage Loans
+subject to then outstanding Transactions is less than the aggregate Collateral
+Amount for all such Transactions (a "Market Value Collateral Deficit"), then
+Buyer may by notice to Seller require Seller to transfer to Buyer or its
+designee (including the Custodian) Mortgage Loans ("Additional Loans") or cash,
+so that the cash and aggregate Market Value of the Purchased Mortgage Loans,
+including any such Additional Loans, will thereupon equal or exceed the
+aggregate Collateral Amount. If at any time the aggregate Securitization Value
+of all Mortgage Loans subject to then outstanding Transactions is less than the
+aggregate Collateral Amount for all such Transactions (a "Securitization Value
+Collateral Deficit"), then Buyer may by notice to Seller require Seller to
+transfer to Buyer or its designee (including the Custodian) Additional Loans or
+cash, so that the cash and aggregate Securitization Value of such Mortgage
+Loans, including any such Additional Loans, will thereupon equal or exceed the
+aggregate Collateral Amount.
+
+(b) Notice required pursuant to subsection (a) above may be given by any means
+of telecopier or telegraphic transmission. A notice for the payment or delivery
+in respect of a Collateral Deficit received before 9:00 a.m. on a Business Day,
+local time of the party receiving the notice, must be met not later than 5:00
+p.m. on the Business Day on which the notice was given, local time of the party
+receiving the notice. Any notice given on a Business Day after 9:00 a.m., local
+time of the party receiving the notice, shall be met not later than 2:00 p.m.
+(New York time) on the following Business Day. The failure of Buyer, on any one
+or more occasions, to exercise its rights under subsection (a) of this Section
+shall not change or alter the terms and conditions to which this Agreement is
+subject or limit the right of the Buyer to do so at a later date. Buyer and
+
+                                       8
+<PAGE>
+ 
+Seller agree that a failure or delay to exercise its rights under subsections
+(a) of this Section shall not limit Buyer's rights under this Agreement or
+otherwise existing by law or in any way create additional rights for Seller.
+
+(c) In the event that Seller fails to comply with the provisions of this Section
+4, Buyer shall not enter into any additional Transactions hereunder after the
+date of such failure.
+
+5.   INCOME PAYMENTS
+
+(a) Where a particular Transaction's term extends over an Income payment date on
+the Purchased Mortgage Loans subject to that Transaction such Income shall, so
+long as no Event of Default with respect to Seller shall have occurred and be
+continuing, be the property of Seller, and Seller shall be entitled to all
+Income with respect to Purchased Mortgage Loans subject to Transactions. Upon
+the occurrence and continuance of an Event of Default, all Income with respect
+to Purchased Mortgage Loans subject to Transactions shall be held in a
+segregated account established by the Custodian for the benefit of Buyer and
+distributed under the Custodial Agreement.
+
+(b)  Notwithstanding that Buyer and Seller intend that the Transactions
+hereunder be sales to Buyer of the Purchased Mortgage Loans, Seller shall pay by
+wire transfer to Buyer the accreted value of the Price Differential (less any
+amount of such Price Differential previously paid by Seller to Buyer)(each such
+payment, a "Periodic Payment") on the first Business Day of each month.
+
+(c)  Buyer shall offset against the Repurchase Price of each such Transaction
+all Income and Periodic Payments actually received by Buyer pursuant to Sections
+5(a) and (b), respectively.
+
+6.   SECURITY INTEREST
+
+(a) Buyer and the Seller intend that the Transactions hereunder be sales to
+Buyer of the Purchased Mortgage Loans and not loans from Buyer to Seller secured
+by the Purchased Mortgage Loans. However, in order to preserve Buyer's rights
+under this Agreement in the event that a court or other forum recharacterizes
+the Transactions hereunder as loans and as security for the performance by
+Seller of all of Seller's obligations to Buyer under this Agreement and the
+Transactions entered into pursuant to this Agreement, Seller grants Buyer a
+first priority security interest in the Purchased Mortgage Loans, Servicing
+Records, insurance relating to the Purchased Mortgage Loans, Income, any and all
+Hedges, any and all custodial accounts and escrow accounts relating to the
+Purchased Mortgage Loans and any other contract rights, general intangibles and
+other assets relating to the Purchased Mortgage Loans or any interest in the
+Purchased Mortgage Loans and the servicing of the Purchased Mortgage Loans and
+any and all replacements, substitutions, distributions on or proceeds of any and
+all of the foregoing (collectively, the "Collateral").
+
+(b) Seller shall pay all reasonable fees and expenses associated with perfecting
+Buyer's security interest in the Collateral, including, without limitation, the
+cost of filing financing statements under the Uniform Commercial Code and
+recording assignments of Mortgage, as and when required by Buyer in its sole
+discretion.
+
+(c) Seller covenants to take such further actions as are necessary in order to
+perfect Buyer's first priority security interest in the Hedges.
+
+7.   PAYMENT, TRANSFER AND CUSTODY
+
+                                       9
+<PAGE>
+ 
+(a) Unless otherwise mutually agreed in writing, all transfers of funds
+hereunder shall be in immediately available funds.
+
+(b) On or before each Purchase Date, Seller shall deliver or cause to be
+delivered to Buyer or its designee the Custodial Delivery in the form attached
+hereto as Exhibit II.
+
+(c) On the Purchase Date for each Transaction, ownership of the Purchased
+Mortgage Loans shall be transferred to the Buyer or its designee (including the
+Custodian) against the simultaneous transfer of the Purchase Price to an account
+of Seller specified in the Confirmation. Seller, simultaneously with the
+delivery to Buyer or its designee (including the Custodian) of the Purchased
+Mortgage Loans relating to each Transaction hereby sells, transfers, conveys and
+assigns to Buyer or its designee (including the Custodian) without recourse, but
+subject to the terms of this Agreement, all the right, title and interest of
+Seller in and to the Purchased Mortgage Loans together with all right, title and
+interest in and to the proceeds of any related insurance policies.
+
+(d) In connection with each sale, transfer, conveyance and assignment, on or
+prior to each Purchase Date with respect to each Mortgage Loan which is not a
+Wet Ink Mortgage Loan (or with respect to item (vii) below within five Business
+Days after the Purchase Date), the Seller shall deliver or cause to be delivered
+and released to the Custodian the following original documents (collectively the
+"Mortgage File"), pertaining to each of the Purchased Mortgage Loans identified
+in the Custodial Delivery delivered therewith:
+
+     (i)    the original Mortgage Note bearing all intervening endorsements,
+     endorsed "Pay to the order of ________ without recourse" and signed in the
+     name of the last endorsee (the "Last Endorsee") by an authorized officer of
+     such entity;
+
+     (ii)   the original of any guarantee executed in connection with the
+     Mortgage Note (if any);
+
+     (iii)  the original Mortgage with evidence of recording thereon or copies
+     certified by Seller to have been sent for recording;
+
+     (iv)   the originals of all assumption, modification, consolidation or
+     extension agreements, if any, with evidence of recording thereon or copies
+     certified by Seller to have been sent for recording;
+
+     (v)    the original assignment of Mortgage in blank for each Mortgage Loan,
+     in form and substance acceptable for recording and signed in the name of
+     the Last Endorsee (in the event that the Mortgage Loan was acquired by the
+     Last Endorsee in a merger, the signature must be in the following form:
+     "[the Last Endorsee], successor by merger to [name of predecessor]"; in the
+     event that the Mortgage Loan was acquired or originated while doing
+     business under another name, the signature must be in the following form:
+     "[the Last Endorsee], formerly known as [previous name]");
+
+     (vi)   the originals of all intervening assignments of mortgage with
+     evidence of recording thereon or copies certified by Seller to have been
+     sent for recording;
+
+     (vii)  the original policy of title insurance or a true copy thereof or, if
+     such policy has not yet been delivered by the insurer, the commitment or
+     binder to issue the same; and
+
+     (viii) the original of any security agreement, chattel mortgage or
+     equivalent document executed in connection with the Mortgage (if any).
+
+                                       10
+<PAGE>
+ 
+(e)  In connection with each sale, transfer, conveyance and assignment with
+respect to each Mortgage Loan which is a Wet Ink Mortgage Loan, on or prior to
+the fifth Business Day following each Purchase Date, Seller shall deliver or
+cause to be delivered to the Custodian a complete Mortgage File. Further, if
+requested by Buyer, on the Purchase Date with respect to each Mortgage Loan
+which is a Wet Ink Mortgage Loan, Seller shall fax an executed copy of the
+respective Mortgage Note to the Custodian. On the date on which the Buyer
+receives a Trust Receipt from the Custodian certifying that a complete Mortgage
+File with respect to a Wet Ink Mortgage Loan is in the possession of the
+Custodian, such Wet Ink Mortgage Loan be deemed a standard Mortgage Loan (and no
+longer a Wet Ink Mortgage Loan) for all purposes hereunder including, without
+limitation, determination of the Pricing Spread and compliance with subsection
+(aaa) of Exhibit V.
+
+(f)  With respect to all of the Mortgage Loans delivered by Seller to Buyer or
+its designee (including the Custodian), Seller shall execute an omnibus power of
+attorney substantially in the form of Exhibit III attached hereto irrevocably
+appointing Buyer its attorney-in-fact with full power to complete and record the
+assignment of Mortgage, complete the endorsement of the Mortgage Note and take
+such other steps as may be necessary or desirable to enforce Buyer's rights
+against such Mortgage Loans, the related Mortgage Files and the Servicing
+Records.
+
+(g)  Buyer shall deposit the Mortgage Files representing the Purchased Mortgage
+Loans, or direct that the Mortgage Files be deposited directly, with the
+Custodian. The Mortgage Files shall be maintained in accordance with the
+Custodial Agreement.
+
+(h)  Any Mortgage Files not delivered to Buyer or its designee (including the
+Custodian) are and shall be held in trust by Seller or its designee for the
+benefit of Buyer as the owner thereof. Seller or its designee shall maintain a
+copy of the Mortgage File and the originals of the Mortgage File not delivered
+to Buyer or its designee. The possession of the Mortgage File by Seller or its
+designee is at the will of the Buyer for the sole purpose of servicing the
+related Purchased Mortgage Loan, and such retention and possession by the Seller
+or its designee is in a custodial capacity only. The books and records
+(including, without limitation, any computer records or tapes) of Seller or its
+designee shall be marked appropriately to reflect clearly the sale of the
+related Purchased Mortgage Loan to Buyer. Seller or its designee (including the
+Custodian) shall release its custody of the Mortgage File only in accordance
+with written instructions from Buyer, unless such release is required as
+incidental to the servicing of the Purchased Mortgage Loans or is in connection
+with a repurchase of any Purchased Mortgage Loan by Seller.
+
+8.   REHYPOTHECATION OR PLEDGE OF PURCHASED MORTGAGE LOANS
+
+Title to all Purchased Mortgage Loans shall pass to Buyer and Buyer shall have
+free and unrestricted use of all Purchased Mortgage Loans. Nothing in this
+Agreement shall preclude Buyer from engaging in repurchase transactions with the
+Purchased Mortgage Loans or otherwise pledging, repledging, hypothecating, or
+rehypothecating the Purchased Mortgage Loans, but no such transaction shall
+relieve Buyer of its obligations to transfer Purchased Mortgage Loans to Seller
+pursuant to Section 3. Nothing contained in this Agreement shall obligate Buyer
+to segregate any Purchased Mortgage Loans delivered to Buyer by Seller.
+
+9.   SUBSTITUTION
+
+(a)  Subject to Section 9(b), Seller may, upon not less than one (1) Business
+Days' written notice to Buyer, with a copy to Custodian, substitute other
+Mortgage Loans for any Purchased Mortgage Loans. Such substitution shall be made
+by transfer to Buyer or its designee (including the Custodian) of the Mortgage
+Files of such other Mortgage Loans together with a Custodial Delivery and
+transfer to Seller or its designee of the Purchased Mortgage Loans requested for
+
+                                       11
+<PAGE>
+ 
+release. After substitution, the substituted Mortgage Loans, shall be deemed to
+be Purchased Mortgage Loans subject to the same Transaction as the released
+Mortgage Loans.
+
+(b)  Notwithstanding anything to the contrary in this Agreement, Seller may not
+substitute other Mortgage Loans for any Purchased Mortgage Loans (i) if after
+taking into account such substitution, a Collateral Deficit would occur or (ii)
+such substitution would cause a breach of any provision of this Agreement.
+
+10.  REPRESENTATIONS AND WARRANTIES
+
+(a)  Each of Buyer and Seller represents and warrants to the other that (i) it
+is duly authorized to execute and deliver this Agreement, to enter into the
+Transactions contemplated hereunder and to perform its obligations hereunder and
+has taken all necessary action to authorize such execution, delivery and
+performance; (ii) it will engage in such Transactions as principal; (iii) the
+person signing this Agreement on its behalf is duly authorized to do so on its
+behalf; (iv) this Agreement is legal, valid and binding obligation of it,
+enforceable against it in accordance with its terms, (v) no approval, consent or
+authorization of the Transactions contemplated by this Agreement from any
+federal, state, or local regulatory authority having jurisdiction over it is
+required or, if required, such approval, consent or authorization has been or
+will, prior to the Purchase Date, be obtained; (vi) the execution, delivery, and
+performance of this Agreement and the Transactions hereunder will not violate
+any law, regulation, order, judgment, decree, ordinance, charter, by-law, or
+rule applicable to it or its property or constitute a default (or an event
+which, with notice or lapse of time, or both would constitute a default) under
+or result in a breach of any agreement or other instrument by which it is bound
+or by which any of its assets are affected; (vii) it has received approval and
+authorization to enter into this Agreement and each and every Transaction
+actually entered into hereunder pursuant to its internal policies and
+procedures; and (viii) neither this Agreement nor any Transaction pursuant
+hereto are entered into in contemplation of insolvency or with intent to hinder,
+delay or defraud any creditor.
+
+(b)  Seller represents and warrants to Buyer that as of the Purchase Date for
+the purchase of any Purchased Mortgage Loans by Buyer from Seller and as of the
+date of this Agreement and any Transaction hereunder and at all times while this
+Agreement and any Transaction hereunder is in full force and effect:
+
+  (i)  Organization. Seller is duly organized, validly existing and in good
+       standing under the laws and regulations of the State of _________ and is
+       duly licensed, qualified, and in good standing in every state where
+       Seller transacts business and in any state where any Mortgaged Property
+       is located if the laws of such state require licensing or qualification
+       in order to conduct business of the type conducted by Seller therein.
+
+ (ii)  No Litigation. There is no action, suit, proceeding, arbitration or
+       investigation pending or threatened against Seller which, either in any
+       one instance or in the aggregate, may result in any material adverse
+       change in the business, operations, financial condition, properties or
+       assets of Seller, or in any material impairment of the right or ability
+       of Seller to carry on its business substantially as now conducted, or in
+       any material liability on the part of Seller, or which if adversely
+       determined would affect the validity of this Agreement or any of the
+       Purchased Mortgage Loans or of any action taken or to be taken in
+       connection with the obligations of Seller contemplated herein, or which
+       would be likely to impair materially the ability of Seller to perform
+       under the terms of this Agreement;
+
+                                       12
+<PAGE>
+ 
+ (iii)  No Broker. No broker, investment banker, agent, or other person (except
+        for Buyer) is entitled to any commission or compensation as a result of
+        Seller's actions in connection with the sale of Purchased Mortgage Loans
+        pursuant to this Agreement;
+
+ (iv)   Good Title to Collateral. Purchased Mortgage Loans shall be free and
+        clear of any lien, encumbrance or impediment to transfer, and Seller has
+        good, valid and marketable title and the right to sell and transfer such
+        Purchased Mortgage Loans to Buyer.
+
+ (v)    Delivery of Mortgage File. With respect to each of the Purchased
+        Mortgage Loans which is not a Wet Ink Mortgage Loan, the Mortgage Note,
+        the Mortgage, the assignment of Mortgage and any other documents
+        required to be delivered under this Agreement and the Custodial
+        Agreement for such Mortgage Loan has been delivered to the Custodian.
+        Seller or its designee is in possession of a complete, true and accurate
+        Mortgage File with respect to each Mortgage Loan, except for such
+        documents the originals of which have been delivered to the Custodian.
+
+ (vi)   Selection Process. Seller has not employed selection procedures that
+        identified Mortgage Loans relating to a Transactioon as being less
+        desirable or valuable than other comparable Mortgage Loans in Seller's
+        portfolio on the related Purchase Date.
+
+ (vii)  [Reserved].
+
+ (viii) No Untrue Statements. To the best of Seller's knowledge, neither this
+        Agreement nor any written statement made, or any report or other
+        document issued or delivered or to be issued or delivered by Seller
+        pursuant to this Agreement or in connection with the transactions
+        contemplated hereby contains any untrue statement of a material fact or
+        omits to state a material fact necessary to make the statements
+        contained herein or therein not misleading;
+
+ (ix)   Origination Practices. The origination practices used by Seller with
+        respect to each Mortgage Loan (i) have been and are in all respects
+        legal and proper in the mortgage origination business and (ii) are
+        either in accordance with (x) the underwriting guidelines attached
+        hereto as Exhibit VI or (y) such other underwriting guidelines as may be
+        approved by Buyer in connection with a bulk acquisition with the
+        exception of compensating factors which allow for reasonable exceptions;
+
+ (x)    Performance of Agreement. Seller does not believe, nor does it have any
+        reason or cause to believe, that it cannot perform each and every
+        covenant contained in this Agreement on its part to be performed;
+
+ (xi)   Seller Not Insolvent. Seller is not, and with the passage of time does
+        not expect to become, insolvent; and
+
+ (xii)  No Event of Default. No Event of Default has occurred and is continuing
+        hereunder.
+
+                                       13
+<PAGE>
+ 
+(c) Seller represents and warrants to the Buyer that each Purchased Mortgage
+Loan sold hereunder and each pool of Purchased Mortgage Loans sold in a
+Transaction hereunder, as of the related Purchase Date, conforms to the
+representations and warranties set forth in Exhibit V attached hereto and that
+each Mortgage Loan delivered hereunder as Additional Loans or Substituted
+Mortgage Loans, as of the date of such delivery, conforms to the representations
+and warranties set forth in Exhibit V hereto. Seller further represents and
+warrants to the Buyer that, as of the date of its delivery, the Collateral
+Information with respect to each Purchased Mortgage Loan is complete, true and
+correct in all material respects. It is understood and agreed that the
+representations and warranties set forth in Exhibit V hereto, if any, shall
+survive delivery of the respective Mortgage File to Buyer or its designee
+(including the Custodian).
+
+(d) On the Purchase Date for any Transaction, Buyer and Seller shall each be
+deemed to have made all the foregoing representations with respect to itself as
+of such Purchase Date.
+
+11.  NEGATIVE COVENANTS OF THE SELLER
+
+On and as of the date of this Agreement and each Purchase Date and until this
+Agreement is no longer in force with respect to any Transaction, Seller
+covenants that it will not:
+
+(a) take any action which would directly or indirectly impair or adversely
+affect Buyer's title to or the value of the Purchased Mortgage Loans;
+
+(b) pledge, assign, convey, grant, bargain, sell, set over, deliver or otherwise
+transfer any interest in the Purchased Mortgage Loans to any person not a party
+to this Agreement nor will the Seller create, incur or permit to exist any lien,
+encumbrance or security interest in or on the Purchased Mortgage Loans except as
+described in Section 6 of this Agreement; or
+
+(c) create, incur or permit to exist any lien, encumbrance or security interest
+in or on any of the Collateral without the prior express written consent of
+Buyer.
+
+12.  AFFIRMATIVE COVENANTS OF THE SELLER
+
+For so long as this Agreement is in effect:
+
+(a) Seller covenants that it will promptly notify Buyer of any material adverse
+change in its business operations and/or financial condition;
+
+(b) Seller shall provide Buyer with copies of such documentation as Buyer may
+reasonably request evidencing the truthfulness of the representations set forth
+in Section 10, including but not limited to resolutions evidencing the approval
+of this Agreement by Seller's board of directors or loan committee and copies of
+the minutes of the meetings of Seller's board of directors or loan committee at
+which this Agreement and the Transactions contemplated by this Agreement were
+approved;
+
+(c) Seller shall, at Buyer's request, take all action necessary to ensure that
+Buyer will have a first or second priority security interest, as applicable, in
+the Collateral, including, among other things, filing such Uniform Commercial
+Code financing statements as Buyer may reasonably request;
+
+(d) Seller shall notify Buyer no later than one (1) Business Day after obtaining
+actual knowledge thereof, if any event has occurred that constitutes an Event of
+Default with respect to Seller or any event that with the giving of notice or
+lapse of time, or both, would become an Event of Default with respect to Seller;
+
+                                       14
+<PAGE>
+ 
+(e) Seller covenants that each Mortgage Loan subject to this Agreement shall be
+serviced by an approved servicer in good standing with the Agencies;
+
+(f) Seller covenants to provide Buyer with a copy of any material changes to
+Seller's underwriting guidelines prior to the purchase of any such Mortgage Loan
+hereunder;
+
+(g) Seller covenants, upon request of Buyer after the occurrence of a Collateral
+Deficit, to enter into hedging transactions with respect to fixed rate Purchased
+Mortgage Loans in order to protect adequately, in the reasonable judgment of
+Seller against interest rate risks;
+
+(h) Seller covenants to provide Buyer on the first Business Day of each month,
+either by direct modem electronic transmission or via a computer diskette, the
+Collateral Information in computer readable format with respect to all Purchased
+Mortgage Loans then subject to Transactions; and
+
+(i) Seller covenants to provide Buyer with the following financial and reporting
+information:
+
+     (i) Within 90 days after the last day of its fiscal year, Seller's audited
+     consolidated and consolidating statements of income and statements of
+     changes in cash flow for such year and balance sheets as of the end of such
+     year in each case presented fairly in accordance with GAAP, and
+     accompanied, in all cases, by an unqualified report of Peat Marwick or
+     another nationally recognized independent certified public accounting firm
+     consented to by Buyer (which consent shall not be unreasonably withheld);
+
+     (ii) Within 60 days after the last day of the first three fiscal quarters
+     in any fiscal year, Seller's consolidated and consolidating statements of
+     income and statements of changes in cash flow for such quarter and balance
+     sheets as of the end of such quarter presented fairly in accordance with
+     GAAP;
+
+     (iii) Within 30 days after the last day of each calendar month an officer's
+     certificate from a senior officer of the Seller addressed to Buyer
+     certifying that, as of the last day such calendar month, (x) Seller is in
+     compliance in all material respects with all of the terms, conditions and
+     requirements of this Agreement, and (y) no Event of Default exists; and
+
+     (iv) As soon as available, copies of any proxy statements, financial
+     statements, and reports which Seller sends to its stockholders, and copies
+     of any regular, periodic and special reports, and all registration
+     statements under the Securities Act of 1933, as amended, which it files
+     with the Securities and Exchange Commission or any government authority
+     which may be substituted therefor, or with any national securities
+     exchange.
+
+13.  EVENTS OF DEFAULT
+
+(a) If any of the following events (each an "Event of Default") occur, Seller
+and Buyer shall have the rights set forth in Section 14, as applicable:
+
+  (i)  Seller or Buyer fails to satisfy or perform any material obligation or
+       covenant under this Agreement;
+
+  (ii) an Act of Insolvency occurs with respect to Seller or Buyer;
+
+                                       15
+<PAGE>
+ 
+  (iii)  any representation made by Seller or Buyer shall have been incorrect or
+         untrue in any material respect when made or repeated or deemed to have
+         been made or repeated;
+
+  (iv)   Seller or Buyer shall admit its inability to, or its intention not to,
+         perform any of its obligations hereunder;
+
+  (v)    any governmental, regulatory, or self-regulatory authority, including,
+         but not limited to, the Agencies, takes any action to remove, limit,
+         restrict, suspend or terminate the rights, privileges, or operations of
+         the Seller or any of its Affiliates, including suspension as an issuer,
+         lender or seller/servicer of mortgage loans, which suspension has a
+         material adverse effect on the ordinary business operations of Seller
+         or Seller's Affiliate, and which continues for more than 24 hours;
+
+  (vi)   Seller dissolves, merges or consolidates with another entity (unless
+         (A) it is the surviving party or (B) the entity into which it merges
+         has equity and a market value of at least that of the Seller
+         immediately prior to such merger and such entity expressly assumes the
+         obligations of the Seller at the time of such merger), or sells,
+         transfers, or otherwise disposes of a material portion of its business
+         or assets other than in the ordinary course of its business;
+
+  (vii)  Buyer, in its good faith judgment, believes that there has been a
+         material adverse change in the business, operations, corporate
+         structure or financial condition of Seller or that Seller will not meet
+         any of its obligations under any Transaction pursuant to this Agreement
+         or any other agreement between the parties;
+
+  (viii) Seller is in default under any other agreement to which it is a party,
+         provided, however, such a default shall not constitute an Event of
+         Default if the exercise of such remedies as are available to Seller's
+         counterparty with respect to such default would not result in a
+         material adverse change in the business operations or financial
+         condition of the Seller;
+
+  (ix)   A final judgment by any competent court in the United States of America
+         for the payment of money in an amount of at least $500,000 is rendered
+         against the Seller, and the same remains undischarged or unpaid for a
+         period of sixty (60) days during which execution of such judgment is
+         not effectively stayed;
+
+  (x)    This Agreement shall for any reason cease to create a valid, first
+         priority security interest in any of the Purchased Mortgage Loans
+         purported to be covered hereby;
+
+  (xi)   A Market Value Collateral Deficit or Securitization Value Collateral
+         Deficit occurs with respect to Seller or Buyer, as applicable, and is
+         not eliminated within the time period specified in Section 4(b); or
+
+  (xii)  An "event of default" has occurred pursuant to a Hedge.
+
+(b) In making a determination as to whether an Event of Default has occurred,
+the parties hereto shall be entitled to rely on reports published or broadcast
+by media sources believed by such
+
+                                       16
+<PAGE>
+ 
+party to be generally reliable and on information provided to it by any other
+sources believed by it to be generally reliable, provided that such party
+reasonably and in good faith believes such information to be accurate and has
+taken such steps as may be reasonable in the circumstances to attempt to verify
+such information.
+
+14.  REMEDIES
+
+(a)  If an Event of Default occurs with respect to Seller, the following rights
+and remedies are available to Buyer:
+
+  (i)   At the option of Buyer, exercised by written notice to Seller (which
+        option shall be deemed to have been exercised, even if no notice is
+        given, immediately upon the occurrence of an Act of Insolvency), the
+        Repurchase Date for each Transaction hereunder shall be deemed
+        immediately to occur,
+
+  (ii)  If Buyer exercises or is deemed to have exercised the option referred to
+        in subsection (a)(i) of this Section,
+
+        (A) Seller's obligations hereunder to repurchase all Purchased Mortgage
+        Loans in such Transactions shall thereupon become immediately due and
+        payable,
+
+        (B) to the extent permitted by applicable law, the Repurchase Price with
+        respect to each such Transaction shall be increased by the aggregate
+        amount obtained by daily application of, on a 360 day per year basis for
+        the actual number of days during the period from and including the date
+        of the exercise or deemed exercise of such option to but excluding the
+        date of payment of the Repurchase Price as so increased, (x) the greater
+        of the Prime Rate or the Pricing Rate for each such Transaction to (y)
+        the Repurchase Price for such Transaction as of the Repurchase Date as
+        determined pursuant to subsection (a)(i) of this Section (decreased as
+        of any day by (I) any amounts actually in the possession of Buyer
+        pursuant to clause (C) of this subsection, (II) any proceeds from the
+        sale of Purchased Mortgage Loans applied to the Repurchase Price
+        pursuant to subsection (a)(xii) of this Section, and (III) any amounts
+        applied to the Repurchase Price pursuant to subsection (a)(iii) of this
+        Section), and 
+
+        (C) all Income actually received by the Buyer or its designee (including
+        the Custodian) pursuant to Section 5 shall be applied to the aggregate
+        unpaid Repurchase Price owed by Seller.
+
+  (iii) After one Business Day's notice to Seller (which notice need not be
+        given if an Act of Insolvency shall have occurred, and which may be the
+        notice given under subsection (a)(i) of this Section), Buyer may (A)
+        immediately sell, without notice or demand of any kind, at a public or
+        private sale and at such price or prices Buyer may reasonably deem
+        satisfactory any or all Purchased Mortgage Loans subject to a
+        Transaction hereunder or (B) in its sole discretion elect, in lieu of
+        selling all or a portion of such Purchased Mortgage Loans, to give
+        Seller credit for such Purchased Mortgage Loans in an amount equal to
+        the Market Value of the Purchased Mortgage Loans against the aggregate
+        unpaid Repurchase Price and any other amounts owing by Seller hereunder.
+        The proceeds of any disposition of Purchased Mortgage Loans shall be
+        applied first to the reasonable costs and expenses incurred by Buyer in
+        connection with Seller's default; second to consequential damages,
+
+                                       17
+<PAGE>
+ 
+          including but not limited to costs of cover and/or related hedging
+          transactions; third to the Repurchase Price; and fourth to any other
+          outstanding obligation of Seller to Buyer or its Affiliates.
+
+  (iv)    The parties recognize that it may not be possible to purchase or sell
+          all of the Purchased Mortgage Loans on a particular Business Day, or
+          in a transaction with the same purchaser, or in the same manner
+          because the market for such Purchased Mortgage Loans may not be
+          liquid. In view of the nature of the Purchased Mortgage Loans, the
+          parties agree that liquidation of a Transaction or the underlying
+          Purchased Mortgage Loans does not require a public purchase or sale
+          and that a good faith private purchase or sale shall be deemed to have
+          been made in a commercially reasonable manner. Accordingly, Buyer may
+          elect, in its sole discretion, the time and manner of liquidating any
+          Purchased Mortgage Loan and nothing contained herein shall (A)
+          obligate Buyer to liquidate any Purchased Mortgage Loan on the
+          occurrence of an Event of Default or to liquidate all Purchased
+          Mortgage Loans in the same manner or on the same Business Day or (B)
+          constitute a waiver of any right or remedy of Buyer. However, in
+          recognition of the parties' agreement that the Transactions hereunder
+          have been entered into in consideration of and in reliance upon the
+          fact that all Transactions hereunder constitute a single business and
+          contractual relationship and that each Transaction has been entered
+          into in consideration of the other Transactions, the parties further
+          agree that Buyer shall use its best efforts to liquidate all
+          Transactions hereunder upon the occurrence of an Event of Default as
+          quickly as is prudently possible in the reasonable judgment of Buyer.
+
+  (v)     Buyer shall, without regard to the adequacy of the security for the
+          Seller's obligations under this Agreement, be entitled to the
+          appointment of a receiver by any court having jurisdiction, without
+          notice, to take possession of and protect, collect, manage, liquidate,
+          and sell the Collateral or any portion thereof, and collect the
+          payments due with respect to the Collateral or any portion thereof.
+          Seller shall pay all reasonable costs and expenses incurred by Buyer
+          in connection with the appointment and activities of such receiver.
+
+  (vi)    Seller agrees that Buyer may obtain an injunction or an order of
+          specific performance to compel Seller to fulfill its obligations as
+          set forth in Section 25, if Seller fails or refuses to perform its
+          obligations as set forth therein.
+
+  (vii)   Seller shall be liable to Buyer for the amount of all expenses,
+          reasonably incurred by Buyer in connection with or as a consequence of
+          an Event of Default, including, without limitation, reasonable legal
+          fees and expenses and reasonable costs incurred in connection with
+          hedging or covering transactions.
+
+  (viii)  Buyer shall have all the rights and remedies provided herein, provided
+          by applicable federal, state, foreign, and local laws (including,
+          without limitation, the rights and remedies of a secured party under
+          the Uniform Commercial Code of the State of New York, to the extent
+          that the Uniform Commercial Code is applicable, and the right to
+          offset any
+
+                                       18
+<PAGE>
+ 
+          mutual debt and claim), in equity, and under any other agreement
+          between Buyer and Seller.
+
+  (ix)    Buyer may exercise one or more of the remedies available to Buyer
+          immediately upon the occurrence of an Event of Default and, except to
+          the extent provided in subsections (a)(i) and (iii) of this Section,
+          at any time thereafter without notice to Seller. All rights and
+          remedies arising under this Agreement as amended from time-to-time
+          hereunder are cumulative and not exclusive of any other rights or
+          remedies which Buyer may have.
+
+  (x)     In addition to its rights hereunder, Buyer shall have the right to
+          proceed against any assets of Seller which may be in the possession of
+          Buyer or its designee (including the Custodian) including the right to
+          liquidate such assets and to set off the proceeds against monies owed
+          by Seller to Buyer pursuant to this Agreement. Buyer may set off cash,
+          the proceeds of the liquidation of the Purchased Mortgage Loans, any
+          Collateral or its proceeds, and all other sums or obligations owed by
+          Seller to Buyer against all of Seller's obligations to Buyer, whether
+          under this Agreement, under a Transaction, or under any other
+          agreement between the parties, or otherwise, whether or not such
+          obligations are then due, without prejudice to Buyer's right to
+          recover any deficiency. Any cash, proceeds, or property in excess of
+          any amounts due, or which Buyer reasonably believes may become due, to
+          it from Seller shall be returned to Seller after satisfaction of all
+          obligations of Seller to Buyer.
+
+  (xi)    Buyer may enforce its rights and remedies hereunder without prior
+          judicial process or hearing, and Seller hereby expressly waives any
+          defenses Seller might otherwise have to require Buyer to enforce its
+          rights by judicial process. Seller also waives any defense Seller
+          might otherwise have arising from the use of nonjudicial process,
+          enforcement and sale of all or any portion of the Collateral, or from
+          any other election of remedies. Seller recognizes that nonjudicial
+          remedies are consistent with the usages of the trade, are responsive
+          to commercial necessity and are the result of a bargain at arm's
+          length.
+
+  (xii)   Buyer and Seller hereby agree that sales of the Purchased Mortgage
+          Loans shall be deemed to include and permit the sales of Purchased
+          Mortgaged Loans pursuant to a securities offering.
+
+  (xiii)  Notwithstanding the foregoing remedies, if the Event of Default (other
+          than an Event of Default under Section 13(a)(xi)) arises from a breach
+          of any representation or warranty set forth in Sections 10(b)(iii),
+          (iv),(v), (vi) or (ix) or in Exhibit V attached hereto with respect to
+          a Purchased Mortgage Loan, then Seller may elect, subject to Buyer's
+          written consent (which consent shall not be unreasonably withheld or
+          delayed), to cure such default by repurchasing such Mortgage Loan or
+          substituting for such Mortgage Loan within two (2) Business Days of
+          such Event of Default, provided, however, that Seller shall not have
+          the right to make the foregoing election if such breach causes a
+          default with respect to Mortgage Loans that in the aggregate represent
+          ten percent (10%) or more of the aggregate Purchase Price of all
+          Purchased Mortgage Loans subject to then outstanding Transactions. The
+          repurchase price for any such
+
+                                       19
+<PAGE>
+ 
+         repurchase shall be the outstanding Repurchase Price of such Mortgage
+         Loan, as the case may be. Any such substitution shall be performed in
+         accordance with Section 9 of this Agreement.
+
+(b) If an Event of Default occurs with respect to Buyer, the following rights
+and remedies are available to Seller:
+
+  (i)    Upon tender by Seller of payment of the aggregate Repurchase Price for
+         all such Transactions, Buyer's right, title and interest in all
+         Purchased Mortgage Loans subject to such Transactions shall be deemed
+         transferred to Seller, and Buyer shall deliver or cause to be
+         transferred all such Purchased Mortgage Loans to Seller or its designee
+         at Buyer's expense.
+
+  (ii)   If Seller exercises the option referred to in subsection (b)(i) of this
+         Section and Buyer fails to deliver or cause to be delivered the
+         Purchased Mortgage Loans to Seller or its designee, after one Business
+         Day's notice to Buyer, Seller may (A) purchase Mortgage Loans
+         ("Replacement Loans") that are as similar as is reasonably practicable
+         in characteristics, outstanding principal amounts (as a pool) and
+         interest rate to any Purchased Mortgage Loans that are not delivered by
+         Buyer to Seller or its designee as required hereunder or (B) in its
+         sole discretion elect, in lieu of purchasing Replacement Loans, to be
+         deemed to have purchased Replacement Loans at a price therefor on such
+         date, equal to the Market Value of the Purchased Mortgage Loans.
+
+  (iii)  Buyer shall be liable to the Seller, and Buyer shall pay to the Seller
+         on demand, (A) with respect to Purchased Mortgage Loans (other than
+         Additional Loans), for any excess of the price paid (or deemed paid) by
+         Seller for Replacement Loans therefor over the Repurchase Price for
+         such Purchased Mortgage Loans and (B) with respect to Additional Loans,
+         for the price paid (or deemed paid) by Seller for the Replacement Loans
+         therefor. In addition, Buyer shall be liable to Seller for interest on
+         such remaining liability with respect to each such purchase (or deemed
+         purchase) of Replacement Loans calculated on a 360-day year basis for
+         the actual number of days during the period from and including the date
+         of such purchase (or deemed purchase) until paid in full by Buyer. Such
+         interest shall be at the greater of the Pricing Rate or the Prime Rate.
+
+  (iv)   Buyer shall be liable to Seller for the amount of all expenses
+         reasonably incurred by Seller in connection with or as a consequence of
+         an Event of Default, including, without limitation, reasonable legal
+         fees and expenses and reasonable expenses incurred in connection with
+         covering existing hedging transactions with respect to the Purchased
+         Mortgage Loans.
+
+  (v)    Seller shall have all the rights and remedies provided herein, provided
+         by applicable federal, state, foreign, and local laws, in equity, and
+         under any other agreement between Buyer and Seller, including, without
+         limitation, the right to offset any debt or claim.
+
+  (vi)   Seller may exercise one or more of the remedies available to Seller
+         immediately upon the occurrence of an Event of Default and at any time
+         thereafter without notice to Buyer. All rights and remedies arising
+         under
+
+                                       20
+<PAGE>
+ 
+     this Agreement as amended from time-to-time hereunder are cumulative and
+     not exclusive of any other rights or remedies which Seller may have.
+
+15.  ADDITIONAL CONDITION
+
+Seller shall, on the date of the initial Transaction hereunder and, upon the
+request of Buyer, on the date of any subsequent Transaction, cause to be
+delivered to Buyer, with reliance thereon permitted as to any Person that
+purchases the Purchased Mortgage Loan from Buyer in a repurchase transaction, a
+favorable opinion or opinions of counsel with respect to the matters set forth
+in Exhibit IV attached hereto.
+
+16.  SINGLE AGREEMENT
+
+Buyer and Seller acknowledge that, and have entered hereinto and will enter into
+each Transaction hereunder in consideration of and in reliance upon the fact
+that, all Transactions hereunder constitute a single business and contractual
+relationship and that each has been entered into in consideration of the other
+Transactions. Accordingly, each of Buyer and Seller agrees (i) to perform all of
+its obligations in respect of each Transaction hereunder, and that a default in
+the performance of any such obligations shall constitute a default by it in
+respect of all Transactions hereunder, (ii) that each of them shall be entitled
+to set off claims and apply property held by them in respect of any Transaction
+against obligations owing to them in respect of any other Transactions hereunder
+and (iii) that payments, deliveries, and other transfers made by either of them
+in respect of any Transaction shall be deemed to have been made in consideration
+of payments, deliveries, and other transfers in respect of any other
+Transactions hereunder, and the obligations to make any such payments,
+deliveries, and other transfers may be applied against each other and netted;
+provided, however, that the parties hereto acknowledge and agree that each
+Purchased Mortgage Loan is identified and unique and nothing in this Agreement
+should limit or reduce Buyer's obligation to deliver the Purchased Mortgage
+Loans to Seller as and when provided herein.
+
+17.  NOTICES AND OTHER COMMUNICATIONS
+
+Unless another address is specified in writing by the respective party to whom
+any written notice or other communication is to be given hereunder, all such
+notices or communications shall be in writing or confirmed in writing and
+delivered at the respective addresses set forth in the Confirmation.
+
+18.  ENTIRE AGREEMENT; SEVERABILITY
+
+This Agreement together with the applicable Confirmations constitutes the entire
+understanding between Buyer and Seller with respect to the subject matter it
+covers and shall supersede any existing agreements between the parties
+containing general terms and conditions for repurchase transactions involving
+Purchased Mortgage Loans. By acceptance of this Agreement, Buyer and Seller
+acknowledge that they have not made, and are not relying upon, any statements,
+representations, promises or undertakings not contained in this Agreement. Each
+provision and agreement herein shall be treated as separate and independent from
+any other provision or agreement herein and shall be enforceable notwithstanding
+the unenforceability of any such other provision or agreement.
+
+19.  NON-ASSIGNABILITY
+
+The rights and obligations of the parties under this Agreement and under any
+Transaction shall not be assigned by either party without the prior written
+consent of Buyer. Subject to
+
+                                       21
+<PAGE>
+ 
+the foregoing, this Agreement and any Transactions shall be binding upon and
+shall inure to the benefit of the parties and their respective successors and
+assigns. Nothing in this Agreement express or implied, shall give to any person,
+other than the parties to this Agreement and their successors hereunder, any
+benefit or any legal or equitable right, power, remedy or claim under this
+Agreement.
+
+20.  TERMINABILITY
+
+This Agreement shall terminate upon written notice from either party to the
+other to such effect, except that this Agreement shall, notwithstanding the
+clause above, remain applicable to any Transaction then outstanding.
+Notwithstanding any such termination or the occurrence of an Event of Default,
+all of the representations and warranties hereunder (including those made in
+Exhibit V) shall continue and survive.
+
+21.  GOVERNING LAW
+
+THIS AGREEMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE
+INTERNAL LAWS OF THE STATE OF NEW YORK WITHOUT GIVING EFFECT TO THE CONFLICT OF
+LAW PRINCIPLES THEREOF.
+
+22.  CONSENT TO JURISDICTION AND ARBITRATION
+
+The parties irrevocably agree to submit to the personal jurisdiction of the
+United States District Court for the Southern District of New York, the parties
+irrevocably waiving any objection thereto. If, for any reason, federal
+jurisdiction is not available, and only if federal jurisdiction is not
+available, the parties irrevocably agree to submit to the personal jurisdiction
+of the Supreme Court of the State of New York, the parties irrevocably waiving
+any objection thereto. Notwithstanding the foregoing two sentences, at either
+party's sole option exercisable at any time not later than thirty (30) days
+after an action or proceeding has been commenced, the parties agree that the
+matter may be submitted to binding arbitration in accordance with the commercial
+rules of the American Arbitration Association then in effect in the State of New
+York and judgment upon any award rendered by the arbitrator may be entered in
+any court having jurisdiction thereof within the City, County and State of New
+York; provided, however, that the arbitrator shall not amend, supplement, or
+reform in any regard this Agreement or the terms of any Confirmation, the rights
+or obligations of any party hereunder or thereunder, or the enforceability of
+any of the terms hereof or thereof. Any arbitration shall be conducted before a
+single arbitrator who shall be reasonably familiar with repurchase transactions
+and the secondary mortgage market in the City, County, and State of New York.
+
+23.  NO WAIVERS, ETC.
+
+No express or implied waiver of any Event of Default by either party shall
+constitute a waiver of any other Event of Default and no exercise of any remedy
+hereunder by any party shall constitute a waiver of its right to exercise any
+other remedy hereunder. No modification or waiver of any provision of this
+Agreement and no consent by any party to a departure herefrom shall be effective
+unless and until such shall be in writing and duly executed by both of the
+parties hereto. Any such waiver or modification shall be effective only in the
+specific instance and for the specific purpose for which it was given.
+
+                                       22
+<PAGE>
+ 
+24.  INTENT
+
+The parties understand and intend that this Agreement and each Transaction
+hereunder constitute a "repurchase agreement" and a "securities contract" as
+those terms are defined under the relevant provisions of Title 11 of the United
+States Code, as amended.
+
+25.  SERVICING
+
+(a) Notwithstanding the purchase and sale of the Purchased Mortgage Loans
+hereby, Seller shall cause the Purchased Mortgage Loans to be serviced by an
+Affiliate of Seller for the benefit of Buyer and, if Buyer shall exercise its
+rights to pledge or hypothecate the Purchased Mortgage Loan prior to the related
+Repurchase Date pursuant to Section 8, Buyer's assigns; provided, however, that
+the obligations of such Affiliate of Seller to service the Purchased Mortgage
+Loans shall cease, at Seller's option, upon the payment by Seller to Buyer of
+the Repurchase Price therefor. Such Affiliate of Seller shall service the
+Purchased Mortgage Loans in accordance with the servicing standards maintained
+by other prudent mortgage lenders with respect to mortgage loans similar to the
+Purchased Mortgage Loans.
+
+(b) Seller agrees that Buyer is the owner of all servicing records, including
+but not limited to any and all servicing agreements, files, documents, records,
+data bases, computer tapes, copies of computer tapes, proof of insurance
+coverage, insurance policies, appraisals, other closing documentation, payment
+history records, and any other records relating to or evidencing the servicing
+of Purchased Mortgage Loans (the "Servicing Records"). Seller grants Buyer a
+security interest in all servicing fees and rights relating to the Purchased
+Mortgage Loans and all Servicing Records to secure the obligation of the Seller
+or its designee to service in conformity with this Section and any other
+obligation of Seller to Buyer. Seller covenants to safeguard such Servicing
+Records.
+
+(c) Upon the occurrence and continuance of an Event of Default with respect to
+Seller, Buyer may, in its sole discretion, (i) sell its right to the Purchased
+Mortgage Loans on a servicing released basis or (ii) terminate the Seller as
+servicer of the Purchased Mortgage Loans with or without cause, in each case
+without payment of any termination fee.
+
+(d) Seller shall not employ sub-servicers to service the Purchased Mortgage
+Loans without the prior written approval of Buyer.
+
+(e) Seller shall cause any sub-servicers engaged by Seller to execute a letter
+agreement with Buyer acknowledging Buyer's security interest and agreeing that,
+upon notice from Buyer (or the Custodian on its behalf) that an Event of Default
+has occurred and is continuing hereunder, it shall deposit all Income with
+respect to the Purchased Mortgage Loans in the account described in the second
+sentence of Section 5(a).
+
+26.  DISCLOSURE RELATING TO CERTAIN FEDERAL PROTECTIONS
+
+The parties acknowledge that they have been advised that in the case of
+Transactions in which one of the parties is an "insured depository institution"
+as that term is defined in Section 1831(a) of Title 12 of the United States
+Code, as amended, funds held by the financial institution pursuant to a
+Transaction hereunder are not a deposit and therefore are not insured by the
+Federal Deposit Insurance Corporation, the Savings Association Insurance Fund or
+the Bank Insurance Fund, as applicable.
+
+                                       23
+<PAGE>
+ 
+27.  NETTING
+
+If Buyer and Seller are "financial institutions" as now or hereinafter defined
+in Section 4402 of Title 12 of the United States Code ("Section 4402") and any
+rules or regulations promulgated thereunder:
+
+(a) All amounts to be paid or advanced by one party to or on behalf of the other
+under this Agreement or any Transaction hereunder shall be deemed to be "payment
+obligations" and all amounts to be received by or on behalf of one party from
+the other under this Agreement or any Transaction hereunder shall be deemed to
+be "payment entitlements" within the meaning of Section 4402, and this Agreement
+shall be deemed to be a "netting contract" as defined in Section 4402.
+
+(b) The payment obligations and the payment entitlements of the parties hereto
+pursuant to this Agreement and any Transaction hereunder shall be netted as
+follows. In the event that either party (the "Defaulting Party") shall fail to
+honor any payment obligation under this Agreement or any Transaction hereunder,
+the other party (the "Nondefaulting Party") shall be entitled to reduce the
+amount of any payment to be made by the Nondefaulting Party to the Defaulting
+Party by the amount of the payment obligation that the Defaulting Party failed
+to honor.
+
+28.  MISCELLANEOUS
+
+(a) Time is of the essence under this agreement and all Transactions and all
+references to a time shall mean New York time in effect on the date of the
+action unless otherwise expressly stated in this Agreement.
+
+(b) Buyer shall be authorized to accept orders and take any other action
+affecting any accounts of the Seller in response to instructions given in
+writing or orally by telephone or otherwise by any person with apparent
+authority to act on behalf of the Seller, and the Seller shall indemnify Buyer,
+defend, and hold Buyer harmless from and against any and all liabilities,
+losses, damages, costs, and expenses of any nature arising out of or in
+connection with any action taken by Buyer in response to such instructions
+received or reasonably believed to have been received from the Seller, except in
+the case of any liabilities, losses, damages, costs or expenses resulting from
+the gross negligence, bad faith or willful miosconduct of Buyer.
+
+(c) If there is any conflict between the terms of this Agreement or any
+Transaction entered into hereunder and the Custodial Agreement, this Agreement
+shall prevail.
+
+(d) If there is any conflict between the terms of a Confirmation or a corrected
+Confirmation issued by the Buyer and this Agreement, the Confirmation shall
+prevail.
+
+(e) This Agreement may be executed in counterparts, each of which so executed
+shall be deemed to be an original, but all of such counterparts shall together
+constitute but one and the same instrument.
+
+(f) Seller agrees to reimburse Buyer for all reasonable out-of-pocket costs and
+expenses of Buyer in connection with entering into this Agreement, including,
+without limitation, the reasonable fees, expenses and disbursement of counsel to
+Buyer (not in excess of $15,000).
+
+(g) The headings in this Agreement are for convenience of reference only and
+shall not affect the interpretation or construction of this Agreement.
+
+                           [Signature page follows.]
+
+                                       24
+<PAGE>
+ 
+     IN WITNESS WHEREOF, the parties have entered into this Agreement as of the
+date set forth above.
+
+
+                              LEHMAN COMMERCIAL PAPER INC.,
+                              Buyer
+
+
+                              By: /s/ Francis X. Gilhool
+                                 ------------------------------------
+
+                              Title: Authorized Signatory
+                                    ---------------------------------
+
+                              Date: June 11, 1998
+                                   ----------------------------------
+
+                              NOVASTAR FINANCIAL, INC.,
+                               Seller
+
+                              By: /s/ David J. Lee
+                                 ------------------------------------
+
+                              Title: Vice President
+                                    ---------------------------------
+
+                              Date: June 11, 1998
+                                   ----------------------------------
+
+                                       25
+

@@ -1,0 +1,127 @@
+﻿Share Transfer Agreement
+This agreement (this "Agreement") is entered into by and between the following parties on February 12, 2014 in Haidian District:
+Party A: [Name of Borrower] (hereinafter referred to as "the borrower")
+ID Number:
+Party B: Weibo Internet Technology (China) Co., Ltd.
+Address: Room 701, No. 10 Haidian North Second Street, Haidian District, Beijing.
+     WHEREAS,
+(1) Party A is a shareholder of Beijing Weimeng Technology Co., Ltd. (hereinafter referred to as "Weimeng"), who owns [—] % equity interests of Weimeng ("Subject Interest");
+(2) Party A agrees to transfer the Subject Interest to Party B and Party B agrees to acquire the Subject Interest in accordance with the terms and conditions of this Agreement.
+     NOW THEREFORE, the parties agree to the following:
+
+1.Share Transfer     Party A agrees to transfer the Subject Interest to Party B and Party B agrees to acquire the Subject Interest in accordance with the terms and conditions of this Agreement.
+     If Party B is unable to directly acquire all or portion of the Subject Interest due to restrictions of the laws and regulation of the People's Republic of China ("PRC"), Party A agrees to transfer the Subject Interest to any appropriate person designated by Party B, and the person designated by Party B shall be entitled to receive the Subject Interest in accordance with this Agreement.
+
+2.Time of Transfer     The time for the transfer of the Subject Interest under this Agreement shall be determined at the sole discretion of Party B. Without violating the applicable PRC laws and regulations, Party B shall have the right to require Party A to transfer to Party B or any person designated by Party B all or portion of the Subject Interest at any time.
+
+     Party A must execute any document required for the transfer of the Subject Interest within three work days from the date on which Party B makes the request for the transfer, and cooperate with the assigns of the Subject Interest in any other legal formalities related to the transfer of the Subject Interest.
+
+3.Transfer Formalities     After Party B notifies Party A of handling with the formalities in connection with the transfer of the Subject Interest, Party A shall procure Weimeng to go through the formalities with the competent telecommunication authority required for the approval of the transfer of the Subject Interest hereunder.
+     Party A shall ensure that, after obtaining the approvals described in the above Section 3.1, Weimeng shall timely conduct the formalities required for the registration of the transfer of the Subject Interest with the companies registry with which Weimeng registered, in accordance with the applicable laws and regulations.
+     Party A shall provide any and all necessary cooperation required for the approval and registration of the transfer of the Subject Interest, including, without limitation, any and all necessary legal documents related to the above formalities required by any competent governmental authority.
+
+4.Transfer Price     The total price for the transfer of the Subject Interest under this Agreement shall be RMB[—].
+     In the case of transfer of portion of the Subject Interest, the parties agree to calculate the transfer price in accordance with the following formula: M1=M2×(S1÷S2), in which M1 represents the transfer price; M2 represents the total price of the transfer of the Subject Interest (i.e., RMB[—]); S1 represents the number of the Subject Interest actually transferred to Party B or the person designated by Party B, and S2 represents the total number of the Subject Interest.
+
+5.Consummation of the Transfer     The date on which Weimeng shall have completed the registration of the change of the shareholder with the competent administration of industry and commerce and the assigns shall have become the sole person legally holds the Subject Interest, shall be the closing date of the equity transfer hereunder.
+     Promptly from the closing date of the equity transfer hereunder, the assigns of the subject Interest shall replace Party A to become the shareholder of Weimeng and have the rights and assume the relevant obligations under PRC law and the articles of association of Weimeng, and Party A shall cease to have the rights and assume the obligations in connection with the Subject Interest that has been transferred to the assigns.
+
+
+2
+
+6.Payment     Party B shall pay the transfer price of the Subject Interest to Party A within one year following the closing date of the equity transfer.
+     The method of payment for the transfer of the Subject Interest shall be determined in the sole discretion of Party B.
+
+7.Special Provisions     From the effective date of this Agreement, without prior written consent of Party B, Party A shall not:
+7.0.1 transfer the Subject Interest to any person other than Party B and the person designated by Party B;
+7.0.2 create or permit creation of any security interests on the Subject Interest.
+     From the effective date of this Agreement to the completion of the formalities in respect of the Subject Interest, Party A shall transfer to Party B all the voting rights enjoyed by it in its capacity as the shareholder under applicable law and the articles of association of Weimeng, which shall include, without limitation, the following rights:
+7.1.1 to determine the operation policies and investment plans of Weimeng;
+7.1.2 to elect and change the directors of Weimeng and determine the remuneration of the directors;
+7.1.3 to elect and change the supervisor of Weimeng and determine the remuneration of the supervisor;
+7.1.4 to review and approve the reports of the board of directors of Weimeng;
+7.1.5 to review and approve the reports of the supervisor;
+7.1.6 to review and approve the annual financial budget plans and final accounting plans of Weimeng;
+7.1.7 to review and approve the profit distribution plans and loss make-up plans of Weimeng;
+7.1.8 to make resolution on the increase or decrease of the registered capital of Weimeng;
+7.1.9 to make resolution on the offering of corporate bonds of Weimeng;
+7.1.10 to make resolution on the transfer of the capital contributed by the shareholders of Weimeng to any person other than a shareholder of Weimeng;
+7.1.11 to make resolution on any merger, spin-off, change of corporate form of organization, dissolution and liquidation of Weimeng;
+
+
+3
+
+7.1.12 to make resolution on the scope of business of Weimeng;
+7.1.13 to amend the articles of association of Weimeng;
+7.1.14 to make determination on any change of the business or nature of the business of Weimeng;
+7.1.15 to make determination on any borrowings from third parties or assumption of any liabilities in the name of Weimeng;
+7.1.16 to make determination on the sale of any assets or rights of Weimeng to any third parties, including, without limitation, intellectual property rights;
+7.1.17 to make determination on the creation of any security interests on any assets of Weimeng (including any tangible and intangible assets) for any purposes;
+7.1.18 to transfer to any third party any agreement entered into by Weimeng; and
+7.1.19 to determine any other rights that may materially affect any rights, obligations, assets or operation of Weimeng.
+     If Party A fails to transfer the Subject Interest in accordance with this Agreement, in any event, the amount of the liquidated damages payable by Party A to Party B shall not be less than 200% of the then book value of the Subject Interest.
+
+8.Representations, Warranties and Covenants     Party A hereby represents, warrants and covenants to Party B that:
+8.0.1 Party A has the power and authority to enter into this Agreement and perform its obligations under this Agreement.
+8.0.2 Party A has duly performed its obligations to make capital contribution to Weimeng, and it has legal, complete and adequate ownership and power with respect to the Subject Interest hereunder.
+8.0.3 Weimeng is a company with limited liability established and validly existing under the laws of PRC, and has obtained any and all approvals, authorizations, permits and consents required for the operation of its business; and Weimeng does not incur any event that may lead to any suspension or cancellation of such approvals, authorizations, permits, consents or any of its licenses.
+8.0.4 The shareholders' meeting of Weimeng has resolved to approve the transfer by Party A of the interests held by it in Weimeng to Party B, and the other shareholders have agreed in writing to waive their rights of first refusal to the Subject Interest.
+8.0.5 Prior to the effectiveness of this Agreement, Party A does not establish or permit establishment of any security interest on the Subject Interest, and Party A will not establish or permit establishment of any security interest on the Subject Interest after the effectiveness of this Agreement without prior written consent of Party B;
+
+
+4
+
+8.0.6 There is, to the knowledge of Party A, not any event that has or may have any material adverse effect on the business operation of Weimeng; and
+8.0.7 There is no pending or threatened litigation, arbitration or administrative proceedings against the Subject Interest and/or Party A.
+     Party B hereby represents, warrants and covenants to Party A that:
+8.1.1 Party B is a company with limited liability duly established and validly existing, has the power and authority to enter into this Agreement and perform its obligations under this Agreement.
+8.1.2 Party B has obtained any and all authorization and consents to execute and perform this Agreement.
+8.2.3 The execution by Party B of this Agreement will not result in any violation by Party B of any term, condition or provision under any contract, agreement or document to which it is a party, or release of any obligation of any person under such contract, agreement or document, or give any person the right to terminate any of its obligations under such contract, agreement or document.
+
+9.Default Liabilities     Any direct or indirect breach by either Party of any provision in this Agreement, or any failure of either Party to assume at all or to assume in time and in full any of its obligations under this Agreement shall constitute a default hereunder. In such case, the non-defaulting Party (the "Non-defaulting Party") shall notify the defaulting Party (the "Defaulting Party") in writing to cure its breach and take adequate, effective and timely measures to eliminate the effect of such breach and indemnify the Non-defaulting Party against any and all the losses caused by such breach.
+     Upon the occurrence of any breach which in the reasonable and objective judgment of the Non-defaulting Party has rendered it impossible or unfair for the Non-defaulting Party to perform its respective obligations hereunder, the Non-defaulting Party shall have the right to notify the Defaulting Party in writing that the Non-defaulting Party will suspend its performance of its respective obligations hereunder until the Defaulting Party has ceased such breach, taken adequate, effective and timely measures to eliminate the effect of such breach and indemnified the Non-defaulting Party against any and all the losses caused by such breach.
+     The losses of the Non-defaulting Party caused by the breach of the Defaulting Party that are indemnifiable by the Defaulting Party shall include the direct economic losses and any and all foreseeable indirect losses and incidental expenses, including without limitation, attorney fees, litigation and arbitration costs, financial expenses and travelling expenses. If there is any specific agreement with respect to the amount of liquidated damages hereunder, such agreement shall be followed.
+
+
+5
+
+10.Force Majeure     A "Force Majeure Event" means an event that is beyond the reasonable control of, or unforeseeable or even if foreseeable but unavoidable by both Parties, and would prevent, affect or delay the performance by either Party of its respective obligations hereunder, including without limitation, a governmental act, natural disaster, war, hacker attack or any other similar event.
+     The Party affected by a Force Majeure Event may suspend the performance of the obligation hereunder that is rendered unable to be performed due to the occurrence of such Force Majeure Event until the elimination of the effect of such Force Majeure Event, without any liabilities therefor; provided, however, that such Party shall try its best endeavors to overcome such Force Majeure Event and mitigate the adverse effect thereof.
+     The Party affected by a Force Majeure Event shall provide the other Party with legal certificate issued by a notary public office or any other appropriate authority located in the place where such event occurs to demonstrate the occurrence of such Force Majeure Event. Failure to provide such certificate shall entitle the other Party to bring a claim against the Party affected by such Force Majeure Event for the assumption of default liabilities.
+
+11.Effectiveness, Amendment and Termination     This Agreement shall take effect on the date of execution and shall terminate upon the completion by both parties of their obligations hereunder.
+     The parties may amend in writing or early terminate this Agreement at any time upon agreement with each other.
+
+12.Dispute Resolution     Any dispute between the Parties in relation to the interpretation or performance of any provision hereunder shall be resolved through amicable consultations between the Parties.
+     Any dispute fails to be so resolved through such consultations shall be referred to China International Economic and Trade Arbitration Commission (the "Commission") for arbitration in accordance with its then effective arbitration rules. The arbitration proceedings shall be conducted in Beijing in Chinese. An arbitral award by the Commission shall be final and binding upon both Parties.
+     The conclusion, effectiveness, performance, interpretation and dispute resolution shall be governed by the laws of the PRC.
+
+13.Miscellaneous     This Agreement shall be executed in two (2) counterparts with equal legal force and effect, with one (1) for each Party.
+
+
+6
+
+     Headings herein are inserted for ease of reference only and shall not affect the interpretation of any provision herein.
+     The Parties may amend and supplement this Agreement by written agreements. Any amendment or supplement to this Agreement executed by and between the Parties shall constitute an integral part hereof and shall have the equal legal force herewith.
+     In case any provision in this Agreement is or becomes invalid or unenforceable in whole or in part due to noncompliance with any law or governmental regulation or otherwise, the part of such provision affected thereby shall be deemed to have been deleted from this Agreement; provided, however, that such deletion shall not affect the legal force and effect of any other part of such provision or any other provision in this Agreement. In such case, the Parties shall negotiate for a new provision to replace such invalid or unenforceable provision.
+     Unless otherwise specified herein, any failure of either Party to exercise or any delay of either Party in the exercise of any of its rights, powers or privileges hereunder shall not be deemed as a waiver of the exercise of such right, power or privilege. Any single or partial exercise of any right, power or privilege shall not prejudice the exercise of any other right, power or privilege.
+     This Agreement shall constitute the entire agreement between the Parties in respect of the subject matter of the cooperation project, and shall supersede any and all the prior or contemporaneous agreements, understandings and communications, oral or written, between the Parties in respect of the subject matter of the cooperation project. Except as expressly provided herein, there does not exist any express or implicit obligation or undertaking between the Parties.
+     This Agreement shall be binding on each party and its successors and permitted assigns.
+     Any matter not covered hereunder shall be subject to further negotiations between the Parties.
+
+[Name of Borrower] Weibo Internet Technology (China) Co., Ltd.Signature: /s/ Authorized Representative: /s/
+
+7
+
+Schedule of Material Differences
+One or more persons entered into Share Transfer Agreement with Weibo Technology using this form. Pursuant to Instruction ii to Item 601 of Regulation S-K, the Registrant may only file this form as an exhibit with a schedule setting forth the material details in which the executed agreements differ from this form:
+
+No.  Name of
+Borrower  % of Equity
+Interest in
+Weimeng the
+Borrower Intends
+to Transfer  Total Price 1.  W. Wang   30%   RMB16,500,000  2.  Y. Liu   30%   RMB16,500,000  3.  Z. Cao   20%   RMB11,000,000  4.  Y. Lu   20%   RMB11,000,000  
+
+8
+

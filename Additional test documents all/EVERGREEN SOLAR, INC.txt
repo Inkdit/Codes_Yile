@@ -1,0 +1,1408 @@
+﻿LICENSE &
+
+                               TECHNOLOGY TRANSFER                                   AGREEMENT                         BY AND BETWEEN
+
+                              EVERGREEN SOLAR, INC.
+
+                                       AND
+
+                                   EVERQ GMBH
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+
+                                                                          
+ARTICLE 1 DEFINITIONS
+   1.1  CONSTRUCTION
+   1.2  DEFINITIONS
+
+ARTICLE 2 RIGHTS AND LICENSES
+   2.1  E LICENSE GRANT TO VENTURECO
+   2.2  VENTURECO LICENSE GRANT TO E
+   2.3  RESERVATION OF RIGHTS; NO IMPLIED LICENSES
+
+ARTICLE 3 TECHNOLOGY TRANSFER
+   3.1  QUARTERLY MEETINGS
+   3.2  DELIVERY OF TECHNICAL DELIVERABLES
+   3.3  COPIES
+   3.4  [****]
+
+ARTICLE 4 CONSIDERATION AND PAYMENT
+   4.1  ROYALTY
+   4.2  ROYALTY EVALUATION BY EXPERTS
+   4.3  TAX AUTHORITY CHALLENGES
+   4.4  ROYALTY CALCULATIONS
+   4.5  PAYMENT
+   4.6  CURRENCY
+   4.7  TAXES
+   4.8  AUDIT
+   4.9  SEPARATE AGREEMENTS
+   4.10 PROSPECTIVE BASIS
+   4.11 WAIVER
+
+ARTICLE 5 INTELLECTUAL PROPERTY RIGHTS
+   5.1  OWNERSHIP
+   5.2  ENFORCEMENT OF JOINTLY OWNED INTELLECTUAL PROPERTY RIGHTS
+   5.3  THIRD PARTY LICENSES
+   5.4  FURTHER COOPERATION
+
+ARTICLE 6 WARRANTIES
+   6.1  REPRESENTATIONS AND WARRANTIES
+   6.2  REMEDY
+   6.3  DISCLAIMER
+
+
+September 28 06 FINAL
+
+
+                                       -i-
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+
+                                                                          
+ARTICLE 7 CONFIDENTIAL INFORMATION
+   7.1  CONFIDENTIAL INFORMATION
+
+ARTICLE 8 TERM
+   8.1  TERM
+   8.2  SPECIAL TERMINATION RIGHT
+   8.3  EFFECT OF TERMINATION
+
+ARTICLE 9 GENERAL PROVISIONS
+   9.1  LIMITATION OF LIABILITY
+   9.2  NOTICES
+   9.3  LANGUAGE
+   9.4  AMENDMENTS AND WAIVERS
+   9.5  ASSIGNMENT
+   9.6  ENTIRE AGREEMENT; SEVERABILITY
+   9.7  OTHER REMEDIES; SPECIFIC PERFORMANCE
+   9.8  GOVERNING LAW AND DISPUTE RESOLUTION
+   9.9  COMPLIANCE WITH LAWS AND REGULATIONS
+   9.10 EXPORT
+   9.11 FORCE MAJEURE
+   9.12 INDEPENDENT CONTRACTORS
+   9.13 THIRD PARTY BENEFICIARIES
+   9.14 COUNTERPARTS
+   9.15 CONDITION
+
+
+September 28 FINAL
+
+
+                                      -ii-
+
+<PAGE>
+
+                              AMENDED AND RESTATED
+                                    LICENSE &
+                               TECHNOLOGY TRANSFER
+                                    AGREEMENT
+
+     This Amended and Restated License & Technology Transfer Agreement (this
+"AGREEMENT") is made by and between Evergreen Solar, Inc., a Delaware
+corporation ("E"), and EverQ GmbH, a limited liability company (GmbH),
+incorporated under the laws of the Federal Republic of Germany ("VENTURECO" or
+"EverQ"), as of the Effective Date. E and VentureCo are hereinafter referred to
+individually by their respective names or as "PARTY" and collectively as
+"PARTIES."
+
+                                    RECITALS:
+
+     WHEREAS, E, Q Cells AG ("Q") and Renewable Energy Corporation ("REC") have
+entered into that certain Master Joint Venture Agreement (Notarial Deed nr.
+287/2005 of the Berlin notary public Dr. Rudolf von Hanstein, the "MASTER
+AGREEMENT") which is deemed to be incorporated into this Agreement where this
+Agreement refers to the Master Agreement (and remains incorporated
+notwithstanding termination of the Master Agreement), pursuant to which, among
+other things, the Parties have agreed to enter this Agreement;
+
+     WHEREAS, Q and VentureCo have entered into that certain License and
+Technology Transfer Agreement By and Between Q-Cells AG and EverQ GmbH (the "Q
+LICENSE AGREEMENT");
+
+     WHEREAS, REC and VentureCo have entered into that certain License and
+Technology Transfer Agreement By and Between Renewable Energy Corporation and
+EverQ GmbH (the "REC LICENSE AGREEMENT");
+
+     WHEREAS, E and VentureCo have entered that certain License & Technology
+Transfer Agreement ("PRIOR AGREEMENT");
+
+     WHEREAS, E and VentureCo wish to amend the Prior Agreement and agree that
+this Agreement shall supersede and replace the Prior Agreement;
+
+     NOW, THEREFORE, in consideration of the foregoing premises and the
+representations, warranties, covenants and agreements herein contained, and
+other good and valuable consideration, the receipt and sufficiency of which are
+hereby acknowledged and accepted, and intending to be legally bound hereby, the
+Parties hereto hereby agree as follows:
+
+
+                                      -1-
+
+<PAGE>
+
+                                   ARTICLE 1
+
+                                  DEFINITIONS
+
+     1.1 Construction. Capitalized terms not defined herein shall have the
+meanings set forth in the Master Agreement. The interpretation of this Agreement
+shall be governed by those principles set forth in SECTION 1.2 (Headings and
+Other Interpretation) of the Master Agreement.
+
+     1.2 Definitions. As used herein:
+
+     "ADDED VALUE" means increased value through sale of a Licensed Product
+attributable to [****] incorporated into or used to manufacture that Licensed
+Product, for example, [****]. The "Added Value" is determined by comparison of
+[****].
+
+     "DIRECT PRODUCTION COSTS" means all [****] required for the production of a
+Licensed Product, and [****] associated with manufacturing a Licensed Product
+incorporating MNIP.
+
+     "COST SAVINGS" means the aggregate reduction of Total Production Costs of a
+Licensed Product attributable to [****] incorporated into or used to manufacture
+that Licensed Product. Any change in yields and conversion efficiencies shall be
+taken into account in determining the "Cost Savings." The "Cost Savings" is
+determined by comparison of [****] in manufacture of the Licensed Products, or
+determined by comparison to another agreed [****]. If royalty payments are based
+on a royalty determined under Section 4.1(f) (Alternative Royalty Rate
+Calculation Based on MNIP), then each quarter the "Cost Savings" will be
+calculated by comparing [****] to the agreed [****]. The mechanism for defining
+such [****] will not change during the term of the royalty payments, but the
+[****].
+
+     "EFFECTIVE DATE" means [****].
+
+     "E IP" means the E Technology and E Intellectual Property Rights.
+
+     "E INTELLECTUAL PROPERTY RIGHTS" means all Intellectual Property Rights
+owned or Licensable by E or its Affiliates during the Initial Period and (with
+respect to certain MNIP and other Intellectual Property Rights as described in
+this Agreement) [****] Post Termination Period, that relate to the manufacture,
+production, assembly, use or sale of Licensed Products, or which would, without
+the licenses herein, be infringed or violated by the operation of VentureCo's
+business or its commercialization of products as contemplated in the Master
+Agreement. "E INTELLECTUAL PROPERTY RIGHTS" includes those Intellectual Property
+Rights listed in PART 1 OF EXHIBIT A and (once available for commercial use), in
+PART 2 OF EXHIBIT A but excludes those Intellectual Property Rights listed in
+PART 3 OF EXHIBIT A ("EXCLUDED E INTELLECTUAL PROPERTY RIGHTS"). For the
+avoidance of doubt, "E INTELLECTUAL PROPERTY RIGHTS" excludes (i) MNIP offered
+to VentureCo but which it has elected not
+
+
+                                      -2-
+
+<PAGE>
+
+to license, (ii) other Intellectual Property Rights for improvements or other
+inventions that are made after the [****] Post Termination Period (except to the
+extent regulated in the context of support services to VentureCo pursuant to an
+applicable agreement), and (iii) in the event of an acquisition of E,
+Intellectual Property Rights of the acquirer of E.
+
+     "E TECHNICAL DELIVERABLES" means any reasonably available documentation,
+records and other tangible items constituting E Technology and E Intellectual
+Property Rights, including any such items specified in Part 1 of Exhibit A.
+
+     "E TECHNOLOGY" means all Technology owned or Licensable by E or its
+Affiliates during the Initial Period and (with respect to certain MNIP and other
+Technology as described in this Agreement) [****] Post Termination Period, that
+relates to the manufacture, production, assembly, use or sale of Licensed
+Products and the operation of VentureCo's business and commercialization of
+products as contemplated in the Master Agreement. "E TECHNOLOGY" includes
+Technology relating to items described in PART 1 OF EXHIBIT A ("INCLUDED E
+TECHNOLOGY") and (once available for commercial use) relating to MNIP described
+in PART 2 OF EXHIBIT A, but excludes Technology relating to items described in
+PART 3 OF EXHIBIT A ("EXCLUDED E TECHNOLOGY"). For the avoidance of doubt, E
+Technology excludes (i) MNIP offered to VentureCo but which it has elected not
+to license, (ii) other Technology created after the [****] Post Termination
+Period (except to the extent regulated in the context of support services to
+VentureCo pursuant to an applicable agreement), and (iii) in the event of an
+acquisition of E, Intellectual Property Rights of the acquirer of E.
+
+     "EXCLUDED E TECHNOLOGY" has the meaning set forth in SECTION 1.2
+(Definitions - E Technology).
+
+     "INITIAL PERIOD" means the time period commencing on the License Effective
+Date and ending on the Termination Date.
+
+     "INTELLECTUAL PROPERTY RIGHTS" means all rights in, to, or arising out of:
+(i) any Patents; (ii) inventions, discoveries (whether patentable or not in any
+country), invention disclosures, improvements, trade secrets, proprietary
+information, know-how, technology and technical data; (iii) copyrights,
+copyright registrations, mask works, mask work registrations, and applications
+therefor in any country, and all other rights corresponding thereto throughout
+the world; and (iv) any other proprietary rights in or to Technology anywhere in
+the world.
+
+     "JOINTLY OWN" has the meaning set forth in SECTION 5.1(a)(i) (Definition).
+
+     "LICENSABLE" means possession of the ability to grant a license or
+sublicense of, or within, the scope provided for in this Agreement without
+payment of any fee to, or violating the terms of any agreement or other
+arrangements with a Third Party and without violating any applicable laws, rules
+or regulations.
+
+     "LICENSE EFFECTIVE DATE" means the Effective Date.
+
+
+                                      -3-
+
+<PAGE>
+
+     "LICENSED PRODUCTS" means Wafers, Cells, and/or Modules, as the case may
+be, in which the Wafers are made using String Ribbon Technology.
+
+     "LICENSED PRODUCTS REVENUE" means the cumulative Net Sales Price for all
+Licensed Products Sold in the respective period.
+
+     "MARKET RATE" means [****].
+
+     "MATERIAL NEW IP" or "MNIP" means Intellectual Property Rights and
+Technology developed or Licensable by E only after the License Effective Date
+[****]. Notwithstanding anything to the contrary, MNIP shall not include any
+Excluded E Intellectual Property Rights or, in the event of an acquisition of E,
+Intellectual Property Rights of the acquirer of E. In general Intellectual
+Property Rights and Technology that are legally protectible and reduce Total
+Production Costs of Licensed Products by, or provide an Added Value of, [****];
+provided, however, that MNIP may include Property Rights and Technology not
+meeting such criteria to the extent that it nevertheless provides a substantial
+and material benefit.
+
+     "NET SALES PRICE" means, (i) for arm's length Sales for fair value, the
+average gross revenue received by VentureCo in the period for Sales of the
+Licensed Products, accounted for in accordance with generally accepted
+accounting principles, less any deduction for discounts, returns, freight,
+insurance, taxes, and duties and (ii) for Sales other than arm's length Sales
+for fair value, the greater of (a) the net average selling price of the same or
+most nearly same Licensed Product and (b) the average gross revenue for such
+Sales less any deduction for discounts, returns, freight, insurance, taxes, and
+duties in accordance with generally accepted accounting principles.
+
+     "PATENTS" means any German, international or foreign patent or any
+application therefor and any and all reissues, divisions, continuations,
+renewals, extensions and continuations-in-part thereof.
+
+     "POST TERMINATION PERIOD" means the time period commencing immediately
+after the Termination Date. "[****] POST TERMINATION PERIOD" means the [****]
+period commencing immediately after the Termination Date.
+
+     "REGISTERED E INTELLECTUAL PROPERTY RIGHTS" means all E Intellectual
+Property Rights (including Patents) that have been registered, filed, issued or
+otherwise perfected or recorded with or by any state, government or other public
+or quasi-public legal authority, including any applications for filings for any
+such rights.
+
+     "SOLD" or "SELL" means any direct or indirect disposition, by sale, lease,
+use or otherwise, of a Licensed Product.
+
+     "STRING RIBBON" means [****].
+
+     "TECHNOLOGY" means information and technology in tangible and/or intangible
+form and materials, embodiments, implementations or improvements of any
+technology, including, but not limited to: software, media, data collections,
+databases, techniques, methods, processes, formulae,
+
+
+                                      -4-
+
+<PAGE>
+
+systems, hardware, equipment, prototypes, proofs of concept, apparatuses,
+hardware, software, algorithms, files, routines, documents, designs, drawings,
+plans, specifications and the like.
+
+     "TERMINATION DATE" means the earlier of the date on which the Master
+Agreement or this Agreement is terminated in accordance with its terms.
+
+     "TOTAL PRODUCTION COSTS" means the total of the [****] and [****] to the
+extent such [****] is directly associated with the respective product.
+
+     "VENTURECO INTELLECTUAL PROPERTY RIGHTS" means all Intellectual Property
+Rights developed and owned (solely or jointly) by VentureCo that relate to or
+which would, without the licenses set forth herein, be infringed or violated by
+making, using, selling, importing or otherwise exploiting Wafers, Cells and
+Modules.
+
+     "VENTURECO IP" means VentureCo Technology and VentureCo Intellectual
+Property Rights.
+
+     "VENTURECO TECHNOLOGY" means all technology developed and owned (solely or
+jointly) by VentureCo that relates to the making, using, selling, importing or
+other exploiting Wafers, Cells and Modules.
+
+                                   ARTICLE 2
+
+                              RIGHTS AND LICENSES
+
+     2.1 E License Grant to VentureCo. Subject to the terms and conditions of
+this Agreement, E hereby grants and agrees to grant to VentureCo, effective upon
+the License Effective Date, a world-wide, non-exclusive, non-transferable,
+perpetual, irrevocable, fully paid up and royalty-free (except as provided in
+ARTICLE 4 (Consideration and Payment)) license, without the right to sublicense,
+under the E Intellectual Property Rights, to make (but not have made), use,
+sell, offer for sale, import or otherwise commercialize or exploit Licensed
+Products, to use the E Technology in connection with the foregoing, and to
+otherwise operate VentureCo and commercialize its products as contemplated in
+the Master Agreement. It is understood that the foregoing license to VentureCo
+includes, without limitation, the right to change and make improvements and
+extensions to the E Technology. Furthermore, it is understood that VentureCo
+shall have the right to commercially exploit such changes and improvements in
+accordance with such license.
+
+     2.2 VentureCo License Grant to E. VentureCo hereby grants and agrees to
+grant to E a world-wide, non-exclusive, non-transferable (except pursuant to
+SECTION 9.5 (Assignment)), perpetual, irrevocable, fully paid up, royalty-free,
+fully sublicensable, license, under the VentureCo Intellectual Property Rights
+developed in the Initial Period and [****] Post Termination Period, to make,
+use, sell, offer for sale, import or otherwise commercialize or exploit Wafers,
+Cells and Modules. In addition, VentureCo hereby grants and agrees to grant to E
+a world-wide, non-exclusive, non-transferable, perpetual, irrevocable, fully
+paid up, royalty-free, fully sublicensable,
+
+
+                                      -5-
+
+<PAGE>
+
+license, under the VentureCo Intellectual Property Rights, whenever developed,
+[****] to make, use, sell, offer for sale, import or otherwise commercialize or
+exploit Wafers, Cells and Modules. It is understood that the foregoing license
+to E includes, without limitation, the right for E to change and make
+improvements and extensions to such Technology licensed from VentureCo.
+Furthermore, it is understood that E shall have the right to commercially
+exploit said changes and improvements in accordance with such license.
+
+     2.3 Reservation of Rights; No Implied Licenses. All rights not granted
+herein are reserved. Nothing in this Agreement shall be deemed to constitute the
+grant of any license or other right to a Party's Intellectual Property Rights or
+Technology except as expressly set forth herein.
+
+                                   ARTICLE 3
+
+                              TECHNOLOGY TRANSFER
+
+     3.1 Quarterly Meetings.
+
+          (a) New Developments. During the Initial Period and [****] Post
+Termination Period, the Parties shall meet on a quarterly basis (or as otherwise
+agreed upon by the Parties) to discuss (and E shall advise VentureCo of) any
+material or other E IP or VentureCo IP that was acquired, developed or became
+Licensable since the prior quarterly meeting.
+
+          (b) Defining Material New IP. During the quarterly meetings described
+above, the Parties shall also determine whether new Intellectual Property Rights
+and Technology of or Licensable by E comprise Material New IP. The Parties
+intend that if E develops MNIP, it may be appropriate for E to receive royalty
+for VentureCo's use thereof (and whichVentureCo has elected to acquire) in
+accordance with ARTICLE 4 (Consideration and Payment). The Parties' obligations
+with respect to MNIP will be governed by ARTICLE 4 (Consideration and Payment).
+
+     3.2 Delivery of Technical Deliverables. E shall deliver to VentureCo at
+least one copy of all E Technical Deliverables, in electronic form when
+practicable, within [****] days after the License Effective Date or (as
+applicable),
+
+          (a) in the case of MNIP listed in EXHIBIT A PART 2, promptly upon
+commercial availability (subject to applicable royalties),
+
+          (b) in the case of MNIP available in the Initial Period (other than
+that in EXHIBIT A PART 2), promptly after VentureCo's election to acquire that
+MNIP (subject to applicable royalties), and
+
+          (c) in the case of MNIP available after the E Interest Reduction Date
+or Termination Date, promptly after VentureCo's election to acquire that MNIP
+and determination of applicable royalties.
+
+     Subject to ARTICLE 4 (Consideration and Payment), during the Initial Period
+and the [****] Post Termination Period, E shall periodically and promptly
+deliver to VentureCo copies of E
+
+
+                                      -6-
+
+<PAGE>
+
+Technical Deliverables that have not been previously delivered, including E
+Technical Deliverables relating to E IP acquired or Licensable after the License
+Effective Date.
+
+     3.3 Copies. VentureCo may copy, modify and otherwise use the E Technical
+Deliverables in accordance with and subject to the restrictions and licenses set
+forth herein as necessary to exercise the rights granted hereunder. VentureCo
+agrees to maintain a document control system to control copies of such E
+Technical Deliverables and otherwise treat such information as E's Confidential
+Information subject to the provisions of ARTICLE 7 (Confidential Information).
+
+     3.4 [****
+
+          (a)  ****
+
+          (b)  ****
+
+          (c)  ****
+
+          (d)  ****]
+
+                                   ARTICLE 4
+
+                           CONSIDERATION AND PAYMENT
+
+     4.1 Royalty. Subject to exceptions in this Agreement, VentureCo shall pay
+royalties to E for the use of MNIP. The royalty shall be based on two main
+elements: the success of the relevant MNIP in achieving Cost Savings and the
+success of that MNIP in achieving Added Value, [****]. For the sake of
+commercial simplicity the product of the two base rate elements shall be
+converted into a combined royalty rate, at intervals specified in relevant
+Sections below. The detailed rules of royalty calculation, including exceptions,
+follow below.
+
+     The royalty and other fees (if any) (collectively "ROYALTY") payable for
+the use of MNIP shall be [****] generally determined as set forth below. The
+royalty payment obligations commence (with respect to Licensed Products Sold
+incorporating that MNIP) the later of (1) January 1 2007, and (2) the date when
+VentureCo first Sells Licensed Products that incorporate that MNIP.
+
+     For purposes of this Agreement, Thin Ribbon Technology (as described in
+Exhibit A, part [2] item [2], will be deemed MNIP.
+
+          (a) Royalty Rate in General. The royalty rate applicable hereunder
+("Royalty Rate") shall be as set forth in the following table shall continue
+until [****] ("Royalty Renewal Date").
+
+
+                                      -7-
+
+<PAGE>
+
+
+
+Licensed Product Revenue         Royalty Rate
+------------------------         ------------
+                              
+$0 to $100 million                     5%
+$100 million to $250 million         3.5%
+$250 million to $1,000 million         2%
+more than $1,000 million               1%
+
+
+          (b) Annual Adjustments. The Royalty Rate may be adjusted on annual
+basis as follows. While Annual Adjustments may be made as set forth below, in
+making such adjustments, the Parties shall give deference to the above rates,
+and any adjustments shall made primarily to account for changes after the above
+rates were established. At least [****] days in advance of the [****] of the
+Royalty Renewal Date, the Parties shall agree upon a new market based Royalty
+Rate that shall be applicable for the next [****] year period commencing on the
+[****] of the Royalty Renewal Date. In the event that VentureCo and E cannot
+agree on the Royalty Rate applicable to such next [****] year period, or at the
+election of either VentureCo and E, the Royalty Rate for currently used MNIP
+shall be determined in accordance with Section 4.1(f) (Alternative Royalty Rate
+Calculation Based on MNIP).
+
+          (c) Exceptional Adjustments. The Royalty Rate may be modified before
+the annual adjustment of Section 4.1(b) (Annual Adjustments) at the request of
+either party as set forth below in Section 4.1(c)(i) (Performance) or Section
+4.1(c)(ii) (Compared to Conventional Silicon).
+
+               (i) Performance. In the event that the performance of the MNIP
+used by VentureCo differs substantially from the performance anticipated at the
+time the Royalty Rate was determined in accordance with 4.1(b) (Annual
+Adjustments), the Royalty Rate may be modified in accordance with this Section
+4.1(c) (Exceptional Adjustments) to reflect this unexpected performance. For a
+difference in performance to merit a change of Royalty Rate under this section
+4.1 (c) (Exceptional Adjustments), the change would comprise [****].
+
+               (ii) Compared to Conventional Silicon. [****].
+
+               (iii) New Royalty Rate. In the event that a change in Royalty
+Rate is requested and the change in Royalty Rate is merited based on Section
+4.1(b)(i) (Performance) or Section 4.1(b)(ii) (Compared to Conventional
+Silicon), Parties agree to negotiate in good faith to determine the new
+applicable Royalty Rate based on the actual and then anticipated performance of
+the MNIP or change in Costs/Value of the Licensed Products respectively. The
+Party asserting that the Royalty Rate should be changed shall have the burden of
+proof of showing that a change should be made. In the event that the Parties do
+not agree on the new applicable Royalty Rate merited based on Section 4.1(b)(i)
+(Performance) or Section 4.1(b)(ii) (Compared to Conventional Silicon), the
+Royalty Rate shall be determined based on the expected and actual performance of
+the MNIP in accordance with Section 4.2 (Royalty Evaluation by Experts).
+
+
+                                      -8-
+<PAGE>
+
+               (iv) Frequency of Adjustment. A request to adjust the Royalty
+Rate under this Section 4.1(c) (Exceptional Adjustments) cannot be made more
+frequently than [****].
+
+          (d) Changes. Any adjustments to Royalty Rate under Section 4.1(c)
+(Exceptional Adjustments) shall apply only to Sales made after the adjustment,
+and all royalties paid or due hereunder are non-refundable. In no event shall
+the Royalty Rate under this Agreement be less than zero.
+
+          (e) Royalty Payments. If the Royalty Rate is determined under Section
+4.1(a) (Royalty Rate in General), then VentureCo shall pay E a royalty equal to
+the Royalty Rate multiplied by the Licensed Product Revenue. If the Royalty Rate
+is determined in accordance with Section 4.1(f) (Alternative Royalty Rate
+Calculation Based on MNIP), then (i) VentureCo shall pay E a royalty equal to
+the respective Royalty Rate multiplied by Net Sales Price of each Licensed
+Product Sold by VentureCo in the respective period that incorporates the MNIP
+into or uses the MNIP in the manufacture of such Licensed Product, and (ii) if
+the Royalty Rate is determined on a per unit basis (such as watts) then the Net
+Sales Price will be determined on the identical units and the product of these
+shall be multiplied by units Sold. VentureCo shall pay the royalty on a calendar
+quarterly basis, within [****] days of the end of the respective calendar
+quarter.
+
+          (f) Alternative Royalty Rate Calculation Based on MNIP. The provisions
+in this Section 4.1 (f) (Alternative Royalty Rate Calculation) shall be used to
+determine the Royalty Rate, only in the particular circumstances for which this
+Section is applicable as set forth in Section 4.1(a) (Royalty Rate in General).
+
+               (i) The "Base Rate" means [****]% of the Cost Savings plus
+[****]% of the Added Value that was not already captured by the Cost Savings.
+The Royalty Rate applicable to any particular year shall depend on the [****]
+and the Base Rate in accordance with the following:
+
+
+
+Production [****]   Royalty Rate
+-----------------   ------------
+                 
+[****]              Base Rate
+[****]:             [****] x Base Rate
+[****]:             [****] x Base Rate
+[****]:             [****] x Base Rate
+[****]              [****] x Base Rate
+[****]:             [****] x Base Rate
+[****]:             [****] x Base Rate
+[****].             [****] x Base Rate
+
+
+               (ii) In accordance with the above table, the Royalty Rate equals
+the Base Rate in the [****] and [****] thereafter. [****] in the above table to
+which respective Royalty Rates apply start upon the date of the first sale in
+commercial volumes of the Licensed Products
+
+
+                                      -9-
+
+<PAGE>
+
+incorporating the respective MNIP. Successive [****] start on successive [****]
+of the date of such first sale. For example, if such first sale were to take
+place on [****].
+
+               (iii) Notwithstanding the foregoing, the royalty for any
+particular item of MNIP shall not exceed [****]% of (Net Sales Price of the item
+embodying the MNIP (e.g., Wafer, Cell, or Module) - Incoming Product Purchase
+Price) for thin ribbon MNIP through [****], and other than with respect to such
+thin ribbon MNIP, the royalty for any particular item of MNIP shall not exceed
+[****]% of (Net Sales Price of the item embodying the MNIP (e.g., Wafer, Cell,
+or Module) - Incoming Product Purchase Price). If several different items of
+MNIP are used for the same Licensed Product, royalty shall be due for each of
+such items of MNIP, except that the total of all such royalties shall not exceed
+[****]% of (Net Sales Price - [****]). [****] but not the [****], (ii) the cost
+of [****] in the event that MNIP relates to [****] but not the respective
+[****], and (iii) [****] with respect to all other MNIP. For the purpose of
+determining the [****], the costs of such [****] and [****] shall be determined
+based on the prices at which Evergreen sells such products to third parties in
+arm's length transactions in commercial volumes in the respective quarter, or if
+no such arm's length transactions occur during such quarter, the market price of
+multicrystalline silicon [****] and [****] sold in arm's length sales by third
+parties and Evergreen in the respective quarter.
+
+               (iv) For the avoidance of doubt, it is understood that the above
+royalty calculations are not based on reduction in costs or added value due to
+factors other than the respective MNIP. Further, it is understood that to the
+extent that the benefit is provided by more than one item of MNIP, the royalty
+for the respective items of MNIP shall be determined so as not to double count
+the same benefit provided for the same Licensed Product.
+
+               (v) [Deleted]
+
+               (vi) Notwithstanding the above, in the event that the value and
+savings is not properly reflected through a royalty determined through the
+requirements set forth above, the parties shall promptly determine through good
+faith negotiation the [****] royalty applicable to such MNIP based on the value
+of such MNIP to EverQ. For example, in the event that the respective MNIP is
+predominantly a cost savings technology, the component of the Base Rate
+determined under this Section 4.1 (f) (Alternative Royalty Rate Calculation
+Based on MNIP) based on Cost Savings may be increased from [****]%, up to a
+maximum of [****] %. It is further agreed that the Value Added component
+attributable to thin wafer technology will be deemed to have value until [****].
+Additionally, if the Royalty Rate determined in accordance with the above is not
+commercially reasonable (e.g., either too high or too low) because of unforeseen
+factors, the parties shall negotiate a Royalty Rate determined under this
+Section 4.1 (f) (Alternative Royalty Rate Calculation Based on MNIP) that is
+commercially reasonable in view of the value of the technology to EverQ and the
+market for such technology. As another example, in the event that a royalty is
+originally structured with a meaningful percentage attributed to Added Value and
+the Parties later determine that the Added Value has been eliminated or
+substantially reduced, the Parties agree to negotiate in good faith an increase
+in the amount of component of the Base Rate attributed Cost
+
+
+                                      -10-
+
+<PAGE>
+
+Savings as would have occurred had the royalty originally been structured around
+Cost Savings alone.
+
+               (vii) In the event that, in view of the respective [****]
+(collectively, "COSTS/VALUE"), Licensed Products that include the MNIP are
+[****] than products made with [****], then the Royalty Rate for such MNIP shall
+be [****] such that in view of the Costs/Value, the Licensed Products having the
+[****]. Notwithstanding the foregoing, the Royalty Rate shall never be less
+[****].
+
+               (viii) The Party asserting that, based on Sections 4.1(f)(v) -
+(vi), a Royalty Rate should be different from a royalty determined in accordance
+with the mechanism set forth in Sections 4.1(f)(i) - (iv) above, or that any
+Royalty Rate or component thereof already established under Section 4.1(f)
+should be changed in accordance with the mechanism set forth above, shall have
+the burden of proof of showing that the alternative approach should be adopted.
+
+               (ix) Any adjustments to royalty shall apply on a going forward
+basis only (ie apply only to Sales made after the adjustments), and all
+royalties paid hereunder are non-refundable. In the event that the parties do
+not agree on the applicable Royalty Rate, the parties shall appoint a mutually
+agreed independent auditor who shall determine the Royalty Rate in accordance
+with the above and whose determination shall be binding; provided, however, that
+the Royalty Rate may be readjusted [****] months or later after the auditor's
+determination based on changed circumstances.
+
+          (g) "Used For." MNIP is "USED FOR" Licensed Products (for purposes of
+SECTION 4.1 (Royalty)) if incorporated into or used in the manufacture of those
+Licensed Products
+
+          (h) Royalty - MNIP developed and available in the [****] Post
+Termination Period (not available in the Initial Period)
+
+               (i) The royalty payable for the use of MNIP developed and
+commercially available in the [****] Termination Period is the Market Rate
+royalty. The Parties shall promptly enter into arm's length negotiations in good
+faith to determine the Market Rate royalty applicable to MNIP (of that
+description) that VentureCo wishes to acquire in that period. Either Party may
+initiate valuation/determination of the Market Rate royalty by experts subject
+to SECTION 4.2 (Royalty Evaluation by Experts).
+
+               (ii) That royalty agreed or determined (as applicable) under this
+Section 4.1(h) shall be the Market Rate royalty. The royalty will be calculated
+on a quarterly basis on all Licensed Products for which the MNIP was used, that
+were sold in that quarter.
+
+          (i) Royalty - on E IP and MNIP Post Termination
+
+               (i) VentureCo shall continue to be responsible for royalty for
+MNIP used after the Termination Date. Additionally, VentureCo shall pay E a
+royalty on any other E IP used (prior to and at the Termination Date) for
+Licensed Products sold in volumes in excess of the
+
+
+                                      -11-
+
+<PAGE>
+
+Termination Level Capacity. That royalty shall be [****] percent ([****]%) of
+the Market Rate royalty during the the first [****] years after the Termination
+Date and the Market Rate royalty thereafter.
+
+               (ii) Parties shall enter into arm's length negotiations in good
+faith to determine the Market Rate royalty at commencement of the Post
+Termination Period for E IP not currently or previously subject to royalty
+payments. Either Party may initiate determination or valuation of the Market
+Rate royalty by experts subject to SECTION 4.2 (Royalty Evaluation by Experts).
+The agreed or (as applicable) specified royalty shall be the Market Rate
+royalty. The royalty will be calculated on a quarterly basis on all Licensed
+Products for which the E IP or MNIP was used, that were sold in that quarter,
+subject to SECTION 4.1 (Royalty Calculations).
+
+          (j) Royalty - on external IPR offered by E. If E offers VentureCo IP
+or MNIP which carries an external running cost to E (e.g. a license fee/royalty
+to a third party holder of such Intellectual Property Rights), then the cost
+incurred by E in connection with sub-licensing to VentureCo shall be borne in
+its entirety by VentureCo; provided that the written agreement between VentureCo
+and E for the licensing of such IP or MNIP expressly includes the amount of such
+running cost. The aforementioned shall not reduce E's rights to royalty under
+the rules above.
+
+          (k) No royalty on VentureCo MNIP. Notwithstanding anything in this
+Agreement, no royalty is due hereunder on Licensed Products incorporating any
+MNIP, where the directly associated development costs of that MNIP are
+substantially funded by VentureCo pursuant to written development agreements/
+arrangements between VentureCo and E. This is without prejudice to the terms of
+written development agreements/arrangements (if any) that provide for
+proportionate or other royalty reduction, where those costs are partially funded
+by VentureCo.
+
+     4.2 Royalty Evaluation by Experts. If the Parties cannot agree on the
+Market Rate royalty, Added Value or Cost Savings for MNIP within [****] days
+after initiation or commencement of negotiations to determine such royalty or
+value, then the following applies: Each Party shall retain at its expense an
+independent professional Third Party expert with expertise evaluating licenses
+in the photovoltaic industry.
+
+          (a) Subject to execution of customary confidentiality agreements by
+the independent experts, VentureCo and E shall provide or cause to be provided
+to each expert all material information, including any material changes in such
+information, reasonably necessary to make the determination or reasonably
+requested by the experts.
+
+          (b) Within [****] days after the [****] day period referenced above,
+each Party shall submit a final proposal for the relevant Market Rate royalty,
+Added Value or Cost Savings for MNIP with a supporting analysis prepared in
+writing by its retained expert, to the other Party and to the "Arbitrator." The
+Arbitrator shall be a person with expertise in evaluating licenses in the
+photovoltaic industry, shall not have a material business relationship with
+either Party and shall be reasonably acceptable to both Parties. If the Parties
+have not agreed on an Arbitrator, the Parties will each select an Arbitrator
+(within the stated [****] day period) satisfying the above criteria and the
+
+
+                                      -12-
+
+<PAGE>
+
+selected Arbitrators will select a third. In that case, the decision of a
+majority of the Arbitrators will control and shall be final and binding on both
+Parties.
+
+          (c) If one Party does not submit in a timely manner a final proposal,
+then the proposal of the other Party shall be used to establish the relevant
+Market Rate royalty, Added Value or Cost Savings for MNIP.
+
+     4.3 Tax Authority Challenges. In the event that the tax authority
+successfully challenges the adequacy or amount of the royalty or the applicable
+tax provisions change, then the parties will use best reasonable efforts to
+renegotiate to establish a royalty rate consistent with the requirements of
+applicable law in a manner that does not adversely affect or increase the
+financial burden on VentureCo.
+
+     4.4 Royalty Calculations. Royalties shall not be due with respect to
+Licensed Products for which the purchase price has been refunded within [****]
+of delivery. In the event that only part of the purchase price is refunded, the
+royalty shall be applied in proportion to the amount of the purchase price not
+refunded.
+
+     4.5 Payment. To the extent applicable, VentureCo shall, within [****] days
+after the end of each calendar quarter during the term of this Agreement,
+prepare a report summarizing the royalty payable to E pursuant to ARTICLE 4
+(Consideration and Payment) including a description and basis of the calculation
+thereof. VentureCo shall provide copies of such report to E, and VentureCo's
+payment to E shall accompany such report.
+
+     4.6 Currency. All payments hereunder shall be made in Euros.
+
+     4.7 Taxes. With respect to royalties payable by VentureCo to E under this
+Agreement, VentureCo shall promptly notify E of any requirement under applicable
+law to deduct or withhold an amount on behalf of E on account of any tax and, if
+so required under applicable law, VentureCo shall: (i) pay to the relevant
+authorities the full amount required to be deducted or withheld promptly upon
+determination by VentureCo that such deduction or withholding is required; and
+(ii) promptly forward to E an official receipt (or certified copy), or other
+documentation reasonably acceptable to E, evidencing such payment to such
+authorities. To the extent that E cannot or will not be able to take a full
+credit against its tax liability for the current or prior taxable years for the
+full amount of the withholding tax deducted or withheld by VentureCo and is
+otherwise unable to reduce or eliminate such withholding tax liability on its
+own, then the Parties shall cooperate with each other and use all reasonable
+efforts to reduce or eliminate such tax liability in a lawful and appropriate
+manner to the extent such does not result in additional liability to VentureCo.
+
+     4.8 Audit. Each Party shall maintain complete and accurate accounting
+records, in accordance with sound accounting practices, to support and document
+the royalties or payments payable in connection with this Agreement. Such
+records shall be retained for a period of at least [****] years after the
+royalties which relate to such records have been accrued and paid. Each Party
+shall, upon written request from the other, provide access to such records to
+such Party for the purposes of audit. If any such audit discloses a shortfall in
+payment (or an overcharge, as the case
+
+
+                                      -13-
+
+<PAGE>
+
+may be) of more than [****] percent ([****]%) for any quarter, the audited Party
+agrees to pay or reimburse the other Party for the expenses of such audit, and
+the Parties shall reconcile payments in accordance with the results of the
+audit.
+
+                                    ARTICLE 5
+
+                          INTELLECTUAL PROPERTY RIGHTS
+
+     5.1 Ownership
+
+          (a) Joint Inventions. E and VentureCo shall Jointly Own all right,
+title and interest in all Intellectual Property Rights that personnel of E and
+VentureCo (including third parties working on each Party's behalf) jointly
+create.
+
+               (i) Definition. For purposes of this SECTION 5.1 (Ownership),
+"JOINTLY OWN" means that, subject to the terms of the licenses granted and other
+provisions of this Agreement, each Party or owner thereof is free to exploit
+such rights and, subject to SECTION 5.2 (Enforcement of Jointly Owned
+Intellectual Property Rights), authorize others to do so, with no obligation to
+account to the other Party or owner, for profits or otherwise, and each Party
+hereby waives any right it may have under the laws of any country to require
+such consent or accounting. In the event that either or both Parties are
+pursuing enforcement pursuant to SECTION 5.2 (Enforcement of Jointly Owned
+Intellectual Property Rights), any licensing of the respective Jointly Owned
+Intellectual Property Right to the alleged Third Party infringer shall be
+pursued (with the intent that the actual or alleged infringement is regularized
+by appropriate license terms) by the Party or Parties pursuing the action until
+the conclusion of the respective action.
+
+               (ii) PROSECUTION AND MAINTENANCE BY VENTURECO. SUBJECT TO SECTION
+5.1(c) (Expenses and Assistance), VentureCo shall have the initial right, at its
+option, to control the filing for, prosecution and maintenance of any
+Intellectual Property Rights that claim or disclose inventions that the Parties
+Jointly Own pursuant to SECTION 5.1(a) (Joint Inventions), provided that
+VentureCo shall consult with and keep E reasonably informed on matters regarding
+such filing, prosecution and maintenance. In such case, subject to 5.1(c)
+(Expenses and Assistance), E shall reasonably assist VentureCo, as VentureCo
+reasonably requests, in VentureCo's efforts to file for, prosecute and/or
+maintain the Jointly-Owned Intellectual Property Rights. For purposes of this
+SECTION 5.1(a) (Joint Inventions), "PROSECUTION AND MAINTENANCE" of Intellectual
+Property Rights shall be deemed to include, without limitation, responding to
+office actions, payment of maintenance and annuity fees, and conduct of
+interferences or oppositions, and/or requests for re examinations, reissues or
+extensions of patent terms.
+
+               (iii) By the Jointly Owning Party. To the extent that VentureCo
+elects not to file, prosecute or maintain any Intellectual Property Right
+jointly owned by VentureCo and E and not Q or REC, or pay any fee related
+thereto, E shall have the right, at its option, to control the filing,
+prosecution and/or maintenance of any such Intellectual Property Right, provided
+that E shall consult with and keep VentureCo reasonably informed of matters
+regarding such filing, prosecution and maintenance. To the extent that VentureCo
+elects not to file, prosecute or maintain any Intellectual
+
+
+                                      -14-
+
+<PAGE>
+
+Property Right Jointly Owned by VentureCo, E, Q and REC, or pay any fee related
+thereto, VentureCo shall notify E, Q and REC, and E, Q and REC shall have the
+right, at their option, to jointly control the filing, prosecution and/or
+maintenance of any such Intellectual Property Right, provided that E, Q and REC
+shall consult with and keep VentureCo reasonably informed of matters regarding
+such filing, prosecution and maintenance. To the extent that E, Q or REC elects
+not to file, prosecute or maintain any such Jointly Owned Intellectual Property
+Right, or pay any fee related thereto, it shall inform the other party(ies), and
+such other party(ies) shall have the right, at its option, to control the
+filing, prosecution and/or maintenance of any such Intellectual Property Right,
+provided that such Party(ies) shall consult with the other party(ies) and
+VentureCo and keep such party(ies) reasonably informed of matters regarding such
+filing, prosecution and maintenance.
+
+          (b) Sole Inventions. Subject to the foregoing, each Party shall own
+all right, title and interest in all Intellectual Property Rights invented or
+authored solely by such Party's personnel (including third parties working on
+such Party's behalf). For purposes of clarification, E retains ownership of
+Intellectual Property Rights developed as of the License Effective Date and
+otherwise developed outside of its cooperation with VentureCo, including without
+limitation any E Technology and E Intellectual Property Rights relating to
+String Ribbon Technology.
+
+               (i) Prosecution and Maintenance; Sole Inventions Related to E
+Technology. Each Party shall have sole right, at its option, to control the
+filing for, prosecution and maintenance of any Intellectual Property Rights that
+claim or disclose inventions that the Party solely owns, subject to the
+following. To the extent that VentureCo elects not to file, prosecute or
+maintain any Intellectual Property Right relating to VentureCo's solely-owned
+Intellectual Property Rights relating to the E IP provided under this Agreement,
+or pay any fee related thereto, VentureCo shall notify E, and E shall have the
+right, at its option, to control the filing, prosecution and/or maintenance of
+any such Intellectual Property Right, and VentureCo, at E's written request,
+shall transfer and assign all of its right, title and interest to such
+Intellectual Property Right to E. In the event of such transfer, VentureCo
+retains a world-wide, non-exclusive, non-transferable, perpetual, irrevocable,
+royalty-free, sublicensable license of such transferred Intellectual Property
+Rights.
+
+               (ii) Other Prosecution and Maintenance. To the extent that
+VentureCo elects not to file, prosecute or maintain any Intellectual Property
+Right relating solely to VentureCo's solely-owned Intellectual Property Rights
+other than Intellectual Property Rights relating to improvements to the E IP
+provided under this Agreement or the Q IP provided under the Q License Agreement
+or the REC IP provided under the REC License Agreement, VentureCo shall notify
+E, Q and REC, and E, Q and REC shall have the right to jointly control the
+filing, prosecution and/or maintenance of any such Intellectual Property Right,
+and VentureCo, at E, Q and REC's written request, shall transfer and assign all
+right to such Intellectual Property Right to the joint ownership of E, Q and
+REC. In the event that either E, Q or REC elects not to participate in the
+filing, prosecution or maintenance of any Right, the other party(ies) shall have
+the right, at their/its option, to control the filing, prosecution and/or
+maintenance of such Intellectual Property Right, and VentureCo shall, at such
+party(ies') request, transfer and assign all of its right, title and interest to
+such party(ies). In the event of such transfer, VentureCo retains a world-wide,
+non-exclusive, non-
+
+
+                                      -15-
+
+<PAGE>
+
+transferable, perpetual, irrevocable, royalty-free, sublicensable license of
+such transferred Intellectual Property Rights which were originally solely owned
+by VentureCo.
+
+          (c) Expenses and Assistance. To the extent a Party controls the
+foregoing filing, prosecution and maintenance activities of any Jointly Owned
+Intellectual Property Rights (or, pursuant to SECTION 5.1 (Ownership), another
+Party's Intellectual Property Right), such controlling entity shall be
+responsible for all costs and expenses incurred in connection therewith. In such
+cases, subject to the foregoing, VentureCo shall reasonably assist the Jointly
+Inventing Parties, as the Jointly Inventing Parties reasonably request, in
+Jointly Inventing Parties' efforts to file for, prosecute and/or maintain the
+Jointly Owned Intellectual Property Rights.
+
+          (d) Employee Inventors. VentureCo shall take all necessary measures to
+secure all right, title and interest in inventions that are made by its
+employees under the regulations of the German Employee Inventor Law
+(Arbeitnehmererfindergesetz) to the maximum extent available under applicable
+law such that VentureCo may carry out its obligations of this ARTICLE 5
+(Intellectual Property Rights) and the Parties may obtain and exercise their
+rights to the applicable Intellectual Property Rights to the full extent and
+term available under applicable law. In connection therewith, VentureCo will
+comply with all applicable laws including without limitation any obligations to
+employees under applicable law with respect to employee inventions.
+
+     5.2 Enforcement of Jointly Owned Intellectual Property Rights. Each Party
+shall promptly notify the other Party if it becomes aware of a possible
+infringement by a Third Party of any Jointly Owned Intellectual Property Rights.
+If either Party desires to take any action against such an infringing or
+misappropriating Third Party, such Party shall first notify the other Party
+hereto and consult with such notified Party regarding such action. If the
+notified Party desires to participate in such action, the Parties shall then
+jointly and cooperatively pursue such action, in which event they shall bear all
+costs equally and share in any damages, royalties, license fees or other
+recoveries equally, provided that either Party may at any time decide not to
+participate further in such action, in which case any further costs shall be
+borne by and all damages, royalties, license fees and other recoveries shall be
+received by the Party which continues to pursue such action. If a Party declines
+to participate in such action, the other Party shall then have the right to
+pursue such action alone, and shall bear all costs of and receive all damages,
+royalties, license fees and other recoveries from such action. Notwithstanding
+the foregoing, if a Party declines to participate in such an action or withdraws
+from such an action, such Party shall nevertheless, at the request of the other
+Party, cooperate with the other Party, at the cost of the other Party and
+subject to any reasonable conditions (including indemnification against
+counterclaims by the third party), to the extent which may be necessary to
+enable the other Party to pursue such action effectively, including without
+limitation joining such action as an indispensable party.
+
+     5.3 Third Party Licenses. To the extent that VentureCo may desire or need
+rights with respect to any Intellectual Property Rights not licensed hereunder
+or covered by the representations or warranties of ARTICLE 6 (Warranties),
+VentureCo shall be solely responsible for obtaining such licenses and paying the
+associated costs.
+
+
+                                      -16-
+
+<PAGE>
+
+     5.4 Further Cooperation. Each of the Parties hereto agrees, upon the
+reasonable request of the other Party, to the extent consistent with this
+Agreement, to deliver to the other such records, data or other documents
+reasonably requested by the other, and to take or cause to be taken all such
+other actions as are reasonably necessary or desirable in order to permit the
+other to obtain the full benefits of this Agreement (including the execution of
+any documents required in connection therewith).
+
+                                    ARTICLE 6
+
+                                   WARRANTIES
+
+     6.1 Representations and Warranties. E hereby represents and warrants to
+VentureCo that:
+
+          (a) Registered E Intellectual Property. EXHIBIT B is a complete and
+accurate list of all Registered E Intellectual Property Rights. E will
+supplement EXHIBIT B bi annually during the Initial Period and (with respect
+MNIP used by VentureCo in the [****] Post Termination Period) Post Termination
+Period, as additional Registered E Intellectual Property Rights are applied for
+or obtained.
+
+          (b) Completeness. The E IP constitutes all (or a copy of all) of the
+Intellectual Property owned or Licensable by E that is related to or reasonably
+necessary for the conduct and operations of VentureCo as currently contemplated
+to be conducted, including, without limitation, the design, development,
+manufacture, use, marketing and sale of Licensed Products.
+
+          (c) Non-Infringement. To the knowledge of E, VentureCo's use of the E
+IP pursuant to this Agreement in the operation of VentureCo as it is
+contemplated to be conducted following the Closing, including but not limited to
+the design, development, manufacture, use, marketing and sale of Licensed
+Products does not, and will not, infringe or misappropriate any Intellectual
+Property Rights of any Third Party, violate any right of any Third Party
+(including any right to privacy or publicity), or constitute unfair competition
+or trade practices under the laws of any jurisdiction. Without limiting the
+foregoing, E has not received notice from any Person claiming that such
+operation or any act, product, Intellectual Property Rights, Technology or
+service by E (including products, Intellectual Property Rights, Technology or
+services currently under development) infringes or misappropriates any
+Intellectual Property rights of any Person, violates any right of any Person or
+constitutes unfair competition or trade practices under the laws of any
+jurisdiction (nor does E have knowledge of any basis therefor). To the knowledge
+of E, no Person is infringing or misappropriating any E IP.
+
+          (d) Contracts. EXHIBIT C lists all contracts, licenses and agreements
+under which both (1) E has been granted Intellectual Property Rights or rights
+to Technology from Third Parties and (2) such rights are Licensable and
+constitute E IP licensed hereunder.
+
+
+                                      -17-
+
+<PAGE>
+
+     6.2 Remedy. E's sole obligation and liability for E's breach of the
+representations and warranties provided in this ARTICLE 6 (Warranties) shall be
+pursuant to ARTICLE 8 (Liability and Limitations of Liability) of the Master
+Agreement.
+
+     6.3 Disclaimer. EXCEPT FOR THE WARRANTIES SET FORTH IN THIS ARTICLE 6
+(WARRANTIES) OR EXPRESSLY PROVIDED IN THE MASTER AGREEMENT, THE PARTIES MAKE NO
+WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, AND SPECIFICALLY DISCLAIM
+ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+NONINFRINGEMENT AND TITLE. NEITHER PARTY MAKES ANY GUARANTEES TO THE OTHER
+CONCERNING THE SUCCESS OR POTENTIAL SUCCESS OR COMMERCIAL VIABILITY OF THE
+ACTIVITIES CONTEMPLATED UNDER THIS AGREEMENT.
+
+                                    ARTICLE 7
+
+                            CONFIDENTIAL INFORMATION
+
+     7.1 Confidential Information. Any Confidential Information exchanged
+pursuant to this Agreement (and the terms of this Agreement itself) will be
+governed by SECTION 9.5 (Confidentiality) of the Master Agreement, with the
+Parties hereunder deemed the Disclosing Party and/or Receiving Party as
+applicable, provided that, notwithstanding anything to the contrary, each Party
+may use and distribute any such confidential or proprietary information as
+reasonably required to exercise its rights under the licenses granted pursuant
+to ARTICLE 2 (Rights and Licenses).
+
+                                    ARTICLE 8
+
+                                      TERM
+
+     8.1 Term. This Agreement shall become effective as of the Effective Date.
+The license of SECTION 2.1 (E License Grant to VentureCo) becomes effective only
+as of the License Effective Date. This Agreement may be terminated only as
+follows:
+
+          (a) [deleted].
+
+          (b) This Agreement may terminate in the event that E and VentureCo
+mutually agree in writing to terminate this Agreement (subject to the Master
+Agreement).
+
+     8.2 Special Termination Right. [****]
+
+     8.3 Effect of Termination. Upon any termination or expiration of this
+Agreement, the licenses continue as provided in this Agreement, unless otherwise
+expressly agreed in writing by E and VentureCo. SECTIONS 2.2 (VentureCo License
+Grant to E), 2.3 (Reservation of Rights), ARTICLE 3 (Technology Transfer),
+ARTICLE 4 (Consideration and Payment), ARTICLE 7 (Confidential
+
+
+                                      -18-
+
+<PAGE>
+
+Information), SECTION 8.3 (Effect of Termination) and ARTICLE 9 (General
+Provisions) shall survive any termination or expiration of this Agreement.
+SECTION 5.1 (Ownership) shall survive any termination or expiration of this
+Agreement. Notwithstanding anything to the contrary, SECTION 2.1 (E License
+Grant to VentureCo) will survive any termination of the Agreement pursuant to
+SECTION 8.2 (Special Termination Right).
+
+                                    ARTICLE 9
+
+                               GENERAL PROVISIONS
+
+     9.1 Limitation of Liability.
+
+          (a) IN NO EVENT WILL EITHER PARTY HAVE ANY LIABILITY FOR ANY SPECIAL,
+INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION
+DAMAGES FOR LOSS OF PROFITS) THAT RELATE IN ANY WAY TO THIS AGREEMENT, HOWEVER
+CAUSED ON ANY THEORY OF LIABILITY (INCLUDING NEGLIGENCE), AND WHETHER OR NOT
+SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF ANY SUCH DAMAGES.
+
+          (b) This SECTION 9.1 (Limitation of Liability) shall not limit the
+remedies that may be available to the Parties pursuant to the Master Agreement
+or Concurrent Agreements. To the extent required by applicable law, nothing in
+this SECTION 9.1 (Limitation of Liability) shall limit the remedies that may be
+available to the Parties for fraud, bodily injury or death.
+
+     9.2 Notices. All notices, requests and other communications to any Party
+hereunder shall be in writing (including facsimile transmission) and shall be
+given as set forth in the Master Agreement as follows:
+
+          As to VentureCo: As set forth in the Master Agreement.
+
+          As to E, Inc.:
+
+               Evergreen Solar, Inc.
+               138 Bartlett Street
+               Marlboro, MA 01752
+               Attention: Richard Feldt
+                          Richard Chleboski
+
+
+                                      -19-
+
+<PAGE>
+
+          with a copy to:
+
+               Wilson Sonsini Goodrich & Rosati
+               12 East 49th Street
+               New York, NY 10017 USA
+
+               Attention: Robert Sanchez
+                          Robert O'Connor
+               Phone:     1 212 999-5800
+               Fax:       1 650 493-6811
+
+          and a copy to:  Taylor Wessing
+                          Jagerstrasse 51
+                          D-10117 Berlin, Germany
+               Attention: Dr. Eberhardt Kuhne
+                          Philipp von Alvensleben
+               Phone:     ++49 30 885636 0
+               Fax:       ++49 30 885636 46
+
+          As to Q:        Q-Cells AG
+                          Guardianstr. 16
+                          D-06766 Thalheim
+               Attention: Anton Milner
+                          Dr. Hartmut Schuening
+               Phone:     +49-34 94-66 8-60
+               Fax:       +49-34 94-66 8-777
+
+          with a copy to: VAN AUBEL Rechtsanwaelte
+                          Leibnizstr. 49
+                          D-10629 Berlin, Germany
+               Attention: Dr. Thomas van Aubel
+               Phone:     +49-30-31 51 90 0
+               Fax:       +49-30-31 51 90 90
+
+          As to REC:      Renewable Energy Coporation
+                          Veritasveien 14, PO Box 280
+                          N-1323  Hovik, Norway
+               Attention: Erik Sauar
+               Phone:     +47 67 81 52 53
+               Fax:       +47 67 81 52 01
+
+          With a copy to  Renewal Energy Corporation
+                          Veritasveien 14, PO Box 280
+                          N-1323 Hovik, Norway
+
+
+                                      -20-
+
+<PAGE>
+
+               Attention: Bjorn Brenna
+               Phone:     +47 67 81 52 74
+               Fax:       +47 67 81 52 01
+
+     or, in each case, at such other address as may be specified in writing to
+the other Parties hereto.
+
+     9.3 Language. All documentation, communication and services in connection
+with this Agreement in shall be in English.
+
+     9.4 Amendments and Waivers.
+
+          (a) Any provision of this Agreement may be amended or waived if, but
+only if, such amendment or waiver is in writing and is signed, in the case of an
+amendment, by each Party to this Agreement, or in the case of a waiver, by the
+Party against whom the waiver is to be effective. The same applies to any waiver
+of this written form requirement.
+
+          (b) No failure or delay by any Party in exercising any right, power or
+privilege hereunder shall operate as a waiver thereof nor shall any single or
+partial exercise thereof preclude any or other further exercise thereof or the
+exercise of any other right, power or privilege. The rights and remedies herein
+provided shall be cumulative and not exclusive of any rights or remedies
+provided by law.
+
+     9.5 Assignment. Other than as expressly otherwise provided herein, this
+Agreement shall not be assignable or otherwise transferable by any Party hereto
+without the prior written consent of the other Party hereto and the prior
+written consent of Q and REC; provided, however, that neither Party shall be
+obligated to obtain the consent of the other Party or other parties under this
+SECTION 9.5 (Assignment) solely by virtue of a Change of Control of such Party,
+and such Party shall have the right to assign this Agreement, in its entirety
+including all rights and obligations, to such Party's successor in such Change
+of Control. Subject to the foregoing, the provisions of this Agreement shall be
+binding upon and inure to the benefit of the Parties hereto and their respective
+successors and assigns. Any assignment or transfer (including through a change
+of control) of this Agreement in violation of this SECTION 9.5 (Assignment)
+shall be null and void.
+
+     9.6 Prior Agreement; Entire Agreement; Severability. This Agreement
+supersedes and replaces the Prior Agreement. This Agreement, together with the
+Master Agreement and Concurrent Agreements, constitutes the entire agreement
+between the Parties hereto and any of such Parties' respective affiliates with
+respect to the subject matter of this Agreement and supersedes all prior
+communications, agreements and understandings, both oral and written, with
+respect to the subject matter of this Agreement. In the event any provision of
+this Agreement becomes or is declared by a court of competent jurisdiction to be
+illegal, unenforceable or void, this Agreement shall continue in full force and
+effect without said provision, and the Parties agree to negotiate, in good
+faith, a legal and enforceable substitute provision which most nearly effects
+the Parties' intent in entering into this Agreement.
+
+
+                                      -21-
+
+<PAGE>
+
+     9.7 Other Remedies; Specific Performance. Except as otherwise provided
+herein, any and all remedies herein expressly conferred upon a Party will be
+deemed cumulative with and not exclusive of any other remedy conferred hereby or
+by law or equity upon such Party, and the exercise by a Party of any one remedy
+will not preclude the exercise of any other remedy. The Parties hereto agree
+that irreparable damage may occur in the event that any of the provisions of
+this Agreement were not performed in accordance with their specific terms or
+were otherwise breached. It is accordingly agreed that the Parties may be
+entitled to seek an injunction to prevent breaches of this Agreement and to
+enforce specifically the terms and provisions hereof in a German court, this
+being in addition to any other remedy to which they are entitled at law or in
+equity.
+
+     9.8 Governing Law and Dispute Resolution. This Agreement shall be construed
+in accordance with and governed by the laws of the Federal Republic of Germany.
+
+     All disputes arising in connection with this Agreement or its validity or
+any agreement provided herein which cannot be resolved by mutual agreement of
+the Parties shall be finally settled in accordance with the Arbitration Rules of
+the German Institution of Arbitration e.V. (DIS) without recourse to the
+ordinary courts of law (except for challenges to the validity of shareholder
+resolutions which shall be submitted to the competent court in Berlin, and
+except where the Parties seek injunctions as provided in Section 9.7). The place
+of arbitration is Berlin, Germany. The arbitral tribunal consists of three
+arbitrators. The arbitrators must be capable of being appointed a judge in
+accordance with the relevant German legal rules. The substantive law of the
+Federal Republic of Germany is applicable to the dispute. The language of the
+arbitral proceedings is English.
+
+     9.9 Compliance with Laws and Regulations. Each Party will comply with all
+applicable laws, regulations and ordinances.
+
+     9.10 Export. No Party shall export or re export, directly or indirectly,
+any technical information disclosed hereunder or direct product thereof to any
+destination prohibited or restricted by the applicable export control
+regulations, including the U.S. Export Administration Regulations and
+regulations of Germany, without the prior authorization from the appropriate
+governmental authorities. Without limiting the foregoing, E shall be responsible
+for obtaining government approvals, permits or the like necessary for the export
+of its technology from the United States to VentureCo in Germany, and VentureCo
+shall be responsible for obtaining all government approvals, permits or the like
+required for the import of any technology to VentureCo and into Germany and for
+the export of any technology or products by VentureCo from Germany.
+
+     9.11 Force Majeure. No Party shall be liable to another Party for failure
+to perform its obligations under this Agreement if such failure is caused by any
+event or condition not reasonably within the control and anticipation of the
+affected Party, including, without limitation, by fire, flood, typhoon,
+earthquake, explosion, strike, labor trouble or other industrial disturbance,
+unavoidable accident, war (declared or undeclared), act of terrorism, sabotage,
+embargo, riot, or any other cause beyond the control of the Parties, provided
+that the affected Party promptly notifies the other Party
+
+
+                                      -22-
+
+<PAGE>
+
+of the occurrence of such event or condition and takes reasonable steps
+necessary to resume performance of its obligations so interfered with.
+
+     9.12 Independent Contractors. The Parties hereto are independent
+contractors. Nothing contained herein or done pursuant to this Agreement shall
+constitute either Party the agent of the other Party for any purpose or in any
+sense whatsoever, or constitute the Parties as partners or joint venturers.
+
+     9.13 Third Party Beneficiaries. No provision of this Agreement is intended
+to confer upon any person or entity other than the Parties hereto (and their
+permitted assigns) any rights or remedies hereunder.
+
+     9.14 Counterparts. This Agreement may be signed in any number of
+counterparts, each of which shall be an original, with the same effect as if the
+signatures thereto and hereto were upon the same instrument. This Agreement
+shall become effective when each Party hereto shall have received a counterpart
+hereof signed by the other Party hereto.
+
+     9.15 Condition.
+
+     This Agreement is entered into under the conditions precedent that (i) the
+share capital in EverQ is increased to Euro [****]; (ii) that such capital
+increase is registered with the commercial register, and (iii) after
+registration of such capital increase, Evergreen, Q-Cells AG and Renewable
+Energy Corporation ASA holds shares in a total amount of Euro [****] each.
+
+     This Agreement is entered into under the further conditions precedent that
+the Competent Cartel Offices have issued a letter or formal decision that they
+will not prohibit the increase of share capital in EverQ or that the respective
+waiting periods provided for in the national merger control laws have elapsed
+without any formal decision rendered or that the Competent Cartel Offices
+confirmed that the transactions contemplated herein are not notifiable under the
+applicable merger control law. Competent Cartel Offices means any national or
+international agency, body or other entity to which the transactions
+contemplated herein have to be notified under the applicable merger control
+jurisdictions.
+
+            (The remainder of this page is intentionally left blank.)
+
+
+                                      -23-
+
+<PAGE>
+
+     IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be
+duly executed by their respective authorized officers as of the day and year
+first above written.
+
+                                        EVERGREEN SOLAR, INC.
+
+
+                                        BY: /s/ Phillipp von Alvensleben
+                                            ------------------------------------
+                                        NAME:
+                                              ----------------------------------
+                                        TITLE:
+                                               ---------------------------------
+
+
+                                        VENTURECO GMBH
+
+
+                                        BY: /s/ Michael Naschke
+                                            ------------------------------------
+                                        NAME:
+                                              ----------------------------------
+                                        TITLE:
+                                               ---------------------------------
+
+
+                                      -24-
+<PAGE>
+

@@ -1,0 +1,1043 @@
+﻿LOAN AND SECURITY AGREEMENT
+ 
+       THIS LOAN AND SECURITY AGREEMENT (this "Agreement") dated as of September 21, 2012 (the "Effective Date") between SILICON VALLEY BANK, a California corporation, having a loan production office located at 275 Grove Street, Suite 2-200, Newton, Massachusetts 02466 ("Bank"), and SHUTTERSTOCK IMAGES LLC, a New York limited liability company, having a mailing address of 60 Broad Street, 30th Floor, New York, New York 10004 ("Borrower"), provides the terms on which Bank shall lend to Borrower and Borrower shall repay Bank.  The parties agree as follows:
+        
+       1              ACCOUNTING AND OTHER TERMS
+        
+       Accounting terms not defined in this Agreement shall be construed following GAAP.  Calculations and determinations must be made following GAAP. Capitalized terms not otherwise defined in this Agreement shall have the meanings set forth in Section 13.  All other terms contained in this Agreement, unless otherwise indicated, shall have the meaning provided by the Code to the extent such terms are defined therein.
+        
+       2              LOAN AND TERMS OF PAYMENT
+        
+       2.1          Promise to Pay.  Borrower hereby unconditionally promises to pay Bank the outstanding principal amount of the Term Loan and accrued and unpaid interest thereon as and when due in accordance with this Agreement.
+        
+       2.1.1       Term Loan.
+        
+             (a)           Availability.  Bank shall make one (1) term loan available to Borrower in an amount up to the Term Loan Amount on the Effective Date, subject to the satisfaction of the terms and conditions of this Agreement.
+              
+             (b)           Repayment.  Commencing on the first Interest Payment Date after the Effective Date, and on each Interest Payment Date thereafter through and including the Term Loan Maturity Date, Borrower shall make payments of interest to Bank on the outstanding principal balance of the Term Loan, in arrears, calculated as set forth in Section 2.3.  Borrower shall repay the outstanding principal balance of the Term Loan in one (1) installment on the Term Loan Maturity Date.  All outstanding principal of the Term Loan and accrued and unpaid interest thereon shall be due and payable on the Term Loan Maturity Date.  Once repaid, the Term Loan may not be reborrowed.
+              
+             (c)           Prepayment.  Borrower shall have the option to prepay all of the Term Loan or any portion thereof in the minimum principal amount of $100,000 and increments thereof without prepayment fee, premium or penalty, provided that Borrower (i) provides written notice to Bank of its election to prepay the Term Loan at least three (3) Business Days prior to such prepayment, and (ii) pays to Bank on the date of such prepayment an amount equal to the sum of (A) the principal of the Term Loan being prepaid plus accrued interest thereon through the prepayment date, plus (B) all other sums, that shall have become due and payable, including Bank Expenses.
+              
+       2.2          Reserved.
+        
+       2.3          Payment of Interest on the Term Loan.
+        
+             (a)           Interest Rate.  Subject to Sections 3.3 through 3.5, the Term Loan may be borrowed, at the option of the Borrower, in whole or in part, as LIBOR Loans or Prime Rate Loans.  Subject to Section 2.3(c), (i) each LIBOR Loan shall bear interest for each day during each Interest Period with respect thereto at a floating per annum rate equal to two percentage points (2.00%) above the LIBOR Rate, and (ii) each Prime Rate Loan shall bear interest at a floating per annum rate equal to three-quarters of one percentage point (0.75%) below the Prime Rate.  Interest on the outstanding principal amount advanced hereunder shall begin to accrue on the Funding Date.
+ 
+
+
+
+ 
+             (b)           Reserved.
+              
+             (c)           Default Rate.  Immediately upon the occurrence and during the continuance of an Event of Default, Obligations shall bear interest at a rate per annum which is two percentage points (2.00%) above the rate that is otherwise applicable thereto (the "Default Rate") unless Bank otherwise elects from time to time in its sole discretion to impose a smaller increase.  Fees and expenses which are required to be paid by Borrower pursuant to the Loan Documents (including, without limitation, Bank Expenses) but are not paid when due shall bear interest until paid at a rate equal to the highest rate applicable to the Obligations.  Payment or acceptance of the increased interest rate provided in this Section 2.3(c) is not a permitted alternative to timely payment and shall not constitute a waiver of any Event of Default or otherwise prejudice or limit any rights or remedies of Bank.
+              
+             (d)           Adjustment to Interest Rate.  (i) Changes to the interest rate of the Term Loan based on changes to the Prime Rate shall be effective on the effective date of any change to the Prime Rate and to the extent of any such change; and (ii) the interest rate applicable to each LIBOR Loan shall be determined in accordance with Section 3.5(a) hereunder.  Subject to Sections 3.3 through 3.5, such rate shall apply during the entire Interest Period applicable to such LIBOR Loan, and interest calculated thereon shall be payable on the Interest Payment Date applicable to such LIBOR Loan.
+              
+             (e)           Computation; 360-Day Year.  In computing interest, the date of the making of the Term Loan shall be included and the date of payment shall be excluded; provided, however, that if the Term Loan is repaid on the same day on which it is made, such day shall be included in computing interest thereon.  Interest on the Term Loan and all fees payable hereunder shall be computed on the basis of a 360-day year for the actual number of days elapsed.
+              
+             (f)            Debit of Accounts.  Bank may debit any of Borrower's deposit accounts, including the Designated Deposit Account, for principal and interest payments or any other amounts Borrower owes Bank when due.  These debits shall not constitute a set-off.
+              
+       2.4          Fees.  Borrower shall pay to Bank:
+        
+             (a)           Commitment Fee.  A fully earned, non-refundable commitment fee of Thirty Thousand Dollars ($30,000.00), on the Effective Date; and
+              
+             (b)           Bank Expenses.  All Bank Expenses (including reasonable attorneys' fees and expenses for documentation and negotiation of this Agreement) incurred through and after the Effective Date, when due.
+              
+       2.5          Payments; Application of Payments.  All payments (including prepayments) to be made by Borrower under any Loan Document shall be made in immediately available funds in U.S. Dollars, without setoff or counterclaim, before 12:00 p.m. Eastern time on the date when due.  Payments of principal and/or interest received after 12:00 p.m. Eastern time are considered received at the opening of business on the next Business Day.  When a payment is due on a day that is not a Business Day, the payment shall be due the next Business Day, and additional fees or interest, as applicable, shall continue to accrue until paid.
+        
+       3              CONDITIONS OF LOANS
+        
+       3.1          Conditions Precedent to the Term Loan.  Bank's obligation to fund the Term Loan is subject to the condition precedent that Bank shall have received, in form and substance satisfactory to Bank, the following documents, and completion of the following matters and the following conditions precedent:
+        
+             (a)           duly executed original signatures to the Loan Documents;
+              
+             (b)           duly executed original Notice of Borrowing;
+              
+             (c)           duly executed original signatures to the Control Agreement by and between the Borrower, Bank and HSBC Bank USA, National Association.
+ 
+2
+
+
+
+ 
+             (d)           Borrower's Operating Documents and a good standing certificate of Borrower certified by the Secretary of State of the State of New York as of a date no earlier than thirty (30) days prior to the Effective Date;
+              
+             (e)           Secretary's Certificate with completed Borrowing Resolutions for Borrower;
+              
+             (f)            certified copies, dated as of a recent date, of financing statement searches, as Bank shall request, accompanied by written evidence (including any UCC termination statements) that the Liens indicated in any such financing statements either constitute Permitted Liens or have been or, in connection with the Term Loan, will be terminated or released;
+              
+             (g)           Perfection Certificate of Borrower and each Guarantor, together with the duly executed original signature thereto;
+              
+             (h)           a landlord's consent in favor of Bank for 60 Broad Street, 30th Floor, New York, New York 10004 by the respective landlord thereof, together with the duly executed original signatures thereto;
+              
+             (i)            a bailee's waiver in favor of Bank from Internap Boston (with respect to 50 Innerbelt Road, Somerville, Massachusetts 02143, Internap Dallas (with respect to 1221 Coit Road, Plano, Texas 75075) and Internap Seattle (with respect to 3355 S. 120th Place, Seattle, Washington 98168), together with the duly executed original signatures thereto;
+              
+             (j)            legal opinion of Borrower's counsel dated as of the Effective Date together with the duly executed original signature thereto;
+              
+             (k)           duly executed original signatures to the Guaranty, together with Secretary's Certificate/duly executed original signatures to the completed Borrowing Resolutions for Guarantor;
+              
+             (l)            evidence satisfactory to Bank that the insurance policies required by Section 6.5 hereof are in full force and effect, together with appropriate evidence showing lender loss payable and/or additional insured clauses or endorsements in favor of Bank;
+              
+             (m)          evidence satisfactory to Bank that the Borrower is in compliance with the minimum EBITDA financial covenant set forth in Section 6.7(b) for the most recent quarter end period;
+              
+             (n)           payment of the fees and Bank Expenses then due as specified in Section 2.4 hereof;
+              
+             (o)           timely receipt of an executed Notice of Borrowing;
+              
+             (p)           the representations and warranties in this Agreement shall be true, accurate, and complete in all material respects on the date of the Payment/Advance Form and on the Funding Date; provided, however, that such materiality qualifier shall not be applicable to any representations and warranties that already are qualified or modified by materiality in the text thereof; and provided, further that those representations and warranties expressly referring to a specific date shall be true, accurate and complete in all material respects as of such date, and no Event of Default shall have occurred and be continuing or result from the Term Loan.  The Term Loan is Borrower's representation and warranty on that date that the representations and warranties in this Agreement remain true, accurate, and complete in all material respects; provided, however, that such materiality qualifier shall not be applicable to any representations and warranties that already are qualified or modified by materiality in the text thereof; and provided, further that those representations and warranties expressly referring to a specific date shall be true, accurate and complete in all material respects as of such date; and
+              
+             (q)           in Bank's sole discretion, there has not been a Material Adverse Change, or any material adverse deviation by Borrower from the most recent business plan of Borrower presented to and accepted by Bank.
+ 
+3
+
+
+
+ 
+       3.2          Covenant to Deliver.  Borrower agrees to deliver to Bank each item required to be delivered to Bank under this Agreement as a condition precedent to the Term Loan.  Borrower expressly agrees that if the Term Loan is made prior to the receipt by Bank of any such item, it shall not constitute a waiver by Bank of Borrower's obligation to deliver such item, and the making of the Term Loan in the absence of a required item shall be in Bank's sole discretion.
+        
+       3.3          Conversion and Continuation Elections.
+        
+             (a)           So long as (i) no Event of Default or Default exists; (ii) Borrower shall not have sent any notice of termination of this Agreement; and (iii) Borrower shall have complied with such customary procedures as Bank has established from time to time for Borrower's requests for LIBOR Loans, Borrower may, upon irrevocable written notice to Bank:
+              
+　　　　　　　　　　(1)           elect to convert on any Business Day, Prime Rate Loans, in an amount equal to $100,000 or any integral multiple of $100,000 in excess thereof, into LIBOR Loans;
+　　　　　　　　　　 
+　　　　　　　　　　(2)           elect to continue on any Interest Payment Date any LIBOR Loans maturing on such Interest Payment Date (or any part thereof in an amount equal to $100,000 or any integral multiple of $100,000 in excess thereof); provided, that if the aggregate amount of LIBOR Loans shall have been reduced, by payment, prepayment, or conversion of part thereof, to be less than $100,000, such LIBOR Loans shall automatically convert into Prime Rate Loans, and on and after such date the right of Borrower to continue such Loans as, and convert such Loans into, LIBOR Loans shall terminate; or
+　　　　　　　　　　 
+　　　　　　　　　　(3)           elect to convert on any Interest Payment Date any LIBOR Loans maturing on such Interest Payment Date (or any part thereof in an amount equal to $100,000 or any integral multiple of $100,000 in excess thereof) into Prime Rate Loans.
+　　　　　　　　　　 
+     (b)           Borrower shall deliver a Notice of Conversion/Continuation in accordance with Section 10 to be received by Bank prior to 12:00 p.m. (Eastern time) (i) at least three (3) Business Days in advance of the Conversion Date or Continuation Date, if any Loans are to be converted into or continued as LIBOR Loans; and (ii) on the Conversion Date, if any Loans are to be converted into Prime Rate Loans, in each case specifying the:
+      
+(1)                                  proposed Conversion Date or Continuation Date;
+ 
+(2)                                  aggregate amount and Type of the Loans to be converted or continued;
+ 
+(3)                                  nature of the proposed conversion or continuation; and
+ 
+(4)                                  duration of the requested Interest Period.
+ 
+     (c)           all borrowings, conversions and continuations of LIBOR Loans and all selections of Interest Periods shall be made pursuant to such elections so that, (i) after giving effect thereto, the aggregate principal amount of the LIBOR Loans comprising each LIBOR Tranche shall be equal to $100,000 or any integral multiple of $100,000 in excess thereof and (ii) no more than five (5) LIBOR Tranches shall be outstanding at any one time.
+      
+     (d)           If upon the expiration of any Interest Period applicable to any LIBOR Loans, Borrower shall have timely failed to select a new Interest Period to be applicable to such LIBOR Loans, Borrower shall be deemed to have elected to convert such LIBOR Loans into Prime Rate Loans.
+      
+     (e)           Any LIBOR Loans shall, at Bank's option, convert into Prime Rate Loans in the event that an Event of Default or Default shall exist.  Borrower agrees to pay Bank, upon demand by Bank (or Bank may, at its option, charge the Designated Deposit Account or any other account Borrower maintains with Bank) any amounts required to compensate Bank for any loss (including loss of anticipated profits), cost, or expense incurred by Bank, as a result of the conversion of LIBOR Loans to Prime Rate Loans pursuant to this Section 3.3.
+ 
+4
+
+
+
+ 
+     (f)            Notwithstanding anything to the contrary contained herein, Bank shall not be required to purchase Dollar deposits in the London interbank market or other applicable LIBOR Base Rate market to fund any LIBOR Loans, but the provisions hereof shall be deemed to apply as if Bank had purchased such deposits to fund the LIBOR Loans.
+      
+       3.4          Special Provisions Governing LIBOR Loans.
+        
+       Notwithstanding any other provision of this Agreement to the contrary, the following provisions shall govern with respect to LIBOR Loans as to the matters covered:
+        
+     (a)           Determination of Applicable Interest Rate.  As soon as practicable on each Interest Rate Determination Date, Bank shall determine (which determination shall, absent manifest error in calculation, be final, conclusive and binding upon all parties) the interest rate that shall apply to the LIBOR Loans for which an interest rate is then being determined for the applicable Interest Period and shall promptly give notice thereof (in writing or by telephone confirmed in writing) to Borrower.
+      
+     (b)           Inability to Determine Applicable Interest Rate.  In the event that Bank shall have determined (which determination shall be final and conclusive and binding upon all parties hereto), on any Interest Rate Determination Date with respect to any LIBOR Loans, that by reason of circumstances affecting the London interbank market adequate and fair means do not exist for ascertaining the interest rate applicable to such LIBOR Loan on the basis provided for in the definition of LIBOR Base Rate, Bank shall on such date give notice (by facsimile or by telephone confirmed in writing) to Borrower of such determination, whereupon (i) no LIBOR Loans may be made as, or converted to, LIBOR Loans until such time as Bank notifies Borrower that the circumstances giving rise to such notice no longer exist, and (ii) any Notice of Borrowing or Notice of Conversion/Continuation given by Borrower with respect to LIBOR Loans in respect of which such determination was made shall be deemed to be rescinded by Borrower.
+      
+     (c)           Compensation for Breakage or Non-Commencement of Interest Periods.  Borrower shall compensate Bank, upon written request by Bank (which request shall set forth the manner and method of computing such compensation), for all reasonable losses, expenses and liabilities, if any (including any interest paid by Bank to lenders of funds borrowed by it to make or carry its LIBOR Loans and any loss, expense or liability incurred by Bank in connection with the liquidation or re-employment of such funds) such that Bank may incur: (i) if for any reason (other than a default by Bank or due to any failure of Bank to fund LIBOR Loans due to impracticability or illegality under Sections 3.5(d) and 3.5(e)) a borrowing or a conversion to or continuation of any LIBOR Loan does not occur on a date specified in a Notice of Borrowing or a Notice of Conversion/Continuation, as the case may be, or (ii) if any principal payment or any conversion of any of its LIBOR Loans occurs on a date prior to the last day of an Interest Period applicable to such LIBOR Loan.
+      
+     (d)           Assumptions Concerning Funding of LIBOR Loans.  Calculation of all amounts payable to Bank under this Section 3.4 and under Section 3.5 shall be made as though Bank had actually funded each of its relevant LIBOR Loans through the purchase of a LIBOR deposit bearing interest at the rate obtained pursuant to the definition of LIBOR Rate in an amount equal to the amount of such LIBOR Loans and having a maturity comparable to the relevant Interest Period; provided, that Bank may fund each of its LIBOR Loans in any manner it sees fit and the foregoing assumptions shall be utilized only for the purposes of calculating amounts payable under this Section 3.4 and under Section 3.5.
+      
+     (e)           LIBOR Loans after Default.  After the occurrence and during the continuance of an Event of Default, (i) Borrower may not elect to have any LIBOR Loan be made or continued as, or converted into, a LIBOR Loan after the expiration of any Interest Period then in effect for such LIBOR Loan and (ii) subject to the provisions of Section 3.5(c), any Notice of Conversion/Continuation given by Borrower with respect to a requested conversion/continuation that has not yet occurred shall be deemed to be rescinded by Borrower and be deemed a request to convert or continue Loans referred to therein as Prime Rate Loans.
+ 
+5
+
+
+
+ 
+       3.5          Additional Requirements/Provisions Regarding LIBOR Loans.
+        
+     (a)           If for any reason (including acceleration), Bank receives all or part of the principal amount of a LIBOR Loan prior to the last day of the Interest Period for such LIBOR Loan, Borrower shall immediately notify Borrower's account officer at Bank and, on demand by Bank, pay Bank the amount (if any) by which (i) the additional interest which would have been payable on the amount so received had it not been received until the last day of such Interest Period exceeds (ii) the interest which would have been recoverable by Bank by placing the amount so received on deposit in the certificate of deposit markets, the offshore currency markets, or United States Treasury investment products, as the case may be, for a period starting on the date on which it was so received and ending on the last day of such Interest Period at the interest rate determined by Bank in its reasonable discretion.  Bank's determination as to such amount shall be conclusive absent manifest error.
+      
+     (b)           Borrower shall pay Bank, upon demand by Bank, from time to time such amounts as Bank may determine to be necessary to compensate it for any costs incurred by Bank that Bank determines are attributable to its making or maintaining of any amount receivable by Bank hereunder in respect of any LIBOR Loans relating thereto (such increases in costs and reductions in amounts receivable being herein called "Additional Costs"), in each case resulting from any regulatory change which:
+      
+　　　　　　　　　　(i)            changes the basis of taxation of any amounts payable to Bank under this Agreement in respect of any LIBOR Loans (other than changes which affect taxes measured by or imposed on the overall net income of Bank by the jurisdiction in which Bank has its principal office);
+　　　　　　　　　　 
+　　　　　　　　　　(ii)           imposes or modifies any reserve, special deposit or similar requirements relating to any extension of credit or other assets of, or any deposits with, or other liabilities of Bank (including any LIBOR Loans or any deposits referred to in the definition of LIBOR Base Rate); or
+　　　　　　　　　　 
+　　　　　　　　　　(iii)          imposes any other condition affecting this Agreement (or any of such extension of credit or liabilities).
+　　　　　　　　　　 
+     (c)           Bank will notify Borrower of any event occurring after the Effective Date which will entitle Bank to compensation pursuant to this Section 3.5 as promptly as practicable after it obtains knowledge thereof and determines to request such compensation.  Bank will furnish Borrower with a statement setting forth the basis and amount of each request by Bank for compensation under this Section 3.5.  Determinations and allocations by Bank for purposes of this Section 3.5 of the effect of any regulatory change on its costs of maintaining its obligations to make LIBOR Loans, of making or maintaining LIBOR Loans, or on amounts receivable by it in respect of LIBOR Loans, and of the additional amounts required to compensate Bank in respect of any Additional Costs, shall be conclusive absent manifest error.
+      
+     (d)           If Bank shall determine that the adoption or implementation of any applicable law, rule, regulation, or treaty regarding capital adequacy, or any change therein, or any change in the interpretation or administration thereof by any governmental authority, central bank, or comparable agency charged with the interpretation or administration thereof, or compliance by Bank (or its applicable lending office) with any respect or directive regarding capital adequacy (whether or not having the force of law) of any such authority, central bank, or comparable agency, has or would have the effect of reducing the rate of return on capital of Bank or any person or entity controlling Bank ("Bank's Parent") as a consequence of its obligations hereunder to a level below that which Bank (or Bank's Parent) could have achieved but for such adoption, change, or compliance (taking into consideration policies with respect to capital adequacy) by an amount deemed by Bank to be material, then from time to time, within fifteen (15) days after demand by Bank, Borrower shall pay to Bank such additional amount or amounts as will compensate Bank for such reduction.  A statement of Bank claiming compensation under this Section 3.5(d) and setting forth the additional amount or amounts to be paid to it hereunder shall be conclusive absent manifest error.
+      
+     (e)           If, at any time, Bank, in its reasonable discretion, determines that (i) the amount of LIBOR Loans for periods equal to the corresponding Interest Periods are not available to Bank in the offshore currency interbank markets, or (ii) the LIBOR Base Rate does not accurately reflect the cost to Bank of lending the LIBOR Loans, then Bank shall promptly give notice thereof to Borrower.  Upon the giving of such notice, Bank's obligation to make the LIBOR Loans shall terminate; provided, however, LIBOR Loans shall not terminate if Bank and Borrower agree in writing to a different interest rate applicable to LIBOR Loans.
+ 
+6
+
+
+
+ 
+     (f)            If it shall become unlawful for Bank to continue to fund or maintain any LIBOR Loans, or to perform its obligations hereunder, upon demand by Bank, Borrower shall prepay the LIBOR Loans in full with accrued interest thereon and all other amounts payable by Borrower hereunder (including, without limitation, any amount payable in connection with such prepayment pursuant to Section 3.5(a)).  Notwithstanding the foregoing, to the extent a determination by Bank as described above relates to a LIBOR Loan then being requested by Borrower pursuant to a Notice of Borrowing or a Notice of Conversion/Continuation, Borrower shall have the option, subject to the provisions of Section 3.4(c), to (i) rescind such Notice of Borrowing or Notice of Conversion/Continuation by giving notice (by facsimile or by telephone confirmed in writing) to Bank of such rescission on the date on which Bank gives notice of its determination as described above, or (ii) modify such Notice of Borrowing or Notice of Conversion/Continuation to obtain a Prime Rate Loan or to have outstanding LIBOR Loans converted into or continued as Prime Rate Loans by giving notice (by facsimile or by telephone confirmed in writing) to Bank of such modification on the date on which Bank gives notice of its determination as described above.
+      
+       4              CREATION OF SECURITY INTEREST
+        
+       4.1          Grant of Security Interest.  Borrower hereby grants Bank, to secure the payment and performance in full of all of the Obligations, a continuing security interest in, and pledges to Bank, the Collateral, wherever located, whether now owned or hereafter acquired or arising, and all proceeds and products thereof.
+        
+       Borrower acknowledges that it previously has entered, and/or may in the future enter, into Bank Services Agreements with Bank.  Regardless of the terms of any Bank Services Agreement, Borrower agrees that any amounts Borrower owes Bank thereunder shall be deemed to be Obligations hereunder and that it is the intent of Borrower and Bank to have all such Obligations secured by the first priority perfected security interest in the Collateral granted herein (subject only to Permitted Liens that expressly have superior priority to Bank's Lien in this Agreement).
+        
+       If this Agreement is terminated, Bank's Lien in the Collateral shall continue until the Obligations (other than inchoate indemnity obligations) are satisfied in full, and at such time, Bank shall, at Borrower's sole cost and expense, terminate its security interest in the Collateral and all rights therein shall revert to Borrower.  In the event (a) all Obligations (other than inchoate indemnity obligations), except for Bank Services, are satisfied in full, and (b) this Agreement is terminated, Bank shall terminate the security interest granted herein upon Borrower providing cash collateral acceptable to Bank in its good faith business judgment for Bank Services, if any.  In the event such Bank Services consist of outstanding letters of credit, Borrower shall provide to Bank cash collateral in an amount equal to 105% (110% for such letters of credit denominated in a currency other than Dollars) of the Dollar Equivalent of the face amount of all such letters of credit plus all interest, fees, and costs due or to become due in connection therewith (as estimated by Bank in its good faith business judgment), to secure all of the Obligations relating to such letters of credit.
+        
+       4.2          Priority of Security Interest.  Borrower represents, warrants, and covenants that the security interest granted herein is and shall at all times continue to be a first priority perfected security interest in the Collateral (subject only to Permitted Liens that expressly have superior priority to Bank's Lien under this Agreement).  If Borrower shall acquire a commercial tort claim, Borrower shall promptly notify Bank in a writing signed by Borrower of the general details thereof and grant to Bank in such writing a security interest therein and in the proceeds thereof, all upon the terms of this Agreement, with such writing to be in form and substance reasonably satisfactory to Bank.
+        
+       4.3          Authorization to File Financing Statements.  Borrower hereby authorizes Bank to file financing statements, without notice to Borrower, with all appropriate jurisdictions to perfect or protect Bank's interest or rights hereunder, including a notice that any disposition of the Collateral, by either Borrower or any other Person, shall be deemed to violate the rights of Bank under the Code.  Such financing statements may indicate the Collateral as "all assets of the Debtor" or words of similar effect, or as being of an equal or lesser scope, or with greater detail, all in Bank's discretion.
+        
+       5              REPRESENTATIONS AND WARRANTIES
+        
+             Borrower represents and warrants as follows:
+ 
+7
+
+
+
+ 
+       5.1          Due Organization, Authorization; Power and Authority.  Borrower and each of its Subsidiaries is duly existing and in good standing in its jurisdiction of formation and is qualified and licensed to do business and is in good standing in any jurisdiction in which the conduct of its business or its ownership of property requires that it be qualified except where the failure to do so could not reasonably be expected to have a material adverse effect on Borrower's business.  In connection with this Agreement, Borrower has delivered to Bank a completed certificate signed by Borrower and each Guarantor, respectively, entitled "Perfection Certificate".  Borrower represents and warrants to Bank that (a) Borrower's exact legal name is that indicated on the Perfection Certificate and on the signature page hereof; (b) Borrower is an organization of the type and is organized in the jurisdiction set forth in the Perfection Certificate; (c) the Perfection Certificate accurately sets forth Borrower's organizational identification number or accurately states that Borrower has none; (d) the Perfection Certificate accurately sets forth Borrower's place of business, or, if more than one, its chief executive office as well as Borrower's mailing address (if different than its chief executive office); (e) Borrower (and each of its predecessors) has not, in the past five (5) years, changed its jurisdiction of formation, organizational structure or type, or any organizational number assigned by its jurisdiction; and (f) all other information set forth on the Perfection Certificate pertaining to Borrower and each of its Subsidiaries is accurate and complete (it being understood and agreed that Borrower may from time to time update certain information in the Perfection Certificate after the Effective Date to the extent permitted by one or more specific provisions in this Agreement).  If Borrower is not now a Registered Organization but later becomes one, Borrower shall promptly notify Bank of such occurrence and provide Bank with Borrower's organizational identification number.
+        
+       The execution, delivery and performance by Borrower of the Loan Documents to which it is a party have been duly authorized, and do not (i) conflict with any of Borrower's organizational documents, (ii) contravene, conflict with, constitute a default under or violate any material Requirement of Law, (iii) contravene, conflict or violate any applicable order, writ, judgment, injunction, decree, determination or award of any Governmental Authority by which Borrower or any of its Subsidiaries or any of their property or assets may be bound or affected, (iv) require any action by, filing, registration, or qualification with, or Governmental Approval from, any Governmental Authority (except such Governmental Approvals which have already been obtained and are in full force and effect, or (v) constitute an event of default under any material agreement by which Borrower is bound.  Borrower is not in default under any agreement to which it is a party or by which it is bound in which the default could reasonably be expected to have a material adverse effect on Borrower's business.
+        
+       5.2          Collateral.  Borrower has good title to, has rights in, and the power to transfer each item of the Collateral upon which it purports to grant a Lien hereunder, free and clear of any and all Liens except Permitted Liens.  Borrower has no deposit accounts other than (i) the deposit accounts with Bank, (ii) the deposit accounts, if any, described in the Perfection Certificate delivered to Bank in connection herewith, or (iii) the deposit accounts of which Borrower has given Bank notice and taken such actions as are necessary to give Bank a perfected security interest therein.
+        
+       The Collateral is not in the possession of any third party bailee (such as a warehouse) except as otherwise provided in the Perfection Certificate.  Without the prior consent of the Bank, none of the components of the Collateral shall be maintained at locations other than as provided in the Perfection Certificate or as permitted pursuant to Section 7.2.  In the event that Borrower, after the date hereof, intends to store or otherwise deliver any portion of the Collateral to a bailee, then Borrower will first receive the written consent of Bank and such bailee must execute and deliver a bailee agreement in form and substance satisfactory to Bank in its reasonable determination after consultation with Borrower.
+        
+       Borrower is the sole owner of the Intellectual Property which it owns or purports to own except for (a) non-exclusive licenses granted to its customers in the ordinary course of business, (b) over-the-counter software that is commercially available to the public, and (c) material Intellectual Property licensed to Borrower and noted on the Perfection Certificate.  Each Patent which it owns or purports to own and which is material to Borrower's business is valid and enforceable, and no part of the Intellectual Property which Borrower owns or purports to own and which is material to Borrower's business has been judged invalid or unenforceable, in whole or in part.  To the best of Borrower's knowledge, no claim has been made that any part of the Intellectual Property violates the rights of any third party except to the extent such claim would not reasonably be expected to have a material adverse effect on Borrower's business.
+ 
+8
+
+
+
+ 
+       Except as noted on the Perfection Certificate, Borrower is not a party to, nor is it bound by, any Restricted License.
+        
+       5.3          Reserved.
+        
+       5.4          Litigation.  There are no actions or proceedings pending or, to the knowledge of the Responsible Officers, threatened in writing by or against Borrower or any of its Subsidiaries involving more than, individually or in the aggregate, One Hundred Thousand Dollars ($100,000.00).
+        
+       5.5          Financial Statements; Financial Condition.  All consolidated financial statements for Borrower and any of its Subsidiaries delivered to Bank fairly present in all material respects Borrower's consolidated financial condition and Borrower's consolidated results of operations.  There has not been any material deterioration in Borrower's consolidated financial condition since the date of the most recent financial statements submitted to Bank.
+        
+       5.6          Solvency.  The fair salable value of Borrower's assets (including goodwill minus disposition costs) exceeds the fair value of its liabilities; Borrower is not left with unreasonably small capital after the transactions in this Agreement; and Borrower is able to pay its debts (including trade debts) as they mature.
+        
+       5.7          Regulatory Compliance.  Borrower is not an "investment company" or a company "controlled" by an "investment company" under the Investment Company Act of 1940, as amended.  Borrower is not engaged as one of its important activities in extending credit for margin stock (under Regulations X, T and U of the Federal Reserve Board of Governors).  Borrower has complied in all material respects with the Federal Fair Labor Standards Act.  Neither Borrower nor any of its Subsidiaries is a "holding company" or an "affiliate" of a "holding company" or a "subsidiary company" of a "holding company" as each term is defined and used in the Public Utility Holding Company Act of 2005.  Borrower has not violated any laws, ordinances or rules, the violation of which could reasonably be expected to have a material adverse effect on its business.  None of Borrower's or any of its Subsidiaries' properties or assets has been used by Borrower or any Subsidiary or, to the best of Borrower's knowledge, by previous Persons, in disposing, producing, storing, treating, or transporting any hazardous substance other than legally.  Borrower and each of its Subsidiaries have obtained all consents, approvals and authorizations of, made all declarations or filings with, and given all notices to, all Government Authorities that are necessary to continue their respective businesses as currently conducted.
+        
+       5.8          Subsidiaries; Investments.  Borrower does not own any stock, partnership interest or other equity securities except for Permitted Investments.
+        
+       5.9          Tax Returns and Payments; Pension Contributions.  Borrower has timely filed all required tax returns and reports, and Borrower has timely paid all foreign, federal, state and local taxes, assessments, deposits and contributions owed by Borrower, except for certain non-income taxes consisting of international consumption taxes, sales and use taxes, and royalty withholding obligations as described on Schedule 5.9 hereto for which adequate reserves have been established on Borrower's financial books and records.  Borrower may defer payment of any contested taxes, provided that Borrower (a) in good faith contests its obligation to pay the taxes by appropriate proceedings promptly and diligently instituted and conducted, (b) notifies Bank in writing of the commencement of, and any material development in, the proceedings, (c) posts bonds or takes any other steps required to prevent the governmental authority levying such contested taxes from obtaining a Lien upon any of the Collateral that is other than a "Permitted Lien".  Borrower is unaware of any claims or adjustments proposed for any of Borrower's prior tax years which could result in additional taxes becoming due and payable by Borrower.  Borrower has paid all amounts necessary to fund all present pension, profit sharing and deferred compensation plans in accordance with their terms, and Borrower has not withdrawn from participation in, and has not permitted partial or complete termination of, or permitted the occurrence of any other event with respect to, any such plan which could reasonably be expected to result in any liability of Borrower, including any liability to the Pension Benefit Guaranty Corporation or its successors or any other governmental agency.
+        
+       5.10        Use of Proceeds.  Borrower shall use the proceeds of the Term Loan solely as working capital and to fund its general business requirements and not for personal, family, household or agricultural purposes.
+ 
+9
+
+
+
+ 
+       5.11        Full Disclosure.  No written representation, warranty or other statement of Borrower in any certificate or written statement given to Bank, as of the date such representation, warranty, or other statement was made, taken together with all such written certificates and written statements given to Bank, contains any untrue statement of a material fact or omits to state a material fact necessary to make the statements contained in the certificates or statements not misleading (it being recognized by Bank that the projections and forecasts provided by Borrower in good faith and based upon reasonable assumptions are not viewed as facts and that actual results during the period or periods covered by such projections and forecasts may differ from the projected or forecasted results).
+        
+       5.12        Definition of "Knowledge."  For purposes of the Loan Documents, whenever a representation or warranty is made to Borrower's knowledge or awareness, to the "best of" Borrower's knowledge, or with a similar qualification, knowledge or awareness means the actual knowledge, after reasonable investigation, of the Responsible Officers.
+        
+       6              AFFIRMATIVE COVENANTS
+        
+       Borrower shall do all of the following:
+        
+       6.1          Government Compliance.
+        
+             (a)           Maintain its and all its Subsidiaries' legal existence and good standing in their respective jurisdictions of formation and maintain qualification in each jurisdiction in which the failure to so qualify would reasonably be expected to have a material adverse effect on Borrower's business or operations.  Borrower shall comply, and have each Subsidiary comply, with all laws, ordinances and regulations to which it is subject, noncompliance with which could have a material adverse effect on Borrower's business.
+              
+             (b)           Obtain all of the Governmental Approvals necessary for the performance by Borrower of its obligations under the Loan Documents to which it is a party and the grant of a security interest to Bank in all of its property.  Borrower shall promptly provide copies of any such obtained Governmental Approvals to Bank.
+              
+       6.2          Financial Statements, Reports, Certificates.  Deliver to Bank:
+        
+             (a)           Quarterly Financial Statements.  As soon as available, but no later than forty five (45) days after the last day of each fiscal quarter of Borrower, a company prepared consolidated balance sheet and income statement covering Borrower's consolidated operations for such quarter certified by a Responsible Officer and in a form acceptable to Bank (the "Quarterly Financial Statements");
+              
+             (b)           Compliance Certificate.  Together with the Quarterly Financial Statements and Annual Audited Financial Statements, a duly completed Compliance Certificate signed by a Responsible Officer, certifying that as of the end of such month, Borrower was in full compliance with all of the terms and conditions of this Agreement, and setting forth calculations showing compliance with the financial covenants set forth in this Agreement and such other information as Bank shall reasonably request;
+              
+             (c)           Annual Audited Financial Statements.  As soon as available, but no later than one hundred fifty (150) days after the last day of Borrower's fiscal year, audited consolidated financial statements prepared under GAAP, consistently applied, together with an unqualified opinion on the financial statements from an independent certified public accounting firm reasonably acceptable to Bank (the "Annual Audited Financial Statements");
+              
+             (d)           Other Statements.  Within five (5) days of delivery, copies of all statements, reports and notices made available to Borrower's public security holders or to any holders of Subordinated Debt;
+              
+             (e)           SEC Filings.  In the event that Borrower becomes subject to the reporting requirements under the Exchange Act within five (5) days of filing, copies of all periodic and other reports, proxy statements and other materials filed by Borrower with the SEC, any Governmental Authority succeeding to any or all of the
+ 
+10
+
+
+
+ 
+functions of the SEC or with any national securities exchange, or distributed to its shareholders, as the case may be.  Documents required to be delivered pursuant to the terms hereof (to the extent any such documents are included in materials otherwise filed with the SEC) may be delivered electronically and if so delivered, shall be deemed to have been delivered on the date on which Borrower posts such documents, or provides a link thereto, on Borrower's website on the Internet at Borrower's website address;
+ 
+             (f)            Legal Action Notice.  A prompt report of any legal actions pending or threatened in writing against Borrower or any of its Subsidiaries that could be reasonably expected to result in damages or costs to Borrower or any of its Subsidiaries of, individually or in the aggregate, One Hundred Thousand Dollars ($100,000) or more;
+              
+             (g)           Intellectual Property Notice.  Prompt written notice of (i) any material change in the composition of the Intellectual Property, (ii) the registration of any copyright, including any subsequent ownership right of Borrower in or to any copyright, patent or trademark not previously disclosed in writing to Bank, and (iii) Borrower's knowledge of an event that could reasonably be expected to materially and adversely affect the value of the Intellectual Property;
+              
+             (h)           Annual Operating Budget.  As soon as available, but no later than sixty (60) days after the end of each fiscal year of Borrower, (i) the annual operating budget (including income statements, balance sheets and cash flow statements, by quarter) for the upcoming fiscal year of Borrower as approved by Borrower's board of directors, and (ii) the annual financial projections for the following fiscal year (on a quarterly basis) as approved by Borrower's board of directors, together with any related business forecasts used in the preparation of such annual financial projections; and
+              
+             (i)            Other Financial Information.  Other financial information reasonably requested by Bank.
+              
+       6.3          Reserved.
+        
+       6.4          Taxes; Pensions.  Timely file, and require each of its Subsidiaries to timely file, all required tax returns and reports and timely pay, and require each of its Subsidiaries to timely pay, all foreign, federal, state and local taxes, assessments, deposits and contributions owed by Borrower and each of its Subsidiaries, except for deferred payment of any taxes contested pursuant to the terms of Section 5.9 hereof, and shall deliver to Bank, on demand, appropriate certificates attesting to such payments, and pay all amounts necessary to fund all present pension, profit sharing and deferred compensation plans in accordance with their terms.
+        
+       6.5          Insurance.  Keep its business and the Collateral insured for risks and in amounts standard for companies in Borrower's industry and location and as Bank may reasonably request.  Insurance policies shall be in a form, with companies, and in amounts that are satisfactory to Bank.  All property policies shall have a lender's loss payable endorsement showing Bank as lender loss payee and waive subrogation against Bank and shall provide that the insurer must give Bank at least twenty (20) days notice before canceling, amending, or declining to renew its policy.  All liability policies shall show, or have endorsements showing, Bank as an additional insured, and all such policies (or the loss payable and additional insured endorsements) shall provide that the insurer shall give Bank at least twenty (20) days notice before canceling, amending, or declining to renew its policy.  At Bank's request, Borrower shall deliver certified copies of policies and evidence of all premium payments.  Proceeds payable under any policy shall, at Bank's option, be payable to Bank on account of the Obligations.  If Borrower fails to obtain insurance as required under this Section 6.5 or to pay any amount or furnish any required proof of payment to third persons and Bank, Bank may make all or part of such payment or obtain such insurance policies required in this Section 6.5, and take any action under the policies Bank deems prudent.
+ 
+11
+
+ 
+       6.6                               Operating Accounts.
+        
+             (a)                                  Maintain the Designated Deposit Account with Bank.
+              
+             (b)                                 Provide Bank five (5) days prior written notice before establishing any Collateral Account at or with any bank or financial institution other than Bank or Bank's Affiliates.  For each Collateral Account that Borrower at any time maintains, Borrower shall cause the applicable bank or financial institution (other than Bank) at or with which any Collateral Account is maintained to execute and deliver a Control Agreement or other appropriate instrument with respect to such Collateral Account to perfect Bank's Lien in such Collateral Account in accordance with the terms hereunder which Control Agreement may not be terminated without the prior written consent of Bank.  The provisions of the previous sentence shall not apply to deposit accounts exclusively used for payroll, payroll taxes and other employee wage and benefit payments to or for the benefit of Borrower's employees and identified to Bank by Borrower as such.
+              
+       6.7                               Financial Covenant.  Borrower shall comply with the following financial covenant, to be tested on a consolidated basis with respect to Borrower and its Subsidiaries as of the last day of each fiscal quarter:
+        
+             (a)                                  EBITDA.  Achieve, as of the last day of each quarterly period, measured on a trailing twelve (12) month basis, minimum EBITDA of at least Twenty Million Dollars ($20,000,000.00).
+              
+       6.8                               Protection and Registration of Intellectual Property Rights.
+        
+             (a)                                  (i) Protect, defend and maintain the validity and enforceability of its Intellectual Property; (ii) promptly advise Bank in writing of material infringements of its Intellectual Property; and (iii) not allow any Intellectual Property material to Borrower's business to be abandoned, forfeited or dedicated to the public without Bank's written consent.
+              
+             (b)                                 Provide written notice to Bank within ten (10) days of entering or becoming bound by any material Restricted License (other than over-the-counter software that is commercially available to the public).   Borrower shall take such steps as Bank reasonably requests to obtain the consent of, or waiver by, any person whose consent or waiver is necessary for (i) any Restricted License to be deemed "Collateral" and for Bank to have a security interest in it that might otherwise be restricted or prohibited by law or by the terms of any such Restricted License, whether now existing or entered into in the future, and (ii) Bank to have the ability in the event of a liquidation of any Collateral to dispose of such Collateral in accordance with Bank's rights and remedies under this Agreement and the other Loan Documents.
+              
+       6.9                               Litigation Cooperation.  From the date hereof and continuing through the termination of this Agreement, make available to Bank, without expense to Bank, Borrower and its officers, employees and agents and Borrower's books and records, to the extent that Bank may deem them reasonably necessary to prosecute or defend any third-party suit or proceeding instituted by or against Bank with respect to any Collateral or relating to Borrower or the Loan Documents.
+        
+       6.10                        Reserved.
+        
+       6.11                        Reserved.
+        
+       6.12                        Access to Collateral; Books and Records.  Allow Bank, or its agents, to inspect the Collateral and audit and copy Borrower's Books.  Such inspections or audits shall be conducted no more often than once every twelve (12) months unless an Event of Default has occurred and is continuing.  The foregoing inspections and audits shall be at Borrower's expense, and the charge therefor shall be $850 per person per day (or such amount as shall represent Bank's then-current standard charge for the same), plus reasonable out-of-pocket expenses.  In the event Borrower and Bank schedule an audit more than ten (10) days in advance, and Borrower cancels or seeks to reschedule the audit with less than ten (10) days written notice to Bank, then (without limiting any of Bank's rights or remedies), Borrower shall pay Bank a fee of $1,000 plus any out-of-pocket expenses incurred by Bank to compensate Bank for the anticipated costs and expenses of the cancellation or rescheduling.
+ 
+12
+
+
+
+ 
+       6.13                        Formation or Acquisition of Subsidiaries.  Notwithstanding and without limiting the negative covenants contained in Sections 7.3 and 7.7 hereof, at the time that Borrower or any Guarantor forms any direct or indirect Subsidiary or acquires any direct or indirect Subsidiary after the Effective Date, Borrower and such Guarantor shall (a) cause such new Subsidiary to provide to Bank either (i) a joinder to this Agreement causing such Subsidiary to become a co-borrower hereunder, or (ii) a Guaranty, together with such appropriate financing statements and/or Control Agreements, all in form and substance satisfactory to Bank (including being sufficient to grant Bank a first priority Lien (subject to Permitted Liens) in and to the assets of such newly formed or acquired Subsidiary), (b) provide to Bank appropriate certificates and powers and financing statements, pledging all of the direct or beneficial ownership interest in such new Subsidiary, in form and substance satisfactory to Bank, and (c) provide to Bank all other documentation in form and substance satisfactory to Bank, including one or more opinions of counsel satisfactory to Bank, which in its opinion is appropriate with respect to the execution and delivery of the applicable documentation referred to above.  Any document, agreement, or instrument executed or issued pursuant to this Section 6.13 shall be a Loan Document.
+        
+       6.14                        Further Assurances.  Execute any further instruments and take further action as Bank reasonably requests to perfect or continue Bank's Lien in the Collateral or to effect the purposes of this Agreement.  Deliver to Bank, within five (5) days after the same are sent or received, copies of all correspondence, reports, documents and other filings with any Governmental Authority regarding compliance with or maintenance of Governmental Approvals or Requirements of Law or that could reasonably be expected to have a material effect on any of the Governmental Approvals or otherwise on the operations of Borrower or any of its Subsidiaries.
+        
+       7                                         NEGATIVE COVENANTS
+        
+       Borrower shall not do any of the following without Bank's prior written consent:
+        
+       7.1                               Dispositions.  Convey, sell, lease, transfer, assign, or otherwise dispose of (collectively, "Transfer"), or permit any of its Subsidiaries to Transfer, all or any part of its business or property, except for Transfers (a) of Inventory in the ordinary course of business; (b) of worn-out or obsolete Equipment; (c) in connection with Permitted Liens and Permitted Investments; and (d) of non-exclusive licenses for the use of the property of Borrower or its Subsidiaries in the ordinary course of business and licenses that could not result in a legal transfer of title of the licensed property but that may be exclusive in respects other than territory and that may be exclusive as to territory only as to discreet geographical areas outside of the United States.
+        
+       7.2                               Changes in Business, Control, or Business Locations.  (a) Engage in or permit any of its Subsidiaries to engage in any business other than the businesses currently engaged in by Borrower and such Subsidiary, as applicable, or reasonably related thereto; (b) liquidate or dissolve; or (c) permit or suffer any Change in Control.
+        
+             Borrower shall not, without at least thirty (30) days prior written notice to Bank: (1) add any new office or business location, including any warehouse (unless such new office or business location contains less than Two Hundred Fifty Thousand Dollars ($250,000) in Borrower's assets or property and all such new offices or business locations contain less than Five Hundred Thousand Dollars ($500,000) in Borrower's assets or property in the aggregate) or deliver any portion of the Collateral valued in excess of Two Hundred Fifty Thousand Dollars ($250,000) for any location or Five Hundred Thousand Dollars ($500,000) in the aggregate for all locations) to a bailee at a location other than to a bailee and at a location already disclosed in the Perfection Certificate, (2) change its jurisdiction of organization, (3) change its organizational structure or type, (4) change its legal name, or (5) change any organizational number (if any) assigned by its jurisdiction of organization.  If Borrower intends to deliver any portion of the Collateral valued, individually or in the aggregate, in excess of Two Hundred Fifty Thousand Dollars ($250,000) for any location or Five Hundred Thousand Dollars ($500,000) in the aggregate for all locations)  to a bailee, and Bank and such bailee are not already parties to a bailee agreement governing both the Collateral and the location to which Borrower intends to deliver the Collateral, then Borrower will first receive the written consent of Bank, and such bailee shall promptly execute and deliver a bailee agreement in form and substance satisfactory to Bank in its sole discretion.
+ 
+13
+
+
+
+ 
+       7.3                               Mergers or Acquisitions.  Merge or consolidate, or permit any of its Subsidiaries to merge or consolidate, with any other Person, or acquire, or permit any of its Subsidiaries to acquire, all or substantially all of the capital stock or property of another Person.  A Subsidiary may merge or consolidate into another Subsidiary or into Borrower.
+        
+       7.4                               Indebtedness.  Create, incur, assume, or be liable for any Indebtedness, or permit any Subsidiary to do so, other than Permitted Indebtedness.
+        
+       7.5                               Encumbrance.  Create, incur, allow, or suffer any Lien on any of its property, or assign or convey any right to receive income, including the sale of any Accounts, or permit any of its Subsidiaries to do so, except for Permitted Liens, permit any Collateral not to be subject to the first priority security interest granted herein,or enter into any agreement, document, instrument or other arrangement (except with or in favor of Bank) with any Person which directly or indirectly prohibits or has the effect of prohibiting Borrower or any Subsidiary from assigning, mortgaging, pledging, granting a security interest in or upon, or encumbering any of Borrower's or any Subsidiary's Intellectual Property, except as is otherwise permitted in Section 7.1 hereof and the definition of "Permitted Liens" herein.
+        
+       7.6                               Maintenance of Collateral Accounts.  Maintain any Collateral Account except pursuant to the terms of Section 6.6(b) hereof.
+        
+       7.7                               Distributions; Investments.  (a) Pay any dividends or make any distribution or payment or redeem, retire or purchase any capital stock, except Permitted Dividends; or (b) directly or indirectly make any Investment other than Permitted Investments, or permit any of its Subsidiaries to do so.
+        
+       7.8                               Transactions with Affiliates.  Directly or indirectly enter into or permit to exist any material transaction with any Affiliate of Borrower, except for transactions that are in the ordinary course of Borrower's business, upon fair and reasonable terms that are no less favorable to Borrower than would be obtained in an arm's length transaction with a non-affiliated Person.
+        
+       7.9                               Subordinated Debt.  (a) Make or permit any payment on any Subordinated Debt, except under the terms of the subordination, intercreditor, or other similar agreement to which such Subordinated Debt is subject, or (b) amend any provision in any document relating to the Subordinated Debt which would increase the amount thereof or adversely affect the subordination thereof to Obligations owed to Bank.
+        
+       7.10                        Compliance.  Become an "investment company" or a company controlled by an "investment company", under the Investment Company Act of 1940, as amended, or undertake as one of its important activities extending credit to purchase or carry margin stock (as defined in Regulation U of the Board of Governors of the Federal Reserve System), or use the proceeds of the Term Loan for that purpose; fail to meet the minimum funding requirements of ERISA, permit a Reportable Event or Prohibited Transaction, as defined in ERISA, to occur; fail to comply with the Federal Fair Labor Standards Act or violate any other law or regulation, if the violation could reasonably be expected to have a material adverse effect on Borrower's business, or permit any of its Subsidiaries to do so; withdraw or permit any Subsidiary to withdraw from participation in, permit partial or complete termination of, or permit the occurrence of any other event with respect to, any present pension, profit sharing and deferred compensation plan which could reasonably be expected to result in any liability of Borrower, including any liability to the Pension Benefit Guaranty Corporation or its successors or any other governmental agency.
+        
+       8                                         EVENTS OF DEFAULT
+        
+       Any one of the following shall constitute an event of default (an "Event of Default") under this Agreement:
+        
+       8.1                               Payment Default.  Borrower fails to (a) make any payment of principal or interest on the Term Loan on its due date, or (b) pay any other Obligations within three (3) Business Days after such Obligations are
+ 
+14
+
+
+
+ 
+due and payable (which three (3) Business Day cure period shall not apply to payments due on the Term Loan Maturity Date);
+ 
+       8.2                               Covenant Default.
+        
+             (a) Borrower fails or neglects to perform any obligation in Sections 6.2, 6.5, 6.6, 6.7, 6.8(b), 6.13 or violates any covenant in Section 7; or
+              
+             (b) Borrower fails or neglects to perform, keep, or observe any other term, provision, condition, covenant or agreement contained in this Agreement or any Loan Documents, and as to any default (other than those specified in this Section 8) under such other term, provision, condition, covenant or agreement that can be cured, has failed to cure the default within ten (10) days after the occurrence thereof; provided, however, that if the default cannot by its nature be cured within the ten (10) day period or cannot after diligent attempts by Borrower be cured within such ten (10) day period, and such default is likely to be cured within a reasonable time, then Borrower shall have an additional period (which shall not in any case exceed thirty (30) days) to attempt to cure such default, and within such reasonable time period the failure to cure the default shall not be deemed an Event of Default.  Cure periods provided under this section shall not apply, among other things, to financial covenants or any other covenants set forth in clause (a) above;
+              
+       8.3                               Material Adverse Change.  A Material Adverse Change occurs.
+        
+       8.4                               Attachment; Levy; Restraint on Business.
+        
+             (a) (i) The service of process seeking to attach, by trustee or similar process, any funds of Borrower or of any entity under the control of Borrower (including a Subsidiary) on deposit or otherwise maintained with Bank or any Bank Affiliate, or (ii) a notice of lien or levy is filed against any of Borrower's assets by any government agency, and the same under subclauses (i) and (ii) hereof are not, within ten (10) days after the occurrence thereof, discharged or stayed (whether through the posting of a bond or otherwise); or
+              
+             (b) (i) any material portion of Borrower's assets is attached, seized, levied on, or comes into possession of a trustee or receiver, or (ii) any court order enjoins, restrains, or prevents Borrower from conducting any material part of its business;
+              
+       8.5                               Insolvency (a) Borrower is unable to pay its debts (including trade debts) as they become due or otherwise becomes insolvent; (b) Borrower begins an Insolvency Proceeding; or (c) an Insolvency Proceeding is begun against Borrower and not dismissed or stayed within forty-five (45) days;
+        
+       8.6                               Other Agreements.  There is, under any agreement to which Borrower or any Guarantor is a party with a third party or parties, (a) any default resulting in a right by such third party or parties, whether or not exercised, to accelerate the maturity of any Indebtedness in an amount individually or in the aggregate in excess of Five Hundred Thousand Dollars ($500,000); or (b) any default by Borrower or Guarantor , the result of which could have a material adverse effect on Borrower's or any Guarantor's business;
+        
+       8.7                               Judgments.  One or more final judgments, orders, or decrees for the payment of money in an amount, individually or in the aggregate, of at least Five Hundred Thousand Dollars ($500,000) (not covered by independent third-party insurance as to which liability has been accepted by such insurance carrier) shall be rendered against Borrower and the same are not, within ten (10) days after the entry thereof, discharged or execution thereof stayed or bonded pending appeal, or such judgments are not discharged prior to the expiration of any such stay;
+        
+       8.8                               Misrepresentations.  Borrower or any Person acting for Borrower makes any representation, warranty, or other statement now or later in this Agreement, any Loan Document or in any writing delivered to Bank or to induce Bank to enter this Agreement or any Loan Document, and such representation, warranty, or other statement is incorrect in any material respect when made;
+ 
+15
+
+
+
+        
+       8.9                               Subordinated Debt.  Any document, instrument, or agreement evidencing any Subordinated Debt shall for any reason be revoked or invalidated or otherwise cease to be in full force and effect, any Person shall be in breach thereof or contest in any manner the validity or enforceability thereof or deny that it has any further liability or obligation thereunder, or the Obligations shall for any reason be subordinated or shall not have the priority contemplated by this Agreement;
+        
+       8.10                        Guaranty.  (a) Any guaranty of any Obligations terminates or ceases for any reason to be in full force and effect; (b) any Guarantor does not perform any obligation or covenant under any guaranty of the Obligations; (c) any circumstance described in Sections 8.3, 8.4, 8.5, 8.7, or 8.8 occurs with respect to any Guarantor, (d) the liquidation, winding up, or termination of existence of any Guarantor; or (e) (i) a material impairment in the perfection or priority of Bank's Lien in the collateral provided by Guarantor or in the value of such collateral or (ii) a material adverse change in the general affairs, management, results of operation, condition (financial or otherwise) or the prospect of repayment of the Obligations occurs with respect to any Guarantor; or
+        
+       8.11                        Governmental Approvals.  Any Governmental Approval shall have been (a) revoked, rescinded, suspended, modified in an adverse manner or not renewed in the ordinary course for a full term or (b) subject to any decision by a Governmental Authority that designates a hearing with respect to any applications for renewal of any of such Governmental Approval or that could result in the Governmental Authority taking any of the actions described in clause (a) above, and such decision or such revocation, rescission, suspension, modification or non-renewal (i) has, or could reasonably be expected to have, a Material Adverse Change, or (ii) adversely affects the legal qualifications of Borrower or any of its Subsidiaries to hold such Governmental Approval in any applicable jurisdiction and such revocation, rescission, suspension, modification or non-renewal could reasonably be expected to affect the status of or legal qualifications of Borrower or any of its Subsidiaries to hold any Governmental Approval in any other jurisdiction.
+        
+       9                                         BANK'S RIGHTS AND REMEDIES
+        
+       9.1                               Rights and Remedies.  While an Event of Default occurs and continues Bank may, without notice or demand, do any or all of the following:
+        
+             (a)                                  declare all Obligations immediately due and payable (but if an Event of Default described in Section 8.5 occurs all Obligations are immediately due and payable without any action by Bank);
+              
+             (b)                                 stop advancing money or extending credit for Borrower's benefit under this Agreement or under any other agreement between Borrower and Bank;
+              
+             (c)                                  for any letters of credit issued by Bank for the account of Borrower, demand that Borrower (i) deposit cash with Bank in an amount equal to 105% (110% for any such letters of credit denominated in a currency other than Dollars) of the Dollar Equivalent of the aggregate face amount of all such letters of credit remaining undrawn plus all interest, fees, and costs due or to become due in connection therewith (as estimated by Bank in its good faith business judgment), to secure all of the Obligations relating to such letters of credit, as collateral security for the repayment of any future drawings under such letters of credit, and Borrower shall forthwith deposit and pay such amounts; and (ii) pay in advance all letter of credit fees scheduled to be paid or payable over the remaining term of any such letters of credit; provided, however, if an Event of Default described in Section 8.5 occurs, the obligation of Borrower to cash collateralize all such letters of credit remaining undrawn shall automatically become effective without any action by Bank;
+              
+             (d)                                 terminate any foreign exchange forward contracts;
+              
+             (e)                                  settle or adjust disputes and claims directly with Account Debtors for amounts on terms and in any order that Bank considers advisable, notify any Person owing Borrower money of Bank's security interest in such funds, and verify the amount of such account;
+              
+             (f)                                    make any payments and do any acts it considers necessary or reasonable to protect the Collateral and/or its security interest in the Collateral.  Borrower shall assemble the Collateral if Bank requests and
+ 
+16
+
+
+
+ 
+make it available as Bank designates.  Bank may enter premises where the Collateral is located, take and maintain possession of any part of the Collateral, and pay, purchase, contest, or compromise any Lien which appears to be prior or superior to its security interest and pay all expenses incurred. Borrower grants Bank a license to enter and occupy any of its premises, without charge, to exercise any of Bank's rights or remedies;
+ 
+             (g)                                 apply to the Obligations any (i) balances and deposits of Borrower it holds, or (ii) any amount held by Bank owing to or for the credit or the account of Borrower;
+              
+             (h)                                 ship, reclaim, recover, store, finish, maintain, repair, prepare for sale, advertise for sale, and sell the Collateral.  Bank is hereby granted a non-exclusive, royalty-free license or other right to use, without charge, Borrower's labels, Patents, Copyrights, mask works, rights of use of any name, trade secrets, trade names, Trademarks, and advertising matter, or any similar property as it pertains to the Collateral, in completing production of, advertising for sale, and selling any Collateral and, in connection with Bank's exercise of its rights under this Section, Borrower's rights under all licenses and all franchise agreements inure to Bank's benefit;
+              
+             (i)                                     place a "hold" on any account maintained with Bank and/or deliver a notice of exclusive control, any entitlement order, or other directions or instructions pursuant to any Control Agreement or similar agreements providing control of any Collateral;
+              
+             (j)                                     demand and receive possession of Borrower's Books; and
+              
+             (k)                                  exercise all rights and remedies available to Bank under the Loan Documents or at law or equity, including all remedies provided under the Code (including disposal of the Collateral pursuant to the terms thereof).
+              
+       9.2                               Power of Attorney.  Borrower hereby irrevocably appoints Bank as its lawful attorney-in-fact, exercisable upon the occurrence and during the continuance of an Event of Default, to:  (a) endorse Borrower's name on any checks or other forms of payment or security; (b) sign Borrower's name on any invoice or bill of lading for any Account or drafts against Account Debtors; (c) settle and adjust disputes and claims about the Accounts directly with Account Debtors, for amounts and on terms Bank determines reasonable; (d) make, settle, and adjust all claims under Borrower's insurance policies; (e) pay, contest or settle any Lien, charge, encumbrance, security interest, and adverse claim in or to the Collateral, or any judgment based thereon, or otherwise take any action to terminate or discharge the same; and (f) transfer the Collateral into the name of Bank or a third party as the Code permits.  Borrower hereby appoints Bank as its lawful attorney-in-fact to sign Borrower's name on any documents necessary to perfect or continue the perfection of Bank's security interest in the Collateral regardless of whether an Event of Default has occurred until all Obligations have been satisfied in full and Bank is under no further obligation to make Credit Extensions hereunder.  Bank's foregoing appointment as Borrower's attorney in fact, and all of Bank's rights and powers, coupled with an interest, are irrevocable until all Obligations have been fully repaid and performed and Bank's obligation to provide Credit Extensions terminates.
+        
+       9.3                               Protective Payments.  If Borrower fails to obtain the insurance called for by Section 6.5 or fails to pay any premium thereon or fails to pay any other amount which Borrower is obligated to pay under this Agreement or any other Loan Document, Bank may obtain such insurance or make such payment, and all amounts so paid by Bank are Bank Expenses and immediately due and payable, bearing interest at the then highest rate applicable to the Obligations, and secured by the Collateral.  Bank will make reasonable efforts to provide Borrower with notice of Bank obtaining such insurance at the time it is obtained or within a reasonable time thereafter.  No payments by Bank are deemed an agreement to make similar payments in the future or Bank's waiver of any Event of Default.
+        
+       9.4                               Application of Payments and Proceeds Upon Default.  If an Event of Default has occurred and is continuing, Bank may apply any funds in its possession, whether from Borrower account balances, payments, proceeds realized as the result of any collection of Accounts or other disposition of the Collateral, or otherwise, to the Obligations in such order as Bank shall determine in its sole discretion.  Any surplus shall be paid to Borrower or other Persons legally entitled thereto; Borrower shall remain liable to Bank for any deficiency.  If Bank, in its good faith business judgment, directly or indirectly enters into a deferred payment or
+ 
+17
+
+
+
+ 
+other credit transaction with any purchaser at any sale of Collateral, Bank shall have the option, exercisable at any time, of either reducing the Obligations by the principal amount of the purchase price or deferring the reduction of the Obligations until the actual receipt by Bank of cash therefor.
+ 
+       9.5                               Bank's Liability for Collateral.  So long as Bank complies with reasonable banking practices regarding the safekeeping of the Collateral in the possession or under the control of Bank, Bank shall not be liable or responsible for: (a) the safekeeping of the Collateral; (b) any loss or damage to the Collateral; (c) any diminution in the value of the Collateral; or (d) any act or default of any carrier, warehouseman, bailee, or other Person.  Borrower bears all risk of loss, damage or destruction of the Collateral.
+        
+       9.6                               No Waiver; Remedies Cumulative.  Bank's failure, at any time or times, to require strict performance by Borrower of any provision of this Agreement or any other Loan Document shall not waive, affect, or diminish any right of Bank thereafter to demand strict performance and compliance herewith or therewith.  No waiver hereunder shall be effective unless signed by the party granting the waiver and then is only effective for the specific instance and purpose for which it is given.  Bank's rights and remedies under this Agreement and the other Loan Documents are cumulative.  Bank has all rights and remedies provided under the Code, by law, or in equity.  Bank's exercise of one right or remedy is not an election and shall not preclude Bank from exercising any other remedy under this Agreement or other remedy available at law or in equity, and Bank's waiver of any Event of Default is not a continuing waiver.  Bank's delay in exercising any remedy is not a waiver, election, or acquiescence.
+        
+       9.7                               Demand Waiver.  Borrower waives demand, notice of default or dishonor, notice of payment and nonpayment, notice of any default, nonpayment at maturity, release, compromise, settlement, extension, or renewal of accounts, documents, instruments, chattel paper, and guarantees held by Bank on which Borrower is liable.
+        
+       10                                  NOTICES
+        
+       All notices, consents, requests, approvals, demands, or other communication by any party to this Agreement or any other Loan Document must be in writing and shall be deemed to have been validly served, given, or delivered: (a) upon the earlier of actual receipt and three (3) Business Days after deposit in the U.S. mail, first class, registered or certified mail return receipt requested, with proper postage prepaid; (b) upon transmission, when sent by electronic mail or facsimile transmission; (c) one (1) Business Day after deposit with a reputable overnight courier with all charges prepaid; or (d) when delivered, if hand-delivered by messenger, all of which shall be addressed to the party to be notified and sent to the address, facsimile number, or email address indicated below.  Bank or Borrower may change its mailing or electronic mail address or facsimile number by giving the other party written notice thereof in accordance with the terms of this Section 10.
+        
+If to Borrower:Shutterstock Images LLC 60 Broad Street, 30th Floor New York, New York 10004 Attn: Daniel Rootenberg and Michael Lesser Fax: (646) 449-6039 Email:drootenberg@shutterstock.com and mclesser@shutterstock.com  With a copy to:Orrick, Herrington and Sutcliffe LLP   51 West 52nd Street New York, NY 10019 Attn: William S. Haft Fax: (212) 506-5151 email: whaft@orrick.com 
+18
+
+
+
+ 
+If to Bank:Silicon Valley Bank 275 Grove Street, Suite 2-200 Newton, Massachusetts 02466 Attn:Phil Silvia, Vice President Fax:(617) 527-0177 Email:psilvia@svb.com   with a copy to:Riemer & Braunstein LLP Three Center Plaza Boston, Massachusetts 02108 Attn:Charles W. Stavros, Esquire Fax:(617) 880-3441 Email:cstavros@riemerlaw.com 
+       11                                  CHOICE OF LAW, VENUE, JURY TRIAL WAIVER, AND JUDICIAL REFERENCE
+        
+       New York law governs the Loan Documents without regard to principles of conflicts of law.  Borrower and Bank each submit to the exclusive jurisdiction of the State and Federal courts in New York, New York; provided, however, that nothing in this Agreement shall be deemed to operate to preclude Bank from bringing suit or taking other legal action in any other jurisdiction to realize on the Collateral or any other security for the Obligations, or to enforce a judgment or other court order in favor of Bank.  Borrower expressly submits and consents in advance to such jurisdiction in any action or suit commenced in any such court, and Borrower hereby waives any objection that it may have based upon lack of personal jurisdiction, improper venue, or forum non conveniens and hereby consents to the granting of such legal or equitable relief as is deemed appropriate by such court.  Borrower hereby waives personal service of the summons, complaints, and other process issued in such action or suit and agrees that service of such summons, complaints, and other process may be made by registered or certified mail addressed to Borrower at the address set forth in Section 10 of this Agreement and that service so made shall be deemed completed upon the earlier to occur of Borrower's actual receipt thereof or three (3) days after deposit in the U.S. mails, proper postage prepaid.
+        
+       TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, BORROWER AND BANK EACH WAIVE THEIR RIGHT TO A JURY TRIAL OF ANY CLAIM OR CAUSE OF ACTION ARISING OUT OF OR BASED UPON THIS AGREEMENT, THE LOAN DOCUMENTS OR ANY CONTEMPLATED TRANSACTION, INCLUDING CONTRACT, TORT, BREACH OF DUTY AND ALL OTHER CLAIMS. THIS WAIVER IS A MATERIAL INDUCEMENT FOR BOTH PARTIES TO ENTER INTO THIS AGREEMENT.  EACH PARTY HAS REVIEWED THIS WAIVER WITH ITS COUNSEL.
+        
+       12                                  GENERAL PROVISIONS
+        
+       12.1                        Successors and Assigns.  This Agreement binds and is for the benefit of the successors and permitted assigns of each party.  Borrower may not assign this Agreement or any rights or obligations under it without Bank's prior written consent (which may be granted or withheld in Bank's discretion).  Bank has the right, without the consent of or notice to Borrower, to sell, transfer, assign, negotiate, or grant participation in all or any part of, or any interest in, Bank's obligations, rights, and benefits under this Agreement and the other Loan Documents.
+        
+       12.2                        Indemnification.  Borrower agrees to indemnify, defend and hold Bank and its directors, officers, employees, agents, attorneys, or any other Person affiliated with or representing Bank (each, an "Indemnified Person") harmless against:  (a) all obligations, demands, claims, and liabilities (collectively, "Claims") claimed or asserted by any other party in connection with the transactions contemplated by the Loan Documents; and (b) all losses or expenses (including Bank Expenses) in any way suffered, incurred, or paid by such Indemnified Person as a result of, following from, consequential to, or arising from transactions between Bank and Borrower contemplated by the Loan Documents (including reasonable attorneys' fees and expenses),
+ 
+19
+
+
+
+ 
+except for Claims and/or losses directly caused by such Indemnified Person's gross negligence or willful misconduct.
+ 
+       12.3                        Time of Essence.  Time is of the essence for the performance of all Obligations in this Agreement.
+        
+       12.4                        Severability of Provisions.  Each provision of this Agreement is severable from every other provision in determining the enforceability of any provision.
+        
+       12.5                        Correction of Loan Documents.  Bank, upon notice to Borrower, may correct patent errors and fill in any blanks in the Loan Documents consistent with the agreement of the parties.
+        
+       12.6                        Amendments in Writing; Waiver; Integration.  No purported amendment or modification of any Loan Document, or waiver, discharge or termination of any obligation under any Loan Document, shall be enforceable or admissible unless, and only to the extent, expressly set forth in a writing signed by the party against which enforcement or admission is sought.  Without limiting the generality of the foregoing, no oral promise or statement, nor any action, inaction, delay, failure to require performance or course of conduct shall operate as, or evidence, an amendment, supplement or waiver or have any other effect on any Loan Document.  Any waiver granted shall be limited to the specific circumstance expressly described in it, and shall not apply to any subsequent or other circumstance, whether similar or dissimilar, or give rise to, or evidence, any obligation or commitment to grant any further waiver.  The Loan Documents represent the entire agreement about this subject matter and supersede prior negotiations or agreements.  All prior agreements, understandings, representations, warranties, and negotiations between the parties about the subject matter of the Loan Documents merge into the Loan Documents.
+        
+       12.7                        Counterparts.  This Agreement may be executed in any number of counterparts and by different parties on separate counterparts, each of which, when executed and delivered, is an original, and all taken together, constitute one Agreement.
+        
+       12.8                        Survival.  All covenants, representations and warranties made in this Agreement continue in full force until this Agreement has terminated pursuant to its terms and all Obligations (other than inchoate indemnity obligations and any other obligations which, by their terms, are to survive the termination of this Agreement) have been paid in full and satisfied.  Without limiting the foregoing, except as otherwise provided in Section 4.1, the grant of security interest by Borrower in Section 4.1 shall survive until the termination of all Bank Services Agreements.  The obligation of Borrower in Section 12.2 to indemnify Bank shall survive until the statute of limitations with respect to such claim or cause of action shall have run.
+        
+       12.9                        Confidentiality.  In handling any confidential information, Bank shall exercise the same degree of care that it exercises for its own proprietary information, but disclosure of information may be made: (a) to Bank's Subsidiaries or Affiliates (such Subsidiaries and Affiliates, together with Bank, collectively, "Bank Entities"); (b) to prospective transferees or purchasers of any interest in the Term Loan (provided, however, Bank shall use its best efforts to obtain any prospective transferee's or purchaser's agreement to the terms of this provision); (c) as required by law, regulation, applicable stock exchange requirements, subpoena, or other order; (d) to Bank's regulators or as otherwise required in connection with Bank's examination or audit; (e) as Bank reasonably considers appropriate in exercising remedies under the Loan Documents; and (f) to third-party service providers of Bank so long as such service providers have executed a confidentiality agreement with Bank with terms no less restrictive than those contained herein.  Confidential information does not include information that is either: (i) in the public domain or in Bank's possession when disclosed to Bank, or becomes part of the public domain after disclosure to Bank other than in breach by the Bank of this Agreement; or (ii) disclosed to Bank by a third party if Bank does not know that the third party is prohibited from disclosing the information.
+        
+       Bank Entities may use the confidential information for reporting purposes and the development and distribution of databases and market analyses so long as such confidential information is aggregated and anonymized prior to distribution unless otherwise expressly permitted by Borrower.  The provisions of the immediately preceding sentence shall survive the termination of this Agreement.
+ 
+20
+
+        
+       12.10                 Right of Set Off.   Borrower hereby grants to Bank, a lien, security interest and right of set off as security for all Obligations to Bank, whether now existing or hereafter arising upon and against all deposits, credits, collateral and property, now or hereafter in the possession, custody, safekeeping or control of Bank or any entity under the control of Bank (including a Bank subsidiary) or in transit to any of them.  At any time after the occurrence and during the continuance of an Event of Default, without demand or notice, Bank may set off the same or any part thereof and apply the same to any liability or obligation of Borrower even though unmatured and regardless of the adequacy of any other collateral securing the Obligations.  ANY AND ALL RIGHTS TO REQUIRE BANK TO EXERCISE ITS RIGHTS OR REMEDIES WITH RESPECT TO ANY OTHER COLLATERAL WHICH SECURES THE OBLIGATIONS, PRIOR TO EXERCISING ITS RIGHT OF SETOFF WITH RESPECT TO SUCH DEPOSITS, CREDITS OR OTHER PROPERTY OF BORROWER ARE HEREBY KNOWINGLY, VOLUNTARILY AND IRREVOCABLY WAIVED.
+        
+       12.11                 Electronic Execution of Documents.  The words "execution," "signed," "signature" and words of like import in any Loan Document shall be deemed to include electronic signatures or the keeping of records in electronic form, each of which shall be of the same legal effect, validity and enforceability as a manually executed signature or the use of a paper-based recordkeeping systems, as the case may be, to the extent and as provided for in any applicable law, including, without limitation, any state law based on the Uniform Electronic Transactions Act.
+        
+       12.12                 Captions.  The headings used in this Agreement are for convenience only and shall not affect the interpretation of this Agreement.
+        
+       12.13                 Construction of Agreement.  The parties mutually acknowledge that they and their attorneys have participated in the preparation and negotiation of this Agreement.  In cases of uncertainty this Agreement shall be construed without regard to which of the parties caused the uncertainty to exist.
+        
+       12.14                 Relationship.  The relationship of the parties to this Agreement is determined solely by the provisions of this Agreement.  The parties do not intend to create any agency, partnership, joint venture, trust, fiduciary or other relationship with duties or incidents different from those of parties to an arm's-length contract.
+        
+       12.15                 Third Parties.  Nothing in this Agreement, whether express or implied, is intended to: (a) confer any benefits, rights or remedies under or by reason of this Agreement on any persons other than the express parties to it and their respective permitted successors and assigns; (b) relieve or discharge the obligation or liability of any person not an express party to this Agreement; or (c) give any person not an express party to this Agreement any right of subrogation or action against any party to this Agreement.
+        
+       12.16                 Attorneys' Fees, Costs and Expenses.  In any action or proceeding between Borrower and Bank arising out of or relating to the Loan Documents, Bank shall be entitled to recover its reasonable attorneys' fees and other out-of-pocket costs and expenses incurred, in addition to any other relief to which it may be entitled.
+        
+       13                                  DEFINITIONS
+        
+       13.1                        Definitions.  As used in the Loan Documents, the word "shall" is mandatory, the word "may" is permissive, the word "or" is not exclusive, the words "includes" and "including" are not limiting, the singular includes the plural, and numbers denoting amounts that are set off in brackets are negative.  As used in this Agreement, the following capitalized terms have the following meanings:
+        
+       "Account" is any "account" as defined in the Code with such additions to such term as may hereafter be made, and includes, without limitation, all accounts receivable and other sums owing to Borrower.
+        
+       "Account Debtor" is any "account debtor" as defined in the Code with such additions to such term as may hereafter be made.
+        
+       "Additional Costs" is defined in Section 3.5(b).
+ 
+21
+
+
+
+ 
+       "Affiliate" is, with respect to any Person, each other Person that owns or controls directly or indirectly the Person, any Person that controls or is controlled by or is under common control with the Person, and each of that Person's senior executive officers, directors, partners and, for any Person that is a limited liability company, that Person's managers and members.
+        
+       "Agreement" is defined in the preamble hereof.
+        
+       "Annual Audited Financial Statements" is defined in Section 6.1(c).
+        
+       "Bank" is defined in the preamble hereof.
+        
+       "Bank Entities" is defined in Section 12.9.
+        
+       "Bank Expenses" are all reasonable audit fees and out-of-pocket expenses, costs, and expenses (including reasonable attorneys' fees and out-of-pocket expenses) for preparing, amending, negotiating, administering, defending and enforcing the Loan Documents (including, without limitation, those incurred in connection with appeals or Insolvency Proceedings) or otherwise incurred with respect to the Loan Documents.
+        
+       "Bank Services" are any products, credit services, and/or financial accommodations previously, now, or hereafter provided to Borrower or any of its Subsidiaries by Bank or any Bank Affiliate, including, without limitation, any letters of credit, cash management services (including, without limitation, merchant services, direct deposit of payroll, business credit cards, and check cashing services), interest rate swap arrangements, and foreign exchange services as any such products or services may be identified in Bank's various agreements related thereto (each, a "Bank Services Agreement").
+        
+       "Bank's Parent" is defined in Section 3.5(d).
+        
+       "Borrower" is defined in the preamble hereof.
+        
+       "Borrower's Books" are all Borrower's books and records including ledgers, federal and state tax returns, records regarding Borrower's assets or liabilities, the Collateral, business operations or financial condition, and all computer programs or storage or any equipment containing such information.
+        
+       "Borrowing Resolutions" are, with respect to any Person, those resolutions adopted by such Person's members or board of directors and delivered by such Person to Bank approving the Loan Documents to which such Person is a party and the transactions contemplated thereby, together with a certificate executed by its Secretary on behalf of such Person certifying that (a) such Person has the authority to execute, deliver, and perform its obligations under each of the Loan Documents to which it is a party, (b) that attached as Exhibit A to such certificate is a true, correct, and complete copy of the resolutions then in full force and effect authorizing and ratifying the execution, delivery, and performance by such Person of the Loan Documents to which it is a party, (c) the name(s) of the Person(s) authorized to execute the Loan Documents on behalf of such Person, together with a sample of the true signature(s) of such Person(s), and (d) that Bank may conclusively rely on such certificate unless and until such Person shall have delivered to Bank a further certificate canceling or amending such prior certificate.
+        
+       "Business Day" is any day other than a Saturday, Sunday or other day on which banking institutions in the State of California are authorized or required by law or other governmental action to close, except that if any determination of a "Business Day" shall relate to a LIBOR Loan, the term "Business Day" shall also mean a day on which dealings are carried on in the London interbank market.
+        
+       "Cash Equivalents" means (a) marketable direct obligations issued or unconditionally guaranteed by the United States or any agency or any State thereof having maturities of not more than one (1) year from the date of acquisition; (b) commercial paper maturing no more than one (1) year after its creation and having the highest rating from either Standard & Poor's Ratings Group or Moody's Investors Service, Inc.; (c) Bank's certificates of deposit issued maturing no more than one (1) year after issue; and (d) money market funds at least ninety-five percent (95%) of the assets of which constitute Cash Equivalents of the kinds described in clauses (a) through (c) of this definition.
+ 
+22
+
+
+
+ 
+       "Change in Control" means any event, transaction, or occurrence as a result of which (a) any "person" (as such term is defined in Sections 3(a)(9) and 13(d)(3) of the Exchange Act), other than a trustee or other fiduciary holding securities under an employee benefit plan of Borrower, is or becomes a beneficial owner (within the meaning Rule 13d-3 promulgated under the Exchange Act), directly or indirectly, of securities of Borrower, representing twenty-five percent (25%) or more of the combined voting power of Borrower's then outstanding securities; or (b) during any period of twelve consecutive calendar months, individuals who at the beginning of such period constituted the Board of Directors of Borrower (together with any new directors whose election by the Board of Directors of Borrower was approved by a vote of not less than two-thirds of the directors then still in office who either were directions at the beginning of such period or whose election or nomination for election was previously so approved) cease for any reason other than death or disability to constitute a majority of the directors then in office.
+        
+       "Claims" is defined in Section 12.2.
+        
+       "Code" is the Uniform Commercial Code, as the same may, from time to time, be enacted and in effect in the State of New York; provided, that, to the extent that the Code is used to define any term herein or in any Loan Document and such term is defined differently in different Articles or Divisions of the Code, the definition of such term contained in Article or Division 9 shall govern; provided further, that in the event that, by reason of mandatory provisions of law, any or all of the attachment, perfection, or priority of, or remedies with respect to, Bank's Lien on any Collateral is governed by the Uniform Commercial Code in effect in a jurisdiction other than the State of New York, the term "Code" shall mean the Uniform Commercial Code as enacted and in effect in such other jurisdiction solely for purposes of the provisions thereof relating to such attachment, perfection, priority, or remedies and for purposes of definitions relating to such provisions.
+        
+       "Collateral" is any and all properties, rights and assets of Borrower described on Exhibit A.
+        
+       "Collateral Account" is any Deposit Account, Securities Account, or Commodity Account.
+        
+       "Commodity Account" is any "commodity account" as defined in the Code with such additions to such term as may hereafter be made.
+        
+       "Compliance Certificate" is that certain certificate in the form attached hereto as Exhibit D.
+        
+       "Contingent Obligation" is, for any Person, any direct or indirect liability, contingent or not, of that Person for (a) any indebtedness, lease, dividend, letter of credit or other obligation of another such as an obligation, in each case, directly or indirectly guaranteed, endorsed, co-made, discounted or sold with recourse by that Person, or for which that Person is directly or indirectly liable; (b) any obligations for undrawn letters of credit for the account of that Person; and (c) all obligations from any interest rate, currency or commodity swap agreement, interest rate cap or collar agreement, or other agreement or arrangement designated to protect a Person against fluctuation in interest rates, currency exchange rates or commodity prices; but "Contingent Obligation" does not include endorsements in the ordinary course of business.  The amount of a Contingent Obligation is the stated or determined amount of the primary obligation for which the Contingent Obligation is made or, if not determinable, the maximum reasonably anticipated liability for it determined by the Person in good faith; but the amount may not exceed the maximum of the obligations under any guarantee or other support arrangement.
+        
+       "Continuation Date" means any date on which Borrower elects to continue a LIBOR Loan into another Interest Period.
+ 
+       "Control Agreement" is any control agreement entered into among the depository institution at which Borrower maintains a Deposit Account or the securities intermediary or commodity intermediary at which Borrower maintains a Securities Account or a Commodity Account, Borrower, and Bank pursuant to which Bank obtains control (within the meaning of the Code) over such Deposit Account, Securities Account, or Commodity Account.
+        
+       "Conversion Date" means any date on which Borrower elects to convert a Prime Rate Loan to a LIBOR Loan or a LIBOR Loan to a Prime Rate Loan.
+ 
+23
+
+
+
+ 
+       "Copyrights" are any and all copyright rights, copyright applications, copyright registrations and like protections in each work or authorship and derivative work thereof, whether published or unpublished and whether or not the same also constitutes a trade secret.
+        
+       "Default Rate" is defined in Section 2.3(c).
+        
+       "Deferred Revenue" is all amounts received or invoiced in advance of performance under contracts and not yet recognized as revenue.
+        
+       "Deposit Account" is any "deposit account" as defined in the Code with such additions to such term as may hereafter be made.
+        
+       "Designated Deposit Account" is Borrower's deposit account, account number 3300898668, maintained with Bank.
+        
+       "Dollars," "dollars" or use of the sign "$" means only lawful money of the United States and not any other currency, regardless of whether that currency uses the "$" sign to denote its currency or may be readily converted into lawful money of the United States.
+        
+       "Dollar Equivalent" is, at any time, (a) with respect to any amount denominated in Dollars, such amount, and (b) with respect to any amount denominated in a Foreign Currency, the equivalent amount therefor in Dollars as determined by Bank at such time on the basis of the then-prevailing rate of exchange in San Francisco, California, for sales of the Foreign Currency for transfer to the country issuing such Foreign Currency.
+        
+       "EBITDA" shall mean (a) Net Income, plus (b) Interest Expense, plus (c) to the extent deducted in the calculation of Net Income, depreciation expense, amortization expense and non-cash stock-based compensation expense, plus (d) income tax expense, plus (e) reasonable add-backs for other non-cash items approved by Bank on a case-by-case basis.
+        
+       "Effective Date" is defined in the preamble hereof.
+        
+       "Equipment" is all "equipment" as defined in the Code with such additions to such term as may hereafter be made, and includes without limitation all machinery, fixtures, goods, vehicles (including motor vehicles and trailers), and any interest in any of the foregoing.
+        
+       "ERISA" is the Employee Retirement Income Security Act of 1974, and its regulations.
+        
+       "Event of Default" is defined in Section 8.
+        
+       "Exchange Act" is the Securities Exchange Act of 1934, as amended.
+        
+       "Foreign Currency" means lawful money of a country other than the United States.
+        
+       "Funding Date" is the date on which the Term Loan is made to or for the account of Borrower which shall be a Business Day.
+        
+       "GAAP" is generally accepted accounting principles set forth in the opinions and pronouncements of the Accounting Principles Board of the American Institute of Certified Public Accountants and statements and pronouncements of the Financial Accounting Standards Board or in such other statements by such other Person as may be approved by a significant segment of the accounting profession, which are applicable to the circumstances as of the date of determination.
+        
+       "General Intangibles" is all "general intangibles" as defined in the Code in effect on the date hereof with such additions to such term as may hereafter be made, and includes without limitation, all Intellectual Property, claims, income and other tax refunds, security and other deposits, payment intangibles, contract rights, options to
+ 
+24
+
+
+
+ 
+purchase or sell real or personal property, rights in all litigation presently or hereafter pending (whether in contract, tort or otherwise), insurance policies (including without limitation key man, property damage, and business interruption insurance), payments of insurance and rights to payment of any kind.
+ 
+       "Governmental Approval" is any consent, authorization, approval, order, license, franchise, permit, certificate, accreditation, registration, filing or notice, of, issued by, from or to, or other act by or in respect of, any Governmental Authority.
+        
+       "Governmental Authority" is any nation or government, any state or other political subdivision thereof, any agency, authority, instrumentality, regulatory body, court, central bank or other entity exercising executive, legislative, judicial, taxing, regulatory or administrative functions of or pertaining to government, any securities exchange and any self-regulatory organization.
+        
+       "Guarantor" is any present or future guarantor of the Obligations, including SS SPV LLC, a Delaware limited liability company, SS Telesales LLC, a New York limited liability company, Stock Inc., a New York corporation, Shutter Images Inc., a New York corporation, Shutterstock, Inc., a Delaware corporation, and SSquint Partners, a New York general partnership.
+        
+       "Guarantor Security Agreement" is, collectively, each Security Agreement of even date from each Guarantor to the Bank.
+        
+       "Guaranty" is the unconditional Guaranty of even date from each Guarantor to the Bank.
+        
+       "Indebtedness" is (a) indebtedness for borrowed money or the deferred price of property or services, such as reimbursement and other obligations for surety bonds and letters of credit, (b) obligations evidenced by notes, bonds, debentures or similar instruments, (c) capital lease obligations, and (d) Contingent Obligations.
+        
+       "Indemnified Person" is defined in Section 12.2.
+        
+       "Insolvency Proceeding" is any proceeding by or against any Person under the United States Bankruptcy Code, or any other bankruptcy or insolvency law, including assignments for the benefit of creditors, compositions, extensions generally with its creditors, or proceedings seeking reorganization, arrangement, or other relief.
+        
+       "Intellectual Property" means all of Borrower's right, title, and interest in and to the following:
+        
+       (a)                                  its Copyrights, Trademarks and Patents;
+        
+       (b)                                 any and all trade secrets and trade secret rights, including, without limitation, any rights to unpatented inventions, know-how, operating manuals;
+        
+       (c)                                  any and all source code;
+        
+       (d)                                 any and all design rights which may be available to a Borrower;
+        
+       (e)                                  any and all claims for damages by way of past, present and future infringement of any of the foregoing, with the right, but not the obligation, to sue for and collect such damages for said use or infringement of the Intellectual Property rights identified above; and
+        
+       (f)                                    all amendments, renewals and extensions of any of the Copyrights, Trademarks or Patents.
+        
+       "Interest Expense" means for any fiscal period, interest expense (whether cash or non-cash) determined in accordance with GAAP for the relevant period ending on such date, including, in any event, interest expense with respect to the Term Loan and other Indebtedness of Borrower and its Subsidiaries, including, without limitation or duplication, all commissions, discounts, or related amortization and other fees and charges with respect to letters of
+ 
+25
+
+
+
+ 
+credit and bankers' acceptance financing and the net costs associated with interest rate swap, cap, and similar arrangements, and the interest portion of any deferred payment obligation (including leases of all types).
+ 
+       "Interest Payment Date" means, (i) with respect to any LIBOR Loan having an Interest Period of three (3) months or less, the last Business Day of such Interest Period, (ii) with respect to any LIBOR Loan having an Interest Period longer than three (3) months, each day that is three (3) months (or, if such date is not a Business Day, the Business Day next succeeding such date) after the first day of such Interest Period and the last Business Day of such Interest Period, and (iii) with respect to any Prime Rate Loan, the last day of each quarter (or, if the last day of the quarter does not fall on a Business Day, then on the first Business Day following such date), and each date a Prime Rate Loan is converted into a LIBOR Loan to the extent of the amount converted to a LIBOR Loan.
+        
+       "Interest Period" means, as to any LIBOR Loan, the period commencing on the date of such LIBOR Loan, or on the date on which a Prime Rate Loan is converted into a LIBOR Loan or an existing LIBOR Loan is continued as a LIBOR Loan, and ending on the date that is one (1), two (2), three (3) or six (6) months thereafter, in each case as Borrower may elect in the applicable Notice of Borrowing or Notice of Conversion/Continuation; provided, however, that (a) no Interest Period with respect to any LIBOR Loan shall end later than the Maturity Date, (b) the last day of an Interest Period shall be determined in accordance with the practices of the LIBOR interbank market as from time to time in effect, (c) if any Interest Period would otherwise end on a day that is not a Business Day, that Interest Period shall be extended to the following Business Day unless, in the case of a LIBOR Loan, the result of such extension would be to carry such Interest Period into another calendar month, in which event such Interest Period shall end on the preceding Business Day, (d) any Interest Period pertaining to a LIBOR Loan that begins on the last Business Day of a calendar month (or on a day for which there is no numerically corresponding day in the calendar month at the end of such Interest Period) shall end on the last Business Day of the calendar month at the end of such Interest Period, and (d) interest shall accrue from and include the first Business Day of an Interest Period but exclude the last Business Day of such Interest Period.
+        
+       "Interest Rate Determination Date" means with respect to LIBOR Loans, each date for calculating the LIBOR Rate for purposes of determining the interest rate in respect of an Interest Period.  The Interest Rate Determination Date shall be the second Business Day prior to the first day of the related Interest Period for a LIBOR Loan.
+        
+       "Inventory" is all "inventory" as defined in the Code in effect on the date hereof with such additions to such term as may hereafter be made, and includes without limitation all merchandise, raw materials, parts, supplies, packing and shipping materials, work in process and finished products, including without limitation such inventory as is temporarily out of Borrower's custody or possession or in transit and including any returned goods and any documents of title representing any of the above.
+        
+       "Investment" is any beneficial ownership interest in any Person (including stock, partnership interest or other securities), and any loan, advance or capital contribution to any Person.
+        
+       "LIBOR Base Rate" is, with respect to each day during each Interest Period pertaining to a LIBOR Loan, the rate per annum determined by reference to the British Bankers' Association Interest Settlement Rates for deposits (for delivery on the first day of such Interest Period) with a term equivalent to such Interest Period in Dollars, determined as of approximately 11:00 a.m. (London, England time) two (2) Business Days prior to the beginning of such Interest Period (as set forth by Bloomberg Information Service or any successor thereto or any other service selected by Bank (with notice to Borrower) which has been nominated by the British Bankers' Association as an authorized information vendor for the purpose of displaying such rates).  In the event that the rate per annum referenced in the preceding sentence is not available, the rate per annum in the preceding sentence shall be determined by reference to the rate per annum equal to the offered quotation rate to first class banks in the London interbank market by Bank for deposits (for delivery on the first day of the relevant Interest Period) in Dollars of amounts in same day funds comparable to the principal amount of the applicable LIBOR Loan of the Bank, for which the LIBOR Base Rate is then being determined with maturities comparable to such period as of approximately 11:00 a.m. (London, England time) two (2) Business Days prior to the beginning of such Interest Period.
+        
+       "LIBOR Loan" is all or any part of the Term Loan that bears interest based on the LIBOR Rate.
+ 
+26
+
+
+
+ 
+       "LIBOR Rate": with respect to each day during each Interest Period pertaining to a LIBOR Loan, a rate per annum determined for such day in accordance with the following formula:
+        
+   LIBOR Base Rate  LIBOR Rate =      1.00 - Reserve Requirements         
+       "LIBOR Tranche" is the collective reference to LIBOR Loans under the Term Loan, the then current Interest Periods with respect to all of which begin on the same date and end on the same later date (whether or not such LIBOR Loans shall originally have been made on the same day).
+        
+       "Lien" is a claim, mortgage, deed of trust, levy, charge, pledge, security interest or other encumbrance of any kind, whether voluntarily incurred or arising by operation of law or otherwise against any property.
+        
+       "Liquidity" is Borrower's unrestricted cash and Cash Equivalents on deposit at Bank or at a financial institution other than Bank provided that the funds maintained therein are subject to a first perfected security interest in favor of Bank pursuant to a Control Agreement in form and substance satisfactory to Bank.
+        
+       "Loan Documents" are, collectively, this Agreement, the Perfection Certificate, the Guaranty, each Guarantor Security Agreement, any Bank Services Agreement, any subordination agreement relating to Subordinated Debt, any note, or notes or guaranties executed by Borrower or any Guarantor in favor of Bank, and any other present or future agreement between Borrower and any Guarantor and/or for the benefit of Bank, all as amended, restated, or otherwise modified.
+        
+       "Material Adverse Change" is (i) a material impairment in the perfection or priority of Bank's Lien in the Collateral or in the value of such Collateral or (ii) a material adverse change in the business, operations, or condition (financial or otherwise) of Borrower.
+        
+       "Net Income" means, as calculated on a consolidated basis for Borrower and its Subsidiaries for any period as at any date of determination, the net profit (or loss), after provision for taxes, of Borrower and its Subsidiaries for such period taken as a single accounting period.
+        
+       "Notice of Borrowing" is that certain form attached hereto as Exhibit B.
+        
+       "Notice of Conversion/Continuation" is that certain form attached hereto as Exhibit C.
+        
+       "Obligations" are Borrower's obligations to pay when due any debts, principal, interest, Bank Expenses and other amounts Borrower owes Bank now or later, whether under this Agreement, the other Loan Documents, or otherwise, including, without limitation, any interest accruing after Insolvency Proceedings begin and debts, liabilities, or obligations of Borrower assigned to Bank, and the performance of Borrower's duties under the Loan Documents.
+        
+       "Operating Documents" are, for any Person, such Person's formation documents, as certified with the Secretary of State of such Person's state of formation on a date that is no earlier than thirty (30) days prior to the Effective Date, and, (a) if such Person is a corporation, its bylaws in current form, (b) if such Person is a limited liability company, its limited liability company agreement (or similar agreement), and (c) if such Person is a partnership, its partnership agreement (or similar agreement), each of the foregoing with all current amendments or modifications thereto.
+        
+       "Other Equipment" is leasehold improvements, intangible property such as computer software and software licenses, equipment specifically designed or manufactured for Borrower, other intangible property, limited
+ 
+27
+
+
+
+ 
+use property and other similar property and soft costs approved by Bank, including taxes, shipping, warranty charges, freight discounts and installation expenses.
+ 
+       "Patents" means all patents, patent applications and like protections including without limitation improvements, divisions, continuations, renewals, reissues, extensions and continuations-in-part of the same.
+        
+       "Payment/Advance Form" is that certain form attached hereto as Exhibit B.
+        
+       "Perfection Certificate" is defined in Section 5.1.
+        
+       "Permitted Dividend" is a dividend paid or distribution made by the Borrower to its equity-holders provided,that, immediately prior to and immediately after such dividend or distribution, Borrower has Liquidity of at least Four Million Dollars ($4,000,000.00), and provided, further, that no such dividend or distribution shall be permitted at any time an Event of Default has occurred and is continuing.
+        
+       "Permitted Indebtedness" is:
+        
+       (a)                                  Borrower's Indebtedness to Bank under this Agreement and the other Loan Documents;
+        
+       (b)                                 Indebtedness existing on the Effective Date and shown on the Perfection Certificate;
+        
+       (c)                                  Subordinated Debt;
+        
+       (d)                                 unsecured Indebtedness to trade creditors incurred in the ordinary course of business;
+        
+       (e)                                  Indebtedness incurred as a result of endorsing negotiable instruments received in the ordinary course of business;
+        
+       (f)                                    Indebtedness secured by Liens permitted under clauses (a) and (c) of the definition of "Permitted Liens" hereunder;
+        
+       (g)                                 Indebtedness of Borrower to any Guarantor and Contingent Obligations of any Subsidiary with respect to obligations of Borrower (provided that the primary obligations are not prohibited hereby), and Indebtedness of any Guarantor to Borrower or any other Guarantor and Contingent Obligations of any Guarantor with respect to obligations of any other Guarantor (provided that the primary obligations are not prohibited hereby);
+        
+       (h)                                 other Indebtedness not otherwise permitted by Section 7.4 not exceeding Five Hundred Thousand Dollars ($500,000) in the aggregate outstanding at any time; and
+        
+       (i)                                     extensions, refinancings, modifications, amendments and restatements of any items of Permitted Indebtedness (a) through (h) above, provided that the principal amount thereof is not increased or the terms thereof are not modified to impose more burdensome terms upon Borrower or its Subsidiary, as the case may be.
+        
+       "Permitted Investments" are:
+        
+       (a)                                  Investments (including, without limitation, Subsidiaries) existing on the Effective Date and shown on the Perfection Certificate and;
+        
+       (b)                                 Investments consisting of Cash Equivalents;
+        
+       (c)                                  Investments consisting of the endorsement of negotiable instruments for deposit or collection or similar transactions in the ordinary course of Borrower;
+        
+       (d)                                 Investments consisting of deposit accounts in which Bank has a perfected security interest;
+ 
+28
+
+
+
+ 
+       (e)                                  Investments accepted in connection with Transfers permitted by Section 7.1;
+        
+       (f)                                    Investments consisting of (i) travel advances and employee relocation loans and other employee loans and advances in the ordinary course of business, and (ii) loans to employees, officers or directors relating to the purchase of equity securities of Borrower or its Subsidiaries pursuant to employee stock purchase plans or agreements approved by Borrower's Board of Directors;
+        
+       (g)                                 Investments (including debt obligations) received in connection with the bankruptcy or reorganization of customers or suppliers and in settlement of delinquent obligations of, and other disputes with, customers or suppliers arising in the ordinary course of business;
+        
+       (h)                                 Investments in Shutterstock Images C.V., a partnership organized under the laws of The Netherlands ("Shutterstock Images C.V.")  provided that (i) Borrower's Investments in Shutterstock Images C.V. shall be made solely to finance the operations of Shutterstock Images C.V. in the ordinary course of business and Shutterstock Images C.V.  shall use the proceeds of such Investments solely for such purpose,  (ii) in no event shall Borrower's aggregate Investments in of Shutterstock Images C.V. in any fiscal month exceed $5,500,000 in the aggregate,  (iii)  at no time shall Shutterstock Images C.V. incur indebtedness (exclusive of accounts payable in the ordinary course of business and financed with the proceeds of the Investments specified in clause (ii) above) in excess of Twenty Five Thousand Dollars ($25,000) (or the equivalent amount in Euros) in the aggregate or own any material assets,  and (iv) at no time shall the aggregate amount of cash held by Shutterstock Images C.V. exceed $5,500,000; and
+        
+       (h)                                 Investments consisting of notes receivable of, or prepaid royalties and other credit extensions, to customers and suppliers who are not Affiliates, in the ordinary course of business; provided that this paragraph (h) shall not apply to Investments of Borrower in any Subsidiary.
+        
+       "Permitted Liens" are:
+        
+       (a)                                  Liens existing on the Effective Date and shown on the Perfection Certificate or arising under this Agreement and the other Loan Documents;
+        
+       (b)                                 Liens for taxes, fees, assessments or other government charges or levies, either (i) not due and payable or (ii) being contested in good faith and for which Borrower maintains adequate reserves on its Books, provided that no notice of any such Lien has been filed or recorded under the Internal Revenue Code of 1986, as amended, and the Treasury Regulations adopted thereunder;
+        
+       (c)                                  purchase money Liens or capital leases (i) on Equipment acquired or held by Borrower incurred for financing the acquisition of the Equipment securing no more than One Hundred Thousand Dollars ($100,000.00) in the aggregate amount outstanding, or (ii) existing on Equipment when acquired, if the Lien is confined to the property and improvements and the proceeds of the Equipment;
+        
+       (d)                                 Liens of carriers, warehousemen, suppliers, or other Persons that are possessory in nature arising in the ordinary course of business so long as such Liens attach only to Inventory and which are not delinquent or remain payable without penalty or which are being contested in good faith and by appropriate proceedings which proceedings have the effect of preventing the forfeiture or sale of the property subject thereto;
+        
+       (e)                                  Liens to secure payment of workers' compensation, employment insurance, old-age pensions, social security and other like obligations incurred in the ordinary course of business (other than Liens imposed by ERISA);
+        
+       (f)                                    Liens incurred in the extension, renewal or refinancing of the indebtedness secured by Liens described in (a) through (c), but any extension, renewal or replacement Lien must be limited to the property encumbered by the existing Lien and the principal amount of the indebtedness may not increase;
+ 
+29
+
+
+
+ 
+       (g)                                 leases or subleases of real property granted in the ordinary course of Borrower's business (or, if referring to another Person, in the ordinary course of such Person's business), and leases, subleases, non-exclusive licenses or sublicenses of personal property (other than Intellectual Property) granted in the ordinary course of Borrower's business (or, if referring to another Person, in the ordinary course of such Person's business), if the leases, subleases, licenses and sublicenses do not prohibit granting Bank a security interest therein;
+        
+       (h)                                 non-exclusive license of Intellectual Property granted to third parties in the ordinary course of business, and licenses of Intellectual Property that could not result in a legal transfer of title of the licensed property that may be exclusive in respects other than territory and that may be exclusive as to territory only as to discreet geographical areas outside of the United States;
+        
+       (i)                                     Liens arising from attachments or judgments, orders, or decrees in circumstances not constituting an Event of Default under Sections 8.4 and 8.7; and
+        
+       (j)                                     Liens in favor of other financial institutions arising in connection with Borrower's deposit and/or securities accounts held at such institutions, provided that Bank has a perfected security interest in the amounts held in such deposit and/or securities accounts.
+        
+       "Person" is any individual, sole proprietorship, partnership, limited liability company, joint venture, company, trust, unincorporated organization, association, corporation, institution, public benefit corporation, firm, joint stock company, estate, entity or government agency.
+        
+       "Prime Rate" means the rate of interest published in the "Money Rates" section of The Wall Street Journal, Eastern Edition as the "United States Prime Rate."  In the event that The Wall Street Journal, Eastern Edition is not published or such rate does not appear in The Wall Street Journal, Eastern Edition, the Prime Rate shall be determined by Bank until such time as the Prime Rate becomes available in accordance with past practices.
+        
+       "Prime Rate Loan" is all or any part of the Term Loan that bears interest based on the Prime Rate.
+        
+       "Quarterly Financial Statements" is defined in Section 6.2(a).
+        
+       "Registered Organization" is any "registered organization" as defined in the Code with such additions to such term as may hereafter be made.
+        
+       "Requirement of Law" is as to any Person, the organizational or governing documents of such Person, and any law (statutory or common), treaty, rule or regulation or determination of an arbitrator or a court or other Governmental Authority, in each case applicable to or binding upon such Person or any of its property or to which such Person or any of its property is subject.
+        
+       "Reserve Requirement" means, for any Interest Period, the average maximum rate at which reserves (including any marginal, supplemental, or emergency reserves) are required to be maintained during such Interest Period under Regulation D against "Eurocurrency liabilities" (as such term is used in Regulation D) by member banks of the Federal Reserve System.  Without limiting the effect of the foregoing, the Reserve Requirement shall reflect any other reserves required to be maintained by Bank by reason of any regulatory change against any category of liabilities which includes deposits by reference to which the LIBOR Rate is to be determined as provided in the definition of LIBOR Rate.
+        
+       "Responsible Officer" is any of the Chief Executive Officer, President, Chief Financial Officer and Controller of Borrower.
+        
+       "Restricted License" is any material license or other agreement with respect to which Borrower is the licensee (a) that prohibits or otherwise restricts Borrower from granting a security interest in Borrower's interest in such license or agreement or any other property, or (b) for which a default under or termination of could interfere with the Bank's right to sell any Collateral.
+ 
+30
+
+
+
+ 
+       "SEC" shall mean the Securities and Exchange Commission, any successor thereto, and any analogous Governmental Authority.
+        
+       "Securities Account" is any "securities account" as defined in the Code with such additions to such term as may hereafter be made.
+        
+       "Subordinated Debt" is indebtedness incurred by Borrower subordinated to all of Borrower's now or hereafter indebtedness to Bank (pursuant to a subordination, intercreditor, or other similar agreement in form and substance satisfactory to Bank entered into between Bank and the other creditor), on terms acceptable to Bank.
+        
+       "Subsidiary" is, as to any Person, a corporation, partnership, limited liability company or other entity of which shares of stock or other ownership interests having ordinary voting power (other than stock or such other ownership interests having such power only by reason of the happening of a contingency) to elect a majority of the board of directors or other managers of such corporation, partnership or other entity are at the time owned, or the management of which is otherwise controlled, directly or indirectly through one or more intermediaries, or both, by such Person.  Unless the context otherwise requires, each reference to a Subsidiary herein shall be a reference to a Subsidiary of Borrower or Guarantor.
+        
+       "Term Loan" is the loan made by Bank pursuant to the terms of Section 2.1.1 hereof.
+        
+       "Term Loan Amount" is an amount equal to Twelve Million Dollars ($12,000,000.00).
+        
+       "Term Loan Maturity Date" is September 21, 2013.
+        
+       "Trademarks" means any trademark and servicemark rights, whether registered or not, applications to register and registrations of the same and like protections, and the entire goodwill of the business of Borrower connected with and symbolized by such trademarks.
+        
+       "Transfer" is defined in Section 7.1.
+        
+       "Type" is, with respect to any Term Loan, its nature as a Prime Rate Loan or a LIBOR Loan.
+        
+[Signature page follows.]
+ 
+31
+
+
+
+ 
+       IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed as of the Effective Date.
+ 
+BORROWER:   SHUTTERSTOCK IMAGES LLC   By/s/ Tim Bixby Name:Tim Bixby Title:Chief Financial Officer   BANK:   SILICON VALLEY BANK   By/s/ Philip T. Silvia III Name:Philip T. Silvia III Title:Vice President  
+[Signature page to Loan and Security Agreement – Shutterstock]
+ 
+
+ 
+EXHIBIT A
+ 
+COLLATERAL DESCRIPTION
+ 
+       The Collateral consists of all of Borrower's right, title and interest in and to the following personal property:
+        
+       All goods, Accounts (including health-care receivables), Equipment, Inventory, contract rights or rights to payment of money, leases, license agreements, franchise agreements, General Intangibles, commercial tort claims, documents, instruments (including any promissory notes), chattel paper (whether tangible or electronic), cash, deposit accounts, fixtures, letters of credit rights (whether or not the letter of credit is evidenced by a writing), securities, and all other investment property, supporting obligations, and financial assets, whether now owned or hereafter acquired, wherever located; and
+        
+       all Borrower's Books relating to the foregoing, and any and all claims, rights and interests in any of the above and all substitutions for, additions, attachments, accessories, accessions and improvements to and replacements, products, proceeds and insurance proceeds of any or all of the foregoing.
+        
+       Notwithstanding the foregoing, the Collateral does not include any Intellectual Property; provided, however, the Collateral shall include all Accounts and all proceeds of Intellectual Property.  If a judicial authority (including a U.S. Bankruptcy Court) would hold that a security interest in the underlying Intellectual Property is necessary to have a security interest in such Accounts and such property that are proceeds of Intellectual Property, then the Collateral shall automatically, and effective as of the Effective Date, include the Intellectual Property to the extent necessary to permit perfection of Bank's security interest in such Accounts and such other property of Borrower that are proceeds of the Intellectual Property.
+ 
+A-1
+
+
+
+ 
+EXHIBIT B
+ 
+FORM OF NOTICE OF BORROWING
+ 
+SHUTTERSTOCK IMAGES LLC
+ 
+ Date:                                                             
+TO:                            SILICON VALLEY BANK
+3003 Tasman Drive
+Santa Clara, CA  95054
+Attention:  Corporate Services Department
+ 
+RE:                              Loan and Security Agreement dated as of September 21, 2012 (as amended, modified, supplemented or restated from time to time, the "Loan Agreement"), by and betweenSHUTTERSTOCK IMAGES LLC ("Borrower"), and SILICON VALLEY BANK (the "Bank")
+ 
+Ladies and Gentlemen:
+ 
+       The undersigned refers to the Loan Agreement, the terms defined therein and used herein as so defined, and hereby gives you notice irrevocably, pursuant to Section 3.2 of the Loan Agreement, of the borrowing of the Term Loan.
+        
+       1                                         The Funding Date, which shall be a Business Day, of the requested borrowing is                            .
+        
+       2                                         The aggregate amount of the requested borrowing is $                            .
+        
+       3                                         The requested Term Loan shall consist of $                             of Prime Rate Loans and $                 of LIBOR Loans.
+        
+       4                                         The duration of the Interest Period for the LIBOR Loans included in the requested Term Loan shall be                          months.
+        
+       The undersigned hereby certifies that the following statements are true on the date hereof, and will be true on the date of the proposed Term Loan before and after giving effect thereto, and to the application of the proceeds therefrom, as applicable:
+        
+       (a)                                  all representations and warranties of Borrower contained in the Loan Agreement are true, accurate and complete in all material respects as of the date hereof; provided, that such materiality qualifier shall not be applicable to any representations and warranties that already are qualified or modified by materiality in the text thereof; and provided, further that those representations and warranties expressly referring to a specific date shall be true, accurate and complete in all material respects as of such date;
+        
+       (b)                                 no Default or Event of Default has occurred and is continuing, or would result from such proposed Term Loan;
+        
+       (c)                                  after giving effect to such proposed Term Loan, Borrower shall be in pro forma compliance (as of the most recent quarterly period for which a Compliance Certificate has been delivered), with the financial covenants contained in Section 6.7 of the Loan Agreement.
+ 
+B-1
+
+
+
+ 
+ SHUTTERSTOCK IMAGES LLC     By:  Name:  Title:  
+ 
+For internal Bank use only
+ 
+LIBOR Pricing Date LIBOR Rate LIBOR Variance Maturity Date          %   
+B-2
+
+
+
+ 
+EXHIBIT C
+ 
+FORM OF NOTICE OF CONVERSION/CONTINUATION
+ 
+SHUTTERSTOCK IMAGES LLC
+ 
+ Date:  
+TO:                            SILICON VALLEY BANK
+3003 Tasman Drive
+Santa Clara, CA  95054
+Attention:  Corporate Services Department
+ 
+RE:                              Loan and Security Agreement dated as of September 21, 2012 (as amended, modified, supplemented or restated from time to time, the "Loan Agreement"), by and betweenSHUTTERSTOCK IMAGES LLC ("Borrower"), and SILICON VALLEY BANK (the "Bank")
+ 
+Ladies and Gentlemen:
+ 
+       The undersigned refers to the Loan Agreement, the terms defined therein being used herein as therein defined, and hereby gives you notice irrevocably, pursuant to Section 3.5 of the Loan Agreement, of the [conversion] [continuation] of the Term Loans specified herein, that:
+        
+       1.                                       The date of the [conversion] [continuation] is                                            , 20       .
+        
+       2.                                       The aggregate amount of the proposed Term Loan to be [converted] is $                             or [continued] is $                                  .
+        
+       3.                                       The Term Loans are to be [converted into] [continued as] [LIBOR] [Prime Rate] Loans.
+        
+       4.                                       The duration of the Interest Period for the LIBOR Loans included in the [conversion] [continuation] shall be            months.
+        
+       The undersigned, on behalf of Borrower, hereby certifies that the following statements are true on the date hereof, and will be true on the date of the proposed [conversion] [continuation], before and after giving effect thereto and to the application of the proceeds therefrom:
+        
+       (a)                                  all representations and warranties of Borrower stated in the Loan Agreement are true, accurate and complete in all material respects as of the date hereof; provided, however, that such materiality qualifier shall not be applicable to any representations and warranties that already are qualified or modified by materiality in the text thereof; and provided, further that those representations and warranties expressly referring to a specific date shall be true, accurate and complete in all material respects as of such date;
+        
+       (b)                                  no Default or Event of Default has occurred and is continuing, or would result from such proposed [conversion] [continuation]; and
+        
+       (c)                                  after giving effect to the requested [conversion] [continuation], Borrower shall have no more than five (5) LIBOR Tranches in the aggregate.
+ 
+C-1
+
+
+
+ 
+ SHUTTERSTOCK IMAGES LLC       By:  Name:  Title:  
+ 
+For internal Bank use only
+ 
+LIBOR Pricing Date LIBOR Rate LIBOR Variance Maturity Date           %   
+C-2
+
+ 
+EXHIBIT D
+ 
+COMPLIANCE CERTIFICATE
+ 
+TO:SILICON VALLEY BANKDate: FROM: 
+       The undersigned authorized officer of Shutterstock Images LLC ("Borrower") certifies that under the terms and conditions of the Loan and Security Agreement between Borrower and Bank (the "Agreement"):
+ 
+       (1) Borrower is in complete compliance for the period ending                              with all required covenants except as noted below; (2) there are no Events of Default; (3) all representations and warranties in the Agreement are true and correct in all material respects on this date except as noted below; provided, however, that such materiality qualifier shall not be applicable to any representations and warranties that already are qualified or modified by materiality in the text thereof; and provided, further that those representations and warranties expressly referring to a specific date shall be true, accurate and complete in all material respects as of such date; (4) Borrower, and each of its Subsidiaries, has timely filed all required tax returns and reports, and Borrower has timely paid all foreign, federal, state and local taxes, assessments, deposits and contributions owed by Borrower except as otherwise permitted pursuant to the terms of Section 5.9 of the Agreement; and (5) no Liens have been levied or claims made against Borrower or any of its Subsidiaries relating to unpaid employee payroll or benefits of which Borrower has not previously provided written notification to Bank.
+ 
+       Attached are the required documents supporting the certification.  The undersigned certifies that these are prepared in accordance with GAAP consistently applied from one period to the next except as explained in an accompanying letter or footnotes.  The undersigned acknowledges that no borrowings may be requested at any time or date of determination that Borrower is not in compliance with any of the terms of the Agreement, and that compliance is determined not just at the date this certificate is delivered.  Capitalized terms used but not otherwise defined herein shall have the meanings given them in the Agreement.
+ 
+Please indicate compliance status by circling Yes/No under "Complies" column.
+ 
+Reporting Covenant Required Complies       Quarterly financial statements with Compliance Certificate Quarterly within 45 days o Yes   o No Annual financial statement (CPA Audited) + CC FYE within 150 days o Yes   o No 10-Q, 10-K and 8-K Within 5 days after filing with SEC o Yes   o No Operating Budget Annually within 60 days o Yes   o No  
+The following Intellectual Property was registered (or a registration application submitted) after the Effective Date (if no registrations, state "None")
+ 
+Financial Covenant Required Actual Complies         Maintain on a Quarterly Basis:       Minimum EBITDA $20,000,000 $  o Yes   o No  
+   The following financial covenant analysis and information set forth in Schedule 1 attached hereto are true and accurate as of the date of this Certificate.
+    
+   The following are the exceptions with respect to the certification above:  (If no exceptions exist, state "No exceptions to note.")
+ 
+
+
+
+ 
+ 
+ 
+ 
+SHUTTERSTOCK IMAGES LLC BANK USE ONLY      Received by: By:   AUTHORIZED SIGNERName:  Date: Title:      Verified:    AUTHORIZED SIGNER  Date:      Compliance Status:o Yes   o No            
+
+
+
+ 
+Schedule 1 to Compliance Certificate
+ 
+Financial Covenants of Borrower
+ 
+       In the event of a conflict between this Schedule and the Loan Agreement, the terms of the Loan Agreement shall govern.
+ 
+Dated:   
+ 
+I.                                         EBITDA (Section 6.7 (a))
+ 
+Required:                                             Achieve minimum EBITDA, measured on a trailing twelve (12) month basis, of at least $20,000,000.00
+ 
+Actual:
+ 
+A. Net Income $        B. To the extent included in the determination of Net Income           1.The provision for income taxes $           2.Depreciation expense $           3.Amortization expense $           4.Net Interest Expense $           5.Reasonable add-backs for other non-cash items approved by Bank on a case-by- case basis $           6.Non-cash Stock-based Compensation $           7.All non-cash income $           8.The sum of lines 1 through 6 minus line 7 $         C. EBITDA (line A plus line B.8)    
+Is line C equal to or greater than $20,000,000.00?
+ 
+o No, not in complianceo Yes, in compliance 
+
+
+
+ 
+II.                                     Liquidity*
+ 
+Required:               Prior to and immediately after any dividend or distribution, maintain unrestricted cash and Cash Equivalents at Bank or subject to Control Agreement of at least $4,000,000
+ 
+Actual:
+ 
+A. Unrestricted cash and Cash Equivalents at Bank or subject to Control Agreement $        B. Liquidity (line A) $   
+Is line B equal to or greater than $4,000,000?
+ 
+o No, not in complianceo Yes, in compliance 
+
+*(for purposes of determining Permitted Dividends)
+ 
+
+
+
+ 
+Schedule 5.9
+ 
+Internal Control Over Financial Reporting (from the MD&A Section in the Borrower's Form S-1 filing);
+        
+       In connection with the audit of our financial statements as of and for the year ended December 31, 2011, we and our independent registered public accounting firm identified a material weakness in internal control over financial reporting with respect to our tax compliance process. Specifically, it was determined that we did not have adequate procedures and controls to appropriately comply with, and account for, certain non-income tax regulations. These non-income tax issues related to underpayment of international consumption tax, sales and use tax and royalty withholdings compliance. A material weakness is defined as a significant deficiency, or a combination of significant deficiencies, that results in a reasonable possibility that a material misstatement of our financial statements will not be prevented by our internal control over financial reporting. A significant deficiency means a control deficiency, or a combination of control deficiencies, that adversely affects our ability to initiate, record, process or report financial data reliably in accordance with generally accepted accounting principles such that there is more than a remote likelihood that a misstatement of our financial statements that is more than inconsequential will not be prevented or detected by our internal control over financial reporting.
+        
+       We are working to remediate the material weakness. We have begun taking numerous steps and plan to take additional steps to remediate the underlying causes of the material weakness, primarily through a search for a tax specialist and updating our systems in order to collect the necessary data and taxes to comply with our required tax compliance processes. We intend to hire a tax specialist with the appropriate knowledge and ability to fulfill our obligation to comply with the accounting and reporting requirements applicable to public companies. The actions that we are taking are subject to ongoing senior management review, as well as audit committee oversight. Although we plan to complete this remediation process as quickly as possible, we cannot at this time estimate how long it will take, and our initiatives may not prove to be successful in remediating this material weakness. If we are unable to successfully remediate this material weakness, it could harm our operating results, cause us to fail to meet our SEC reporting obligations or applicable stock exchange listing requirements on a timely basis, cause our stock price to be adversely affected or result in inaccurate financial reporting or material misstatements in our annual or interim financial statements.
+

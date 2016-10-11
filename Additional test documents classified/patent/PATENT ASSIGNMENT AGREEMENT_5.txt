@@ -1,0 +1,188 @@
+﻿　　This PATENT ASSIGNMENT AGREEMENT, dated as of October 19, 2004, is entered into by and between Lenovo (Beijing) Limited, a company established under the laws of the People’s Republic of China (“Assignor”), and Legend Holdings Limited, Yu Bing and Wang Zheng, for and on behalf of LWY (as defined below) (“Assignee”). Assignor on the one hand, and Assignee on the other hand, are each sometimes referred to herein as a “Party” and collectively as the “Parties” to this Agreement.
+ 
+　　WHEREAS, Assignor has the right to assign the “Assigned Patents” as defined below and Assignee desires to acquire an ownership interest in the Assigned Patents subject to licence back;
+ 
+　　WHEREAS, the parties agree to the assignment of patent rights in conjunction with the assignment of other tangible and intangible assets pursuant to other Transaction Agreements, as defined in the Acquisition Agreement dated as of July 27, 2004, as supplemented and amended (the “Acquisition Agreement”).
+ 
+　　NOW THEREFORE, in consideration of the premises and mutual covenants herein contained, Assignor and Assignee agree as follows:
+ 
+Section 1. Definitions
+ 
+1.1 Definitions. The capitalized terms used in this Agreement have the respective meanings set forth on Schedule 1.1 or as defined herein. All other capitalized terms used and not otherwise defined in this Agreement have the respective meanings set forth in the Acquisition Agreement.
+ 
+1.2.1 “Assigned Patents” shall mean all patents, including inventions, utility models and design patents and registrations and applications assigned by Assignor to Assignee pursuant to the Acquisition Agreement and identified inExhibit A hereto.
+ 
+1.2.2 “Business” means the provision by Purchaser or its Subsidiaries after the Closing Date of products and services (other than hardware maintenance and support services) offered by the Business (other than the Telecommunications Applications Services Division or the Insurance IT Services Division) prior to the Closing Date (and any such product or service after the Closing Date whose components have been enhanced or upgraded if the resulting product or service provides the same function as the product or service to which it is a successor) to any customer segment, but in all events excluding (i) products and services offered or provided to individual customers and consumers and (ii) activities relating to Server Products or terminal devices of any kind, including, without limitation, personal digital assistants (PDAs), personal computers, mobile phone handsets, etc. For the purpose of this Agreement “Server Products” means any server, blade, thin client or similar product generally used through a network where access to such server or product may be shared simultaneously by multiple users, accessed by a single user, or another server product(s).
+ 
+-1-
+
+1.2.3 “Intellectual Property Rights” means all rights, title and interest in and to any Intellectual Property.
+ 
+1.2.4 “LWY” means the corporation to be incorporated pursuant to Section 5.1 of the Supplement.
+ 
+1.2.5 “Supplement” means the Supplement and Amendment No.1 to Acquisition Agreement entered into between Assignor and Assignee as of October 1, 2004.
+ 
+1.2.6 “Third Party” means a Person other than a Party or any director, officer or employee of a Party or an Affiliate of a Party or their successors and assigns hereunder.
+ 
+Section 2. Assignment
+ 
+2.1 Assignor shall transfer and assign to Assignee all of Assignor’s right, title and interest to any and all patent ownership interest Assignor may have throughout the world in and to the Assigned Patents as of the Closing Date.
+ 
+2.2 Assignee shall be solely responsible for all actions and all costs whatsoever, including attorney’s fees, arising after the Closing Date and associated with the perfection of rights, title, and interest in and to the Assigned Patents,provided however, that not later than thirty (30) business days after the Closing Date Assignor shall deliver to Assignee an executed document having the form and substance of Exhibit B (including Attachment A thereto), and furthermore, upon Assignee’s written request, Assignor shall execute all documents and instruments, and shall do all lawful acts, in each case as may be reasonably necessary and at Assignee’s expense, to perfect Assignee’s rights, title, and interest in and to the Assigned Patents. For documents that require notarization, the foregoing obligation of Assignor shall be satisfied if Assignor reasonably cooperates in obtaining signatures, notarized by an appropriate notary; any notarial authentication, legalization, and the like of such notarized signatures shall be obtained by Assignee at Assignee’s expense.
+ 
+2.2.1 Assignee’s representatives shall be responsible for preparing and translating any documents that Assignee records to perfect its right, title and interest in Assigned Patents in any jurisdiction. Not later than ninety (90) days after the Closing Date, Assignee shall provide Assignor with any documents requiring Assignor’s signature suitable for recording, having terms and conditions acceptable to Assignor and similar to Exhibit Bexcept for any additional or different terms and conditions as may commonly exist or would be necessitated by law in patent assignments between Assignor and other entities organized under the laws of the local jurisdiction, if any. Assignee shall further provide Assignor with an English translation of each such document concurrently therewith.
+ 
+2.3 Assignee shall be solely responsible for all actions and all costs whatsoever, including attorney’s fees, arising after the Closing Date and associated with the continuous prosecution and the maintenance and enforcement of the Assigned Patents, and Assignor shall have no obligation to pay any maintenance fees which become due for the Assigned Patents after Closing.
+ 
+-2-
+
+2.4 No license, immunity, ownership interest, or other right is granted under this Agreement, now or hereafter, either directly or by implication, estoppel, or otherwise, except with respect to the Assigned Patents as expressly set forth herein.
+ 
+2.5 At the request and cost of the Assignee the Assignor, its Subsidiaries or Seller Licensee shall assist the prosecution of any pending Assigned Patents application (“Application”) to grant and will execute all such documents and do all such acts as may be necessary or proper to obtain the acceptance of the Application and for procuring the grant of a Patent pursuant to Application. In the event that the China Patent Office or any other competent government or administrative authority sends to either party an objection, a query, or a request demanding further information, clarification or explanation, the Assignor shall render to the Assignee all information and assistance within his power with a view to satisfying the State Intellectual Property Office or any other competent authority that a patent shall issue substantially in the form applied for.
+ 
+2.6 In the event that the validity of the Assigned Patents and/or any patent granted pursuant to the Application is challenged on any point upon which the Assignor has or can procure information or advice which may assist in meeting and defeating or reducing the effect of such challenge, the Assignor agrees and/or undertakes to supply or procure the supply of such information and/or advice without unreasonable delay but subject to the right to charge the Assignee out-of-pocket expenses properly and reasonably incurred in pursuance of this provision.
+ 
+Section 3. License
+ 
+3.1 Subject to the terms and conditions set forth in this Agreement, Assignee hereby grants to Assignor, Seller, and Seller Subsidiaries a limited, royalty-free, fully paid-up, worldwide, non-exclusive license (without the right to sublicense or assign subject to Section 10.6), to the Assigned Patents, to practice, make and use the inventions, ideas and information embodied therein, and to make, use, offer to sell, sell, lease or import products, services, processes, methods and materials embodying or deriving from the inventions, ideas and information from the Assigned Patents solely in the conduct of their respective business (excluding any and all Business) (“Licensed Business”) and any activities derived directly therefrom subsequent to the Closing Date. As to any item of Assigned Patents, the term of such license shall continue for the period of validity for such Assigned Patents.
+ 
+3.2 Assignor shall ensure that Seller and/or any and all Seller Subsidiaries that intend to take benefit of Section 3.1 (together called “Seller Licensee”) executes an accession instrument in the form as exhibited in Exhibit C in order to accede to this Agreement and establish contractual privity with Assignee before they can continue to use (after Closing) or commence any use of the Assigned Patents as provided in Section 3.1.
+ 
+-3-
+
+         3.2.1 By execution of the accession instrument in accordance with Section 3.1 to this Agreement, such Seller Licensee shall acknowledge that the technology that is subject to this Agreement constitutes or comprises confidential information and shall agree that any use or disclosure by such Seller Licensee of such confidential information beyond that expressly authorized in this Agreement is prohibited.
+ 
+         3.2.2 Assignor shall use best efforts as appropriate to ensure that it and each Seller Licensee comply with the restrictions on use and disclosure of confidential information in this Agreement and the relevant accession instrument. If Assignor reasonably suspects, or if Assignee notifies Assignor that Assignee reasonably suspects, that it or a Seller Licensee is not in compliance with restrictions on use and disclosure of confidential information in this Agreement, Assignor agrees to use best efforts as appropriate to cooperate with Assignee in investigating such non-compliance. If, after such investigation, Assignee reasonably believes that it or a Seller Licensee is not in compliance with the restrictions on use and disclosure of confidential information in this Agreement, then Assignee may request, and Assignor shall arrange, a timely audit of its or Seller Licensee’s compliance with such restrictions in this Agreement, at Assignee’s sole expense, and by a Third Party auditor selected by Assignor and approved by Assignee. If Assignor reasonably believes it or a Seller Licensee is not in compliance with the restrictions on use and disclosure of confidential information in this Agreement, then Assignor shall promptly notify Assignee thereof and may arrange an audit, at Assignor’s sole expense, by a Third Party auditor selected by Assignor. The Third Party auditor shall determine the scope of the audit and disclose the results of any such audit conducted pursuant to this Section 3.2.2 only to Assignor, and Assignor shall share all such results with Assignee as soon as possible. If the results of any such audit show that it or the Seller Licensee is not in compliance with the restrictions on use and disclosure of confidential information in this Agreement, then Assignor shall (i) take appropriate steps to address such non-compliance, (ii) take immediate action to stop any such use or disclosure that violates such restrictions and retrieve, to the extent possible, any confidential information of Assignee. The licence granted to Assignor or an Seller Licensee shall be terminated immediately if Assignor or an Seller Licensee is willfully or negligently at fault for a material violation of such restrictions.
+ 
+         3.2.3 The Parties agree that each Seller Licensee, if any, shall accede to Assignor’s obligations under this Agreement except for the obligations under Section 2 so that Assignee may take legal or other action for damages and all other appropriate relief and exercise any other rights or remedies that Assignee or Assignor may have at law or in equity against such Seller Licensee relating to, or arising from, such Seller Licensee’s breach of this Agreement and the relevant accession instrument. At Assignee’s expense, Assignor shall reasonably cooperate with Assignee in such taking of legal action or exercising of such rights or remedies. Further, Assignee may, to the extent not inconsistent with the provisions of Section 8 hereof, take any action or pursue or exercise any right, remedy or action against Assignor to the extent caused by, arising out of, or in connection with or relating to, any of Assignor’s inaction or any breach of, or failure to perform, any obligation or covenant of Assignor under this Agreement in connection with any breach by Seller Licensee of this Agreement.
+ 
+3.3 All rights not expressly granted by Assignee hereunder are reserved to Assignee. Without limiting the generality of the foregoing, Assignee and Assignor expressly acknowledge that nothing contained herein shall be construed or interpreted as a grant, by implication or otherwise, of any licenses other than the licenses specified in Section 3.1.
+ 
+-4-
+
+3.4 The Parties expressly and specifically agree that the licenses granted herein shall be limited to, and the Assigned Patents shall not be used beyond, the Licensed Business. Assignor acknowledges that the technology that is subject to this Agreement constitutes or comprises confidential information and shall agree that any use or disclosure by such Assignor of such confidential information beyond that expressly authorized in this Agreement is prohibited.
+ 
+3.5 Subject to Section 7.3(c) of the Supplement, all improvements and enhancements to the Assigned Patents made, developed, created, invented or discovered by Assignor and/or any Seller Licensee shall belong to Assignor and/or such relevant Seller Licensee.
+ 
+3.6 Assignor expressly acknowledges and agrees that (i) all of its rights to use the Assigned Patents are set forth herein, (ii) nothing herein shall be construed to convey any rights to Assignor in any Intellectual Property Rights of Assignee or its Affiliates (including, without limitation, any improvements or enhancements made by Assignee or its Affiliates to any of the Intellectual Property Rights granted by Assignee and its Affiliates to Assignor hereunder), which in their entirety are made, developed, conceived, or otherwise created without contribution by Assignor, Seller or Seller Subsidiaries after the date of this Agreement and (iii) it shall use the licenses granted pursuant to Sections 3.1 to the Assigned Patents exclusively in the Licensed Business. Notwithstanding anything else herein, each license herein granted to any registered patent is limited to the territory or jurisdiction in which such registered patent has been issued.
+ 
+3.7 Assignee hereby acknowledges and agrees that it shall, and shall cause its Affiliates to, execute or deliver any further instruments, information, explanations or documents and take all such further action as may be necessary to grant to Assignor the licenses hereunder, to enable Assignor to practice, make and use the invention, technology or ideas covered by the Assigned Patents under the license in this Agreement, and for Assignor to fully enjoy all of the rights and benefits to, the Assigned Patents as provided in the license of this Agreement, subject in each case to the limitations herein described.
+ 
+Section 4. Payment and Communication
+ 
+4.1 The consideration for the assignments and other rights granted to Assignee under this Agreement consists of the substantial benefits derived by Assignor and Seller and Assignee and Purchaser from the Purchaser’s purchase of the Assets from the Seller, as set forth in the Acquisition Agreement, and the consummation of the transactions contemplated thereby, there being no further consideration or royalty payable in respect thereof.
+ 
+-5-
+
+4.2 Any notice, request, instruction or other document or communications required or permitted to be given hereunder by any party hereto to the other party hereto will be provided in accordance with the terms of Section 9.1 of the Acquisition Agreement.
+ 
+4.3 Assignor and Seller Licensee shall be responsible for the recordal of this Agreement by the relevant local authorities as required by local law and regulations in respect of the rights granted pursuant to Section 3.1 and shall bear the relevant fees in respect thereof.
+ 
+Section 5. Enforcement
+ 
+5.1 Assignor agrees to promptly notify Assignee in writing of any infringement or misappropriation or claim of infringement of third party rights in respect of any of the Assigned Patents to which Assignor or any Seller Licensee becomes aware and will provide Assignee with any and all evidence in its possession, if any, of such infringement or misappropriation.
+ 
+5.2 Assignee agrees to promptly notify Assignor in writing of any infringement or misappropriation or claim of infringement of third party rights in respect of any of the Assigned Patents to which Assignee becomes aware and will provide Assignor with any and all evidence in its possession, if any, of such infringement or misappropriation.
+ 
+5.3 In the event of any infringement or misappropriation or claim of infringement of third party rights in respect of any of the Assigned Patents, Assignee will have the right to determine an appropriate course of action to enforce or defend such Assigned Patents or otherwise abate the infringement or misappropriation thereof, to take (or refrain from taking) appropriate action to enforce or defend such Assigned Patents, and, in the event that Assignee elects to take action, to control any litigation or other enforcement action, to enter into or permit the settlement of any such litigation or any other enforcement action with respect to such Assigned Patents, and to recover and retain any monetary damages, settlement, royalties or other recovery arising from such litigation or other enforcement action. Assignor will use reasonable efforts to cooperate with Assignee at Assignee’s expense, in any litigation or enforcement action under this Section 5.3 and Assignor will join as a party to any such litigation or other enforcement action as required by Law at Assignee’s expense. Assignee shall indemnify and hold harmless Assignor against any and all Losses arising out of or in relation to (i) any such cooperation given by Assignor to Assignee and (ii) Assignor joining as a party to such litigation or other enforcement action, which Losses may include, without limitation, payment by Assignor of any Third Party legal costs as a result of Assignor joining as a party to such litigation or enforcement action.
+ 
+5.4 In the event that Assignee takes no action against such infringer or unauthorised user or claim of infringement of third party rights, within three (3) months of the date on which it first learns of such misappropriation or infringement or claim of infringement of third party rights, then subject to Assignee’s consent (which shall not be unreasonably withheld), Assignor may take such action in the name of Assignee or in its own name, as it shall see fit and Assignee shall co-operate fully, at Assignor’s expense, with Assignor in respect thereof. Assignor shall be entitled to retain any monetary damages, settlement, royalties or other recovery, if any, recovered or obtained in any proceedings or action taken by Assignor at its own expense.
+ 
+-6-
+
+Section 6. Term
+ 
+6.1 This Agreement (other than Sections 2.1, 2.4 and 3) shall become effective as of the date first above written and Sections 2.1, 2.4 and 3 shall become effective as of the date this Agreement has been registered with the patent authority of the PRC and as to any item of the license granted under this Agreement, the rights and obligations contained herein shall continue during the validity of such Assigned Patents, except as may be otherwise provided herein.
+ 
+6.2 Notwithstanding Section 6.1, upon providing prior written notice of termination to Assignor, Assignee may terminate the license under this Agreement if Assignor or any of its Seller Licensee violates, defaults or fails to perform any of its respective covenants, obligations, agreements, representations or warranties contained herein, which violation, default or failure is material and not cured within ninety (90) days after receipt of a written notice thereof from Assignee. Further, Assignee may automatically terminate the license granted under this Agreement without notice to Assignor in the event that Assignor makes a general assignment for the benefit of its creditors, or ceases operations, or is liquidated.
+ 
+Section 7. Breach of Contract
+ 
+If either Party shall breach its obligations in relation to the license granted under this Agreement, such breaching party shall be responsible to the other Party for all direct losses or damages caused by such breach, including without limitation lost profits suffered by the non-breaching party. The Parties expressly agree that, in the event a Party violates, defaults or fails to perform any of its respective covenants, obligations, agreements, representations or warranties contained herein, in addition to Assignee’s right to terminate under Section 6, full legal remedy shall remain available to the non-defaulting party in such violation, default or failure, including the right to recover monetary damages or to secure such other relief appropriate to the circumstances, provided that no immaterial violation, default or failure to perform shall result in relief that unreasonably disrupts the operation of the Licensed Business.
+ 
+Section 8. Resolution of Disputes
+ 
+8.1 Dispute Resolution Procedure. The Parties will cooperate in good faith and use reasonable efforts to informally resolve any disputes, controversy or claim (“Dispute”) arising out of or relating to this Agreement, or the interpretation, breach, termination or validity hereof. Except as otherwise provided in Section 5.2.4, if the Parties are not able to informally resolve a dispute under this Agreement within thirty (30) days after such dispute arises, the following procedure will be used:
+ 
+8.1.1 one Party hereto will serve upon the other Party a “Notice of Dispute” that summarizes the nature of the dispute and the efforts taken to resolve that Dispute to date;
+ 
+-7-
+
+8.1.2 within fifteen (15) Business Days of receipt of the Notice of Dispute, the Parties will conduct one or more meetings (which may take place by teleconference) of management level-representatives of each Party with knowledge of the subject matter of the dispute, which representatives will use commercially reasonable efforts to resolve the Dispute;
+ 
+8.1.3 if the Dispute is not resolved at the meeting or meetings described in Section 8.1.2, then within fifteen (15) Business Days from the date of the last meeting, the Parties will schedule one or more meetings (which may take place by teleconference) of executive-level representatives of each Party, which representatives will use commercially reasonable efforts to resolve the dispute; and
+ 
+8.1.4 if, following the last executive-level meeting, the dispute remains unresolved, then such dispute will be finally settled by binding arbitration conducted in accordance with Section 8.2 below.
+ 
+8.2 Arbitration. Except as otherwise provided in Section 8.2.4 below, if the Parties are unable to resolve a Dispute in accordance with Section 8.1, then the Party that served the Notice of Dispute on the other Party must submit the Dispute to arbitration by the Hong Kong International Arbitration Centre under the rules of UNCITRAL (the “Rules”) as are in force at the date of the notice of arbitration commencing any such arbitration, but subject to the amendments made to the Rules by the rest of this Section 8.2. For the purpose of such arbitration, there shall be a board of arbitration (the “Board of Arbitration”) consisting of three arbitrators, each of Assignor and Assignee shall select one (1) member and the third member shall be selected by mutual agreement of the other members, or if the other members fail to reach agreement on a third member within twenty (20) days after their selection, such third member shall thereafter be selected by the Hong Kong International Arbitration Centre upon application made to it for such purpose. The place of arbitration shall be in Hong Kong. All arbitration proceedings shall be conducted in the English language. The arbitrators shall decide any such Dispute or claim strictly in accordance with the governing law specified in Section 10.11 of this Agreement. Judgment upon any arbitral award rendered hereunder may be entered in any court, and/or application may be made to any such court for a judicial acceptance of the award and/or an order of enforcement, as the case may be.
+ 
+8.2.1 Each Party shall cooperate in good faith to expedite (to the maximum extent practicable) the conduct of any arbitral proceedings commenced under this Agreement.
+ 
+8.2.2 The costs and expenses of the arbitration, including the fees of the arbitration, shall be borne equally by each Party to the Dispute or claim, and each Party shall pay its own fees, disbursements and other charges of its counsel.
+ 
+8.2.3 Any award made by the arbitration tribunal shall be final and binding on each of the Parties that were Parties to the Dispute and their respective successors and assigns. The Parties expressly agree to waive the applicability of any laws and regulations that would otherwise give the right to appeal the decisions of the arbitration tribunal so that there shall be no appeal to any
+ 
+-8-
+
+court of law from the award of the arbitration tribunal, and a Party shall not challenge or resist the enforcement action taken by any other Party in whose favor an award of the arbitration tribunal was given.
+ 
+8.2.4 Notwithstanding this Section 8.2 or any other provision to the contrary in this Agreement, no Party shall be obligated to follow the foregoing arbitration procedures where that Party intends to apply to any court of competent jurisdiction for an interim injunction or similar equitable relief against the other, provided there is no unreasonable delay in the prosecution of that application.
+ 
+8.2.5 This Agreement and the rights and obligations of the Parties shall remain in full force and effect pending the award in any arbitration proceeding hereunder.
+ 
+Section 9. No Representation and Warranties
+ 
+In relation to the license granted under this Agreement, Assignee makes no representation or warranty regarding the validity or enforceability of the Assigned Patents. Assignee makes no other representations, warranties, or covenants, express or implied, nor shall Assignee have any liability, in respect of any infringement of patents or other rights of Third Party with respect to the license granted under this Agreement.
+ 
+Section 10. Miscellaneous
+ 
+10.1 Nothing contained in this Agreement shall be construed as conferring any right to use in advertising, publicity, or other promotional activities any name, trade name, trademark, trade dress or other designation of either party hereto (including any contraction, abbreviation or simulation of any of the foregoing), save as expressly stated herein. Each party hereto agrees not to use or refer to this Agreement or any provision hereof in any promotional activity without the express written approval of the other party.
+ 
+10.2 Neither Assignee nor Assignor shall be liable, in relation to or in connection with the license granted under this Agreement, whether in contract, tort (including negligence and strict liability) or otherwise, for any special, indirect, incidental, punitive, or consequential damages arising hereunder, including, but not limited to, loss of profits or goodwill, business interruptions or claims of customers, even if advised of the possibility of such damages.
+ 
+10.3 No amendment, modification or alteration of the terms or provisions of this Agreement will be binding unless the same is in writing and duly executed by each of the Parties hereto, except that any of the terms or provisions of this Agreement may be waived in writing at any time by the Party which is entitled to the benefits of such waived terms or provisions. No waiver of any of the provisions of this Agreement will be deemed to, or will, constitute a waiver of any other provision hereof (whether or not similar). No delay on the part of any Party to this Agreement in exercising any right, power or privilege hereunder will operate as a waiver thereof.
+ 
+-9-
+
+10.4 If any provision of this Agreement or the application of any such provision to any person, Party or circumstance will be held invalid, illegal or unenforceable in any respect by a court of competent jurisdiction, such invalidity, illegality or unenforceability will not affect any other provision of this Agreement and this Agreement will remain in full force and effect and will be effectuated as if such illegal, invalid or unenforceable provision is not part thereof.
+ 
+10.5 This Agreement (including the Schedules attached hereto or delivered in connection herewith), the Acquisition Agreement (including the Schedules and Exhibits attached thereto or delivered in connection therewith), the Supplement and the Transaction Documents and the Confidentiality Agreement, constitute the entire agreement between the Parties and supersede all prior agreements and understandings, oral and written, between the Parties with respect to the subject matter hereof and thereof, including, without limitation, Section 5.22 of the Acquisition Agreement. If there is conflict or contradiction between this Agreement and the other agreements mentioned above, this Agreement shall prevail in relation to any issues arising out of or in connection with the Assigned Patents.
+ 
+10.6 The terms and conditions of this Agreement will inure to the benefit of, and be binding upon, the respective successors and assigns of the Parties hereto. This Agreement and the license and other rights granted or created hereunder may not be assigned, in whole or in part by Assignor without the prior written consent of Assignee, and any attempted assignment shall be null and void.
+ 
+10.7 Nothing in this Agreement, express or implied, is intended to confer any rights or remedies hereunder on any Person other than Assignee or Assignor and their respective Affiliates or any of their respective successors and permitted assigns.
+ 
+10.8 The Parties hereto acknowledge and agree that the Schedules and Exhibit attached hereto are an integral part of this Agreement, and are hereby incorporated by reference herein and made a part hereof.
+ 
+10.9 The Recitals, the Table of Contents, the List of Schedules and the headings of the articles, sections and paragraphs contained in this Agreement are inserted for convenience only and will not be deemed to constitute part of this Agreement or to affect the construction thereof.
+ 
+10.10 The laws of the People’s Republic of China will govern the interpretation, construction, validity, performance and enforcement of this Agreement.
+ 
+10.11 Assignee and Assignor each acknowledge that this Agreement has been prepared jointly by the Parties and shall not be strictly construed against any Party.
+ 
+10.12 Language
+ 
+10.12.1 This Agreement (other than Exhibit B and Attachment A to Exhibit B) is written in the English language. Any Chinese version of this Agreement (other than Exhibit B and Attachment A to Exhibit B) shall be for convenience purposes only and shall not affect the interpretation hereof.
+ 
+-10-
+
+10.12.2 Exhibit B and Attachment A to Exhibit B are written in the English and Chinese languages. In the event of any inconsistency between the English version and the Chinese version of Exhibit B and Attachment A to Exhibit B, the English version shall prevail.
+ 
+10.13 This Agreement may be executed in two or more counterparts, each of which will for all purposes be deemed to be an original but all of which together will constitute one and the same instrument.
+ 
+10.14 Each Party shall do and execute, or arrange for the doing and executing of, each necessary act, document and thing to implement this Agreement, including without limitation executing and delivering and recording any license required by local law, with terms consistent with this Agreement to the extent permitted by such local law, in the relevant country or jurisdictions.
+ 
+10.15 The Assignor acknowledges that Legend Holdings Limited, Yu Bing and Wang Zheng are executing this Agreement as promoters and shareholders of LWY only and LWY shall, after its incorporation, ratify this Agreement by executing this Agreement in the manner provided below. From the date this Agreement is ratified by LWY, LWY shall, for all intent and purposes, be regarded as having entered into this Agreement as the Assignee as if it had already been incorporated as of the day and year first above written and thereby replacing Legend Holdings Limited, Yu Bing and Wang Zheng as the Assignee.
+ 
+[THE REMAINDER OF THIS PAGE HAS BEEN INTENTIONALLY LEFT BLANK.]
+ 
+-11-
+
+IN WITNESS WHEREOF, each of the parties hereto has caused this Agreement to be duly executed in duplicate originals by their duly authorized representatives as of the day and year first above written.
+ 
+ASSIGNOR    LENOVO (BEIJING) LIMITED    By: /s/ Yang Yuanqing
+    Name: Yang Yuanqing    Title: Chief Executive Officer    ASSIGNEE    LEGEND HOLDINGS LIMITED YU BINGfor and on behalf of LWY for and on behalf of LWYBy: /s/ Tang Xudong
+ By: /s/ Yu Bing
+Name: Tang Xudong Name: Yu BingTitle: Vice President    WANG ZHENG    for and on behalf of LWY    By: /s/ Wang Zheng
+    Name: Wang Zheng           We hereby ratify this Agreement as of the date and year set forth below:    LWY    By:  
+    Name:      Title:      Date:      
