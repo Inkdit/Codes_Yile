@@ -1,9 +1,8 @@
 mult <- function(x, y) {
   x*y
 }
-
-Hello world
-
-This is a test
-
 what will happen after merge?
+
+I just add one line in the test branch
+
+annd to see what will happen
