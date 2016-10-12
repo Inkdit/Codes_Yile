@@ -6,4 +6,8 @@ temp2 = A2[2, 3:ncol(A2)]
 temp = temp1 + temp2
 
 a <- "Hello"
-b <- "Helloss"
+b <- "Hesllossaaaa"
+setdiff(b, a)
+
+library(rindex)
+strcmp(b, a)
