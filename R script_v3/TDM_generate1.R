@@ -58,3 +58,7 @@ WordsEntropy = EntropyCalculate(TDM)
 write.csv(TDM, file = "G:\\Codes\\Text_Mining\\R script_Yile\\TDM77.csv")
 
 write.csv(WordsEntropy, file = "G:\\Codes\\Text_Mining\\R script_Yile\\Entropy77.csv")
+
+
+
+
