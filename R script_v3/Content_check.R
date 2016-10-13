@@ -6,7 +6,7 @@ lapply(libs,require, character.only = TRUE)
 
 drv <- dbDriver("PostgreSQL")
 conn <- dbConnect(drv, dbname = "Inkdit", user = "postgres", password = "314159")
-result <- dbGetQuery(conn, "SELECT content FROM contracts WHERE creator_id = 61179")
+result <- dbGetQuery(conn, "SELECT content FROM contracts WHERE creator_id = 23820")
 result = t(result)
 
 cleanFun <- function(htmlString) {
