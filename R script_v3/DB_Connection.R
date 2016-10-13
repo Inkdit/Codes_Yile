@@ -6,7 +6,7 @@ lapply(libs,require, character.only = TRUE)
 
 drv <- dbDriver("PostgreSQL")
 conn <- dbConnect(drv, dbname = "Inkdit", user = "postgres", password = "314159")
-result <- dbGetQuery(conn, "SELECT content FROM contracts WHERE creator_id = 39024")
+result <- dbGetQuery(conn, "SELECT content FROM contracts WHERE creator_id = 23820")
 result = t(result)
 
 cleanFun <- function(htmlString) {
@@ -22,6 +22,7 @@ kankan <-  Corpus(VectorSource(kankan))
 
 
 myStpwdlist = c("hello")
+
 cleanCorpus <- function(corpus){
   corpus_cl <- tm_map(corpus,content_transformer(gsub),pattern = '[[:punct:]]',replacement = ' ')
   corpus_cl <- tm_map(corpus_cl,stripWhitespace)
@@ -39,6 +40,9 @@ TDM = inspect(dtm[1:dim_dtm[1], 1:dim_dtm[2]])
 TDM <- t(TDM)
 write.csv(TDM, file = "G:\\Codes\\Text_Mining\\R script_v3\\kankan.csv")
 
+
+
+library(opencpu)
 
 ###############################################
 # txt <- c("Hello to you.", "Blah me, too.")
